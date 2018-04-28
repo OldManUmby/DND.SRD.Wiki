@@ -10,6 +10,8 @@
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.
 
+You can view or search through the material online via the project's official website at: [www.ogl-srd5.com](http://ogl-srd5.com).
+
 The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. Please report any issues you find through this GitHub account. Thank you!
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
@@ -22,4 +24,4 @@ The documents contained herein are edited from scratch into Markdown format for 
 
 Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules). and [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
-By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
+By permission, this project and the associated website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
