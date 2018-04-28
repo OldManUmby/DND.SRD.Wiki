@@ -4,6 +4,8 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 body_classes: 'title-center title-h1h2'
 ---
 
+[TOC]
+
 ## April 28th, 2018
 
 :fa-check-square: Create Changelog.
