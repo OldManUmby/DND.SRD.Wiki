@@ -1,4 +1,6 @@
-## Using Ability Scores
+---
+title: 'Using Ability Scores'
+---
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
