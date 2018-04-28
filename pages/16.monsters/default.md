@@ -2,7 +2,13 @@
 title: Monsters
 ---
 
+[TOC]
+
 A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster.
+
+>**Modifying Creatures**
+>
+>Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
 #### Size
 
@@ -18,10 +24,6 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 | Large      | 10 by 10 ft.           | Hippogriff, ogre    |
 | Huge       | 15 by 15 ft.           | Fire giant, treant  |
 | Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
-
->**Modifying Creatures**
->
->Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
 
 #### Type
 

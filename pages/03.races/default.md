@@ -2,6 +2,8 @@
 title: Races
 ---
 
+[TOC]
+
 #### Racial Traits
 
 The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.

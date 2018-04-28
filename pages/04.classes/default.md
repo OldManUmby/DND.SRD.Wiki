@@ -2,6 +2,8 @@
 title: Classes
 ---
 
+[TOC]
+
 ### Barbarian
 
 #### Class Features
