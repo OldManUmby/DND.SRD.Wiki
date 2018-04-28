@@ -66,7 +66,7 @@ title: Changelog
 
 ##
 
-:fa-check-square: Create a Markdown compilation of all SRD pages available for download at the [SRD GitHub repo](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
+:fa-check-square: Create a Markdown compilation of all SRD pages; download from the [SRD GitHub repo](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
 
 ## Future Updates
 
