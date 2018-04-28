@@ -1,4 +1,6 @@
-## Non-Player Characters
+---
+title: 'Non-Player Characters'
+---
 
 This appendix contains statistics for various humanoid non-player characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 
