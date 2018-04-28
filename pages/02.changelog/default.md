@@ -6,11 +6,15 @@ body_classes: 'title-center title-h1h2'
 
 ## April 24th, 2018
 
-:fa-check-square: Complete conversion of original D&D 5E SRD 5.1 from PDF format to Markdown format.
+:fa-check-square: Complete conversion of original D&D 5E SRD 5.1 from PDF format to Markdown format. Adjust all markdown headers.
 
 ## April 27th, 2018
 
 :fa-check-square: Create [OGL-SRD5 GitHub repository](https://github.com/sigillumrasa/OGL-SRD5). Sync with [GitHub Desktop](https://desktop.github.com) app.
+
+##
+
+:fa-check-square: Create section folders and upload SRD markdown pages.
 
 ##
 
@@ -32,5 +36,6 @@ body_classes: 'title-center title-h1h2'
 
 :fa-check-square: Sync website with [GitHub repo](https://github.com/sigillumrasa/OGL-SRD5) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
 
-##
+## April 28th, 2018
 
+:fa-check-square: Create Changelog.
