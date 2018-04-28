@@ -6,7 +6,7 @@ body_classes: 'title-center title-h1h2'
 
 ## April 24th, 2018
 
-:check-square: markdown conversion of the opriginal D&D 5E PDF.
+:fa-check-square: markdown conversion of the opriginal D&D 5E PDF.
 
 ## April 27th, 2018
 
