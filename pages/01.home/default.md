@@ -1,7 +1,6 @@
 ---
 title: Introduction
 media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg'
-body_classes: 'title-center title-h1h2'
 ---
 
 ![D&D Logo](DnD_Logo.png)
@@ -18,7 +17,9 @@ body_classes: 'title-center title-h1h2'
 
 ! The documents contained herein are rewritten from scratch in Markdown format for portability and conversion to other formats. This is not a basic conversion as you find on other sites, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Sigillum-Rasa GitHub repository](https://github.com/sigillumrasa/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
 
-[Download the official Systems Reference Document v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+[Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+
+[Download the SRD v5.1 in Markdown (single document). format](http://ogl-srd5.com)
 
 ---
 
@@ -31,6 +32,3 @@ Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/artic
 |  ![PHB](DnD_PHB.jpg) |  ![DMG](DnD_DMG.jpg) |  ![MM](DnD_MM.jpg) |
 
 Website by [Sigillum-Rasa](http://sigillum-rasa.enterprises). This website utilizes material and images from the official [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
-
-
-

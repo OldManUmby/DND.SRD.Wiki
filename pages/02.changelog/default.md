@@ -1,7 +1,5 @@
 ---
 title: Changelog
-media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg'
-body_classes: 'title-center title-h1h2'
 ---
 
 [TOC]
@@ -68,15 +66,10 @@ body_classes: 'title-center title-h1h2'
 
 ##
 
+:fa-check-square: Combine all markdown pages into a single markdown file available for download on the Intro page.
+
 ## Future Updates
 
 :fa-square: Expand TOC Headers to all levels and place TOCs in a seperate tab for each section/page.
 
 ##
-
-:fa-square: Combine all markdown pages into a single markdown file available for download.
-
-##
-
-
-
