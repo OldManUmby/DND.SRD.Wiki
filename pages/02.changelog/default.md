@@ -4,9 +4,9 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 body_classes: 'title-center title-h1h2'
 ---
 
-## April 24th, 2018
+## April 28th, 2018
 
-:fa-check-square: Complete conversion of original D&D 5E SRD 5.1 from PDF format to Markdown format. Adjust all markdown headers.
+:fa-check-square: Create Changelog.
 
 ## April 27th, 2018
 
@@ -36,6 +36,6 @@ body_classes: 'title-center title-h1h2'
 
 :fa-check-square: Sync website with [GitHub repo](https://github.com/sigillumrasa/OGL-SRD5) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
 
-## April 28th, 2018
+## April 24th, 2018
 
-:fa-check-square: Create Changelog.
+:fa-check-square: Complete conversion of original D&D 5E SRD 5.1 from PDF format to Markdown format. Adjust all markdown headers.
