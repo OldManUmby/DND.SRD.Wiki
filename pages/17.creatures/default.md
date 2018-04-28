@@ -6,7 +6,9 @@ title: 'Miscellaneous Creatures'
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
-### Ape
+### Creatures (A-C)
+
+#### Ape
 
 _Medium beast, unaligned_
 
@@ -36,7 +38,7 @@ _Medium beast, unaligned_
 
 **_Rock_**. _Ranged Weapon Attack:_ +5 to hit, range 25/50 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
-### Awakened Shrub
+#### Awakened Shrub
 
 _Small plant, unaligned_
 
@@ -68,7 +70,7 @@ _Small plant, unaligned_
 
 An **awakened shrub** is an ordinary shrub given sentience and mobility by the _awaken_ spell or similar magic.
 
-### Awakened Tree
+#### Awakened Tree
 
 _Huge plant, unaligned_
 
@@ -100,7 +102,7 @@ _Huge plant, unaligned_
 
 An **awakened tree** is an ordinary tree given sentience and mobility by the _awaken_ spell or similar magic.
 
-### Axe Beak
+#### Axe Beak
 
 _Large beast, unaligned_
 
@@ -126,7 +128,7 @@ _Large beast, unaligned_
 
 An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
-### Baboon
+#### Baboon
 
 _Small beast, unaligned_
 
@@ -152,7 +154,7 @@ _Small beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) piercing damage.
 
-### Badger
+#### Badger
 
 _Tiny beast, unaligned_
 
@@ -178,7 +180,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-### Bat
+#### Bat
 
 _Tiny beast, unaligned_
 
@@ -206,7 +208,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage.
 
-### Black Bear
+#### Black Bear
 
 _Medium beast, unaligned_
 
@@ -238,7 +240,7 @@ _Medium beast, unaligned_
 
 **_Claws_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.
 
-### Blink Dog
+#### Blink Dog
 
 _Medium fey, lawful good_
 
@@ -270,7 +272,7 @@ _Medium fey, lawful good_
 
 A **blink dog** takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long- standing hatred for displacer beasts and attack them on sight.
 
-### Blood Hawk
+#### Blood Hawk
 
 _Small beast, unaligned_
 
@@ -302,7 +304,7 @@ _Small beast, unaligned_
 
 Taking its name from its crimson feathers and aggressive nature, the **blood hawk** fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
-### Boar
+#### Boar
 
 _Medium beast, unaligned_
 
@@ -330,7 +332,7 @@ _Medium beast, unaligned_
 
 **_Tusk_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
 
-### Brown Bear
+#### Brown Bear
 
 _Large beast, unaligned_
 
@@ -362,7 +364,7 @@ _Large beast, unaligned_
 
 **_Claws_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
-### Camel
+#### Camel
 
 _Large beast, unaligned_
 
@@ -386,7 +388,7 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 
-### Cat
+#### Cat
 
 _Tiny beast, unaligned_
 
@@ -414,7 +416,7 @@ _Tiny beast, unaligned_
 
 **_Claws_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-### Constrictor Snake
+#### Constrictor Snake
 
 _Large beast, unaligned_
 
@@ -440,7 +442,7 @@ _Large beast, unaligned_
 
 **_Constrict_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
 
-### Crab
+#### Crab
 
 _Tiny beast, unaligned_
 
@@ -468,7 +470,7 @@ _Tiny beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage.
 
-### Crocodile
+#### Crocodile
 
 _Large beast, unaligned_
 
@@ -496,7 +498,9 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
 
-### Death Dog
+### Creatures (D-F)
+
+#### Death Dog
 
 _Medium monstrosity, neutral evil_
 
@@ -528,7 +532,7 @@ _Medium monstrosity, neutral evil_
 
 A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.
 
-### Deer
+#### Deer
 
 _Medium beast, unaligned_
 
@@ -552,7 +556,7 @@ _Medium beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.
 
-### Dire Wolf
+#### Dire Wolf
 
 _Large beast, unaligned_
 
@@ -582,7 +586,7 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-### Draft Horse
+#### Draft Horse
 
 _Large beast, unaligned_
 
@@ -606,7 +610,7 @@ _Large beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) bludgeoning damage.
 
-### Eagle
+#### Eagle
 
 _Small beast, unaligned_
 
@@ -634,7 +638,7 @@ _Small beast, unaligned_
 
 **_Talons_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage.
 
-### Elephant
+#### Elephant
 
 _Huge beast, unaligned_
 
@@ -662,7 +666,7 @@ _Huge beast, unaligned_
 
 **_Stomp_**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
 
-### Elk
+#### Elk
 
 _Large beast, unaligned_
 
@@ -690,7 +694,7 @@ _Large beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one prone creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-### Flying Snake
+#### Flying Snake
 
 _Tiny beast, unaligned_
 
@@ -718,7 +722,7 @@ _Tiny beast, unaligned_
 
 A **flying snake** is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 
-### Frog
+#### Frog
 
 _Tiny beast, unaligned_
 
@@ -746,7 +750,9 @@ _Tiny beast, unaligned_
 
 A **frog** has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a **toad**.
 
-### Giant Ape
+### Creatures (G-I)
+
+#### Giant Ape
 
 _Huge beast, unaligned_
 
@@ -776,7 +782,7 @@ _Huge beast, unaligned_
 
 **_Rock_**. _Ranged Weapon Attack:_ +9 to hit, range 50/100 ft., one target. _Hit:_ 30 (7d6 + 6) bludgeoning damage.
 
-### Giant Badger
+#### Giant Badger
 
 _Medium beast, unaligned_
 
@@ -806,7 +812,7 @@ _Medium beast, unaligned_
 
 **_Claws_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.
 
-### Giant Bat
+#### Giant Bat
 
 _Large beast, unaligned_
 
@@ -834,7 +840,7 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-### Giant Boar
+#### Giant Boar
 
 _Large beast, unaligned_
 
@@ -863,7 +869,7 @@ _Large beast, unaligned_
 
 **_Tusk_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 
-### Giant Centipede
+#### Giant Centipede
 
 _Small beast, unaligned_
 
@@ -887,7 +893,7 @@ _Small beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-### Giant Constrictor Snake
+#### Giant Constrictor Snake
 
 _Huge beast, unaligned_
 
@@ -917,7 +923,7 @@ _Huge beast, unaligned_
 
 **_Constrict_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
 
-### Giant Crab
+#### Giant Crab
 
 _Medium beast, unaligned_
 
@@ -945,7 +951,7 @@ _Medium beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
-### Giant Crocodile
+#### Giant Crocodile
 
 _Huge beast, unaligned_
 
@@ -975,7 +981,7 @@ _Huge beast, unaligned_
 
 **_Tail_**. _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-### Giant Eagle
+#### Giant Eagle
 
 _Large beast, neutral good_
 
@@ -1009,7 +1015,7 @@ _Large beast, neutral good_
 
 A **giant eagle** is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 
-### Giant Elk
+#### Giant Elk
 
 _Huge beast, unaligned_
 
@@ -1042,7 +1048,7 @@ _Huge beast, unaligned_
 
 The majestic **giant elk** is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
-### Giant Fire Beetle
+#### Giant Fire Beetle
 
 _Small beast, unaligned_
 
@@ -1070,7 +1076,7 @@ _Small beast, unaligned_
 
 A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
-### Giant Frog
+#### Giant Frog
 
 _Medium beast, unaligned_
 
@@ -1104,7 +1110,7 @@ _Medium beast, unaligned_
 
 If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-### Giant Goat
+#### Giant Goat
 
 _Large beast, unaligned_
 
@@ -1132,7 +1138,7 @@ _Large beast, unaligned_
 
 **_Ram_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-### Giant Hyena
+#### Giant Hyena
 
 _Large beast, unaligned_
 
@@ -1160,7 +1166,7 @@ _Large beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-### Giant Lizard
+#### Giant Lizard
 
 _Large beast, unaligned_
 
@@ -1186,7 +1192,7 @@ _Large beast, unaligned_
 
 A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.
 
-### Giant Octopus
+#### Giant Octopus
 
 _Large beast, unaligned_
 
@@ -1220,7 +1226,7 @@ _Large beast, unaligned_
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 20- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-### Giant Owl
+#### Giant Owl
 
 _Large beast, neutral_
 
@@ -1252,7 +1258,7 @@ _Large beast, neutral_
 
 **Giant owls** often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
-### Giant Poisonous Snake
+#### Giant Poisonous Snake
 
 _Medium beast, unaligned_
 
@@ -1278,7 +1284,7 @@ _Medium beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Giant Rat
+#### Giant Rat
 
 _Small beast, unaligned_
 
@@ -1306,13 +1312,13 @@ _Small beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
-#### Variant: Diseased Giant Rats
+###### Variant: Diseased Giant Rats
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
 
-### Giant Scorpion
+#### Giant Scorpion
 
 _Large beast, unaligned_
 
@@ -1340,7 +1346,7 @@ _Large beast, unaligned_
 
 **_Sting_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-### Giant Sea Horse
+#### Giant Sea Horse
 
 _Large beast, unaligned_
 
@@ -1370,7 +1376,7 @@ _Large beast, unaligned_
 
 Like their smaller kin, **giant sea horses** are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
 
-### Giant Shark
+#### Giant Shark
 
 _Huge beast, unaligned_
 
@@ -1402,7 +1408,7 @@ _Huge beast, unaligned_
 
 A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 
-### Giant Spider
+#### Giant Spider
 
 _Large beast, unaligned_
 
@@ -1438,7 +1444,7 @@ _Large beast, unaligned_
 
 To snare its prey, a **giant spider** spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
-### Giant Toad
+#### Giant Toad
 
 _Large beast, unaligned_
 
@@ -1470,7 +1476,7 @@ _Large beast, unaligned_
 
 If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-### Giant Vulture
+#### Giant Vulture
 
 _Large beast, neutral evil_
 
@@ -1506,7 +1512,7 @@ _Large beast, neutral evil_
 
 A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
-### Giant Wasp
+#### Giant Wasp
 
 _Medium beast, unaligned_
 
@@ -1530,7 +1536,7 @@ _Medium beast, unaligned_
 
 **_Sting_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-### Giant Weasel
+#### Giant Weasel
 
 _Medium beast, unaligned_
 
@@ -1558,7 +1564,7 @@ _Medium beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-### Giant Wolf Spider
+#### Giant Wolf Spider
 
 _Medium beast, unaligned_
 
@@ -1592,7 +1598,7 @@ _Medium beast, unaligned_
 
 Smaller than a giant spider, a **giant wolf spider** hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
-### Goat
+#### Goat
 
 _Medium beast, unaligned_
 
@@ -1620,7 +1626,7 @@ _Medium beast, unaligned_
 
 **_Ram_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
 
-### Hawk
+#### Hawk
 
 _Tiny beast, unaligned_
 
@@ -1648,7 +1654,7 @@ _Tiny beast, unaligned_
 
 **_Talons_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-### Hunter Shark
+#### Hunter Shark
 
 _Large beast, unaligned_
 
@@ -1680,7 +1686,7 @@ _Large beast, unaligned_
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter shark** haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
-### Hyena
+#### Hyena
 
 _Medium beast, unaligned_
 
@@ -1708,7 +1714,9 @@ _Medium beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.
 
-### Jackal
+### Creatures (J-L)
+
+#### Jackal
 
 _Small beast, unaligned_
 
@@ -1739,7 +1747,7 @@ _Small beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage.
 
-### Killer Whale
+#### Killer Whale
 
 _Huge beast, unaligned_
 
@@ -1771,7 +1779,7 @@ _Huge beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 21 (5d6 + 4) piercing damage.
 
-### Lion
+#### Lion
 
 _Large beast, unaligned_
 
@@ -1807,7 +1815,7 @@ _Large beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-### Lizard
+#### Lizard
 
 _Tiny beast, unaligned_
 
@@ -1831,7 +1839,9 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-### Mammoth
+### Creatures (M-O)
+
+#### Mammoth
 
 _Huge beast, unaligned_
 
@@ -1861,7 +1871,7 @@ _Huge beast, unaligned_
 
 A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
-### Mastiff
+#### Mastiff
 
 _Medium beast, unaligned_
 
@@ -1891,7 +1901,7 @@ _Medium beast, unaligned_
 
 **Mastiffs** are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
-### Mule
+#### Mule
 
 _Medium beast, unaligned_
 
@@ -1919,7 +1929,7 @@ _Medium beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
-### Octopus
+#### Octopus
 
 _Small beast, unaligned_
 
@@ -1953,7 +1963,7 @@ _Small beast, unaligned_
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 5- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-### Owl
+#### Owl
 
 _Tiny beast, unaligned_
 
@@ -1983,7 +1993,9 @@ _Tiny beast, unaligned_
 
 **_Talons_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 
-### Panther
+### Creatures (P-R)
+
+#### Panther
 
 _Medium beast, unaligned_
 
@@ -2015,7 +2027,7 @@ _Medium beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage.
 
-### Phase Spider
+#### Phase Spider
 
 _Large monstrosity, unaligned_
 
@@ -2049,7 +2061,7 @@ _Large monstrosity, unaligned_
 
 A **phase spider** possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
-### Poisonous Snake
+#### Poisonous Snake
 
 _Tiny beast, unaligned_
 
@@ -2073,7 +2085,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
-### Polar Bear
+#### Polar Bear
 
 _Large beast, unaligned_
 
@@ -2105,7 +2117,7 @@ _Large beast, unaligned_
 
 **_Claws_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-### Pony
+#### Pony
 
 _Medium beast, unaligned_
 
@@ -2129,7 +2141,7 @@ _Medium beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.
 
-### Quipper
+#### Quipper
 
 _Tiny beast, unaligned_
 
@@ -2159,7 +2171,7 @@ _Tiny beast, unaligned_
 
 A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.
 
-### Rat
+#### Rat
 
 _Tiny beast, unaligned_
 
@@ -2185,7 +2197,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-### Raven
+#### Raven
 
 _Tiny beast, unaligned_
 
@@ -2213,7 +2225,7 @@ _Tiny beast, unaligned_
 
 **_Beak_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-### Reef Shark
+#### Reef Shark
 
 _Medium beast, unaligned_
 
@@ -2245,7 +2257,7 @@ _Medium beast, unaligned_
 
 Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
 
-### Rhinoceros
+#### Rhinoceros
 
 _Large beast, unaligned_
 
@@ -2271,7 +2283,7 @@ _Large beast, unaligned_
 
 **_Gore_**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
 
-### Riding Horse
+#### Riding Horse
 
 _Large beast, unaligned_
 
@@ -2295,7 +2307,9 @@ _Large beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-### Saber-Toothed Tiger
+### Creatures (S-U)
+
+#### Saber-Toothed Tiger
 
 _Large beast, unaligned_
 
@@ -2327,7 +2341,7 @@ _Large beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 
-### Scorpion
+#### Scorpion
 
 _Tiny beast, unaligned_
 
@@ -2351,7 +2365,7 @@ _Tiny beast, unaligned_
 
 **_Sting_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
-### Sea Horse
+#### Sea Horse
 
 _Tiny beast, unaligned_
 
@@ -2373,7 +2387,7 @@ _Tiny beast, unaligned_
 
 **_Water Breathing_**. The sea horse can breathe only underwater.
 
-### Spider
+#### Spider
 
 _Tiny beast, unaligned_
 
@@ -2405,7 +2419,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
-### Swarm of Bats
+#### Swarm of Bats
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2439,7 +2453,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Bites_**. _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-### Swarm of Insects
+#### Swarm of Insects
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2469,7 +2483,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Bites_**. _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-#### Variant: Insect Swarms
+###### Variant: Insect Swarms
 
 Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
 
@@ -2488,7 +2502,7 @@ _Web Walker._ The swarm ignores movement restrictions caused by webbing.
 **_Swarm of Wasps_**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
 
 
-### Swarm of Poisonous Snakes
+#### Swarm of Poisonous Snakes
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2518,7 +2532,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Bites_**. _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Swarm of Quippers
+#### Swarm of Quippers
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2552,7 +2566,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Bites_**. _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm’s space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-### Swarm of Rats
+#### Swarm of Rats
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2584,7 +2598,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Bites_**. _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-### Swarm of Ravens
+#### Swarm of Ravens
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -2616,7 +2630,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 **_Beaks_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm’s space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-### Tiger
+#### Tiger
 
 _Large beast, unaligned_
 
@@ -2648,7 +2662,9 @@ _Large beast, unaligned_
 
 **_Claw_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.
 
-### Vulture
+### Creatures (V-Z)
+
+#### Vulture
 
 _Medium beast, unaligned_
 
@@ -2678,7 +2694,7 @@ _Medium beast, unaligned_
 
 **_Beak_**. _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.
 
-### Warhorse
+#### Warhorse
 
 _Large beast, unaligned_
 
@@ -2704,7 +2720,7 @@ _Large beast, unaligned_
 
 **_Hooves_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
 
-### Weasel
+#### Weasel
 
 _Tiny beast, unaligned_
 
@@ -2732,7 +2748,7 @@ _Tiny beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 
-### Winter Wolf
+#### Winter Wolf
 
 _Large monstrosity, neutral evil_
 
@@ -2766,7 +2782,7 @@ _Large monstrosity, neutral evil_
 
 The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves’ deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 
-### Wolf
+#### Wolf
 
 _Medium beast, unaligned_
 
@@ -2796,7 +2812,7 @@ _Medium beast, unaligned_
 
 **_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
-### Worg
+#### Worg
 
 _Large monstrosity, neutral evil_
 
