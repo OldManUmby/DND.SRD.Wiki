@@ -41,3 +41,13 @@ body_classes: 'title-center title-h1h2'
 ## April 28th, 2018
 
 :fa-check-square: Create Changelog.
+
+##
+
+:fa-check-square: Installed [Table of Contents (TOC) plugin](https://github.com/sommerregen/grav-plugin-toc) for [GRAV](https://getgrav.org).
+
+##
+
+:fa-check-square: Add alphabet headers to [spell lists](http://ogl-srd5.com/spellcasting) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
+
+##
