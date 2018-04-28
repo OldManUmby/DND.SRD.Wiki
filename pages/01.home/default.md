@@ -4,11 +4,13 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 body_classes: 'title-center title-h1h2'
 ---
 
+![Starter Image](DnD_Starter_Art.jpg)
+
 ![D&D Logo](DnD_Logo.png)
 
 #### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document v5.1 in Markdown Format!
 
-![Starter Image](DnD_Starter_Art.jpg)
+---
 
 The Systems Reference Document (SRD) contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. For more information, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
