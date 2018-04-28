@@ -48,6 +48,10 @@ body_classes: 'title-center title-h1h2'
 
 ##
 
+:fa-check-square: Create Introduction page using media from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
+
+##
+
 :fa-check-square: Installed [Table of Contents (TOC) plugin](https://github.com/sommerregen/grav-plugin-toc) for [GRAV](https://getgrav.org).
 
 ##
