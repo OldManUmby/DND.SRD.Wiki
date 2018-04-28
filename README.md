@@ -1,5 +1,7 @@
 # OGL-SRD5
 
+![D&D Logo](DnD_Logo2.png)
+
 #### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document v5.1 in Markdown Format!
 
 ---
