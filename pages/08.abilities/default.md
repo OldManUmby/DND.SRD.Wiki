@@ -2,6 +2,8 @@
 title: 'Using Ability Scores'
 ---
 
+[TOC]
+
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
 * **Strength**, measuring physical power
