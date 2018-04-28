@@ -56,7 +56,11 @@ body_classes: 'title-center title-h1h2'
 
 ##
 
-:fa-check-square: Install SSL certificate (HTTPS) for primary and mail domains. Activate "Force SSL" globally in [GRAV](https://getgrav.org).
+:fa-check-square: Install SSL certificate (HTTPS) for primary and mail domains.
+
+##
+
+:fa-check-square: Activate "Force SSL" globally in [GRAV](https://getgrav.org).
 
 ##
 
