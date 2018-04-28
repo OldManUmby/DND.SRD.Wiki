@@ -2,6 +2,8 @@
 title: 'The Planes of Existence'
 ---
 
+[TOC]
+
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence**. It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.
 
 Many spells and magic items can draw energy from these planes, summon the creatures that dwell there, communicate with their denizens, and allow adventurers to travel there. As your character achieves greater power and higher levels, you might walk on streets made of solid fire or test your mettle on a battlefield where the fallen are resurrected with each dawn.
