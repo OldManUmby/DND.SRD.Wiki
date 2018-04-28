@@ -16,7 +16,7 @@ body_classes: 'title-center title-h1h2'
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using a tool by the same name.[8] Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.
 
-! The documents contained herein are rewritten from scratch in Markdown format for portability and conversion to other formats. This is not a basic conversion as you find on other sites, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original docxuments can be downloaded from our Sigillum-Rasa GitHub repository. Should you find any issues, please report them through our GitHub account. Thank you!
+! The documents contained herein are rewritten from scratch in Markdown format for portability and conversion to other formats. This is not a basic conversion as you find on other sites, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Sigillum-Rasa GitHub repository](https://github.com/sigillumrasa/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
 
 [Download the official Systems Reference Document v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
