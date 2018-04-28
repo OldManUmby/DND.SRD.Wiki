@@ -55,3 +55,8 @@ body_classes: 'title-center title-h1h2'
 :fa-check-square: Add alphabet headers to [spell lists](http://ogl-srd5.com/spellcasting) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
 
 ##
+
+:fa-check-square: Install SSL certificate (HTTPS) for primary and mail domains. Activate auto-forwarding to HTTPS in [GRAV](https://getgrav.org).
+
+##
+
