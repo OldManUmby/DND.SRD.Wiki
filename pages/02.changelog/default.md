@@ -72,11 +72,11 @@ title: Changelog
 
 :fa-check-square: Add alphabet headers to [magic items](http://ogl-srd5.com/magic) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
 
-## Future Updates
-
-:fa-square: Change theme CSS colors to better match D&D colors.
-
 ##
+
+:fa-check-square: Change theme CSS colors.
+
+## Future Updates
 
 :fa-square: Any suggestions?
 
