@@ -74,6 +74,10 @@ title: Changelog
 
 ## Future Updates
 
+:fa-square: Change theme CSS colors to better match D&D colors.
+
+##
+
 :fa-square: Any suggestions?
 
 ##
