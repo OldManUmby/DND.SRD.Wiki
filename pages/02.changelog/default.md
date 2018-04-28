@@ -12,6 +12,7 @@ body_classes: 'title-center title-h1h2'
 
 :fa-check-square: Create [OGL-SRD5 GitHub repository](https://github.com/sigillumrasa/OGL-SRD5). Sync with desktop app.
 
+
 :fa-check-square: Purchase [OGL-SRD5.com](http://ogl-srd5.com) domain.
 
 :fa-check-square: Create [OGL-SRD5.com](http://ogl-srd5.com) hosting account with [Sigillum-Rasa](http://sigillum-rasa.enterprises).
