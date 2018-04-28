@@ -68,8 +68,12 @@ title: Changelog
 
 :fa-check-square: Create a Markdown compilation of all SRD pages at the [SRD GitHub repo](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
 
+##
+
+:fa-check-square: Add alphabet headers to [magic items](http://ogl-srd5.com/magic) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
+
 ## Future Updates
 
-:fa-square: Expand TOC Headers to all levels and place TOCs in a seperate tab for each section/page.
+:fa-square: Any suggestions?
 
 ##
