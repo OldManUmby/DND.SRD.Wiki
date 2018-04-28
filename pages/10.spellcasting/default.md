@@ -228,9 +228,9 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast _bless_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
 
-### Spell Lists
+**Spell Lists**
 
-#### Bard Spells
+### Bard Spells
 
 ##### Cantrips (0 Level)
 
@@ -372,7 +372,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Power Word Kill
 * True Polymorph
 
-#### Cleric Spells
+### Cleric Spells
 
 ##### Cantrips (0 Level)
 
@@ -507,7 +507,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Mass Heal
 * True Resurrection
 
-#### Druid Spells
+### Druid Spells
 
 ##### Cantrips (0 Level)
 
@@ -640,7 +640,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Storm of Vengeance
 * True Resurrection
 
-#### Paladin Spells
+### Paladin Spells
 
 ##### 1st Level
 
@@ -687,7 +687,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Geas
 * Raise Dead
 
-#### Ranger Spells
+### Ranger Spells
 
 ##### 1st Level
 
@@ -738,7 +738,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Commune with Nature
 * Tree Stride
 
-#### Sorcerer Spells
+### Sorcerer Spells
 
 ##### Cantrips (0 Level)
 
@@ -888,7 +888,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Time Stop
 * Wish
 
-#### Warlock Spells
+### Warlock Spells
 
 ##### Cantrips (0 Level)
 
@@ -980,7 +980,7 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Power Word Kill
 * True Polymorph
 
-#### Wizard Spells
+### Wizard Spells
 
 ##### Cantrips (0 Level)
 
@@ -1214,7 +1214,9 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 * Weird
 * Wish
 
-### Spell Descriptions
+**Spell Descriptions**
+
+### Spells (A)
 
 ##### Acid Arrow
 
@@ -1629,6 +1631,8 @@ After spending the casting time tracing magical pathways within a precious gemst
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
+### Spells (B)
+
 ##### Bane
 
 _1st-level enchantment_
@@ -1849,6 +1853,8 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+### Spells (C)
 
 ##### Call Lightning
 
@@ -2556,6 +2562,8 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
+### Spells (D)
+
 ##### Dancing Lights
 
 *Evocation cantrip_
@@ -2981,6 +2989,8 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target’s body, the target makes its saving throw with disadvantage.
 
+### Spells (E)
+
 ##### Earthquake
 
 _8th-level evocation_
@@ -3146,6 +3156,8 @@ For the spell’s duration, your eyes become an inky void imbued with dread powe
 **_Panicked._** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 **_Sickened._** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
+
+### Spells (F)
 
 ##### Fabricate
 
@@ -3611,6 +3623,8 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
+### Spells (G)
+
 ##### Gaseous Form
 
 _3rd-level transmutation_
@@ -3899,6 +3913,8 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
+### Spells (H)
+
 ##### Hallow
 
 _5th-level evocation_
@@ -4143,6 +4159,8 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
+### Spells (I)
+
 ##### Ice Storm
 
 _4th-level evocation_
@@ -4341,6 +4359,8 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
+### Spells (J)
+
 ##### Jump
 
 _1st-level transmutation_
@@ -4354,6 +4374,8 @@ _1st-level transmutation_
 **Duration:** 1 minute
 
 You touch a creature. The creature’s jump distance is tripled until the spell ends.
+
+### Spells (K)
 
 ##### Knock
 
@@ -4374,6 +4396,8 @@ A target that is held shut by a mundane lock or that is stuck or barred becomes 
 If you choose a target that is held shut with _arcane lock_, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
+
+### Spells (L)
 
 ##### Legend Lore
 
@@ -4522,6 +4546,8 @@ _1st-level transmutation_
 You touch a creature. The target’s speed increases by 10 feet until the spell ends.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+### Spells (M)
 
 ##### Mage Armor
 
@@ -5021,6 +5047,8 @@ This spell can’t manipulate natural stone or stone construction. Rocks and str
 
 Similarly, this spell doesn’t directly affect plant growth. The moved earth carries any plants along with it.
 
+### Spells (N)
+
 ##### Nondetection
 
 _3rd-level abjuration_
@@ -5034,6 +5062,10 @@ _3rd-level abjuration_
 **Duration:** 8 hours
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any divination magic or perceived through magical scrying sensors.
+
+### Spells (O)
+
+### Spells (P)
 
 ##### Pass without Trace
 
@@ -5464,6 +5496,10 @@ _1st-level transmutation (ritual)_
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
+### Spells (Q)
+
+### Spells (R)
+
 ##### Raise Dead
 
 _5th-level necromancy_
@@ -5690,6 +5726,8 @@ The extradimensional space can be reached by climbing to the top of the rope. Th
 Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5* foot window centered on the rope.
 
 Anything inside the extradimensional space drops out when the spell ends.
+
+### Spells (S)
 
 ##### Sacred Flame
 
@@ -6353,6 +6391,8 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 **_Stunning._** Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.
 
+### Spells (T)
+
 ##### Telekinesis
 
 _5th-level transmutation_
@@ -6644,6 +6684,8 @@ This spell gives the willing creature you touch the ability to see things as the
 
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
 
+### Spells (U)
+
 ##### Unseen Servant
 
 _1st-level conjuration (ritual)_
@@ -6662,6 +6704,8 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
+### Spells (V)
+
 ##### Vampiric Touch
 
 _3rd-level necromancy_
@@ -6677,6 +6721,8 @@ _3rd-level necromancy_
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+### Spells (W)
 
 ##### Wall of Fire
 
@@ -6939,6 +6985,12 @@ _6th-level conjuration_
 You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.
 
 You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn’t dedicated to your deity, the spell has no effect.
+
+### Spells (X)
+
+### Spells (Y)
+
+### Spells (Z)
 
 ##### Zone of Truth
 
