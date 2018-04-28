@@ -22,4 +22,4 @@ The documents contained herein are edited from scratch into Markdown format for 
 
 Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules). and [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
-My permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
+By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
