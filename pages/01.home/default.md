@@ -10,11 +10,11 @@ body_classes: 'title-center title-h1h2'
 
 The Systems Reference Document (SRD) contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. For more information, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
----
-
 The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. Below is an overview of the programs.
 
 [Download the official Systems Reference Document v5.1](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+
+---
 
 #### Official Dungeons & Dragons Core Game Books
 
