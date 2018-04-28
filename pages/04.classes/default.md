@@ -1,4 +1,6 @@
-## Classes
+---
+title: Classes
+---
 
 ### Barbarian
 
