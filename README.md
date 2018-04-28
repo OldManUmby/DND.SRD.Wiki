@@ -16,6 +16,6 @@ The documents contained herein are edited from scratch into Markdown format for 
 
 ---
 
-#### Official Dungeons & Dragons Core Game Books
+#### Official Dungeons & Dragons Materials Available for FREE!
 
 Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules). and [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
