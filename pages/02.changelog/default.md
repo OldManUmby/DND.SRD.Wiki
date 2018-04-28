@@ -70,6 +70,10 @@ body_classes: 'title-center title-h1h2'
 
 ## Future Updates
 
+:fa-square: Combine all markdown pages into a single markdown file available for download.
+
+##
+
 :fa-square: Expand TOC Headers to all levels and place TOCs in a seperate tab for each section/page.
 
 ##
