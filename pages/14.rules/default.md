@@ -1,4 +1,6 @@
-## Running the Game
+---
+title: 'Running the Game'
+---
 
 ### Traps
 
