@@ -64,3 +64,9 @@ body_classes: 'title-center title-h1h2'
 
 ##
 
+## Task List
+
+:fa-check-square: Expand TOC Headers to all levels and place TOCs in a seperate tab for each section/page.
+
+##
+
