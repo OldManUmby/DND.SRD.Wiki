@@ -2,7 +2,7 @@
 title: 'Legal Information'
 ---
 
-Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a.
+Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a.
 
 This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material.
 
