@@ -30,7 +30,7 @@ Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/artic
 |  :-----          |  :-----          |  :-----          |
 |  ![PHB](DnD_PHB.jpg) |  ![DMG](DnD_DMG.jpg) |  ![MM](DnD_MM.jpg) |
 
-
+Website by [Sigillum-Rasa](http://sigillum-rasa.enterprises). This website utilizes material and images from the official [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
 
 
 
