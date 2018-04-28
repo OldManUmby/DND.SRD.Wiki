@@ -1,6 +1,6 @@
 ---
-title: Home
-body_classes: title-center title-h1h2
+title: 'D&D SRD 5.1'
+body_classes: 'title-center title-h1h2'
 ---
 
 # Say Hello to Grav!
