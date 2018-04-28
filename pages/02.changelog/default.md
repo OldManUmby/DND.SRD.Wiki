@@ -36,6 +36,10 @@ body_classes: 'title-center title-h1h2'
 
 ##
 
+:fa-check-square: Install various [Plugins for GRAV](https://getgrav.org/downloads/plugins).
+
+##
+
 :fa-check-square: Sync website with [GitHub repo](https://github.com/sigillumrasa/OGL-SRD5) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
 
 ## April 28th, 2018
