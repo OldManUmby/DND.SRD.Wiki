@@ -19,7 +19,7 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
-[Download the SRD v5.1 in Markdown (single document). format](http://ogl-srd5.com)
+[Download the SRD v5.1 in Markdown (single compilation)](http://ogl-srd5.com)
 
 ---
 
