@@ -8,6 +8,8 @@ body_classes: 'title-center title-h1h2'
 
 #### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document v5.1 in Markdown Format!
 
+---
+
 The Systems Reference Document (SRD) contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. For more information, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
 The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. Below is an overview of the programs.
