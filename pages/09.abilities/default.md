@@ -1,5 +1,5 @@
 ---
-title: 'Using Ability Scores'
+title: 'Ability Scores'
 ---
 
 [TOC]
