@@ -1,5 +1,5 @@
 ---
-title: 'The Planes of Existence'
+title: Planes
 ---
 
 [TOC]
