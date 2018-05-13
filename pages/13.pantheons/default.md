@@ -1,5 +1,5 @@
 ---
-title: 'Fantasy-Historical Pantheons'
+title: Pantheons
 ---
 
 [TOC]
