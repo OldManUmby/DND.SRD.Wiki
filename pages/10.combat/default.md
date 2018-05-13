@@ -1,5 +1,5 @@
 ---
-title: 'The Order of Combat'
+title: Combat
 ---
 
 [TOC]
