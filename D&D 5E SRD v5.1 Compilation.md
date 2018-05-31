@@ -2650,7 +2650,7 @@ You can cast *jump* on yourself at will, without expending a spell slot or mater
 
 ##### Repelling Blast
 
-*Prerequisite:* eldritch blas*t cantrip*
+*Prerequisite:* eldritch blast *cantrip*
 
 When you hit a creature with *eldritch blast*, you can push the creature up to 10 feet away from you in a straight line.
 
@@ -7097,7 +7097,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ##### Chill Touch
 
-*Necromancy cantrip_
+_Necromancy cantrip_
 
 **Casting Time:** 1 action
 
@@ -7733,7 +7733,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ##### Dancing Lights
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -9032,7 +9032,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ##### Guidance
 
-*Divination cantrip_
+_Divination cantrip_
 
 **Casting Time:** 1 action
 
@@ -9616,7 +9616,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ##### Light
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -9732,7 +9732,7 @@ You touch a willing creature who isn’t wearing armor, and a protective magical
 
 ##### Mage Hand
 
-*Conjuration cantrip_
+_Conjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -9992,7 +9992,7 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ##### Mending
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 minute
 
@@ -10054,7 +10054,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 ##### Minor Illusion
 
-*Illusion cantrip_
+_Illusion cantrip_
 
 **Casting Time:** 1 action
 
@@ -10446,7 +10446,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 ##### Prestidigitation
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 action
 
@@ -10545,7 +10545,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 ##### Produce Flame
 
-*Conjuration cantrip_
+_Conjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -10705,7 +10705,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 ##### Ray of Frost
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -10808,7 +10808,7 @@ A _disintegrate_ spell targeting the globe destroys it without harming anything 
 
 ##### Resistance
 
-*Abjuration cantrip_
+_Abjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -10898,7 +10898,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ##### Sacred Flame
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -11136,7 +11136,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ##### Shillelagh
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 bonus action
 
@@ -11150,7 +11150,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature’s pow
 
 ##### Shocking Grasp
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -11660,7 +11660,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ##### Thaumaturgy
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 action
 
@@ -11839,7 +11839,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ##### True Strike
 
-*Divination cantrip_
+_Divination cantrip_
 
 **Casting Time:** 1 action
 
@@ -15981,11 +15981,11 @@ Whenever the charmed target takes damage, the target can repeat the saving throw
 
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The aboleth regains spent legendary actions at the start of its turn.
 
-**Detect_**. The aboleth makes a Wisdom (Perception) check.
+**_Detect_**. The aboleth makes a Wisdom (Perception) check.
 
-**Tail Swipe_**. The aboleth makes one tail attack.
+**_Tail Swipe_**. The aboleth makes one tail attack.
 
-**Psychic Drain (Costs 2 Actions)_**. One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+**_Psychic Drain (Costs 2 Actions)_**. One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 
 #### Angels
 
@@ -16144,11 +16144,11 @@ At will: _detect evil and good_, _invisibility_ (self only)
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The solar regains spent legendary actions at the start of its turn.
 
-**Teleport_**. The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport_**. The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**Searing Burst (Costs 2 Actions)_**. The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
+**_Searing Burst (Costs 2 Actions)_**. The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
-**Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _lesser restoration_ spell removes the blindness.
+**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _lesser restoration_ spell removes the blindness.
 
 #### Animated Objects
 
@@ -17667,11 +17667,11 @@ _Gargantuan dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Black Dragon
 
@@ -17721,11 +17721,11 @@ _Huge dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Black Dragon
 
@@ -17847,11 +17847,11 @@ _Gargantuan dragon, lawful evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Blue Dragon
 
@@ -17899,11 +17899,11 @@ _Huge dragon, lawful evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Blue Dragon
 
@@ -18025,11 +18025,11 @@ _Huge dragon, lawful evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Green Dragon
 
@@ -18155,11 +18155,11 @@ _Gargantuan dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Red Dragon
 
@@ -18207,11 +18207,11 @@ _Huge dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Red Dragon
 
@@ -18331,11 +18331,11 @@ _Gargantuan dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult White Dragon
 
@@ -18385,11 +18385,11 @@ _Huge dragon, chaotic evil_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 
 ###### Young White Dragon
@@ -18510,11 +18510,11 @@ _Gargantuan dragon, chaotic good_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Brass Dragon
 
@@ -18576,11 +18576,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Brass Dragon
 
@@ -18716,11 +18716,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Bronze Dragon
 
@@ -18778,11 +18778,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Bronze Dragon
 
@@ -18920,11 +18920,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Copper Dragon
 
@@ -18976,11 +18976,11 @@ _Huge dragon, chaotic good_
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Copper Dragon
 
@@ -19116,11 +19116,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Gold Dragon
 
@@ -19178,11 +19178,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Gold Dragon
 
@@ -19320,11 +19320,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Adult Silver Dragon
 
@@ -19380,11 +19380,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 
-**Detect_**. The dragon makes a Wisdom (Perception) check.
+**_Detect_**. The dragon makes a Wisdom (Perception) check.
 
-**Tail Attack_**. The dragon makes a tail attack.
+**_Tail Attack_**. The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ###### Young Silver Dragon
 
@@ -21350,11 +21350,11 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The kraken regains spent legendary actions at the start of its turn.
 
-**Tentacle Attack or Fling_**. The kraken makes one tentacle attack or uses its Fling.
+**_Tentacle Attack or Fling_**. The kraken makes one tentacle attack or uses its Fling.
 
-**Lightning Storm (Costs 2 Actions)_**. The kraken uses Lightning Storm.
+**_Lightning Storm (Costs 2 Actions)_**. The kraken uses Lightning Storm.
 
-**Ink Cloud (Costs 3 Actions)_**. While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken’s next turn.
+**_Ink Cloud (Costs 3 Actions)_**. While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken’s next turn.
 
 ### Monsters (L)
 
@@ -21453,13 +21453,13 @@ Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
 
-**Cantrip_**. The lich casts a cantrip.
+**_Cantrip_**. The lich casts a cantrip.
 
-**Paralyzing Touch (Costs 2 Actions)_**. The lich uses its Paralyzing Touch.
+**_Paralyzing Touch (Costs 2 Actions)_**. The lich uses its Paralyzing Touch.
 
-**Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
+**_Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
 
-**Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+**_Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
 #### Lizardfolk
 
@@ -22181,15 +22181,15 @@ Cantrips (at will): _sacred flame_, _thaumaturgy_
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The mummy lord regains spent legendary actions at the start of its turn.
 
-**Attack_**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
+**_Attack_**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
 
-**Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
+**_Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
 
-**Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
+**_Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
 
-**Channel Negative Energy (Costs 2 Actions)_**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
+**_Channel Negative Energy (Costs 2 Actions)_**. The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
 
-**Whirlwind of Sand (Costs 2 Actions)_**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+**_Whirlwind of Sand (Costs 2 Actions)_**. The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
 
 ### Monsters (N)
 
@@ -23342,11 +23342,11 @@ Cantrips (at will): _sacred flame_, _spare the dying_, _thaumaturgy_
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
 
-**Claw Attack_**. The sphinx makes one claw attack.
+**_Claw Attack_**. The sphinx makes one claw attack.
 
-**Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+**_Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
 ##### Gynosphinx
 
@@ -23399,11 +23399,11 @@ Cantrips (at will): _mage hand_, _minor illusion_, _prestidigitation_
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn.
 
-**Claw Attack_**. The sphinx makes one claw attack.
+**_Claw Attack_**. The sphinx makes one claw attack.
 
-**Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**_Teleport (Costs 2 Actions)_**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-**Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+**_Cast a Spell (Costs 3 Actions)_**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
 #### Sprite
 
@@ -23564,11 +23564,11 @@ If the tarrasque takes 60 damage or more on a single turn from a creature inside
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The tarrasque regains spent legendary actions at the start of its turn.
 
-**Attack_**. The tarrasque makes one claw attack or tail attack.
+**_Attack_**. The tarrasque makes one claw attack or tail attack.
 
-**Move_**. The tarrasque moves up to half its speed.
+**_Move_**. The tarrasque moves up to half its speed.
 
-**Chomp (Costs 2 Actions)_**. The tarrasque makes one bite attack or uses its Swallow.
+**_Chomp (Costs 2 Actions)_**. The tarrasque makes one bite attack or uses its Swallow.
 
 #### Treant
 
@@ -23695,11 +23695,11 @@ At will: _detect evil and good_, _druidcraft_, _pass without trace_
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The unicorn regains spent legendary actions at the start of its turn.
 
-**Hooves_**. The unicorn makes one attack with its hooves.
+**_Hooves_**. The unicorn makes one attack with its hooves.
 
-**Shimmering Shield (Costs 2 Actions)_**. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn’s next turn.
+**_Shimmering Shield (Costs 2 Actions)_**. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn’s next turn.
 
-**Heal Self (Costs 3 Actions)_**. The unicorn magically regains 11 (2d8 + 2) hit points.
+**_Heal Self (Costs 3 Actions)_**. The unicorn magically regains 11 (2d8 + 2) hit points.
 
 ### Monsters (V)
 
@@ -23775,11 +23775,11 @@ Each time the vampire or the vampire’s companions do anything harmful to the t
 
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The vampire regains spent legendary actions at the start of its turn.
 
-**Move_**. The vampire moves up to its speed without provoking opportunity attacks.
+**_Move_**. The vampire moves up to its speed without provoking opportunity attacks.
 
-**Unarmed Strike_**. The vampire makes one unarmed strike.
+**_Unarmed Strike_**. The vampire makes one unarmed strike.
 
-**Bite (Costs 2 Actions)_**. The vampire makes one bite attack.
+**_Bite (Costs 2 Actions)_**. The vampire makes one bite attack.
 
 ##### Vampire Spawn
 
