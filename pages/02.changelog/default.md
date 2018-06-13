@@ -6,7 +6,7 @@ title: Changelog
 
 ## April 24th, 2018
 
-[x] Complete conversion of original [D&D 5E SRD 5.1](http://dnd.wizards.com/articles/features/systems-reference-document-srd) from PDF format to [Markdown](https://daringfireball.net/projects/markdown) format. Adjust all markdown headers.
+:fa-check-square: Complete conversion of original [D&D 5E SRD 5.1](http://dnd.wizards.com/articles/features/systems-reference-document-srd) from PDF format to [Markdown](https://daringfireball.net/projects/markdown) format. Adjust all markdown headers.
 
 ## April 27th, 2018
 
