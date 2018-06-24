@@ -76,7 +76,7 @@ title: Changelog
 
 :fa-check-square: Change theme CSS colors.
 
-##
+## Coming Soon!
 
 :fa-square: Add [TNT Search](https://github.com/trilbymedia/grav-plugin-tntsearch), a powerful indexed-based full text search engine.
 
