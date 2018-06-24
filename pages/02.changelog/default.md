@@ -76,8 +76,10 @@ title: Changelog
 
 :fa-check-square: Change theme CSS colors.
 
-## Future Updates
+##
 
-:fa-square: Any suggestions?
+:fa-square: Add TNT Search, a powerful indexed-based full text search engine.
 
 ##
+
+**[Suggestions?](https://github.com/sigillumrasa/OGL-SRD5)**
