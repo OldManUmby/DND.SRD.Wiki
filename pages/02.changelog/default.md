@@ -78,7 +78,7 @@ title: Changelog
 
 ##
 
-:fa-square: Add TNT Search, a powerful indexed-based full text search engine.
+:fa-square: Add [TNT Search](https://github.com/trilbymedia/grav-plugin-tntsearch), a powerful indexed-based full text search engine.
 
 ##
 
