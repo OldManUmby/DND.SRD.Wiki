@@ -12,7 +12,7 @@
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-**The "Pages" Contained Herein** were exported directly from the official SRD PDF (see below), but have been fully re-edited into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown format paragraph-by-paragraph. Please report any issues you find through this GitHub account. Thank you!
+**The "Pages" Contained Herein** were exported directly from the official SRD PDF (see below), but have been fully re-edited into Markdown format for improved organization, portability and conversions to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown format paragraph-by-paragraph. Please report any issues you find through this GitHub account. Thank you!
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
