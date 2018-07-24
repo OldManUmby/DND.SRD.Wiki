@@ -22,6 +22,6 @@ The documents contained herein are edited from scratch into Markdown format for 
 
 #### Official Dungeons & Dragons Materials Available for FREE!
 
-Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules). and [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
+Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules), plus [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
 By permission, this project and the associated website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
