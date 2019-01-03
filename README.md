@@ -16,7 +16,7 @@
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
-[Download the SRD v5.1 in Markdown format (single compilation)](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md)
+[Download the SRD v5.1 in Markdown format (single compilation)](https://github.com/gantrystudio/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md)
 
 ---
 
