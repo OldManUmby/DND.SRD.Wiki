@@ -3,6 +3,19 @@ title: Introduction
 media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg'
 ---
 
+<script>
+  (function() {
+    var cx = '001286843246981938841:_5jzoxwanvq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
 ![D&D Logo](DnD_Logo.png)
 
 ![Starter Image](DnD_Starter_Art.jpg)
