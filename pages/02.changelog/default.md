@@ -76,9 +76,15 @@ title: Changelog
 
 :fa-check-square: Change theme CSS colors.
 
+## March 8th, 2019
+
+:fa-check-square: Add [TNT Search](https://github.com/trilbymedia/grav-plugin-tntsearch), a powerful indexed-based full text search engine.
+
+:fa-check-square: Add a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option to the SRD.
+
 ## Coming Soon!
 
-:fa-square: Add [TNT Search](https://github.com/trilbymedia/grav-plugin-tntsearch), a powerful indexed-based full text search engine.
+:fa-square: Integrate the new custom Google search option into the sidebar.
 
 ##
 
