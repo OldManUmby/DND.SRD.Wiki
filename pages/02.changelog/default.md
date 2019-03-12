@@ -94,8 +94,4 @@ title: Changelog
 
 ##
 
-:fa-square: Create a new secondary spell section; organize spells by class and level.
-
-##
-
 **[Suggestions?](https://github.com/CryHavocStudio/OGL-SRD5)**
