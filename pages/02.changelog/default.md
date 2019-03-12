@@ -86,8 +86,16 @@ title: Changelog
 
 ## Coming Soon!
 
-:fa-square: Integrate the new custom Google search option into the sidebar.
+:fa-square: Customize the Google search option page or integrate it more with the site.
 
 ##
 
-**[Suggestions?](https://github.com/sigillumrasa/OGL-SRD5)**
+:fa-square: Link spell lists with thier respective spells.
+
+##
+
+:fa-square: Create a new secondary spell section; Organize spells by class and level instead of alphabetically.
+
+##
+
+**[Suggestions?](https://github.com/CryHavocStudio/OGL-SRD5)**
