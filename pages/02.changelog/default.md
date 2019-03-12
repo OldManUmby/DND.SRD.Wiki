@@ -86,11 +86,11 @@ title: Changelog
 
 ## Coming Soon!
 
-:fa-square: Customize the Google search option page or integrate it more with the site.
+:fa-square: Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option page or integrate it more with the site.
 
 ##
 
-:fa-square: Link spell lists with thier respective spells.
+:fa-square: Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
 ##
 
