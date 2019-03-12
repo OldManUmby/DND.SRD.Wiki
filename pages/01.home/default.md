@@ -15,13 +15,13 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats. Markdown is often used to create readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Sigillum-Rasa GitHub repository](https://github.com/sigillumrasa/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
+! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Cry Havoc Studio GitHub repository](https://github.com/CryHavocStudio/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
 
 **NEW FEATURES:** Powerful search engins now available! Search the D&D 5E SRD using our standard highlight search tool, or use the new _Advanced TNT Search_, both of these search engines are located in the left-hand sidebar, or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
-[Download the SRD v5.1 in Markdown format (compilation)](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md)
+[Download the SRD v5.1 in Markdown format (compilation)](https://github.com/CryHavocStudio/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md)
 
 ---
 
@@ -33,4 +33,4 @@ Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/artic
 |:----------------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------- |
 | ![PHB](DnD_PHB.jpg)                                                                                                     | ![DMG](DnD_DMG.jpg)                                                                                                    | ![MM](DnD_MM.jpg)                                                                                               |
 
-Website by [Sigillum-Rasa](http://sigillum-rasa.enterprises). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
+Website by [Cry Havoc Studio](http://cryhavoc.studio). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
