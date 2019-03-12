@@ -94,7 +94,7 @@ title: Changelog
 
 ##
 
-:fa-square: Create a new secondary spell section; Organize spells by class and level instead of alphabetically.
+:fa-square: Create a new secondary spell section; organize spells by class and level.
 
 ##
 
