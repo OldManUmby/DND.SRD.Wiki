@@ -86,6 +86,10 @@ title: Changelog
 
 ## Coming Soon!
 
+:fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
+
+##
+
 :fa-square: Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option page or integrate it more with the site.
 
 ##
