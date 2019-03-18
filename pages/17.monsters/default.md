@@ -1,5 +1,5 @@
 ---
-title: Monsters
+title: Monster
 ---
 
 [TOC]
@@ -17,7 +17,7 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 **Size Categories (table)**
 
 | Size       | Space                  | Examples            |
-|------------|------------------------|---------------------|
+| ---------- | ---------------------- | ------------------- |
 | Tiny       | 2½ by 2½ ft.           | Imp, sprite         |
 | Small      | 5 by 5 ft.             | Giant rat, goblin   |
 | Medium     | 5 by 5 ft.             | Orc, werewolf       |
@@ -90,7 +90,7 @@ A monster’s size determines the die used to calculate its hit points, as shown
 #### Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
-|--------------|---------|--------------------|
+| ------------ | ------- | ------------------ |
 | Tiny         | d4      | 2½                 |
 | Small        | d6      | 3½                 |
 | Medium       | d8      | 4½                 |
@@ -138,7 +138,7 @@ A saving throw bonus is the sum of a monster’s relevant ability modifier and i
 **Proficiency Bonus by Challenge Rating (table)**
 
 | Challenge | Proficiency Bonus |
-|-----------|-------------------|
+| --------- | ----------------- |
 | 0         | +2                |
 | 1/8       | +2                |
 | 1/4       | +2                |
@@ -245,7 +245,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 **Experience Points by Challenge Rating (table)**
 
 | Challenge | XP      |
-|-----------|---------|
+| --------- | ------- |
 | 0         | 0 or 10 |
 | 1/8       | 25      |
 | 1/4       | 50      |
@@ -382,7 +382,7 @@ _Large aberration, lawful evil_
 **Speed** 10 ft., swim 40 ft.
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
-|---------|--------|---------|---------|---------|---------|
+| ------- | ------ | ------- | ------- | ------- | ------- |
 | 21 (+5) | 9 (−1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Con +6, Int +8, Wis +6
@@ -436,7 +436,7 @@ _Medium celestial, lawful good_
 **Speed** 30 ft., fly 90 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
 **Saving Throws** Wis +9, Cha +9
@@ -485,7 +485,7 @@ _Large celestial, lawful good_
 **Speed** 40 ft., fly 120 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
 
 **Saving Throws** Con +12, Wis +11, Cha +12
@@ -533,7 +533,7 @@ _Large celestial, lawful good_
 **Speed** 50 ft., fly 150 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA      |
-|---------|---------|---------|---------|---------|----------|
+| ------- | ------- | ------- | ------- | ------- | -------- |
 | 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
@@ -599,7 +599,7 @@ _Medium construct, unaligned_
 **Speed** 25 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 14 (+2) | 11 (+0) | 13 (+1) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
@@ -635,7 +635,7 @@ _Small construct, unaligned_
 **Speed** 0 ft., fly 50 ft. (hover)
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 12 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 5 (−3) | 1 (−5) |
 
 **Saving Throws** Dex +4
@@ -669,7 +669,7 @@ _Large construct, unaligned_
 **Speed** 10 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 17 (+3) | 14 (+2) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Damage Immunities** poison, psychic
@@ -703,7 +703,7 @@ _Large monstrosity, unaligned_
 **Speed** 30 ft., burrow 10 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 11 (+0) | 13 (+1) | 1 (−5) | 13 (+1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
@@ -729,7 +729,7 @@ _Medium elemental, lawful neutral_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
 **Saving Throws** Con +4
@@ -767,7 +767,7 @@ _Medium monstrosity, unaligned_
 **Speed** 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 16 (+3) | 8 (−1) | 15 (+2) | 2 (−4) | 8 (−1) | 7 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 9
@@ -797,7 +797,7 @@ _Huge monstrosity, neutral evil_
 **Speed** 50 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 23 (+6) | 16 (+3) | 18 (+4) | 7 (−2) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +6, Stealth +7
@@ -834,8 +834,8 @@ _Medium humanoid (goblinoid), chaotic evil_
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 14 (+2) | 13 (+1) | 8 (−1) | 11 (+0) | 9 (−1) |
 
 **Skills** Stealth +6, Survival +2
@@ -867,7 +867,7 @@ _Large monstrosity, unaligned_
 **Speed** 40 ft., burrow 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 11 (+0) | 21 (+5) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Skills** Perception +6
@@ -899,7 +899,7 @@ _Large monstrosity, neutral good_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 18 (+4) | 14 (+2) | 14 (+2) | 9 (−1) | 13 (+1) | 11 (+0) |
 
 **Skills** Athletics +6, Perception +3, Survival +3
@@ -933,7 +933,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 19 (+4) | 11 (+0) | 19 (+4) | 3 (−4) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +8
@@ -967,7 +967,7 @@ _Large aberration, chaotic evil_
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 11 (+0) | 5 (−3) |
 
 **Skills** Perception +4
@@ -1005,7 +1005,7 @@ _Large aberration, chaotic neutral_
 **Speed** 10 ft., fly 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
 **Skills** Stealth +5
@@ -1049,7 +1049,7 @@ _Small monstrosity, unaligned_
 **Speed** 20 ft., fly 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
+| ------ | ------- | ------- | ------ | ------- | ------ |
 | 6 (−2) | 12 (+1) | 12 (+1) | 2 (−4) | 13 (+1) | 5 (−3) |
 
 **Senses** darkvision 60 ft., passive Perception 11
@@ -1073,7 +1073,7 @@ _Medium celestial, lawful good_
 **Speed** 30 ft., fly 90 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
 **Saving Throws** Con +5, Wis +7, Cha +6
@@ -1121,7 +1121,7 @@ _Small monstrosity, unaligned_
 **Speed** 10 ft., fly 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
 **Skills** Stealth +3
@@ -1159,7 +1159,7 @@ _Huge fiend (demon), chaotic evil_
 **Speed** 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
 **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
@@ -1205,7 +1205,7 @@ _Small fiend (demon), chaotic evil_
 **Speed** 20 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 11 (+0) | 11 (+0) | 12 (+1) | 5 (−3) | 8 (−1) | 3 (−4) |
 
 **Damage Resistances** cold, fire, lightning
@@ -1241,7 +1241,7 @@ _Large fiend (demon), chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
 
 **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
@@ -1284,7 +1284,7 @@ _Large fiend (demon), chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 19 (+4) | 17 (+3) | 20 (+5) | 5 (−3) | 12 (+1) | 13 (+1) |
 
 **Saving Throws** Str +7, Con +8, Wis +4
@@ -1324,7 +1324,7 @@ _Large fiend (demon), chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
 
 **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
@@ -1372,7 +1372,7 @@ _Large fiend (demon), chaotic evil_
 **Speed** 20 ft., fly 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
@@ -1414,7 +1414,7 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 **Speed** 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +5
@@ -1454,7 +1454,7 @@ _Large fiend (demon), chaotic evil_
 **Speed** 40 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
@@ -1498,7 +1498,7 @@ _Medium fiend (devil), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
@@ -1544,7 +1544,7 @@ _Medium fiend (devil), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Str +5, Con +4, Wis +2
@@ -1586,7 +1586,7 @@ _Large fiend (devil), lawful evil_
 **Speed** 40 ft., fly 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
 
 **Saving Throws** Int +5, Wis +6, Cha +7
@@ -1628,7 +1628,7 @@ _Medium fiend (devil), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Saving Throws** Con +7, Wis +4, Cha +5
@@ -1674,7 +1674,7 @@ _Medium fiend (devil), lawful evil_
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
@@ -1718,7 +1718,7 @@ _Large fiend (devil), lawful evil_
 **Speed** 20 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
@@ -1760,7 +1760,7 @@ _Large fiend (devil), lawful evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
@@ -1789,8 +1789,8 @@ _Tiny fiend (devil, shapechanger), lawful evil_
 
 **Speed** 20 ft., fly 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
@@ -1849,7 +1849,7 @@ _Medium fiend (devil), lawful evil_
 **Speed** 15 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 10 (+0) | 5 (−3) | 11 (+0) | 1 (−5) | 11 (+0) | 3 (−4) |
 
 **Damage Resistances** cold
@@ -1883,7 +1883,7 @@ _Large fiend (devil), lawful evil_
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
 **Saving Throws** Dex +8, Con +13, Wis +10
@@ -1936,7 +1936,7 @@ _Large beast, unaligned_
 **Speed** 20 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
 **Skills** Perception +3, Stealth +4
@@ -1964,7 +1964,7 @@ _Huge beast, unaligned_
 **Speed** 50 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 22 (+6) | 9 (−1) | 17 (+3) | 2 (−4) | 11 (+0) | 5 (−3) |
 
 **Senses** passive Perception 10
@@ -1994,7 +1994,7 @@ _Huge beast, unaligned_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4) | 12 (+1) | 9 (−1) |
 
 **Skills** Perception +4
@@ -2024,7 +2024,7 @@ _Medium monstrosity (shapechanger), neutral_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Skills** Deception +6, Insight +3
@@ -2066,7 +2066,7 @@ _Gargantuan dragon, chaotic evil_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
@@ -2120,7 +2120,7 @@ _Huge dragon, chaotic evil_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
@@ -2174,7 +2174,7 @@ _Large dragon, chaotic evil_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
@@ -2212,7 +2212,7 @@ _Medium dragon, chaotic evil_
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
@@ -2248,7 +2248,7 @@ _Gargantuan dragon, lawful evil_
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
@@ -2300,7 +2300,7 @@ _Huge dragon, lawful evil_
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
@@ -2352,7 +2352,7 @@ _Large dragon, lawful evil_
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
@@ -2388,7 +2388,7 @@ _Medium dragon, lawful evil_
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
@@ -2422,7 +2422,7 @@ _Huge dragon, lawful evil_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
@@ -2478,7 +2478,7 @@ _Large dragon, lawful evil_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
@@ -2518,7 +2518,7 @@ _Medium dragon, lawful evil_
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
@@ -2556,7 +2556,7 @@ _Gargantuan dragon, chaotic evil_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
+| -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
@@ -2608,7 +2608,7 @@ _Huge dragon, chaotic evil_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
@@ -2660,7 +2660,7 @@ _Large dragon, chaotic evil_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
@@ -2696,7 +2696,7 @@ _Medium dragon, chaotic evil_
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
@@ -2730,7 +2730,7 @@ _Gargantuan dragon, chaotic evil_
 **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
@@ -2784,7 +2784,7 @@ _Huge dragon, chaotic evil_
 **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 22 (+6) | 10 (+0) | 22 (+6) | 8 (−1) | 12 (+1) | 12 (+1) |
 
 **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
@@ -2839,7 +2839,7 @@ _Large dragon, chaotic evil_
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2) | 11 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
@@ -2877,7 +2877,7 @@ _Medium dragon, chaotic evil_
 **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 14 (+2) | 10 (+0) | 14 (+2) | 5 (−3) | 10 (+0) | 11 (+0) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
@@ -2913,7 +2913,7 @@ _Gargantuan dragon, chaotic good_
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +6, Con +13, Wis +8, Cha +10
@@ -2973,7 +2973,7 @@ _Huge dragon, chaotic good_
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
@@ -3029,7 +3029,7 @@ _Large dragon, chaotic good_
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
@@ -3069,7 +3069,7 @@ _Medium dragon, chaotic good_
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
@@ -3107,7 +3107,7 @@ _Gargantuan dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
@@ -3169,7 +3169,7 @@ _Huge dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
@@ -3231,7 +3231,7 @@ _Large dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
@@ -3273,7 +3273,7 @@ _Medium dragon, lawful good_
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
@@ -3313,7 +3313,7 @@ _Gargantuan dragon, chaotic good_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
@@ -3373,7 +3373,7 @@ _Huge dragon, chaotic good_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
@@ -3429,7 +3429,7 @@ _Large dragon, chaotic good_
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
@@ -3469,7 +3469,7 @@ _Medium dragon, chaotic good_
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
@@ -3507,7 +3507,7 @@ _Gargantuan dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
+| -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
 
 **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
@@ -3569,7 +3569,7 @@ _Huge dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
 
 **Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
@@ -3631,7 +3631,7 @@ _Large dragon, lawful good_
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
 
 **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
@@ -3673,7 +3673,7 @@ _Medium dragon, lawful good_
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
 
 **Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
@@ -3713,7 +3713,7 @@ _Gargantuan dragon, lawful good_
 **Speed** 40 ft., fly 80 ft.
 
 | STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
+| -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
@@ -3773,7 +3773,7 @@ _Huge dragon, lawful good_
 **Speed** 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
@@ -3833,7 +3833,7 @@ _Large dragon, lawful good_
 **Speed** 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
@@ -3873,7 +3873,7 @@ _Medium dragon, lawful good_
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
@@ -3909,7 +3909,7 @@ _Gargantuan dragon, neutral_
 **Speed** 20 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
 **Saving Throws** Dex +6, Con +11, Wis +7
@@ -3947,7 +3947,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +5, Stealth +9
@@ -3992,7 +3992,7 @@ _Medium fey, neutral_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
 
 **Skills** Perception +4, Stealth +5
@@ -4036,7 +4036,7 @@ _Medium humanoid (dwarf), lawful evil_
 **Speed** 25 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1) |
 
 **Damage Resistances** poison
@@ -4076,7 +4076,7 @@ _Large elemental, neutral_
 **Speed** 0 ft., fly 90 ft. (hover)
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
 
 **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -4114,7 +4114,7 @@ _Large elemental, neutral_
 **Speed** 30 ft., burrow 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 **Damage Vulnerabilities** thunder
@@ -4152,7 +4152,7 @@ _Large elemental, neutral_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 10 (+0) | 17 (+3) | 16 (+3) | 6 (−2) | 10 (+0) | 7 (−2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -4189,8 +4189,8 @@ _Large elemental, neutral_
 
 **Speed** 30 ft., swim 90 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -4232,7 +4232,7 @@ _Medium humanoid (elf), neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2, Stealth +4
@@ -4269,7 +4269,7 @@ _Medium monstrosity, neutral evil_
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 15 (+2) | 13 (+1) | 7 (−2) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +3, Stealth +4, Survival +3
@@ -4307,7 +4307,7 @@ _Large giant, chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 **Skills** Perception +4
@@ -4345,7 +4345,7 @@ _Medium plant, unaligned_
 **Speed** 0 ft.
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
-|--------|--------|---------|--------|--------|--------|
+| ------ | ------ | ------- | ------ | ------ | ------ |
 | 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Condition Immunities** blinded, deafened, frightened
@@ -4373,7 +4373,7 @@ _Medium plant, unaligned_
 **Speed** 5 ft.
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
-|--------|--------|---------|--------|--------|--------|
+| ------ | ------ | ------- | ------ | ------ | ------ |
 | 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
 **Condition Immunities** blinded, deafened, frightened
@@ -4406,7 +4406,7 @@ _Medium elemental, chaotic evil_
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
@@ -4444,7 +4444,7 @@ _Large elemental, chaotic good_
 **Speed** 30 ft., fly 90 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
 
 **Saving Throws** Dex +6, Wis +7, Cha +9
@@ -4486,7 +4486,7 @@ _Large elemental, lawful evil_
 **Speed** 40 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Int +7, Wis +6, Cha +7
@@ -4526,7 +4526,7 @@ _Medium undead, any alignment_
 **Speed** 0 ft., fly 40 ft. (hover)
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
 **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -4570,7 +4570,7 @@ _Medium undead, chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Damage Resistances** necrotic
@@ -4606,7 +4606,7 @@ _Medium undead, chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
 
 **Damage Immunities** poison
@@ -4638,7 +4638,7 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
 **Saving Throws** Con +10, Wis +7, Cha +7
@@ -4678,7 +4678,7 @@ _Huge giant, lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
-|---------|--------|---------|---------|---------|---------|
+| ------- | ------ | ------- | ------- | ------- | ------- |
 | 25 (+7) | 9 (−1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +10, Cha +5
@@ -4712,7 +4712,7 @@ _Huge giant, neutral evil_
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA     |
-|---------|--------|---------|--------|---------|---------|
+| ------- | ------ | ------- | ------ | ------- | ------- |
 | 23 (+6) | 9 (−1) | 21 (+5) | 9 (−1) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Con +8, Wis +3, Cha +4
@@ -4746,7 +4746,7 @@ _Huge giant, chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 21 (+5) | 8 (−1) | 19 (+4) | 5 (−3) | 9 (−1) | 6 (−2) |
 
 **Skills** Perception +2
@@ -4776,7 +4776,7 @@ _Huge giant, neutral_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1) |
 
 **Saving Throws** Dex +5, Con +8, Wis +4
@@ -4814,7 +4814,7 @@ _Huge giant, chaotic good_
 **Speed** 50 ft., swim 50 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
@@ -4859,7 +4859,7 @@ _Medium aberration, neutral_
 **Speed** 10 ft., swim 10 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 10 (+0) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 6 (−2) |
 
 **Condition Immunities** prone
@@ -4893,7 +4893,7 @@ _Medium humanoid (gnoll), chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2) | 10 (+0) | 7 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -4923,7 +4923,7 @@ _Small humanoid (gnome), neutral good_
 **Speed** 20 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1) |
 
 **Skills** Investigation +3, Perception +2, Stealth +4
@@ -4960,7 +4960,7 @@ _Small humanoid (goblinoid), neutral evil_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT     | WIS    | CHA    |
-|--------|---------|---------|---------|--------|--------|
+| ------ | ------- | ------- | ------- | ------ | ------ |
 | 8 (−1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
 
 **Skills** Stealth +6
@@ -4992,7 +4992,7 @@ _Large construct, unaligned_
 **Speed** 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 20 (+5) | 9 (−1) | 18 (+4) | 3 (−4) | 8 (−1) | 1 (−5) |
 
 **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
@@ -5034,7 +5034,7 @@ _Medium construct, neutral_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
@@ -5078,7 +5078,7 @@ _Large construct, unaligned_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
@@ -5120,7 +5120,7 @@ _Large construct, unaligned_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 22 (+6) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
@@ -5158,7 +5158,7 @@ _Large monstrosity, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 11 (+0) | 18 (+4) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Skills** Perception +4
@@ -5192,7 +5192,7 @@ _Medium monstrosity, neutral_
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -5224,7 +5224,7 @@ _Large monstrosity, unaligned_
 **Speed** 30 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 8 (−1) |
 
 **Skills** Perception +5
@@ -5256,7 +5256,7 @@ _Medium humanoid (grimlock), neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
 
 **Skills** Athletics +5, Perception +3, Stealth +3
@@ -5294,7 +5294,7 @@ _Medium fey, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
@@ -5334,7 +5334,7 @@ _Medium fiend, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
@@ -5377,7 +5377,7 @@ _Medium fey, chaotic evil_
 **Speed** 30 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 **Senses** darkvision 60 ft., passive Perception 11
@@ -5413,7 +5413,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 **_Resistances_**. The half-dragon gains resistance to a type of damage based on its color.
 
 | Color               | Damage Resistance |
-|---------------------|-------------------|
+| ------------------- | ----------------- |
 | Black or copper     | Acid              |
 | Blue or bronze      | Lightning         |
 | Brass, gold, or red | Fire              |
@@ -5425,7 +5425,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 **_New Action: Breath Weapon_**. The half-dragon has the breath weapon of its dragon half. The half- dragon’s size determines how this action functions.
 
 | Size             | Breath Weapon      | Optional Prerequisite |
-|------------------|--------------------|-----------------------|
+| ---------------- | ------------------ | --------------------- |
 | Large or smaller | As a wyrmling      | Challenge 2 or higher |
 | Huge             | As a young dragon  | Challenge 7 or higher |
 | Gargantuan       | As an adult dragon | Challenge 8 or higher |
@@ -5441,7 +5441,7 @@ _Medium humanoid (human), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
@@ -5477,7 +5477,7 @@ _Medium monstrosity, chaotic evil_
 **Speed** 20 ft., fly 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 13 (+1) |
 
 **Senses** passive Perception 10
@@ -5511,7 +5511,7 @@ _Medium fiend, lawful evil_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 **Skills** Perception +5
@@ -5545,7 +5545,7 @@ _Large monstrosity, unaligned_
 **Speed** 40 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +5
@@ -5577,7 +5577,7 @@ _Medium humanoid (goblinoid), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -5605,7 +5605,7 @@ _Tiny construct, neutral_
 **Speed** 20 ft., fly 40 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA    |
-|--------|---------|---------|---------|---------|--------|
+| ------ | ------- | ------- | ------- | ------- | ------ |
 | 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
 
 **Damage Immunities** poison
@@ -5635,7 +5635,7 @@ _Huge monstrosity, unaligned_
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4) | 10 (+0) | 7 (−2) |
 
 **Skills** Perception +6
@@ -5677,7 +5677,7 @@ _Medium elemental, neutral_
 **Speed** 50 ft., fly 50 ft. (hover)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
 **Skills** Perception +8, Stealth +10
@@ -5717,7 +5717,7 @@ _Small humanoid (kobold), lawful evil_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
-|--------|---------|--------|--------|--------|--------|
+| ------ | ------- | ------ | ------ | ------ | ------ |
 | 7 (−2) | 15 (+2) | 9 (−1) | 8 (−1) | 7 (−2) | 8 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 8
@@ -5747,7 +5747,7 @@ _Gargantuan monstrosity (titan)**,** chaotic evil_
 **Speed** 20 ft., swim 60 ft.
 
 | STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
+| -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 11 (+0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
@@ -5805,7 +5805,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +4, Stealth +3
@@ -5843,7 +5843,7 @@ _Medium undead, any evil alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
 
 **Saving Throws** Con +10, Int +12, Wis +9
@@ -5908,7 +5908,7 @@ _Medium humanoid (lizardfolk), neutral_
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
 **Skills** Perception +3, Stealth +4, Survival +5
@@ -5946,7 +5946,7 @@ _Medium humanoid (human, shapechanger), neutral good_
 **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
 **Skills** Perception +7
@@ -5984,7 +5984,7 @@ _Medium humanoid (human, shapechanger), neutral evil_
 **Speed** 30 ft. (40 ft. in boar form)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
 
 **Skills** Perception +2
@@ -6022,7 +6022,7 @@ _Medium humanoid (human, shapechanger), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Skills** Perception +2, Stealth +4
@@ -6060,7 +6060,7 @@ _Medium humanoid (human, shapechanger), neutral_
 **Speed** 30 ft. (40 ft. in tiger form)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +5, Stealth +4
@@ -6102,7 +6102,7 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 **Speed** 30 ft. (40 ft. in wolf form)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +4, Stealth +3
@@ -6142,7 +6142,7 @@ _Small elemental, chaotic neutral_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -6174,7 +6174,7 @@ _Large monstrosity, lawful evil_
 **Speed** 30 ft., fly 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2) | 12 (+1) | 8 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 11
@@ -6206,7 +6206,7 @@ _Medium monstrosity, lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
 **Skills** Deception +5, Insight +4, Perception +4, Stealth +5
@@ -6246,7 +6246,7 @@ _Small elemental, neutral evil_
 **Speed** 30 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 5 (−3) | 14 (+2) | 10 (+0) | 9 (−1) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2, Stealth +4
@@ -6284,7 +6284,7 @@ _Small elemental, neutral evil_
 **Speed** 30 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 7 (−2) | 13 (+1) | 10 (+0) | 9 (−1) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2, Stealth +3
@@ -6324,7 +6324,7 @@ _Small elemental, neutral evil_
 **Speed** 30 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 8 (−1) | 12 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +3
@@ -6364,7 +6364,7 @@ _Small elemental, neutral evil_
 **Speed** 30 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 5 (−3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Immunities** fire, poison
@@ -6398,7 +6398,7 @@ _Medium humanoid (merfolk), neutral_
 **Speed** 10 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2
@@ -6426,7 +6426,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 10 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1) | 10 (+0) | 9 (−1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -6458,7 +6458,7 @@ _Medium monstrosity (shapechanger), neutral_
 **Speed** 15 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3) | 13 (+1) | 8 (−1) |
 
 **Skills** Stealth +5
@@ -6498,7 +6498,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2) | 16 (+3) | 9 (−1) |
 
 **Skills** Perception +7
@@ -6534,7 +6534,7 @@ _Medium undead**,** lawful evil_
 **Speed** 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA     |
-|---------|--------|---------|--------|---------|---------|
+| ------- | ------ | ------- | ------ | ------- | ------- |
 | 16 (+3) | 8 (−1) | 15 (+2) | 6 (−2) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Wis +2
@@ -6572,7 +6572,7 @@ _Medium undead, lawful evil_
 **Speed** 20 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
 
 **Saving Throws** Con +8, Int +5, Wis +9, Cha +8
@@ -6642,7 +6642,7 @@ _Large monstrosity, lawful good_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
 **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
@@ -6688,7 +6688,7 @@ _Large monstrosity, chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 
@@ -6728,7 +6728,7 @@ _Large fiend, neutral evil_
 **Speed** 60 ft., fly 90 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Damage Immunities** fire
@@ -6762,7 +6762,7 @@ _Large giant, chaotic evil_
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 19 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 7 (−2) | 7 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 8
@@ -6788,7 +6788,7 @@ _Large giant, lawful evil_
 **Speed** 30 ft., fly 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
@@ -6833,7 +6833,7 @@ _Large ooze, unaligned_
 **Speed** 20 ft., climb 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 16 (+3) | 5 (−3) | 16 (+3) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 **Damage Immunities** acid, cold, lightning, slashing
@@ -6873,7 +6873,7 @@ _Large ooze, unaligned_
 **Speed** 15 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 14 (+2) | 3 (−4) | 20 (+5) | 1 (−5) | 6 (−2) | 1 (−5) |
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
@@ -6917,7 +6917,7 @@ _Medium ooze, unaligned_
 **Speed** 10 ft., climb 10 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 12 (+1) | 6 (−2) | 16 (+3) | 1 (−5) | 6 (−2) | 2 (−4) |
 
 **Skills** Stealth +2
@@ -6955,7 +6955,7 @@ _Large ooze, unaligned_
 **Speed** 10 ft., climb 10 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 15 (+2) | 6 (−2) | 14 (+2) | 2 (−4) | 6 (−2) | 1 (−5) |
 
 **Damage Resistances** acid
@@ -6993,7 +6993,7 @@ _Medium humanoid (orc), chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| ------- | ------- | ------- | ------ | ------- | ------- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2) | 11 (+0) | 10 (+0) |
 
 **Skills** Intimidation +2
@@ -7023,7 +7023,7 @@ _Large aberration, neutral_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 11 (+0) | 19 (+4) | 6 (−2) | 13 (+1) | 6 (−2) |
 
 **Saving Throws** Con +7
@@ -7057,7 +7057,7 @@ _Large monstrosity, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4) | 12 (+1) | 7 (−2) |
 
 **Skills** Perception +3
@@ -7091,7 +7091,7 @@ _Large celestial, chaotic good_
 **Speed** 60 ft., fly 90 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +4, Wis +4, Cha +3
@@ -7119,7 +7119,7 @@ _Tiny dragon, neutral good_
 **Speed** 15 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 **Skills** Perception +3, Stealth +4
@@ -7153,7 +7153,7 @@ _Gargantuan monstrosity, unaligned_
 **Speed** 50 ft., burrow 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 28 (+9) | 7 (−2) | 22 (+6) | 1 (−5) | 8 (−1) | 4 (−3) |
 
 **Saving Throws** Con +11, Wis +4
@@ -7189,7 +7189,7 @@ _Medium fiend, lawful evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
 **Skills** Deception +10, Insight +8
@@ -7229,7 +7229,7 @@ _Huge monstrosity, unaligned_
 **Speed** 30 ft., burrow 20 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 24 (+7) | 13 (+1) | 21 (+5) | 4 (−3) | 10 (+0) | 5 (−3) |
 
 **Damage Immunities** cold, fire
@@ -7261,7 +7261,7 @@ _Gargantuan monstrosity, unaligned_
 **Speed** 20 ft., fly 120 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4) | 10 (+0) | 9 (−1) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
@@ -7295,7 +7295,7 @@ _Large monstrosity, neutral evil_
 **Speed** 10 ft., climb 10 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 17 (+3) | 7 (−2) | 16 (+3) | 6 (−2) |
 
 **Skills** Perception +6, Stealth +5
@@ -7333,7 +7333,7 @@ _Medium monstrosity, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4) | 13 (+1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 11
@@ -7367,7 +7367,7 @@ _Medium humanoid (sahuagin), lawful evil_
 **Speed** 30 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
+| ------- | ------- | ------- | ------- | ------- | ------ |
 | 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1) |
 
 **Skills** Perception +5
@@ -7405,7 +7405,7 @@ _Large elemental, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Vulnerabilities** cold
@@ -7443,7 +7443,7 @@ _Medium fey, chaotic neutral_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 **Skills** Perception +2, Performance +6, Stealth +5
@@ -7474,8 +7474,8 @@ _Medium undead, chaotic evil_
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
 | 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)
@@ -7517,7 +7517,7 @@ _Large plant, unaligned_
 **Speed** 20 ft., swim 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
 **Skills** Stealth +2
@@ -7555,7 +7555,7 @@ _Large construct, unaligned_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
@@ -7597,7 +7597,7 @@ _Medium undead, lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
 **Damage Vulnerabilities** bludgeoning
@@ -7629,7 +7629,7 @@ _Large undead, lawful evil_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 18 (+4) | 11 (+0) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
 **Damage Vulnerabilities** bludgeoning
@@ -7663,7 +7663,7 @@ _Large undead, lawful evil_
 **Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 18 (+4) | 12 (+1) | 15 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
 
 **Damage Vulnerabilities** bludgeoning
@@ -7693,7 +7693,7 @@ _Medium undead, chaotic evil_
 **Speed** 0 ft., fly 50 ft. (hover)
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -7729,7 +7729,7 @@ _Large monstrosity, lawful neutral_
 **Speed** 40 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
@@ -7795,7 +7795,7 @@ _Large monstrosity, lawful neutral_
 **Speed** 40 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
 **Skills** Arcana +12, History +12, Perception +8, Religion +8
@@ -7852,7 +7852,7 @@ _Tiny fey, neutral good_
 **Speed** 10 ft., fly 40 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 3 (−4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +8
@@ -7884,7 +7884,7 @@ _Tiny beast, unaligned_
 **Speed** 10 ft., fly 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
-|--------|---------|---------|--------|--------|--------|
+| ------ | ------- | ------- | ------ | ------ | ------ |
 | 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
 **Senses** darkvision 60 ft., passive Perception 9
@@ -7910,7 +7910,7 @@ _Medium fiend (shapechanger), neutral evil_
 **Speed** 30 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
@@ -7953,8 +7953,8 @@ _Gargantuan monstrosity (titan), unaligned_
 
 **Speed** 40 ft.
 
-| STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
+| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+| -------- | ------- | -------- | ------ | ------- | ------- |
 | 30 (+10) | 11 (+0) | 30 (+10) | 3 (−4) | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Int +5, Wis +9, Cha +9
@@ -8017,7 +8017,7 @@ _Huge plant, chaotic good_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
-|---------|--------|---------|---------|---------|---------|
+| ------- | ------ | ------- | ------- | ------- | ------- |
 | 23 (+6) | 8 (−1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 **Damage Resistances** bludgeoning, piercing
@@ -8055,7 +8055,7 @@ _Large giant, chaotic evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 18 (+4) | 13 (+1) | 20 (+5) | 7 (−2) | 9 (−1) | 7 (−2) |
 
 **Skills** Perception +2
@@ -8091,7 +8091,7 @@ _Large celestial**,** lawful good_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
 **Damage Immunities** poison
@@ -8152,7 +8152,7 @@ _Medium undead (shapechanger), lawful evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +9, Wis +7, Cha +9
@@ -8228,7 +8228,7 @@ _Medium undead, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +6, Wis +3
@@ -8278,7 +8278,7 @@ _Medium undead, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Skills** Perception +3, Stealth +4
@@ -8320,7 +8320,7 @@ _Tiny undead, chaotic evil_
 **Speed** 0 ft., fly 50 ft. (hover)
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 1 (−5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
 **Damage Immunities** lightning, poison
@@ -8360,7 +8360,7 @@ _Medium undead, neutral evil_
 **Speed** 0 ft., fly 60 ft. (hover)
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
@@ -8395,8 +8395,8 @@ _Large dragon, unaligned_
 
 **Speed** 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 12 (+1) | 6 (−2) |
 
 **Skills** Perception +4
@@ -8430,7 +8430,7 @@ _Medium elemental, neutral_
 **Speed** 20 ft., burrow 20 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
 **Skills** Perception +6, Stealth +3
@@ -8472,7 +8472,7 @@ _Medium undead, neutral evil_
 **Speed** 20 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 
 **Saving Throws** Wis +0
@@ -8504,7 +8504,7 @@ _Large undead, neutral evil_
 **Speed** 30 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
+| ------- | ------ | ------- | ------ | ------ | ------ |
 | 19 (+4) | 6 (−2) | 18 (+4) | 3 (−4) | 6 (−2) | 5 (−3) |
 
 **Saving Throws** Wis +0
