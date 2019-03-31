@@ -6,7 +6,8 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 [center]Site Updated: [March 31st 2019](https://ogl-srd5.com/changelog#march-31st-2019)[/center]
 ![D&D Logo](DnD_Logo.png)
 
-!! [center]Currently there are issues displaying very long pages such as Classes, Spellcasting, Magic Items and Mosters. We are working on resolving the issue. Thanks for your patients![/center]
+!! [center]Currently there are issues displaying very long pages such as Classes, Spellcasting, Magic Items and Mosters. We are working on resolving the issue.
+Thanks for your patients![/center]
 
 ![Starter Image](DnD_Starter_Art.jpg)
 
