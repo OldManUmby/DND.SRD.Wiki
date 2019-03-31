@@ -84,6 +84,10 @@ title: Changelog
 
 :fa-check-square: Add a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option to the SRD.
 
+## March 31st, 2019
+
+:fa-check-square: Merged various Markdown edits from GitHub contributors. Thank you!
+
 ## Coming Soon!
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
