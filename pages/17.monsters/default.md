@@ -1,5 +1,5 @@
 ---
-title: Monsters
+title: Monster
 ---
 
 [TOC]
