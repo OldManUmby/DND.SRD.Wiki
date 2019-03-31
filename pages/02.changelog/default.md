@@ -86,7 +86,7 @@ title: Changelog
 
 ## March 31st, 2019
 
-:fa-check-square: Merged various Markdown edits from GitHub contributors. Thank you!
+:fa-check-square: Merged various Markdown [edits](https://github.com/CryHavocStudio/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
 ## Coming Soon!
 
