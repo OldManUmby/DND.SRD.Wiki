@@ -153,7 +153,9 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 **_Finesse._** When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+**_Heavy._** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. 
+
+**_Light._** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 **_Loading._** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
