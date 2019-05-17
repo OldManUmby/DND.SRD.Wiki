@@ -22,7 +22,7 @@ title: Changelog
 
 ##
 
-:fa-check-square: Create [OGL-SRD5.com](http://ogl-srd5.com) hosting account with [Sigillum-Rasa](http://sigillum-rasa.enterprises).
+:fa-check-square: Create [OGL-SRD5.com](http://ogl-srd5.com) hosting account with [Cry Havoc Studio](http://cryhavoc.studio).
 
 ##
 
@@ -66,7 +66,7 @@ title: Changelog
 
 ##
 
-:fa-check-square: Create a Markdown compilation of all SRD pages at the [SRD GitHub repo](https://github.com/sigillumrasa/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
+:fa-check-square: Create a Markdown compilation of all SRD pages at the [SRD GitHub repo](https://github.com/cryhavocstudio/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
 
 ##
 
@@ -87,6 +87,10 @@ title: Changelog
 ## March 31st, 2019
 
 :fa-check-square: Merged various Markdown [edits](https://github.com/CryHavocStudio/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+
+## May 17th, 2019
+
+:fa-check-square: Reinstalled [Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-theme-learn2-git-sync) theme and [GRAV](https://getgrav.org) from scratch, thus fixing an issue with some long markdown pages not displaying or generating an Error 505.
 
 ## Coming Soon!
 

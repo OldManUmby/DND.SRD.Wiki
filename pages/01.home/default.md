@@ -3,9 +3,7 @@ title: Introduction
 media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg'
 ---
 
-[center]Site Updated: [March 31st 2019](https://ogl-srd5.com/changelog#march-31st-2019)[/center]
-
-!! [center]Currently, there are issues displaying very long pages such as Classes, Spellcasting, Magic Items and Monsters. These pages may show a "blank" page or "Error 500", we are working to resolve the issue. Thanks for your patience![/center]
+[center]Site Updated: [May 17th 2019](https://ogl-srd5.com/changelog#may-17th-2019)[/center]
 
 ![D&D Logo](DnD_Logo.png)
 
