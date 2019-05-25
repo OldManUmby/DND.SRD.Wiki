@@ -25,3 +25,7 @@
 Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules), plus [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
 By permission, this project and the associated website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
+
+Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
+
+Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
