@@ -92,6 +92,10 @@ title: Changelog
 
 :fa-check-square: Reinstalled [Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-theme-learn2-git-sync) theme and [GRAV](https://getgrav.org) from scratch, thus fixing an issue with some long markdown pages not displaying or generating an Error 505. Installed various GRAV plugins to match previous site installation. Changed the default theme colors for a more printer-friendly interface.
 
+## May 25th, 2019
+
+:fa-check-square: Merged various Markdown [edits](https://github.com/CryHavocStudio/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+
 ## Coming Soon!
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
