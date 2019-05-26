@@ -5,7 +5,7 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 
 [center]Site Updated: [May 26th 2019](https://ogl-srd5.com/changelog#may26th2019)[/center]
 
-![D&D SRD5 Remastered](D&D%20SRD5%20Remastered.png)
+![D&D SRD5 Remastered](D&D_SRD5_Remastered.png)
 
 ![Starter Image](DnD_Starter_Art.jpg)
 
