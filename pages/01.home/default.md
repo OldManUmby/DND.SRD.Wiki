@@ -9,7 +9,7 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 
 ![Starter Image](DnD_Starter_Art.jpg)
 
-#### Welcome to the online Dungeons & Dragons 5th Ed. System Reference Document v5.1 in Markdown Format!
+#### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document v5.1 in Markdown Format!
 
 ---
 
