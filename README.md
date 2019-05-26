@@ -6,7 +6,7 @@
 
 ---
 
-**View or Quick-Search** through this material online via the project's official website at: [www.ogl-srd5.com](http://ogl-srd5.com)
+**Powerful SRD search** of this material available via the project's official website at: [www.ogl-srd5.com](http://ogl-srd5.com)
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
