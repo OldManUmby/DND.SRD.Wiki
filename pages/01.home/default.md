@@ -19,7 +19,11 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 
 ! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly converted the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Cry Havoc Studio GitHub repository](https://github.com/CryHavocStudio/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
 
-**NEW FEATURES:** Powerful search engins now available! Search the D&D 5E SRD using our standard highlight search field, or use the new _TNT Search_, an advanced full-text search, both of these search engines are located in the left-hand sidebar, or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+#### New Features
+1. **Powerful search engins** now available! Search the D&D 5E SRD using our standard highlight search field, or use the new _TNT Search_, an advanced full-text search, both of these search engines are located in the left-hand sidebar, or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+2. **Public editing** and the correction of errors on pages now available directly through GitHub. Links can be found in the upper right-hand corner of each page. **NOTE:** A free GitHub account/membership is required. **WARNING:** Abuse of this wiki-like process shall not be tollerated resulting in the denial of public editing. Thank you for your cooperation and collaboration!
+
+#### Downloads
 
 [Download the official SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 
