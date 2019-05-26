@@ -96,6 +96,10 @@ title: Changelog
 
 :fa-check-square: Merged various Markdown [edits](https://github.com/CryHavocStudio/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
+## May 26th, 2019
+
+:fa-check-square: Ajusted page text on Home Defailt.md to reflect new public wiki-like features thru [GitHub](http://github.com).
+
 ## Coming Soon!
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
