@@ -1,11 +1,11 @@
 ---
 title: Introduction
-media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg'
+media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg,D&D SRD5 Remastered.png'
 ---
 
 [center]Site Updated: [May 26th 2019](https://ogl-srd5.com/changelog#may26th2019)[/center]
 
-![D&D Logo](DnD_Logo.png)
+![D&D SRD5 Remastered](D&D%20SRD5%20Remastered.png)
 
 ![Starter Image](DnD_Starter_Art.jpg)
 
