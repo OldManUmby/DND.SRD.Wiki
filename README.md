@@ -1,6 +1,6 @@
 # OGL-SRD5
 
-![D&D Logo](D&D SRD5 Remastered.png)
+![D&D Logo](DnD_SRD5_Remastered.png)
 
 ## Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (SRD) v5.1 Remastered in Markdown Format!
 
