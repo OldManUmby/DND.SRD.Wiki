@@ -261,7 +261,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 ##### Spellcasting Focus
 
-You can use a musical instrument (see chapter 5, “Equip-ment”) as a spellcasting focus for your bard spells.
+You can use a musical instrument (see chapter 5, “Equipment”) as a spellcasting focus for your bard spells.
 
 #### Bardic Inspiration
 
