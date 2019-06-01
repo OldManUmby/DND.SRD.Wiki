@@ -104,7 +104,12 @@ title: Changelog
 
 :fa-check-square: Updated copyright text for readability.
 
-## Coming Soon!
+## To Do!
+
+/**
+ * @todo Take over the world
+ * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
+ */
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
 
