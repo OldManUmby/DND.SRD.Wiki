@@ -109,7 +109,7 @@ title: Changelog
 [//]: # @todo Take over the world!
 [//]: # @body More testing is needed on this ToDo app. Keep trying!
 
-:fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
+:fa-square: Adjust SRD for errata; awaiting official updates from [Wizards](http://dnd.wizards.com).
 
 ##
 
