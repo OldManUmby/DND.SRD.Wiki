@@ -109,7 +109,7 @@ title: Changelog
 /**
  * @todo Take over the world
  * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
- */
+ **/
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
 
