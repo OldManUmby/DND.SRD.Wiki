@@ -100,6 +100,10 @@ title: Changelog
 
 :fa-check-square: Ajusted page text on Home Defailt.md to reflect new public wiki-like features thru [GitHub](http://github.com).
 
+## June 1st, 2019
+
+:fa-check-square: Updated copyright text for readability.
+
 ## Coming Soon!
 
 :fa-square: Adjust SRD for errata; awaiting official update from [Wizards](http://dnd.wizards.com).
