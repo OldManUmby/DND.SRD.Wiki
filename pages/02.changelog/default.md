@@ -55,6 +55,7 @@ title: Changelog
 ## June 1st, 2019
 
 -   [x] Updated copyright text for readability.
+-   [x] Updated Markdown in Changelog removing Font Awesome syntax.
 
 ## To Do!
 
