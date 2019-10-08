@@ -2493,11 +2493,11 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 **_Swarm of Spiders_**. A swarm of spiders has the following additional traits.
 
-_Spider Climb._ The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+_Spider Climb_. The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-_Web Sense._ While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
+_Web Sense_. While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
 
-_Web Walker._ The swarm ignores movement restrictions caused by webbing.
+_Web Walker_. The swarm ignores movement restrictions caused by webbing.
 
 **_Swarm of Wasps_**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
 

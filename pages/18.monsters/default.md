@@ -610,7 +610,7 @@ _Medium construct, unaligned_
 
 **Challenge** 1 (200 XP)
 
-**_Antimagic Susceptibility_**. The armor is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the armor must succeed on a
+**_Antimagic Susceptibility_**. The armor is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the armor must succeed on a
 
 Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
@@ -648,7 +648,7 @@ _Small construct, unaligned_
 
 **Challenge** 1/4 (50 XP)
 
-**_Antimagic Susceptibility_**. The sword is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antimagic Susceptibility_**. The sword is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
 **_False Appearance_**. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
 
@@ -680,7 +680,7 @@ _Large construct, unaligned_
 
 **Challenge** 2 (450 XP)
 
-**_Antimagic Susceptibility_**. The rug is incapacitated while in the area of an _antimagic field._ If targeted by _dispel magic_, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+**_Antimagic Susceptibility_**. The rug is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 
 **_Damage Transfer_**. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 
@@ -8183,13 +8183,13 @@ While it has 0 hit points in mist form, it can’t revert to its vampire form, a
 
 **_Vampire Weaknesses_**. The vampire has the following flaws:
 
-_Forbiddance._ The vampire can’t enter a residence without an invitation from one of the occupants.
+_Forbiddance_. The vampire can’t enter a residence without an invitation from one of the occupants.
 
-_Harmed by Running Water._ The vampire takes 20 acid damage if it ends its turn in running water.
+_Harmed by Running Water_. The vampire takes 20 acid damage if it ends its turn in running water.
 
-_Stake to the Heart._ If a piercing weapon made of wood is driven into the vampire’s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
+_Stake to the Heart_. If a piercing weapon made of wood is driven into the vampire’s heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
 
-_Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+_Sunlight Hypersensitivity_. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 **Actions**
 
@@ -8247,13 +8247,13 @@ _Medium undead, neutral evil_
 
 **_Vampire Weaknesses_**. The vampire has the following flaws:
 
-_Forbiddance._ The vampire can’t enter a residence without an invitation from one of the occupants.
+_Forbiddance_. The vampire can’t enter a residence without an invitation from one of the occupants.
 
-_Harmed by Running Water._ The vampire takes 20 acid damage when it ends its turn in running water.
+_Harmed by Running Water_. The vampire takes 20 acid damage when it ends its turn in running water.
 
-_Stake to the Heart._ The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
+_Stake to the Heart_. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
 
-_Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+_Sunlight Hypersensitivity_. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 **Actions**
 
