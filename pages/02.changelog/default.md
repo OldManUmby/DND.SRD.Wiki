@@ -12,6 +12,10 @@ title: Changelog
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5)**
 
+## October 8th, 2019
+
+-   [x] Technical corrections in the Markdown across nearly every section, chapter and page.
+
 ## August 22nd, 2019
 
 -   [x] Updated compilation view/download links and "created-by" statement. Reverse-ordered the changelog dates so the latest dates are top of page.
