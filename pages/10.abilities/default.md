@@ -6,12 +6,12 @@ title: 'Ability & Checks'
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
-* **Strength**, measuring physical power
-* **Dexterity**, measuring agility
-* **Constitution**, measuring endurance
-* **Intelligence**, measuring reasoning and memory
-* **Wisdom**, measuring perception and insight
-* **Charisma**, measuring force of personality
+*   **Strength**, measuring physical power
+*   **Dexterity**, measuring agility
+*   **Constitution**, measuring endurance
+*   **Intelligence**, measuring reasoning and memory
+*   **Wisdom**, measuring perception and insight
+*   **Charisma**, measuring force of personality
 
 Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature’s assets as well as weaknesses.
 
@@ -28,7 +28,7 @@ Each ability also has a modifier, derived from the score and ranging from −5 (
 **Ability Scores and Modifiers (table)**
 
 | Score | Modifier |
-|-------|----------|
+| ----- | -------- |
 | 1     | −5       |
 | 2–3   | −4       |
 | 4–5   | −3       |
@@ -86,14 +86,14 @@ The more difficult a task, the higher its DC. The Typical Difficulty Classes tab
 
 **Typical Difficulty Classes (table)**
 
-| Task Difficulty   | DC |
-|-------------------|----|
-| Very easy         | 5  |
-| Easy              | 10 |
-| Medium            | 15 |
-| Hard              | 20 |
-| Very hard         | 25 |
-| Nearly impossible | 30 |
+| Task Difficulty   | DC  |
+| ----------------- | --- |
+| Very easy         | 5   |
+| Easy              | 10  |
+| Medium            | 15  |
+| Hard              | 20  |
+| Very hard         | 25  |
+| Nearly impossible | 30  |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
@@ -115,36 +115,36 @@ The skills related to each ability score are shown in the following list. (No sk
 
 ##### Strength
 
-* Athletics
+*   Athletics
 
 ##### Dexterity
 
-* Acrobatics
-* Sleight of Hand
-* Stealth
+*   Acrobatics
+*   Sleight of Hand
+*   Stealth
 
 ##### Intelligence
 
-* Arcana
-* History
-* Investigation
-* Nature
-* Religion
+*   Arcana
+*   History
+*   Investigation
+*   Nature
+*   Religion
 
 ##### Wisdom
 
-* Animal Handling
-* Insight
-* Medicine
-* Perception
-* Survival
+*   Animal Handling
+*   Insight
+*   Medicine
+*   Perception
+*   Survival
 
 ##### Charisma
 
-* Deception
-* Intimidation
-* Performance
-* Persuasion
+*   Deception
+*   Intimidation
+*   Performance
+*   Persuasion
 
 Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
@@ -196,22 +196,22 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 
 **_Athletics_**. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
 
-* You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
-* You try to jump an unusually long distance or pull off a stunt midjump.
-* You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+*   You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
+*   You try to jump an unusually long distance or pull off a stunt midjump.
+*   You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
 **_Other Strength Checks_**. The GM might also call for a Strength check when you try to accomplish tasks like the following:
 
-* Force open a stuck, locked, or barred door
-* Break free of bonds
-* Push through a tunnel that is too small
-* Hang on to a wagon while being dragged behind it
-* Tip over a statue
-* Keep a boulder from rolling
+*   Force open a stuck, locked, or barred door
+*   Break free of bonds
+*   Push through a tunnel that is too small
+*   Hang on to a wagon while being dragged behind it
+*   Tip over a statue
+*   Keep a boulder from rolling
 
 ##### Attack Rolls and Damage
 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand* to-hand combat, and some of them can be thrown to make a ranged attack.
+You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
 ##### Lifting and Carrying
 
@@ -247,14 +247,14 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 
 **_Other Dexterity Checks_**. The GM might call for a Dexterity check when you try to accomplish tasks like the following:
 
-* Control a heavily laden cart on a steep descent
-* Steer a chariot around a tight turn
-* Pick a lock
-* Disable a trap
-* Securely tie up a prisoner
-* Wriggle free of bonds
-* Play a stringed instrument
-* Craft a small or detailed object
+*   Control a heavily laden cart on a steep descent
+*   Steer a chariot around a tight turn
+*   Pick a lock
+*   Disable a trap
+*   Securely tie up a prisoner
+*   Wriggle free of bonds
+*   Play a stringed instrument
+*   Craft a small or detailed object
 
 ##### Attack Rolls and Damage
 
@@ -292,11 +292,11 @@ Constitution checks are uncommon, and no skills apply to Constitution checks, be
 
 The GM might call for a Constitution check when you try to accomplish tasks like the following:
 
-* Hold your breath
-* March or labor for hours without rest
-* Go without sleep
-* Survive without food or water
-* Quaff an entire stein of ale in one go
+*   Hold your breath
+*   March or labor for hours without rest
+*   Go without sleep
+*   Survive without food or water
+*   Quaff an entire stein of ale in one go
 
 ##### Hit Points
 
@@ -324,12 +324,12 @@ An Intelligence check comes into play when you need to draw on logic, education,
 
 **_Other Intelligence Checks_**. The GM might call for an Intelligence check when you try to accomplish tasks like the following:
 
-* Communicate with a creature without using words
-* Estimate the value of a precious item
-* Pull together a disguise to pass as a city guard
-* Forge a document
-* Recall lore about a craft or trade
-* Win a game of skill
+*   Communicate with a creature without using words
+*   Estimate the value of a precious item
+*   Pull together a disguise to pass as a city guard
+*   Forge a document
+*   Recall lore about a craft or trade
+*   Win a game of skill
 
 ##### Spellcasting Ability
 
@@ -359,8 +359,8 @@ Wisdom (Survival) check to follow tracks, hunt wild game, guide your group throu
 
 Wisdom check when you try to accomplish tasks like the following:
 
-* Get a gut feeling about what course of action to follow
-* Discern whether a seemingly dead or living creature is undead
+*   Get a gut feeling about what course of action to follow
+*   Discern whether a seemingly dead or living creature is undead
 
 ##### Spellcasting Ability
 
@@ -374,7 +374,7 @@ Charisma measures your ability to interact effectively with others. It includes 
 
 A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
 
-**_Deception_**. Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast* talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
+**_Deception_**. Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
 
 **_Intimidation_**. When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
@@ -384,8 +384,8 @@ A Charisma check might arise when you try to influence or entertain others, when
 
 **_Other Charisma Checks_**. The GM might call for a Charisma check when you try to accomplish tasks like the following:
 
-* Find the best person to talk to for news, rumors, and gossip
-* Blend into a crowd to get the sense of key topics of conversation
+*   Find the best person to talk to for news, rumors, and gossip
+*   Blend into a crowd to get the sense of key topics of conversation
 
 ##### Spellcasting Ability
 
@@ -427,7 +427,7 @@ Sometimes it’s important, though, to know how long it takes to get from one sp
 
 #### Speed
 
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life* threatening situation.
+Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
@@ -443,12 +443,12 @@ For each additional hour of travel beyond 8 hours, the characters cover the dist
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
-Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
+Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a _carpet of flying_, allow you to travel more swiftly.
 
 **Travel Pace (table)**
 
 | Pace   | Distance per: Minute | Hour    | Day      | Effect                                           |
-|--------|----------------------|---------|----------|--------------------------------------------------|
+| ------ | -------------------- | ------- | -------- | ------------------------------------------------ |
 | Fast   | 400 feet             | 4 miles | 30 miles | −5 penalty to passive Wisdom (Perception) scores |
 | Normal | 300 feet             | 3 miles | 18 miles | —                                                |
 | Slow   | 200 feet             | 2 miles | 24 miles | Able to use stealth                              |
@@ -599,7 +599,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan’s tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith’s tools needs a forge in order to craft a sword or suit of armor.
 
-For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5* gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
+For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5 gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
 
 Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
 
@@ -619,8 +619,8 @@ You can use downtime between adventures to recover from a debilitating injury, d
 
 After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
 
-* End one effect on you that prevents you from regaining hit points.
-* For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
+*   End one effect on you that prevents you from regaining hit points.
+*   For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
 ##### Researching
 

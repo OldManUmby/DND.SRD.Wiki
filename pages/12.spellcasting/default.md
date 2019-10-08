@@ -126,9 +126,9 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 Normal activity, such as moving and attacking, doesn’t interfere with concentration. The following factors can break concentration:
 
-* **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
-* **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
-* **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+*   **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+*   **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+*   **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you’re on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
@@ -234,985 +234,985 @@ For example, if two clerics cast _bless_ on the same target, that character gain
 
 ##### Cantrips (0 Level)
 
-* Dancing Lights
-* Light
-* Mage Hand
-* Mending
-* Message
-* Minor Illusion
-* Prestidigitation
-* True Strike
+*   Dancing Lights
+*   Light
+*   Mage Hand
+*   Mending
+*   Message
+*   Minor Illusion
+*   Prestidigitation
+*   True Strike
 
 ##### 1st Level
 
-* Bane
-* Charm Person
-* Comprehend Languages
-* Cure Wounds
-* Detect Magic
-* Disguise Self
-* Faerie Fire
-* Feather Fall
-* Healing Word
-* Heroism
-* Hideous Laughter
-* Identify
-* Illusory Script
-* Longstrider
-* Silent Image
-* Sleep
-* Speak with Animals
-* Thunderwave
-* Unseen Servant
+*   Bane
+*   Charm Person
+*   Comprehend Languages
+*   Cure Wounds
+*   Detect Magic
+*   Disguise Self
+*   Faerie Fire
+*   Feather Fall
+*   Healing Word
+*   Heroism
+*   Hideous Laughter
+*   Identify
+*   Illusory Script
+*   Longstrider
+*   Silent Image
+*   Sleep
+*   Speak with Animals
+*   Thunderwave
+*   Unseen Servant
 
 ##### 2nd Level
 
-* Animal Messenger
-* Blindness/Deafness
-* Calm Emotions
-* Detect Thoughts
-* Enhance Ability
-* Enthrall
-* Heat Metal
-* Hold Person
-* Invisibility
-* Knock
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Magic Mouth
-* See Invisibility
-* Shatter
-* Silence
-* Suggestion
-* Zone of Truth
+*   Animal Messenger
+*   Blindness/Deafness
+*   Calm Emotions
+*   Detect Thoughts
+*   Enhance Ability
+*   Enthrall
+*   Heat Metal
+*   Hold Person
+*   Invisibility
+*   Knock
+*   Lesser Restoration
+*   Locate Animals or Plants
+*   Locate Object
+*   Magic Mouth
+*   See Invisibility
+*   Shatter
+*   Silence
+*   Suggestion
+*   Zone of Truth
 
 ##### 3rd Level
 
-* Bestow Curse
-* Clairvoyance
-* Dispel Magic
-* Fear
-* Glyph of Warding
-* Hypnotic Pattern
-* Major Image
-* Nondetection
-* Plant Growth
-* Sending
-* Speak with Dead
-* Speak with Plants
-* Stinking Cloud
-* Tiny Hut
-* Tongues
+*   Bestow Curse
+*   Clairvoyance
+*   Dispel Magic
+*   Fear
+*   Glyph of Warding
+*   Hypnotic Pattern
+*   Major Image
+*   Nondetection
+*   Plant Growth
+*   Sending
+*   Speak with Dead
+*   Speak with Plants
+*   Stinking Cloud
+*   Tiny Hut
+*   Tongues
 
 ##### 4th Level
 
-* Confusion
-* Dimension Door
-* Freedom of Movement
-* Greater Invisibility
-* Hallucinatory Terrain
-* Locate Creature
-* Polymorph
+*   Confusion
+*   Dimension Door
+*   Freedom of Movement
+*   Greater Invisibility
+*   Hallucinatory Terrain
+*   Locate Creature
+*   Polymorph
 
 ##### 5th Level
 
-* Animate Objects
-* Awaken
-* Dominate Person
-* Dream
-* Geas
-* Greater Restoration
-* Hold Monster
-* Legend Lore
-* Mass Cure Wounds
-* Mislead
-* Modify Memory
-* Planar Binding
-* Raise Dead
-* Scrying
-* Seeming
-* Teleportation Circle
+*   Animate Objects
+*   Awaken
+*   Dominate Person
+*   Dream
+*   Geas
+*   Greater Restoration
+*   Hold Monster
+*   Legend Lore
+*   Mass Cure Wounds
+*   Mislead
+*   Modify Memory
+*   Planar Binding
+*   Raise Dead
+*   Scrying
+*   Seeming
+*   Teleportation Circle
 
 ##### 6th Level
 
-* Eyebite
-* Find the Path
-* Guards and Wards
-* Irresistible Dance
-* Mass Suggestion
-* Programmed Illusion
-* True Seeing
+*   Eyebite
+*   Find the Path
+*   Guards and Wards
+*   Irresistible Dance
+*   Mass Suggestion
+*   Programmed Illusion
+*   True Seeing
 
 ##### 7th Level
 
-* Arcane Sword
-* Etherealness
-* Forcecage
-* Magnificent Mansion
-* Mirage Arcane
-* Project Image
-* Regenerate
-* Resurrection
-* Symbol
-* Teleport
+*   Arcane Sword
+*   Etherealness
+*   Forcecage
+*   Magnificent Mansion
+*   Mirage Arcane
+*   Project Image
+*   Regenerate
+*   Resurrection
+*   Symbol
+*   Teleport
 
 ##### 8th Level
 
-* Dominate Monster
-* Feeblemind
-* Glibness
-* Mind Blank
-* Power Word
-* Stun
+*   Dominate Monster
+*   Feeblemind
+*   Glibness
+*   Mind Blank
+*   Power Word
+*   Stun
 
 ##### 9th Level
 
-* Foresight
-* Power Word Kill
-* True Polymorph
+*   Foresight
+*   Power Word Kill
+*   True Polymorph
 
 ### Cleric Spells
 
 ##### Cantrips (0 Level)
 
-* Guidance
-* Light
-* Mending
-* Resistance
-* Sacred Flame
-* Thaumaturgy
+*   Guidance
+*   Light
+*   Mending
+*   Resistance
+*   Sacred Flame
+*   Thaumaturgy
 
 ##### 1st Level
 
-* Bane
-* Bless
-* Command
-* Create or Destroy Water
-* Cure Wounds
-* Detect Evil and Good
-* Detect Magic
-* Detect Poison and Disease
-* Guiding Bolt
-* Healing Word
-* Inflict Wounds
-* Protection from Evil and Good
-* Purify Food and Drink
-* Sanctuary
-* Shield of Faith
+*   Bane
+*   Bless
+*   Command
+*   Create or Destroy Water
+*   Cure Wounds
+*   Detect Evil and Good
+*   Detect Magic
+*   Detect Poison and Disease
+*   Guiding Bolt
+*   Healing Word
+*   Inflict Wounds
+*   Protection from Evil and Good
+*   Purify Food and Drink
+*   Sanctuary
+*   Shield of Faith
 
 ##### 2nd Level
 
-* Aid
-* Augury
-* Blindness/Deafness
-* Calm Emotions
-* Continual Flame
-* Enhance Ability
-* Find Traps
-* Gentle Repose
-* Hold Person
-* Lesser Restoration
-* Locate Object
-* Prayer of Healing
-* Protection from Poison
-* Silence
-* Spiritual Weapon
-* Warding Bond
-* Zone of Truth
+*   Aid
+*   Augury
+*   Blindness/Deafness
+*   Calm Emotions
+*   Continual Flame
+*   Enhance Ability
+*   Find Traps
+*   Gentle Repose
+*   Hold Person
+*   Lesser Restoration
+*   Locate Object
+*   Prayer of Healing
+*   Protection from Poison
+*   Silence
+*   Spiritual Weapon
+*   Warding Bond
+*   Zone of Truth
 
 ##### 3rd Level
 
-* Animate Dead
-* Beacon of Hope
-* Bestow Curse
-* Clairvoyance
-* Create Food and Water
-* Daylight
-* Dispel Magic
-* Glyph of Warding
-* Magic Circle
-* Mass Healing Word
-* Meld into Stone
-* Protection from Energy
-* Remove Curse
-* Revivify
-* Sending
-* Speak with Dead
-* Spirit Guardians
-* Tongues
-* Water Walk
+*   Animate Dead
+*   Beacon of Hope
+*   Bestow Curse
+*   Clairvoyance
+*   Create Food and Water
+*   Daylight
+*   Dispel Magic
+*   Glyph of Warding
+*   Magic Circle
+*   Mass Healing Word
+*   Meld into Stone
+*   Protection from Energy
+*   Remove Curse
+*   Revivify
+*   Sending
+*   Speak with Dead
+*   Spirit Guardians
+*   Tongues
+*   Water Walk
 
 ##### 4th Level
-* Banishment
-* Control Water
-* Death Ward
-* Divination
-* Freedom of Movement
-* Locate Creature
-* Stone Shape
+*   Banishment
+*   Control Water
+*   Death Ward
+*   Divination
+*   Freedom of Movement
+*   Locate Creature
+*   Stone Shape
 
 ##### 5th Level
 
-* Commune
-* Contagion
-* Dispel Evil and Good
-* Flame Strike
-* Geas
-* Greater Restoration
-* Hallow
-* Insect Plague
-* Legend
-* Lore
-* Mass Cure Wounds
-* Planar Binding
-* Raise Dead
-* Scrying
+*   Commune
+*   Contagion
+*   Dispel Evil and Good
+*   Flame Strike
+*   Geas
+*   Greater Restoration
+*   Hallow
+*   Insect Plague
+*   Legend
+*   Lore
+*   Mass Cure Wounds
+*   Planar Binding
+*   Raise Dead
+*   Scrying
 
 ##### 6th Level
 
-* Blade Barrier
-* Create Undead
-* Find the Path
-* Forbiddance
-* Harm
-* Heal
-* Heroes’ Feast
-* Planar Ally
-* True Seeing
-* Word of Recall
+*   Blade Barrier
+*   Create Undead
+*   Find the Path
+*   Forbiddance
+*   Harm
+*   Heal
+*   Heroes’ Feast
+*   Planar Ally
+*   True Seeing
+*   Word of Recall
 
 ##### 7th Level
 
-* Conjure Celestial
-* Divine Word
-* Etherealness
-* Fire Storm
-* Plane Shift
-* Regenerate
-* Resurrection
-* Symbol
+*   Conjure Celestial
+*   Divine Word
+*   Etherealness
+*   Fire Storm
+*   Plane Shift
+*   Regenerate
+*   Resurrection
+*   Symbol
 
 ##### 8th Level
 
-* Antimagic Field
-* Control Weather
-* Earthquake
-* Holy Aura
+*   Antimagic Field
+*   Control Weather
+*   Earthquake
+*   Holy Aura
 
 ##### 9th Level
 
-* Astral Projection
-* Gate
-* Mass Heal
-* True Resurrection
+*   Astral Projection
+*   Gate
+*   Mass Heal
+*   True Resurrection
 
 ### Druid Spells
 
 ##### Cantrips (0 Level)
 
-* Guidance
-* Mending
-* Produce Flame
-* Resistance
-* Shillelagh
+*   Guidance
+*   Mending
+*   Produce Flame
+*   Resistance
+*   Shillelagh
 
 ##### 1st Level
 
-* Charm Person
-* Create or Destroy Water
-* Cure Wounds
-* Detect Magic
-* Detect Poison and Disease
-* Entangle
-* Faerie Fire
-* Fog Cloud
-* Healing Word
-* Jump
-* Longstrider
-* Purify Food and Drink
-* Speak with Animals
-* Thunderwave
+*   Charm Person
+*   Create or Destroy Water
+*   Cure Wounds
+*   Detect Magic
+*   Detect Poison and Disease
+*   Entangle
+*   Faerie Fire
+*   Fog Cloud
+*   Healing Word
+*   Jump
+*   Longstrider
+*   Purify Food and Drink
+*   Speak with Animals
+*   Thunderwave
 
 ##### 2nd Level
 
-* Animal Messenger
-* Barkskin
-* Darkvision
-* Enhance Ability
-* Find Traps
-* Flame Blade
-* Flaming Sphere
-* Gust of Wind
-* Heat Metal
-* Hold Person
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Moonbeam
-* Pass without Trace
-* Protection from Poison
-* Spike Growth
+*   Animal Messenger
+*   Barkskin
+*   Darkvision
+*   Enhance Ability
+*   Find Traps
+*   Flame Blade
+*   Flaming Sphere
+*   Gust of Wind
+*   Heat Metal
+*   Hold Person
+*   Lesser Restoration
+*   Locate Animals or Plants
+*   Locate Object
+*   Moonbeam
+*   Pass without Trace
+*   Protection from Poison
+*   Spike Growth
 
 ##### 3rd Level
 
-* Call Lightning
-* Conjure Animals
-* Daylight
-* Dispel Magic
-* Meld into Stone
-* Plant Growth
-* Protection from Energy
-* Sleet Storm
-* Speak with Plants
-* Water Breathing
-* Water Walk
-* Wind Wall
+*   Call Lightning
+*   Conjure Animals
+*   Daylight
+*   Dispel Magic
+*   Meld into Stone
+*   Plant Growth
+*   Protection from Energy
+*   Sleet Storm
+*   Speak with Plants
+*   Water Breathing
+*   Water Walk
+*   Wind Wall
 
 ##### 4th Level
 
-* Blight
-* Confusion
-* Conjure Minor Elementals
-* Conjure Woodland Beings
-* Control Water
-* Dominate Beast
-* Freedom of Movement
-* Giant Insect
-* Hallucinatory Terrain
-* Ice Storm
-* Locate Creature
-* Polymorph
-* Stone Shape
-* Stoneskin
-* Wall of Fire
+*   Blight
+*   Confusion
+*   Conjure Minor Elementals
+*   Conjure Woodland Beings
+*   Control Water
+*   Dominate Beast
+*   Freedom of Movement
+*   Giant Insect
+*   Hallucinatory Terrain
+*   Ice Storm
+*   Locate Creature
+*   Polymorph
+*   Stone Shape
+*   Stoneskin
+*   Wall of Fire
 
 ##### 5th Level
 
-* Antilife Shell
-* Awaken
-* Commune with Nature
-* Conjure Elemental
-* Contagion
-* Geas
-* Greater Restoration
-* Insect Plague
-* Mass Cure Wounds
-* Planar Binding
-* Reincarnate
-* Scrying
-* Tree Stride
-* Wall of Stone
+*   Antilife Shell
+*   Awaken
+*   Commune with Nature
+*   Conjure Elemental
+*   Contagion
+*   Geas
+*   Greater Restoration
+*   Insect Plague
+*   Mass Cure Wounds
+*   Planar Binding
+*   Reincarnate
+*   Scrying
+*   Tree Stride
+*   Wall of Stone
 
 ##### 6th Level
 
-* Conjure Fey
-* Find the Path
-* Heal
-* Heroes’ Feast
-* Move Earth
-* Sunbeam
-* Transport via Plants
-* Wall of Thorns
-* Wind Walk
+*   Conjure Fey
+*   Find the Path
+*   Heal
+*   Heroes’ Feast
+*   Move Earth
+*   Sunbeam
+*   Transport via Plants
+*   Wall of Thorns
+*   Wind Walk
 
 ##### 7th Level
 
-* Fire Storm
-* Mirage Arcane
-* Plane Shift
-* Regenerate
-* Reverse Gravity
+*   Fire Storm
+*   Mirage Arcane
+*   Plane Shift
+*   Regenerate
+*   Reverse Gravity
 
 ##### 8th Level
 
-* Animal Shapes
-* Antipathy/Sympathy
-* Control Weather
-* Earthquake
-* Feeblemind
-* Sunburst
+*   Animal Shapes
+*   Antipathy/Sympathy
+*   Control Weather
+*   Earthquake
+*   Feeblemind
+*   Sunburst
 
 ##### 9th Level
 
-* Foresight
-* Shapechange
-* Storm of Vengeance
-* True Resurrection
+*   Foresight
+*   Shapechange
+*   Storm of Vengeance
+*   True Resurrection
 
 ### Paladin Spells
 
 ##### 1st Level
 
-* Bless
-* Command
-* Cure Wounds
-* Detect Evil and Good
-* Detect Magic
-* Detect Poison and Disease
-* Divine Favor
-* Heroism
-* Protection from Evil and Good
-* Purify Food and Drink
-* Shield of Faith
+*   Bless
+*   Command
+*   Cure Wounds
+*   Detect Evil and Good
+*   Detect Magic
+*   Detect Poison and Disease
+*   Divine Favor
+*   Heroism
+*   Protection from Evil and Good
+*   Purify Food and Drink
+*   Shield of Faith
 
 ##### 2nd Level
 
-* Aid
-* Find Steed
-* Lesser Restoration
-* Locate Object
-* Magic Weapon
-* Protection from Poison
-* Zone of Truth
+*   Aid
+*   Find Steed
+*   Lesser Restoration
+*   Locate Object
+*   Magic Weapon
+*   Protection from Poison
+*   Zone of Truth
 
 ##### 3rd Level
 
-* Create Food and Water
-* Daylight
-* Dispel Magic
-* Magic Circle
-* Remove Curse
-* Revivify
+*   Create Food and Water
+*   Daylight
+*   Dispel Magic
+*   Magic Circle
+*   Remove Curse
+*   Revivify
 
 ##### 4th Level
 
-* Banishment
-* Death Ward
-* Locate Creature
+*   Banishment
+*   Death Ward
+*   Locate Creature
 
 ##### 5th Level
 
-* Dispel Evil and Good
-* Geas
-* Raise Dead
+*   Dispel Evil and Good
+*   Geas
+*   Raise Dead
 
 ### Ranger Spells
 
 ##### 1st Level
 
-* Alarm
-* Cure Wounds
-* Detect Magic
-* Detect Poison and Disease
-* Fog Cloud
-* Jump
-* Longstrider
-* Speak with Animals
+*   Alarm
+*   Cure Wounds
+*   Detect Magic
+*   Detect Poison and Disease
+*   Fog Cloud
+*   Jump
+*   Longstrider
+*   Speak with Animals
 
 ##### 2nd Level
 
-* Animal Messenger
-* Barkskin
-* Darkvision
-* Find Traps
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Pass without Trace
-* Protection from Poison
-* Silence
-* Spike Growth
+*   Animal Messenger
+*   Barkskin
+*   Darkvision
+*   Find Traps
+*   Lesser Restoration
+*   Locate Animals or Plants
+*   Locate Object
+*   Pass without Trace
+*   Protection from Poison
+*   Silence
+*   Spike Growth
 
 ##### 3rd Level
 
-* Conjure Animals
-* Daylight
-* Nondetection
-* Plant Growth
-* Protection from Energy
-* Speak with Plants
-* Water Breathing
-* Water Walk
-* Wind Wall
+*   Conjure Animals
+*   Daylight
+*   Nondetection
+*   Plant Growth
+*   Protection from Energy
+*   Speak with Plants
+*   Water Breathing
+*   Water Walk
+*   Wind Wall
 
 ##### 4th Level
 
-* Conjure Woodland Beings
-* Freedom of Movement
-* Locate Creature
-* Stoneskin
+*   Conjure Woodland Beings
+*   Freedom of Movement
+*   Locate Creature
+*   Stoneskin
 
 ##### 5th Level
 
-* Commune with Nature
-* Tree Stride
+*   Commune with Nature
+*   Tree Stride
 
 ### Sorcerer Spells
 
 ##### Cantrips (0 Level)
 
-* Acid Splash
-* Chill Touch
-* Dancing Lights
-* Light
-* Mage Hand
-* Mending
-* Message
-* Minor Illusion
-* Prestidigitation
-* Ray of Frost
-* Shocking Grasp
-* True Strike
+*   Acid Splash
+*   Chill Touch
+*   Dancing Lights
+*   Light
+*   Mage Hand
+*   Mending
+*   Message
+*   Minor Illusion
+*   Prestidigitation
+*   Ray of Frost
+*   Shocking Grasp
+*   True Strike
 
 ##### 1st Level
 
-* Burning Hands
-* Charm Person
-* Color Spray
-* Comprehend Languages
-* Detect Magic
-* Disguise Self
-* Expeditious Retreat
-* False Life
-* Feather Fall
-* Fog Cloud
-* Jump
-* Mage Armor
-* Magic Missile
-* Shield
-* Silent Image
-* Sleep
-* Thunderwave
+*   Burning Hands
+*   Charm Person
+*   Color Spray
+*   Comprehend Languages
+*   Detect Magic
+*   Disguise Self
+*   Expeditious Retreat
+*   False Life
+*   Feather Fall
+*   Fog Cloud
+*   Jump
+*   Mage Armor
+*   Magic Missile
+*   Shield
+*   Silent Image
+*   Sleep
+*   Thunderwave
 
 ##### 2nd Level
 
-* Alter Self
-* Blindness/Deafness
-* Blur
-* Darkness
-* Darkvision
-* Detect Thoughts
-* Enhance Ability
-* Enlarge/Reduce
-* Gust of Wind
-* Hold Person
-* Invisibility
-* Knock
-* Levitate
-* Mirror Image
-* Misty Step
-* Scorching Ray
-* See Invisibility
-* Shatter
-* Spider Climb
-* Suggestion
-* Web
+*   Alter Self
+*   Blindness/Deafness
+*   Blur
+*   Darkness
+*   Darkvision
+*   Detect Thoughts
+*   Enhance Ability
+*   Enlarge/Reduce
+*   Gust of Wind
+*   Hold Person
+*   Invisibility
+*   Knock
+*   Levitate
+*   Mirror Image
+*   Misty Step
+*   Scorching Ray
+*   See Invisibility
+*   Shatter
+*   Spider Climb
+*   Suggestion
+*   Web
 
 ##### 3rd Level
 
-* Blink
-* Clairvoyance
-* Daylight
-* Dispel Magic
-* Fear
-* Fireball
-* Fly
-* Gaseous Form
-* Haste
-* Hypnotic Pattern
-* Lightning Bolt
-* Major Image
-* Protection from Energy
-* Sleet Storm
-* Slow
-* Stinking Cloud
-* Tongues
-* Water Breathing
-* Water Walk
+*   Blink
+*   Clairvoyance
+*   Daylight
+*   Dispel Magic
+*   Fear
+*   Fireball
+*   Fly
+*   Gaseous Form
+*   Haste
+*   Hypnotic Pattern
+*   Lightning Bolt
+*   Major Image
+*   Protection from Energy
+*   Sleet Storm
+*   Slow
+*   Stinking Cloud
+*   Tongues
+*   Water Breathing
+*   Water Walk
 
 ##### 4th Level
 
-* Banishment
-* Blight
-* Confusion
-* Dimension Door
-* Dominate Beast
-* Greater Invisibility
-* Ice Storm
-* Polymorph
-* Stoneskin
-* Wall of Fire
+*   Banishment
+*   Blight
+*   Confusion
+*   Dimension Door
+*   Dominate Beast
+*   Greater Invisibility
+*   Ice Storm
+*   Polymorph
+*   Stoneskin
+*   Wall of Fire
 
 ##### 5th Level
 
-* Animate Objects
-* Cloudkill
-* Cone of Cold
-* Creation
-* Dominate Person
-* Hold Monster
-* Insect Plague
-* Seeming
-* Telekinesis
-* Teleportation Circle
-* Wall of Stone
+*   Animate Objects
+*   Cloudkill
+*   Cone of Cold
+*   Creation
+*   Dominate Person
+*   Hold Monster
+*   Insect Plague
+*   Seeming
+*   Telekinesis
+*   Teleportation Circle
+*   Wall of Stone
 
 ##### 6th Level
 
-* Chain Lightning
-* Circle of Death
-* Disintegrate
-* Eyebite
-* Globe of Invulnerability
-* Mass Suggestion
-* Move Earth
-* Sunbeam
-* True Seeing
+*   Chain Lightning
+*   Circle of Death
+*   Disintegrate
+*   Eyebite
+*   Globe of Invulnerability
+*   Mass Suggestion
+*   Move Earth
+*   Sunbeam
+*   True Seeing
 
 ##### 7th Level
 
-* Delayed Blast
-* Fireball
-* Etherealness
-* Finger of Death
-* Fire Storm
-* Plane Shift
-* Prismatic Spray
-* Reverse Gravity
-* Teleport
+*   Delayed Blast
+*   Fireball
+*   Etherealness
+*   Finger of Death
+*   Fire Storm
+*   Plane Shift
+*   Prismatic Spray
+*   Reverse Gravity
+*   Teleport
 
 ##### 8th Level
 
-* Dominate Monster
-* Earthquake
-* Incendiary Cloud
-* Power Word Stun
-* Sunburst
+*   Dominate Monster
+*   Earthquake
+*   Incendiary Cloud
+*   Power Word Stun
+*   Sunburst
 
 ##### 9th Level
 
-* Gate
-* Meteor Swarm
-* Power Word Kill
-* Time Stop
-* Wish
+*   Gate
+*   Meteor Swarm
+*   Power Word Kill
+*   Time Stop
+*   Wish
 
 ### Warlock Spells
 
 ##### Cantrips (0 Level)
 
-* Chill Touch
-* Mage Hand
-* Minor Illusion
-* Prestidigitation
-* True Strike
+*   Chill Touch
+*   Mage Hand
+*   Minor Illusion
+*   Prestidigitation
+*   True Strike
 
 ##### 1st Level
 
-* Charm Person
-* Comprehend Languages
-* Expeditious Retreat
-* Illusory Script
-* Protection from Evil and Good
-* Unseen Servant
+*   Charm Person
+*   Comprehend Languages
+*   Expeditious Retreat
+*   Illusory Script
+*   Protection from Evil and Good
+*   Unseen Servant
 
 ##### 2nd Level
 
-* Darkness
-* Enthrall
-* Hold Person
-* Invisibility
-* Mirror Image
-* Misty Step
-* Ray of Enfeeblement
-* Shatter
-* Spider Climb
-* Suggestion
+*   Darkness
+*   Enthrall
+*   Hold Person
+*   Invisibility
+*   Mirror Image
+*   Misty Step
+*   Ray of Enfeeblement
+*   Shatter
+*   Spider Climb
+*   Suggestion
 
 ##### 3rd Level
 
-* Dispel Magic
-* Fear
-* Fly
-* Gaseous Form
-* Hypnotic Pattern
-* Magic Circle
-* Major Image
-* Remove Curse
-* Tongues
-* Vampiric Touch
+*   Dispel Magic
+*   Fear
+*   Fly
+*   Gaseous Form
+*   Hypnotic Pattern
+*   Magic Circle
+*   Major Image
+*   Remove Curse
+*   Tongues
+*   Vampiric Touch
 
 ##### 4th Level
 
-* Banishment
-* Blight
-* Dimension Door
-* Hallucinatory Terrain
+*   Banishment
+*   Blight
+*   Dimension Door
+*   Hallucinatory Terrain
 
 ##### 5th Level
 
-* Contact Other Plane
-* Dream
-* Hold Monster
-* Scrying
+*   Contact Other Plane
+*   Dream
+*   Hold Monster
+*   Scrying
 
 ##### 6th Level
 
-* Circle of Death
-* Conjure Fey
-* Create Undead
-* Eyebite
-* Flesh to Stone
-* Mass Suggestion
-* True Seeing
+*   Circle of Death
+*   Conjure Fey
+*   Create Undead
+*   Eyebite
+*   Flesh to Stone
+*   Mass Suggestion
+*   True Seeing
 
 ##### 7th Level
 
-* Etherealness
-* Finger of Death
-* Forcecage
-* Plane Shift
+*   Etherealness
+*   Finger of Death
+*   Forcecage
+*   Plane Shift
 
 ##### 8th Level
 
-* Demiplane
-* Dominate Monster
-* Feeblemind
-* Glibness
-* Power Word Stun
+*   Demiplane
+*   Dominate Monster
+*   Feeblemind
+*   Glibness
+*   Power Word Stun
 
 ##### 9th Level
 
-* Astral Projection
-* Foresight
-* Imprisonment
-* Power Word Kill
-* True Polymorph
+*   Astral Projection
+*   Foresight
+*   Imprisonment
+*   Power Word Kill
+*   True Polymorph
 
 ### Wizard Spells
 
 ##### Cantrips (0 Level)
 
-* Acid Splash
-* Chill Touch
-* Dancing Lights
-* Light
-* Mage Hand
-* Mending
-* Message
-* Minor Illusion
-* Prestidigitation
-* Ray of Frost
-* Shocking Grasp
-* True Strike
+*   Acid Splash
+*   Chill Touch
+*   Dancing Lights
+*   Light
+*   Mage Hand
+*   Mending
+*   Message
+*   Minor Illusion
+*   Prestidigitation
+*   Ray of Frost
+*   Shocking Grasp
+*   True Strike
 
 ##### 1st Level
 
-* Alarm
-* Burning Hands
-* Charm Person
-* Color Spray
-* Comprehend Languages
-* Detect Magic
-* Disguise Self
-* Expeditious Retreat
-* False Life
-* Feather Fall
-* Floating Disk
-* Fog Cloud
-* Grease
-* Hideous Laughter
-* Identify
-* Illusory Script
-* Jump
-* Longstrider
-* Mage Armor
-* Magic Missile
-* Protection from Evil and Good
-* Shield
-* Silent Image
-* Sleep
-* Thunderwave
-* Unseen Servant
+*   Alarm
+*   Burning Hands
+*   Charm Person
+*   Color Spray
+*   Comprehend Languages
+*   Detect Magic
+*   Disguise Self
+*   Expeditious Retreat
+*   False Life
+*   Feather Fall
+*   Floating Disk
+*   Fog Cloud
+*   Grease
+*   Hideous Laughter
+*   Identify
+*   Illusory Script
+*   Jump
+*   Longstrider
+*   Mage Armor
+*   Magic Missile
+*   Protection from Evil and Good
+*   Shield
+*   Silent Image
+*   Sleep
+*   Thunderwave
+*   Unseen Servant
 
 ##### 2nd Level
 
-* Acid Arrow
-* Alter Self
-* Arcane Lock
-* Arcanist’s Magic Aura
-* Blindness/Deafness
-* Blur
-* Continual Flame
-* Darkness
-* Darkvision
-* Detect Thoughts
-* Enlarge/Reduce
-* Flaming Sphere
-* Gentle Repose
-* Gust of Wind
-* Hold Person
-* Invisibility
-* Knock
-* Levitate
-* Locate Object
-* Magic Mouth
-* Magic Weapon
-* Mirror Image
-* Misty Step
-* Ray of Enfeeblement
-* Rope Trick
-* Scorching Ray
-* See Invisibility
-* Shatter
-* Spider Climb
-* Suggestion
-* Web
+*   Acid Arrow
+*   Alter Self
+*   Arcane Lock
+*   Arcanist’s Magic Aura
+*   Blindness/Deafness
+*   Blur
+*   Continual Flame
+*   Darkness
+*   Darkvision
+*   Detect Thoughts
+*   Enlarge/Reduce
+*   Flaming Sphere
+*   Gentle Repose
+*   Gust of Wind
+*   Hold Person
+*   Invisibility
+*   Knock
+*   Levitate
+*   Locate Object
+*   Magic Mouth
+*   Magic Weapon
+*   Mirror Image
+*   Misty Step
+*   Ray of Enfeeblement
+*   Rope Trick
+*   Scorching Ray
+*   See Invisibility
+*   Shatter
+*   Spider Climb
+*   Suggestion
+*   Web
 
 ##### 3rd Level
 
-* Animate Dead
-* Bestow Curse
-* Blink
-* Clairvoyance
-* Dispel Magic
-* Fear
-* Fireball
-* Fly
-* Gaseous Form
-* Glyph of Warding
-* Haste
-* Hypnotic Pattern
-* Lightning Bolt
-* Magic Circle
-* Major Image
-* Nondetection
-* Phantom Steed
-* Protection from Energy
-* Remove Curse
-* Sending
-* Sleet Storm
-* Slow
-* Stinking Cloud
-* Tiny Hut
-* Tongues
-* Vampiric Touch
-* Water Breathing
+*   Animate Dead
+*   Bestow Curse
+*   Blink
+*   Clairvoyance
+*   Dispel Magic
+*   Fear
+*   Fireball
+*   Fly
+*   Gaseous Form
+*   Glyph of Warding
+*   Haste
+*   Hypnotic Pattern
+*   Lightning Bolt
+*   Magic Circle
+*   Major Image
+*   Nondetection
+*   Phantom Steed
+*   Protection from Energy
+*   Remove Curse
+*   Sending
+*   Sleet Storm
+*   Slow
+*   Stinking Cloud
+*   Tiny Hut
+*   Tongues
+*   Vampiric Touch
+*   Water Breathing
 
 ##### 4th Level
 
-* Arcane Eye
-* Banishment
-* Black Tentacles
-* Blight
-* Confusion
-* Conjure Minor Elementals
-* Control Water
-* Dimension Door
-* Fabricate
-* Faithful Hound
-* Fire Shield
-* Greater Invisibility
-* Hallucinatory Terrain
-* Ice Storm
-* Locate Creature
-* Phantasmal Killer
-* Polymorph
-* Private Sanctum
-* Resilient
-* Sphere
-* Secret Chest
-* Stone Shape
-* Stoneskin
-* Wall of Fire
+*   Arcane Eye
+*   Banishment
+*   Black Tentacles
+*   Blight
+*   Confusion
+*   Conjure Minor Elementals
+*   Control Water
+*   Dimension Door
+*   Fabricate
+*   Faithful Hound
+*   Fire Shield
+*   Greater Invisibility
+*   Hallucinatory Terrain
+*   Ice Storm
+*   Locate Creature
+*   Phantasmal Killer
+*   Polymorph
+*   Private Sanctum
+*   Resilient
+*   Sphere
+*   Secret Chest
+*   Stone Shape
+*   Stoneskin
+*   Wall of Fire
 
 ##### 5th Level
 
-* Animate Objects
-* Arcane Hand
-* Cloudkill
-* Cone of Cold
-* Conjure Elemental
-* Contact Other Plane
-* Creation
-* Dominate Person
-* Dream
-* Geas
-* Hold Monster
-* Legend Lore
-* Mislead
-* Modify Memory
-* Passwall
-* Planar Binding
-* Scrying
-* Seeming
-* Telekinesis
-* Telepathic Bond
-* Teleportation Circle
-* Wall of Force
-* Wall of Stone
+*   Animate Objects
+*   Arcane Hand
+*   Cloudkill
+*   Cone of Cold
+*   Conjure Elemental
+*   Contact Other Plane
+*   Creation
+*   Dominate Person
+*   Dream
+*   Geas
+*   Hold Monster
+*   Legend Lore
+*   Mislead
+*   Modify Memory
+*   Passwall
+*   Planar Binding
+*   Scrying
+*   Seeming
+*   Telekinesis
+*   Telepathic Bond
+*   Teleportation Circle
+*   Wall of Force
+*   Wall of Stone
 
 ##### 6th Level
 
-* Chain Lightning
-* Circle of Death
-* Contingency
-* Create Undead
-* Disintegrate
-* Eyebite
-* Flesh to Stone
-* Freezing Sphere
-* Globe of Invulnerability
-* Guards and Wards
-* Instant Summons
-* Irresistible Dance
-* Magic Jar
-* Mass Suggestion
-* Move Earth
-* Programmed Illusion
-* Sunbeam
-* True Seeing
-* Wall of Ice
+*   Chain Lightning
+*   Circle of Death
+*   Contingency
+*   Create Undead
+*   Disintegrate
+*   Eyebite
+*   Flesh to Stone
+*   Freezing Sphere
+*   Globe of Invulnerability
+*   Guards and Wards
+*   Instant Summons
+*   Irresistible Dance
+*   Magic Jar
+*   Mass Suggestion
+*   Move Earth
+*   Programmed Illusion
+*   Sunbeam
+*   True Seeing
+*   Wall of Ice
 
 ##### 7th Level
 
-* Arcane Sword
-* Delayed Blast
-* Fireball
-* Etherealness
-* Finger of Death
-* Forcecage
-* Magnificent Mansion
-* Mirage Arcane
-* Plane Shift
-* Prismatic Spray
-* Project Image
-* Reverse Gravity
-* Sequester
-* Simulacrum
-* Symbol
-* Teleport
+*   Arcane Sword
+*   Delayed Blast
+*   Fireball
+*   Etherealness
+*   Finger of Death
+*   Forcecage
+*   Magnificent Mansion
+*   Mirage Arcane
+*   Plane Shift
+*   Prismatic Spray
+*   Project Image
+*   Reverse Gravity
+*   Sequester
+*   Simulacrum
+*   Symbol
+*   Teleport
 
 ##### 8th Level
 
-* Antimagic Field
-* Antipathy/Sympathy
-* Clone
-* Control Weather
-* Demiplane
-* Dominate Monster
-* Feeblemind
-* Incendiary Cloud
-* Maze
-* Mind Blank
-* Power Word Stun
-* Sunburst
+*   Antimagic Field
+*   Antipathy/Sympathy
+*   Clone
+*   Control Weather
+*   Demiplane
+*   Dominate Monster
+*   Feeblemind
+*   Incendiary Cloud
+*   Maze
+*   Mind Blank
+*   Power Word Stun
+*   Sunburst
 
 ##### 9th Level
 
-* Astral Projection
-* Foresight
-* Gate
-* Imprisonment
-* Meteor Swarm
-* Power Word Kill
-* Prismatic Wall
-* Shapechange
-* Time Stop
-* True Polymorph
-* Weird
-* Wish
+*   Astral Projection
+*   Foresight
+*   Gate
+*   Imprisonment
+*   Meteor Swarm
+*   Power Word Kill
+*   Prismatic Wall
+*   Shapechange
+*   Time Stop
+*   True Polymorph
+*   Weird
+*   Wish
 
 **Spell Descriptions**
 
@@ -1378,13 +1378,13 @@ As a bonus action, you can mentally command any creature you made with this spel
 
 **Animated Object Statistics (table)**
 
-| Size   | HP | AC | Attack                     | Str | Dex |
-|--------|----|----|----------------------------|-----|-----|
-| Tiny   | 20 | 18 | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
-| Small  | 25 | 16 | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
-| Medium | 40 | 13 | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
-| Large  | 50 | 10 | +6 to hit, 2d10 + 2 damage | 14  | 10  |
-| Huge   | 80 | 10 | +8 to hit, 2d12 + 4 damage | 18  | 6   |
+| Size   | HP  | AC  | Attack                     | Str | Dex |
+| ------ | --- | --- | -------------------------- | --- | --- |
+| Tiny   | 20  | 18  | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
+| Small  | 25  | 16  | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
+| Medium | 40  | 13  | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
+| Large  | 50  | 10  | +6 to hit, 2d10 + 2 damage | 14  | 10  |
+| Huge   | 80  | 10  | +8 to hit, 2d12 + 4 damage | 18  | 6   |
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is
 
@@ -1406,7 +1406,7 @@ _5th-level abjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-A shimmering barrier extends out from you in a 10* foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
+A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 
 The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.
 
@@ -1418,13 +1418,13 @@ _8th-level abjuration_
 
 **Casting Time:** 1 action
 
-**Range:** Self (10-foot-radius sphere)
+**Range:** Self (10-foot radius sphere)
 
 **Components:** V, S, M (a pinch of powdered iron or iron filings)
 
 **Duration:** Concentration, up to 1 hour
 
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
+A 10-foot radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can’t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can’t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
@@ -1606,10 +1606,10 @@ _2nd-level divination (ritual)_
 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
 
-* _Weal_, for good results
-* _Woe_, for bad results
-* _Weal and woe_, for both good and bad results
-* _Nothing_, for results that aren’t especially good or bad
+*   _Weal_, for good results
+*   _Woe_, for bad results
+*   _Weal and woe_, for both good and bad results
+*   _Nothing_, for results that aren’t especially good or bad
 
 The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
@@ -1711,10 +1711,10 @@ _3rd-level necromancy_
 
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
-* Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-* While cursed, the target has disadvantage on attack rolls against you.
-* While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
-* While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
+*   Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
+*   While cursed, the target has disadvantage on attack rolls against you.
+*   While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
+*   While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A _remove curse_ spell ends this effect. At the GM’s option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse’s effect.
 
@@ -1888,7 +1888,7 @@ _2nd-level enchantment_
 
 **Duration:** Concentration, up to 1 minute
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
 
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
@@ -1930,7 +1930,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ##### Chill Touch
 
-*Necromancy cantrip_
+_Necromancy cantrip_
 
 **Casting Time:** 1 action
 
@@ -1958,7 +1958,7 @@ _6th-level necromancy_
 
 **Duration:** Instantaneous
 
-A sphere of negative energy ripples out in a 60-foot* radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
+A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
@@ -1988,7 +1988,7 @@ _8th-level necromancy_
 
 **Range:** Touch
 
-**Components:** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud* filled cyst in the ground, or crystal container filled with salt water)
+**Components:** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
 
 **Duration:** Instantaneous
 
@@ -2010,7 +2010,7 @@ _5th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
+You create a 20-foot radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
 
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don’t need to breathe.
 
@@ -2100,11 +2100,11 @@ You briefly become one with nature and gain knowledge of the surrounding territo
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
-* terrain and bodies of water
-* prevalent plants, minerals, animals, or peoples
-* powerful celestials, fey, fiends, elementals, or undead
-* influence from other planes of existence
-* buildings
+*   terrain and bodies of water
+*   prevalent plants, minerals, animals, or peoples
+*   powerful celestials, fey, fiends, elementals, or undead
+*   influence from other planes of existence
+*   buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
@@ -2154,12 +2154,12 @@ _4th-level enchantment_
 
 **Duration:** Concentration, up to 1 minute
 
-This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
 
 An affected target can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
 | d10  | Behavior                                                                                                                                                                                        |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn’t take an action this turn. |
 | 2–6  | The creature doesn’t move or take actions this turn.                                                                                                                                            |
 | 7–8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
@@ -2183,10 +2183,10 @@ _3rd-level conjuration_
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-* One beast of challenge rating 2 or lower
-* Two beasts of challenge rating 1 or lower
-* Four beasts of challenge rating 1/2 or lower
-* Eight beasts of challenge rating 1/4 or lower Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
+*   One beast of challenge rating 2 or lower
+*   Two beasts of challenge rating 1 or lower
+*   Four beasts of challenge rating 1/2 or lower
+*   Eight beasts of challenge rating 1/4 or lower Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
@@ -2269,10 +2269,10 @@ _4th-level conjuration_
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
-* One elemental of challenge rating 2 or lower
-* Two elementals of challenge rating 1 or lower
-* Four elementals of challenge rating 1/2 or lower
-* Eight elementals of challenge rating 1/4 or lower. An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
+*   One elemental of challenge rating 2 or lower
+*   Two elementals of challenge rating 1 or lower
+*   Four elementals of challenge rating 1/2 or lower
+*   Eight elementals of challenge rating 1/4 or lower. An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
@@ -2294,10 +2294,10 @@ _4th-level conjuration_
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-* One fey creature of challenge rating 2 or lower
-* Two fey creatures of challenge rating 1 or lower
-* Four fey creatures of challenge rating 1/2 or lower
-* Eight fey creatures of challenge rating 1/4 or lower
+*   One fey creature of challenge rating 2 or lower
+*   Two fey creatures of challenge rating 1 or lower
+*   Four fey creatures of challenge rating 1/2 or lower
+*   Eight fey creatures of challenge rating 1/4 or lower
 
 A summoned creature disappears when it drops to 0 hit points or when the spell ends.
 
@@ -2436,7 +2436,7 @@ When you change the weather conditions, find a current condition on the followin
 **Precipitation (table)**
 
 | Stage | Condition                                  |
-|-------|--------------------------------------------|
+| ----- | ------------------------------------------ |
 | 1     | Clear                                      |
 | 2     | Light clouds                               |
 | 3     | Overcast or ground fog                     |
@@ -2446,7 +2446,7 @@ When you change the weather conditions, find a current condition on the followin
 **Temperature (table)**
 
 | Stage | Condition       |
-|-------|-----------------|
+| ----- | --------------- |
 | 1     | Unbearable heat |
 | 2     | Hot             |
 | 3     | Warm            |
@@ -2457,7 +2457,7 @@ When you change the weather conditions, find a current condition on the followin
 **Wind (table)**
 
 | Stage | Condition     |
-|-------|---------------|
+| ----- | ------------- |
 | 1     | Calm          |
 | 2     | Moderate wind |
 | 3     | Strong wind   |
@@ -2530,12 +2530,12 @@ _5th-level illusion_
 
 **Duration:** Special
 
-You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5* foot cube, and the object must be of a form and material that you have seen before.
+You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
 
 The duration depends on the object’s material. If the object is composed of multiple materials, use the shortest duration.
 
 | Material              | Duration   |
-|-----------------------|------------|
+| --------------------- | ---------- |
 | Vegetable matter      | 1 day      |
 | Stone or crystal      | 12 hours   |
 | Precious metals       | 1 hour     |
@@ -2566,7 +2566,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ##### Dancing Lights
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -2576,7 +2576,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 **Duration:** Concentration, up to 1 minute
 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10* foot radius.
+You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
 As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.
 
@@ -2592,7 +2592,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
 
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
 
@@ -2624,7 +2624,7 @@ _3rd-level evocation_
 
 **Duration:** 1 hour
 
-A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
+A 60-foot radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
 
 If you chose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.
 
@@ -2660,7 +2660,7 @@ _7th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.
+A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot radius sphere centered on that point must make a Dexterity saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.
 
 The spell’s base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.
 
@@ -2768,7 +2768,7 @@ _4th-level conjuration_
 
 **Duration:** Instantaneous
 
-You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “200 feet straight downward” or “upward to the northwest at a 45* degree angle, 300 feet.”
+You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “200 feet straight downward” or “upward to the northwest at a 45-degree angle, 300 feet.”
 
 You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.
 
@@ -2812,7 +2812,7 @@ Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damag
 
 A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _true resurrection_ or a _wish_ spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot* cube portion of it. A magic item is unaffected by this spell.
+This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot cube portion of it. A magic item is unaffected by this spell.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
@@ -2898,10 +2898,10 @@ _7th-level evocation_
 
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
 
-* 50 hit points or fewer: deafened for 1 minute
-* 40 hit points or fewer: deafened and blinded for 10 minutes
-* 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
-* 20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a _wish_ spell.
+*   50 hit points or fewer: deafened for 1 minute
+*   40 hit points or fewer: deafened and blinded for 10 minutes
+*   30 hit points or fewer: blinded, deafened, and stunned for 1 hour
+*   20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a _wish_ spell.
 
 ##### Dominate Beast
 
@@ -3003,7 +3003,7 @@ _8th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
 The ground in the area becomes difficult terrain.
 
@@ -3361,7 +3361,7 @@ _3rd-level evocation_
 
 **Duration:** Instantaneous
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
 
@@ -3433,7 +3433,7 @@ _5th-level evocation_
 
 **Duration:** Instantaneous
 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
+A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
@@ -3449,7 +3449,7 @@ _2nd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+A 5-foot diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere’s damage, and the sphere stops moving this turn.
 
@@ -3491,7 +3491,7 @@ _1st-level conjuration (ritual)_
 
 This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
-The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 10 feet or more. For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
+The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 10 feet or more. For example, the disk can’t move across a 10-foot deep pit, nor could it leave such a pit if it was created at the bottom.
 
 If you move more than 100 feet from the disk (typically because it can’t move around an obstacle to follow you), the spell ends.
 
@@ -3523,7 +3523,7 @@ _1st-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+You create a 20-foot radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
@@ -3615,7 +3615,7 @@ _6th-level evocation_
 
 **Duration:** Instantaneous
 
-A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
+A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
 If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
 
@@ -3773,7 +3773,7 @@ You can further refine the trigger so the spell activates only under certain cir
 
 When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
-**_Explosive Runes_**. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+**_Explosive Runes_**. When triggered, the glyph erupts with magical energy in a 20-foot radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
 
 **_Spell Glyph_**. You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
@@ -3823,10 +3823,10 @@ _5th-level abjuration_
 
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one, or end one of the following effects on the target:
 
-* One effect that charmed or petrified the target
-* One curse, including the target’s attunement to a cursed magic item
-* Any reduction to one of the target’s ability scores
-* One effect reducing the target’s hit point maximum
+*   One effect that charmed or petrified the target
+*   One curse, including the target’s attunement to a cursed magic item
+*   Any reduction to one of the target’s ability scores
+*   One effect reducing the target’s hit point maximum
 
 ##### Guards and Wards
 
@@ -3844,7 +3844,7 @@ You create a ward that protects up to 2,500 square feet of floor space (an area 
 
 When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
 
-*Guards and wards* creates the following effects within the warded area.
+_Guards and wards_ creates the following effects within the warded area.
 
 **_Corridors_**. Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
@@ -3853,11 +3853,11 @@ When you cast this spell, you can specify individuals that are unaffected by any
 **_Stairs_**. Webs fill all stairs in the warded area from top to bottom, as the _web_ spell. These strands regrow in 10 minutes if they are burned or torn away while _guards and wards_ lasts.
 
 **_Other Spell Effect_**. You can place your choice of one of the following magical effects within the warded area of the stronghold.
-* Place _dancing lights_ in four corridors. You can designate a simple program that the lights repeat as long as _guards and wards_ lasts.
-* Place _magic mouth_ in two locations.
-* Place _stinking cloud_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
-* Place a constant _gust of wind_ in one corridor or room.
-* Place a _suggestion_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
+*   Place _dancing lights_ in four corridors. You can designate a simple program that the lights repeat as long as _guards and wards_ lasts.
+*   Place _magic mouth_ in two locations.
+*   Place _stinking cloud_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
+*   Place a constant _gust of wind_ in one corridor or room.
+*   Place a _suggestion_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A _dispel magic_ cast on a specific effect, if successful, removes only that effect.
 
@@ -3865,7 +3865,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ##### Guidance
 
-*Divination cantrip_
+_Divination cantrip_
 
 **Casting Time:** 1 action
 
@@ -4173,7 +4173,7 @@ _4th-level evocation_
 
 **Duration:** Instantaneous
 
-A hail of rock-hard ice pounds to the ground in a 20* foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
+A hail of rock-hard ice pounds to the ground in a 20-foot radius, 40-foot high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.
 
 Hailstones turn the storm’s area of effect into difficult terrain until the end of your next turn.
 
@@ -4267,7 +4267,7 @@ _8th-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-A swirling cloud of smoke shot through with white* hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
@@ -4301,7 +4301,7 @@ _5th-level conjuration_
 
 **Duration:** Concentration, up to 10 minutes
 
-Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
+Swarming, biting locusts fill a 20-foot radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
 
 When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
 
@@ -4325,7 +4325,7 @@ At any time thereafter, you can use your action to speak the item’s name and c
 
 If another creature is holding or carrying the item, crushing the sapphire doesn’t transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
-*Dispel magic* or a similar effect successfully applied to the sapphire ends this spell’s effect.
+_Dispel magic_ or a similar effect successfully applied to the sapphire ends this spell’s effect.
 
 ##### Invisibility
 
@@ -4449,7 +4449,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ##### Light
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -4565,7 +4565,7 @@ You touch a willing creature who isn’t wearing armor, and a protective magical
 
 ##### Mage Hand
 
-*Conjuration cantrip_
+_Conjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -4593,13 +4593,13 @@ _3rd-level abjuration_
 
 **Duration:** 1 hour
 
-You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-* The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-* The creature has disadvantage on attack rolls against targets within the cylinder.
-* Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
+*   The creature can’t willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+*   The creature has disadvantage on attack rolls against targets within the cylinder.
+*   Targets within the cylinder can’t be charmed, frightened, or possessed by the creature.
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
@@ -4731,7 +4731,7 @@ _5th-level evocation_
 
 **Duration:** Instantaneous
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
@@ -4825,7 +4825,7 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ##### Mending
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 minute
 
@@ -4841,7 +4841,7 @@ This spell can physically repair a magic item or construct, but the spell can’
 
 ##### Message
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 action
 
@@ -4867,7 +4867,7 @@ _9th-level evocation_
 
 **Duration:** Instantaneous
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
 The spell damages objects in the area and ignites flammable objects that aren’t being worn or carried.
 
@@ -4887,7 +4887,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 ##### Minor Illusion
 
-*Illusion cantrip_
+_Illusion cantrip_
 
 **Casting Time:** 1 action
 
@@ -5015,7 +5015,7 @@ _2nd-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A silvery beam of pale light shines down in a 5-foot* radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+A silvery beam of pale light shines down in a 5-foot radius, 40-foot high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
 
@@ -5169,7 +5169,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
-**_At Higher Levels_**. When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th* level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
+**_At Higher Levels_**. When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
 ##### Plane Shift
 
@@ -5279,7 +5279,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 ##### Prestidigitation
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 action
 
@@ -5291,12 +5291,12 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
-* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-* You instantaneously light or snuff out a candle, a torch, or a small campfire.
-* You instantaneously clean or soil an object no larger than 1 cubic foot.
-* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+*   You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+*   You instantaneously light or snuff out a candle, a torch, or a small campfire.
+*   You instantaneously clean or soil an object no larger than 1 cubic foot.
+*   You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+*   You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+*   You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
@@ -5367,18 +5367,18 @@ You make an area within range magically secure. The area is a cube that can be a
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
 
-* Sound can’t pass through the barrier at the edge of the warded area.
-* The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
-* Sensors created by divination spells can’t appear inside the protected area or pass through the barrier at its perimeter.
-* Creatures in the area can’t be targeted by divination spells.
-* Nothing can teleport into or out of the warded area.
-* Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
+*   Sound can’t pass through the barrier at the edge of the warded area.
+*   The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
+*   Sensors created by divination spells can’t appear inside the protected area or pass through the barrier at its perimeter.
+*   Creatures in the area can’t be targeted by divination spells.
+*   Nothing can teleport into or out of the warded area.
+*   Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
 ##### Produce Flame
 
-*Conjuration cantrip_
+_Conjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -5494,7 +5494,7 @@ _1st-level transmutation (ritual)_
 
 **Duration:** Instantaneous
 
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 ### Spells (Q)
 
@@ -5538,7 +5538,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 ##### Ray of Frost
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -5587,7 +5587,7 @@ If the target’s soul isn’t free or willing to do so, the spell fails.
 The magic fashions a new body for the creature to inhabit, which likely causes the creature’s race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
 | d100  | Race                |
-|-------|---------------------|
+| ----- | ------------------- |
 | 01–04 | Dragonborn          |
 | 05–13 | Dwarf, hill         |
 | 14–21 | Dwarf, mountain     |
@@ -5641,7 +5641,7 @@ A _disintegrate_ spell targeting the globe destroys it without harming anything 
 
 ##### Resistance
 
-*Abjuration cantrip_
+_Abjuration cantrip_
 
 **Casting Time:** 1 action
 
@@ -5687,7 +5687,7 @@ _7th-level transmutation_
 
 **Duration:** Concentration, up to 1 minute
 
-This spell reverses gravity in a 50-foot-radius, 100* foot high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
+This spell reverses gravity in a 50-foot radius, 100-foot high cylinder centered on a point within range. All creatures and objects that aren’t somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.
 
 If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.
 
@@ -5723,7 +5723,7 @@ You touch a length of rope that is up to 60 feet long. One end of the rope then 
 
 The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.
 
-Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5* foot window centered on the rope.
+Attacks and spells can’t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.
 
 Anything inside the extradimensional space drops out when the spell ends.
 
@@ -5731,7 +5731,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ##### Sacred Flame
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -5794,13 +5794,13 @@ _5th-level divination_
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you’re casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
 | Knowledge                                 | Save Modifier |
-|-------------------------------------------|---------------|
+| ----------------------------------------- | ------------- |
 | Secondhand (you have heard of the target) | +5            |
 | Firsthand (you have met the target)       | +0            |
 | Familiar (you know the target well)       | −5            |
 
 | Connection                                        | Save Modifier |
-|---------------------------------------------------|---------------|
+| ------------------------------------------------- | ------------- |
 | Likeness or picture                               | −2            |
 | Possession or garment                             | −4            |
 | Body part, lock of hair, bit of nail, or the like | −10           |
@@ -5933,7 +5933,7 @@ _2nd-level evocation_
 
 **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
 A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
@@ -5969,7 +5969,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ##### Shillelagh
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 bonus action
 
@@ -5983,7 +5983,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature’s pow
 
 ##### Shocking Grasp
 
-*Evocation cantrip_
+_Evocation cantrip_
 
 **Casting Time:** 1 action
 
@@ -6009,7 +6009,7 @@ _2nd-level illusion (ritual)_
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
 ##### Silent Image
 
@@ -6081,7 +6081,7 @@ _3rd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
+Until the spell ends, freezing rain and sleet fall in a 20-foot tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.
 
 The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell’s area for the first time on a turn or starts its turn there, it must make a Dexterity saving throw. On a failed save, it falls prone.
 
@@ -6239,7 +6239,7 @@ _3rd-level conjuration_
 
 **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
+You create a 20-foot radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
 
 Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don’t need to breathe or are immune to poison automatically succeed on this saving throw.
 
@@ -6329,7 +6329,7 @@ _6th-level evocation_
 
 **Duration:** Concentration, up to 1 minute
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 5-foot wide, 60-foot long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.
 
 You can create a new line of radiance as your action on any turn until the spell ends.
 
@@ -6373,7 +6373,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature’s physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don’t trigger the glyph, such as those who say a certain password.
 
-When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
+When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
 
 **_Death_**. Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
 
@@ -6450,7 +6450,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
-|-------------------|--------|--------------|------------|-----------|
+| ----------------- | ------ | ------------ | ---------- | --------- |
 | Permanent circle  | —      | —            | —          | 01–100    |
 | Associated object | —      | —            | —          | 01–100    |
 | Very familiar     | 01–05  | 06–13        | 14–24      | 25–100    |
@@ -6485,7 +6485,7 @@ _5th-level conjuration_
 
 **Duration:** 1 round
 
-As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
+As you cast the spell, you draw a 10-foot diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 
@@ -6493,7 +6493,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ##### Thaumaturgy
 
-*Transmutation cantrip_
+_Transmutation cantrip_
 
 **Casting Time:** 1 action
 
@@ -6505,12 +6505,12 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 
-* Your voice booms up to three times as loud as normal for 1 minute.
-* You cause flames to flicker, brighten, dim, or change color for 1 minute.
-* You cause harmless tremors in the ground for 1 minute.
-* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-* You instantaneously cause an unlocked door or window to fly open or slam shut.
-* You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+*   Your voice booms up to three times as loud as normal for 1 minute.
+*   You cause flames to flicker, brighten, dim, or change color for 1 minute.
+*   You cause harmless tremors in the ground for 1 minute.
+*   You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+*   You instantaneously cause an unlocked door or window to fly open or slam shut.
+*   You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
 ##### Thunderwave
 
@@ -6552,13 +6552,13 @@ _3rd-level evocation (ritual)_
 
 **Casting Time:** 1 minute
 
-**Range:** Self (10-foot-radius hemisphere)
+**Range:** Self (10-foot radius hemisphere)
 
 **Components:** V, S, M (a small crystal bead)
 
 **Duration:** 8 hours
 
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
+A 10-foot radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
 
 Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
@@ -6672,7 +6672,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ##### True Strike
 
-*Divination cantrip_
+_Divination cantrip_
 
 **Casting Time:** 1 action
 
@@ -6772,7 +6772,7 @@ _6th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
+You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 
 If the wall cuts through a creature’s space when it appears, the creature within its area is pushed to one side of the wall and must make a Dexterity saving throw. On a failed save, the creature takes 10d6 cold damage, or half as much damage on a successful save.
 
@@ -6792,7 +6792,7 @@ _5th-level evocation_
 
 **Duration:** Concentration, up to 10 minutes
 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot* by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
+A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
@@ -6882,7 +6882,7 @@ _2nd-level conjuration_
 
 **Duration:** Concentration, up to 1 hour
 
-You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20* foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
+You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
@@ -6906,7 +6906,7 @@ _9th-level illusion_
 
 **Duration:** Concentration, up to one minute
 
-Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
 
 ##### Wind Walk
 
@@ -6954,17 +6954,17 @@ _9th-level conjuration_
 
 **Duration:** Instantaneous
 
-*Wish* is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
+_Wish_ is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
 
 The basic use of this spell is to duplicate any other spell of 8th level or lower. You don’t need to meet any requirements in that spell, including costly components. The spell simply takes effect.
 
 Alternatively, you can create one of the following effects of your choice:
 
-* You create one object of up to 25,000 gp in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
-* You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _greater restoration_ spell.
-* You grant up to ten creatures that you can see resistance to a damage type you choose.
-* You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.
-* You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _wish_ spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
+*   You create one object of up to 25,000 gp in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
+*   You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _greater restoration_ spell.
+*   You grant up to ten creatures that you can see resistance to a damage type you choose.
+*   You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.
+*   You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _wish_ spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item’s current owner.
 
@@ -7004,6 +7004,6 @@ _2nd-level enchantment_
 
 **Duration:** 10 minutes
 
-You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
+You create a magical zone that guards against deception in a 15-foot radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.

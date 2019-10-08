@@ -17,7 +17,7 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 **Character Advancement (table)**
 
 | Experience Points | Level | Proficiency Bonus |
-|-------------------|-------|-------------------|
+| ----------------- | ----- | ----------------- |
 | 0                 | 1     | +2                |
 | 300               | 2     | +2                |
 | 900               | 3     | +2                |
@@ -54,7 +54,7 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 **Multiclassing Prerequisites (table)**
 
 | Class     | Ability Score Minimum       |
-|-----------|-----------------------------|
+| --------- | --------------------------- |
 | Barbarian | Strength 13                 |
 | Bard      | Charisma 13                 |
 | Cleric    | Wisdom 13                   |
@@ -89,7 +89,7 @@ When you gain your first level in a class other than your initial class, you gai
 **Multiclassing Proficiencies (table)**
 
 | Class     | Proficiencies Gained                                                                                       |
-|-----------|------------------------------------------------------------------------------------------------------------|
+| --------- | ---------------------------------------------------------------------------------------------------------- |
 | Barbarian | Shields, simple weapons, martial weapons                                                                   |
 | Bard      | Light armor, one skill of your choice, one musical instrument of your choice                               |
 | Cleric    | Light armor, medium armor, shields                                                                         |
@@ -138,7 +138,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 **Multiclass Spellcaster: Spell Slots per Spell Level (table)**
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2nd   | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3rd   | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
@@ -205,7 +205,7 @@ Some of these languages are actually families of languages with many dialects. F
 **Standard Languages (table)**
 
 | Language | Typical Speakers | Script   |
-|----------|------------------|----------|
+| -------- | ---------------- | -------- |
 | Common   | Humans           | Common   |
 | Dwarvish | Dwarves          | Dwarvish |
 | Elvish   | Elves            | Elvish   |
@@ -218,7 +218,7 @@ Some of these languages are actually families of languages with many dialects. F
 **Exotic Languages (table)**
 
 | Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
+| ----------- | ------------------- | --------- |
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
 | Draconic    | Dragons, dragonborn | Draconic  |
@@ -248,7 +248,7 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
 
-Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is *what changed*? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have *more* money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is _what changed_? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have _more_ money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
@@ -300,40 +300,40 @@ Acolytes are shaped by their experience in temples or other religious communitie
 
 **Suggested Acolyte Characteristics (table)**
 
-| d8 | Personality Trait                                                                                                  |
-|----|--------------------------------------------------------------------------------------------------------------------|
-| 1  | I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example.                  |
-| 2  | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.      |
-| 3  | I see omens in every event and action. The gods try to speak to us, we just need to listen                         |
-| 4  | Nothing can shake my optimistic attitude.                                                                          |
-| 5  | I quote (or misquote) sacred texts and proverbs in almost every situation.                                         |
-| 6  | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.                  |
-| 7  | I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.                |
-| 8  | I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world. |
+| d8  | Personality Trait                                                                                                  |
+| --- | ------------------------------------------------------------------------------------------------------------------ |
+| 1   | I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example.                  |
+| 2   | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.      |
+| 3   | I see omens in every event and action. The gods try to speak to us, we just need to listen                         |
+| 4   | Nothing can shake my optimistic attitude.                                                                          |
+| 5   | I quote (or misquote) sacred texts and proverbs in almost every situation.                                         |
+| 6   | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.                  |
+| 7   | I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.                |
+| 8   | I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 
-| d6 | Ideal                                                                                                                  |
-|----|------------------------------------------------------------------------------------------------------------------------|
-| 1  | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)                      |
-| 2  | Charity. I always try to help those in need, no matter what the personal cost. (Good)                                  |
-| 3  | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)                   |
-| 4  | Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)                                   |
-| 5  | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)    |
-| 6  | Aspiration. I seek to prove myself worthy of my god’s favor by matching my actions against his or her teachings. (Any) |
+| d6  | Ideal                                                                                                                  |
+| --- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)                      |
+| 2   | Charity. I always try to help those in need, no matter what the personal cost. (Good)                                  |
+| 3   | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)                   |
+| 4   | Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)                                   |
+| 5   | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)    |
+| 6   | Aspiration. I seek to prove myself worthy of my god’s favor by matching my actions against his or her teachings. (Any) |
 
-| d6 | Bond                                                                                     |
-|----|------------------------------------------------------------------------------------------|
-| 1  | I would die to recover an ancient relic of my faith that was lost long ago.              |
-| 2  | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.     |
-| 3  | I owe my life to the priest who took me in when my parents died.                         |
-| 4  | Everything I do is for the common people.                                                |
-| 5  | I will do anything to protect the temple where I served.                                 |
-| 6  | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
+| d6  | Bond                                                                                     |
+| --- | ---------------------------------------------------------------------------------------- |
+| 1   | I would die to recover an ancient relic of my faith that was lost long ago.              |
+| 2   | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.     |
+| 3   | I owe my life to the priest who took me in when my parents died.                         |
+| 4   | Everything I do is for the common people.                                                |
+| 5   | I will do anything to protect the temple where I served.                                 |
+| 6   | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 
-| d6 | Flaw                                                                                          |
-|----|-----------------------------------------------------------------------------------------------|
-| 1  | I judge others harshly, and myself even more severely.                                        |
-| 2  | I put too much trust in those who wield power within my temple’s hierarchy.                   |
-| 3  | My piety sometimes leads me to blindly trust those that profess faith in my god.              |
-| 4  | I am inflexible in my thinking.                                                               |
-| 5  | I am suspicious of strangers and expect the worst of them.                                    |
-| 6  | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
+| d6  | Flaw                                                                                          |
+| --- | --------------------------------------------------------------------------------------------- |
+| 1   | I judge others harshly, and myself even more severely.                                        |
+| 2   | I put too much trust in those who wield power within my temple’s hierarchy.                   |
+| 3   | My piety sometimes leads me to blindly trust those that profess faith in my god.              |
+| 4   | I am inflexible in my thinking.                                                               |
+| 5   | I am suspicious of strangers and expect the worst of them.                                    |
+| 6   | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |

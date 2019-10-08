@@ -20,16 +20,16 @@ media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jp
 ! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a basic conversion as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from our [Cry Havoc Studio GitHub repository](https://github.com/CryHavocStudio/OGL-SRD5). Please report any issues you find through our GitHub account. Thank you!
 
 #### New Features
-1. **Powerful search engines** for the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the new _TNT Search_, an advanced full-text search feature (also upper-left sidebar), or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
-2. **Public editing** and the correction of errors on pages now available directly through GitHub. Links can be found in the upper right-hand corner of each page. **NOTE:** A free GitHub account/membership is required. **WARNING:** Abuse of this wiki-like process shall not be tollerated resulting in the denial of public editing. Thank you for your cooperation and collaboration!
+1.  **Powerful search engines** for the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the new _TNT Search_, an advanced full-text search feature (also upper-left sidebar), or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+2.  **Public editing** and the correction of errors on pages now available directly through GitHub. Links can be found in the upper right-hand corner of each page. **NOTE:** A free GitHub account/membership is required. **WARNING:** Abuse of this wiki-like process shall not be tollerated resulting in the denial of public editing. Thank you for your cooperation and collaboration!
 
 #### Downloads
 
-* View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
-* Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/archive/master.zip).
-* Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
-* Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
-* Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
+*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
+*   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/archive/master.zip).
+*   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+*   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
+*   Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
 #### Official D&D Core Rule Books
 

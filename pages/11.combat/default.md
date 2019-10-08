@@ -87,11 +87,11 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the *fly* spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the _fly_ spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 #### Difficult Terrain
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar* choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 
@@ -111,27 +111,27 @@ To move while prone, you must **crawl** or use magic such as teleportation. Ever
 
 Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 
-* draw or sheathe a sword
-* open or close a door
-* withdraw a potion from your backpack
-* pick up a dropped axe
-* take a bauble from a table
-* remove a ring from your finger
-* stuff some food into your mouth
-* plant a banner in the ground
-* fish a few coins from your belt pouch
-* drink all the ale in a flagon
-* throw a lever or a switch
-* pull a torch from a sconce
-* take a book from a shelf you can reach
-* extinguish a small flame
-* don a mask
-* pull the hood of your cloak up and over your head
-* put your ear to a door
-* kick a small stone
-* turn a key in a lock
-* tap the floor with a 10-foot pole
-* hand an item to another character
+*   draw or sheathe a sword
+*   open or close a door
+*   withdraw a potion from your backpack
+*   pick up a dropped axe
+*   take a bauble from a table
+*   remove a ring from your finger
+*   stuff some food into your mouth
+*   plant a banner in the ground
+*   fish a few coins from your belt pouch
+*   drink all the ale in a flagon
+*   throw a lever or a switch
+*   pull a torch from a sconce
+*   take a book from a shelf you can reach
+*   extinguish a small flame
+*   don a mask
+*   pull the hood of your cloak up and over your head
+*   put your ear to a door
+*   kick a small stone
+*   turn a key in a lock
+*   tap the floor with a 10-foot pole
+*   hand an item to another character
 
 #### Moving Around Other Creatures
 
@@ -143,7 +143,7 @@ If you leave a hostile creature’s reach during your move, you provoke an oppor
 
 #### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the *fly* spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the _fly_ spell.
 
 #### Creature Size
 
@@ -152,7 +152,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 **Size Categories (table)**
 
 | Size       | Space                  |
-|------------|------------------------|
+| ---------- | ---------------------- |
 | Tiny       | 2½ by 2½ ft.           |
 | Small      | 5 by 5 ft.             |
 | Medium     | 5 by 5 ft.             |
@@ -162,7 +162,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 ##### Space
 
-A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5* foot-wide doorway, other creatures can’t get through unless the hobgoblin lets them.
+A creature’s space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn’t 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5-foot wide doorway, other creatures can’t get through unless the hobgoblin lets them.
 
 A creature’s space also reflects the area it needs to fight effectively. For that reason, there’s a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.
 
@@ -236,9 +236,9 @@ You normally interact with an object while doing something else, such as when yo
 
 Whether you’re striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
-1. **Choose a target.** Pick a target within your attack’s range: a creature, an object, or a location.
-2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+1.  **Choose a target**. Pick a target within your attack’s range: a creature, an object, or a location.
+2.  **Determine modifiers**. The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3.  **Resolve the attack**. You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 If there’s ever any question whether something you’re doing counts as an attack, the rule is simple: if you’re making an attack roll, you’re making an attack.
 
@@ -345,7 +345,7 @@ A target with **total cover** can’t be targeted directly by an attack or a spe
 
 ### Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a *fireball* spell all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a _fireball_ spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -409,7 +409,7 @@ If a creature or an object has **resistance** to a damage type, damage of that t
 
 Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
-Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three* quarters.
+Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters.
 
 #### Healing
 

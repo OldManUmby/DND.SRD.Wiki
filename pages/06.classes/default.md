@@ -34,34 +34,34 @@ As a barbarian, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) a greataxe or (*b*) any martial melee weapon
-* (*a*) two handaxes or (*b*) any simple weapon
-* An explorer’s pack and four javelins
+*   (_a_) a greataxe or (_b_) any martial melee weapon
+*   (_a_) two handaxes or (_b_) any simple weapon
+*   An explorer’s pack and four javelins
 
 **The Barbarian (table)**
 
-| Level  | Proficiency Bonus | Features                      | Rages     | Rage Damage |
-|--------|-------------------|-------------------------------|-----------|-------------|
-| 1st    | +2                | Rage, Unarmored Defense       | 2         | +2          |
-| 2nd    | +2                | Reckless Attack, Danger Sense | 2         | +2          |
-| 3rd    | +2                | Primal Path                   | 3         | +2          |
-| 4th    | +2                | Ability Score Improvement     | 3         | +2          |
-| 5th    | +3                | Extra Attack, Fast Movement   | 3         | +2          |
-| 6th    | +3                | Path feature                  | 4         | +2          |
-| 7th    | +3                | Feral Instinct                | 4         | +2          |
-| 8th    | +3                | Ability Score Improvement     | 4         | +2          |
-| 9th    | +4                | Brutal Critical (1 die)       | 4         | +3          |
-| 10th   | +4                | Path feature                  | 4         | +3          |
-| 11th   | +4                | Relentless                    | 4         | +3          |
-| 12th   | +4                | Ability Score Improvement     | 5         | +3          |
-| 13th   | +5                | Brutal Critical (2 dice)      | 5         | +3          |
-| 14th   | +5                | Path feature                  | 5         | +3          |
-| 15th   | +5                | Persistent Rage               | 5         | +3          |
-| 16th   | +5                | Ability Score Improvement     | 5         | +4          |
-| 17th   | +6                | Brutal Critical (3 dice)      | 6         | +4          |
-| 18th   | +6                | Indomitable Might             | 6         | +4          |
-| 19th   | +6                | Ability Score Improvement     | 6         | +4          |
-| 20th   | +6                | Primal Champion               | Unlimited | +4          |
+| Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
+| ----- | ----------------- | ----------------------------- | --------- | ----------- |
+| 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
+| 2nd   | +2                | Reckless Attack, Danger Sense | 2         | +2          |
+| 3rd   | +2                | Primal Path                   | 3         | +2          |
+| 4th   | +2                | Ability Score Improvement     | 3         | +2          |
+| 5th   | +3                | Extra Attack, Fast Movement   | 3         | +2          |
+| 6th   | +3                | Path feature                  | 4         | +2          |
+| 7th   | +3                | Feral Instinct                | 4         | +2          |
+| 8th   | +3                | Ability Score Improvement     | 4         | +2          |
+| 9th   | +4                | Brutal Critical (1 die)       | 4         | +3          |
+| 10th  | +4                | Path feature                  | 4         | +3          |
+| 11th  | +4                | Relentless                    | 4         | +3          |
+| 12th  | +4                | Ability Score Improvement     | 5         | +3          |
+| 13th  | +5                | Brutal Critical (2 dice)      | 5         | +3          |
+| 14th  | +5                | Path feature                  | 5         | +3          |
+| 15th  | +5                | Persistent Rage               | 5         | +3          |
+| 16th  | +5                | Ability Score Improvement     | 5         | +4          |
+| 17th  | +6                | Brutal Critical (3 dice)      | 6         | +4          |
+| 18th  | +6                | Indomitable Might             | 6         | +4          |
+| 19th  | +6                | Ability Score Improvement     | 6         | +4          |
+| 20th  | +6                | Primal Champion               | Unlimited | +4          |
 
 #### Rage
 
@@ -69,9 +69,9 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 
-* You have advantage on Strength checks and Strength saving throws.
-* When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
-* You have resistance to bludgeoning, piercing, and slashing damage.
+*   You have advantage on Strength checks and Strength saving throws.
+*   When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+*   You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can’t cast them or concentrate on them while raging.
 
@@ -193,15 +193,15 @@ As a bard, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
-* (*a*) a diplomat’s pack or (*b*) an entertainer’s pack
-* (*a*) a lute or (*b*) any other musical instrument
-* Leather armor and a dagger
+*   (_a_) a rapier, (_b_) a longsword, or (_c_) any simple weapon
+*   (_a_) a diplomat’s pack or (_b_) an entertainer’s pack
+*   (_a_) a lute or (_b_) any other musical instrument
+*   Leather armor and a dagger
 
 **The Bard (table)**
 
 | Level | Proficieny Bonus | Features                                             | Spells Known | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|------------------|------------------------------------------------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | ---------------- | ---------------------------------------------------- | ------------ | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2               | Spellcasting, Bardic Inspiration (d6)                | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2               | Jack of All Trades, Song of Rest (d6)                | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2               | Bard College, Expertise                              | 2            | 6              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -237,7 +237,7 @@ You know two cantrips of your choice from the bard spell list. You learn additio
 
 The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast *cure wounds* using either slot.
+For example, if you know the 1st-level spell_cure wounds_ and have a 1st-level and a 2nd-level spell slot available, you can cast _cure wounds_ using either slot.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -375,16 +375,16 @@ As a cleric, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) a mace or (*b*) a warhammer (if proficient)
-* (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
-* (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-* (*a*) a priest’s pack or (*b*) an explorer’s pack
-* A shield and a holy symbol
+*   (_a_) a mace or (_b_) a warhammer (if proficient)
+*   (_a_) scale mail, (_b_) leather armor, or (_c_) chain mail (if proficient)
+*   (_a_) a light crossbow and 20 bolts or (_b_) any simple weapon
+*   (_a_) a priest’s pack or (_b_) an explorer’s pack
+*   A shield and a holy symbol
 
 **The Cleric (table)**
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | ----------------- | ----------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | Spellcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -421,7 +421,7 @@ The Cleric table shows how many spell slots you have to cast your spells of 1st 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level cleric, you have four
-1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _cure wounds_, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -480,7 +480,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 **Destroy Undead (table)**
 
 | Cleric Level | Destroys Undead of CR... |
-|--------------|--------------------------|
+| ------------ | ------------------------ |
 | 5th          | 1/2 or lower             |
 | 8th          | 1 or lower               |
 | 11th         | 2 or lower               |
@@ -506,7 +506,7 @@ The Life domain focuses on the vibrant positive energy—one of the fundamental 
 **Life Domain Spells (table)**
 
 | Cleric Level | Spells                               |
-|--------------|--------------------------------------|
+| ------------ | ------------------------------------ |
 | 1st          | bless, cure wounds                   |
 | 3rd          | lesser restoration, spiritual weapon |
 | 5th          | beacon of hope, revivify             |
@@ -569,14 +569,14 @@ As a druid, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) a wooden shield or (*b*) any simple weapon
-* (*a*) a scimitar or (*b*) any simple melee weapon
-* Leather armor, an explorer’s pack, and a druidic focus
+*   (_a_) a wooden shield or (_b_) any simple weapon
+*   (_a_) a scimitar or (_b_) any simple melee weapon
+*   Leather armor, an explorer’s pack, and a druidic focus
 
 **The Druid (table)**
 
 | Level | Proficiency Bonus | Features                                          | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|---------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | ----------------- | ------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | Druidic, Spellcasting                             | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Wild Shape, Druid Circle                          | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                 | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -616,7 +616,7 @@ The Druid table shows how many spell slots you have to cast your spells of 1st l
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds,* you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _cure wounds_, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -645,7 +645,7 @@ Your druid level determines the beasts you can transform into, as shown in the B
 **Beast Shapes (table)**
 
 | Level | Max. CR | Limitations                 | Example     |
-|-------|---------|-----------------------------|-------------|
+| ----- | ------- | --------------------------- | ----------- |
 | 2nd   | 1/4     | No flying or swimming speed | Wolf        |
 | 4th   | 1/2     | No flying speed             | Crocodile   |
 | 8th   | 1       | —                           | Giant eagle |
@@ -654,11 +654,11 @@ You can stay in a beast shape for a number of hours equal to half your druid lev
 
 While you are transformed, the following rules apply:
 
-* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-* When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
-* You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as *call lightning*, that you’ve already cast.
-* You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
-* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+*   Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
+*   When you transform, you assume the beast’s hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+*   You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _call lightning_, that you’ve already cast.
+*   You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+*   You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 #### Druid Circle
 
@@ -708,7 +708,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Arctic (table)**
 
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+| ----------- | --------------------------------- |
 | 3rd         | hold person, spike growth         |
 | 5th         | sleet storm, slow                 |
 | 7th         | freedom of movement, ice storm    |
@@ -717,7 +717,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Coast (table)**
 
 | Druid Level | Circle Spells                      |
-|-------------|------------------------------------|
+| ----------- | ---------------------------------- |
 | 3rd         | mirror image, misty step           |
 | 5th         | water breathing, water walk        |
 | 7th         | control water, freedom of movement |
@@ -726,7 +726,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Desert (table)**
 
 | Druid Level | Circle Spells                                 |
-|-------------|-----------------------------------------------|
+| ----------- | --------------------------------------------- |
 | 3rd         | blur, silence                                 |
 | 5th         | create food and water, protection from energy |
 | 7th         | blight, hallucinatory terrain                 |
@@ -735,7 +735,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Forest (table)**
 
 | Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
+| ----------- | -------------------------------- |
 | 3rd         | barkskin, spider climb           |
 | 5th         | call lightning, plant growth     |
 | 7th         | divination, freedom of movement  |
@@ -744,7 +744,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Grassland (table)**
 
 | Druid Level | Circle Spells                    |
-|-------------|----------------------------------|
+| ----------- | -------------------------------- |
 | 3rd         | invisibility, pass without trace |
 | 5th         | daylight, haste                  |
 | 7th         | divination, freedom of movement  |
@@ -753,7 +753,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Mountain (table)**
 
 | Druid Level | Circle Spells                   |
-|-------------|---------------------------------|
+| ----------- | ------------------------------- |
 | 3rd         | spider climb, spike growth      |
 | 5th         | lightning bolt, meld into stone |
 | 7th         | stone shape, stoneskin          |
@@ -762,7 +762,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 **Swamp (table)**
 
 | Druid Level | Circle Spells                        |
-|-------------|--------------------------------------|
+| ----------- | ------------------------------------ |
 | 3rd         | acid arrow, darkness                 |
 | 5th         | water walk, stinking cloud           |
 | 7th         | freedom of movement, locate creature |
@@ -772,7 +772,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _entangle_ spell.
 
 ###### Nature’s Ward
 
@@ -826,15 +826,15 @@ As a fighter, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows
-* (*a*) a martial weapon and a shield or (*b*) two martial weapons
-* (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
-* (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
+*   (_a_) chain mail or (_b_) leather armor, longbow, and 20 arrows
+*   (_a_) a martial weapon and a shield or (_b_) two martial weapons
+*   (_a_) a light crossbow and 20 bolts or (_b_) two handaxes
+*   (_a_) a dungeoneer’s pack or (_b_) an explorer’s pack
 
 **The Fighter (table)**
 
 | Level | Proficiency Bonus | Features                                          |
-|-------|-------------------|---------------------------------------------------|
+| ----- | ----------------- | ------------------------------------------------- |
 | 1st   | +2                | Fighting Style, Second Wind                       |
 | 2nd   | +2                | Action Surge (one use)                            |
 | 3rd   | +2                | Martial Archetype                                 |
@@ -974,14 +974,14 @@ As a monk, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-* (*a*) a shortsword or (*b*) any simple weapon
-* (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
-* 10 darts
+*   (_a_) a shortsword or (_b_) any simple weapon
+*   (_a_) a dungeoneer’s pack or (_b_) an explorer’s pack
+*   10 darts
 
 **The Monk (table)**
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
-|-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
+| ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
 | 1st   | +2                | 1d4          | —         | -                  | Unarmored Defense, Martial Arts                  |
 | 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
 | 3rd   | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |
@@ -1013,9 +1013,9 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
 
-* You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-* You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-* When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+*   You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+*   You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+*   When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1081,7 +1081,7 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 
 #### Evasion
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a _fireball_ spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 #### Stillness of Mind
 
@@ -1109,7 +1109,7 @@ At 15th level, your ki sustains you so that you suffer none of the frailty of ol
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the *astral projection* spell, without needing material components. When you do so, you can’t take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the _astral projection_ spell, without needing material components. When you do so, you can’t take any other creatures with you.
 
 #### Perfect Self
 
@@ -1126,9 +1126,9 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 ###### Open Hand Technique
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
-* It must succeed on a Dexterity saving throw or be knocked prone.
-* It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-* It can’t take reactions until the end of your next turn.
+*   It must succeed on a Dexterity saving throw or be knocked prone.
+*   It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+*   It can’t take reactions until the end of your next turn.
 
 ###### Wholeness of Body
 
@@ -1136,7 +1136,7 @@ At 6th level, you gain the ability to heal yourself. As an action, you can regai
 
 ###### Tranquility
 
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a _sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
 ###### Quivering Palm
 
@@ -1173,15 +1173,15 @@ As a paladin, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) a martial weapon and a shield or (*b*) two martial weapons
-* (*a*) five javelins or (*b*) any simple melee weapon
-* (*a*) a priest’s pack or (*b*) an explorer’s pack
-* Chain mail and a holy symbol
+*   (_a_) a martial weapon and a shield or (_b_) two martial weapons
+*   (_a_) five javelins or (_b_) any simple melee weapon
+*   (_a_) a priest’s pack or (_b_) an explorer’s pack
+*   Chain mail and a holy symbol
 
 **The Paladin (table)**
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
+| ----- | ----------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
 | 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
@@ -1207,7 +1207,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
 
-Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the _hallow_ spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -1251,7 +1251,7 @@ The Paladin table shows how many spell slots you have to cast your spells. To ca
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds,* you can cast it using a 1st-level or a 2nd- level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _cure wounds_, you can cast it using a 1st-level or a 2nd- level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -1354,7 +1354,7 @@ You gain oath spells at the paladin levels listed.
 **Oath of Devotion Spells (table)**
 
 | Level | Paladin Spells                           |
-|-------|------------------------------------------|
+| ----- | ---------------------------------------- |
 | 3rd   | protection from evil and good, sanctuary |
 | 5th   | lesser restoration, zone of truth        |
 | 9th   | beacon of hope, dispel magic             |
@@ -1381,7 +1381,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ###### Purity of Spirit
 
-Beginning at 15th level, you are always under the effects of a *protection from evil and good* spell.
+Beginning at 15th level, you are always under the effects of a _protection from evil and good_ spell.
 
 ###### Holy Nimbus
 
@@ -1430,15 +1430,15 @@ As a ranger, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) scale mail or (*b*) leather armor
-* (*a*) two shortswords or (*b*) two simple melee weapons
-* (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
-* A longbow and a quiver of 20 arrows
+*   (_a_) scale mail or (_b_) leather armor
+*   (_a_) two shortswords or (_b_) two simple melee weapons
+*   (_a_) a dungeoneer’s pack or (_b_) an explorer’s pack
+*   A longbow and a quiver of 20 arrows
 
 **The Ranger (table)**
 
 | Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
+| ----- | ----------------- | ------------------------------------------------- | ------------ | --- | --- | --- | --- | --- |
 | 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
@@ -1477,12 +1477,12 @@ You choose one additional favored enemy, as well as an associated language, at 6
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
-* Difficult terrain doesn’t slow your group’s travel.
-* Your group can’t become lost except by magical means.
-* Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-* If you are traveling alone, you can move stealthily at a normal pace.
-* When you forage, you find twice as much food as you normally would.
-* While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+*   Difficult terrain doesn’t slow your group’s travel.
+*   Your group can’t become lost except by magical means.
+*   Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+*   If you are traveling alone, you can move stealthily at a normal pace.
+*   When you forage, you find twice as much food as you normally would.
+*   While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 You choose additional favored terrain types at 6th and 10th level.
 
@@ -1514,7 +1514,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell *animal friendship* and have a 1st-level and a 2nd-level spell slot available, you can cast *animal friendship* using either slot.
+For example, if you know the 1st-level spell _animal friendship_ and have a 1st-level and a 2nd-level spell slot available, you can cast _animal friendship_ using either slot.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -1552,7 +1552,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _entangle_ spell.
 
 #### Hide in Plain Sight
 
@@ -1614,7 +1614,7 @@ At 11th level, you gain one of the following features of your choice.
 
 At 15th level, you gain one of the following features of your choice.
 
-**_Evasion_**. When you are subjected to an effect, such as a red dragon’s fiery breath or a *lightning bolt* spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+**_Evasion_**. When you are subjected to an effect, such as a red dragon’s fiery breath or a _lightning bolt_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 **_Stand Against the Tide_**. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 
@@ -1649,15 +1649,15 @@ As a rogue, you have the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) a rapier or (*b*) a shortsword
-* (*a*) a shortbow and quiver of 20 arrows or (*b*) a shortsword
-* (*a*) a burglar’s pack, (*b*) a dungeoneer’s pack, or (*c*) an explorer’s pack
-* (*a*) Leather armor, two daggers, and thieves’ tools
+*   (_a_) a rapier or (_b_) a shortsword
+*   (_a_) a shortbow and quiver of 20 arrows or (_b_) a shortsword
+*   (_a_) a burglar’s pack, (_b_) a dungeoneer’s pack, or (_c_) an explorer’s pack
+*   (_a_) Leather armor, two daggers, and thieves’ tools
 
 **The Rogue (table)**
 
 | Level | Proficiency Bonus | Sneak Attack | Features                               |
-|-------|-------------------|--------------|----------------------------------------|
+| ----- | ----------------- | ------------ | -------------------------------------- |
 | 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves’ Cant |
 | 2nd   | +2                | 1d6          | Cunning Action                         |
 | 3rd   | +2                | 2d6          | Roguish Archetype                      |
@@ -1717,7 +1717,7 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 #### Evasion
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an _ice storm_ spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 #### Reliable Talent
 
@@ -1800,15 +1800,15 @@ As a sorcerer, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-* (*a*) a component pouch or (*b*) an arcane focus
-* (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
-* Two daggers
+*   (_a_) a light crossbow and 20 bolts or (_b_) any simple weapon
+*   (_a_) a component pouch or (_b_) an arcane focus
+*   (_a_) a dungeoneer’s pack or (_b_) an explorer’s pack
+*   Two daggers
 
 **The Sorcerer (table)**
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | ----------------- | -------------- | ------------------------------ | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | -              | Spellcasting, Sorcerous Origin | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | 2              | Font of Magic                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | 3              | Metamagic                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -1842,7 +1842,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell *burning hands* and have a 1st-level and a 2nd-level spell slot available, you can cast *burning hands* using either slot.
+For example, if you know the 1st-level spell _burning hands_ and have a 1st-level and a 2nd-level spell slot available, you can cast _burning hands_ using either slot.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -1889,7 +1889,7 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 **Creating Spell Slots (table)**
 
 | Spell Slot Level | Sorcery Point Cost |
-|------------------|--------------------|
+| ---------------- | ------------------ |
 | 1st              | 2                  |
 | 2nd              | 3                  |
 | 3rd              | 5                  |
@@ -1940,7 +1940,7 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of sorcery points equal to the spell’s level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, *magic missile* and *scorching ray* aren’t eligible, but *ray of frost* and *chromatic orb* are.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, _magic missile_ and _scorching ray_ aren’t eligible, but _ray of frost_ and _chromatic orb_ are.
 
 #### Ability Score Improvement
 
@@ -1965,7 +1965,7 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 **Draconic Ancestry (table)**
 
 | Dragon | Damage Type |
-|--------|-------------|
+| ------ | ----------- |
 | Black  | Acid        |
 | Blue   | Lightning   |
 | Brass  | Fire        |
@@ -2028,15 +2028,15 @@ As a warlock, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* *(a)* a light crossbow and 20 bolts or (*b*) any simple weapon
-* *(a)* a component pouch or (*b*) an arcane focus
-* *(a)* a scholar’s pack or (*b*) a dungeoneer’s pack
-* Leather armor, any simple weapon, and two daggers
+*   (_a_) a light crossbow and 20 bolts or (_b_) any simple weapon
+*   (_a_) a component pouch or (_b_) an arcane focus
+*   (_a_) a scholar’s pack or (_b_) a dungeoneer’s pack
+*   Leather armor, any simple weapon, and two daggers
 
 **The Warlock (table)**
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
-|-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
+| ----- | ----------------- | ------------------------------- | -------------- | ------------ | ----------- | ---------- | ----------------- |
 | 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | -                 |
 | 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
 | 3rd   | +2                | Pact Boon                       | 2              | 4            | 2           | 2nd        | 2                 |
@@ -2074,7 +2074,7 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
 
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *thunderwave*, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell _thunderwave_, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -2110,7 +2110,7 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 
 ##### Pact of the Chain
 
-You learn the *find familiar* spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
+You learn the _find familiar_ spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
 
@@ -2152,23 +2152,23 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 ##### Agonizing Blast
 
-*Prerequisite:* eldritch blast *cantrip*
+_Prerequisite: Eldritch Blast cantrip_
 
-When you cast *eldritch blast*, add your Charisma modifier to the damage it deals on a hit.
+When you cast _eldritch blast_, add your Charisma modifier to the damage it deals on a hit.
 
 ##### Armor of Shadows
 
-You can cast *mage armor* on yourself at will, without expending a spell slot or material components.
+You can cast _mage armor_ on yourself at will, without expending a spell slot or material components.
 
 ##### Ascendant Step
 
-*Prerequisite: 9th level*
+_Prerequisite: 9th level_
 
-You can cast *levitate* on yourself at will, without expending a spell slot or material components.
+You can cast _levitate_ on yourself at will, without expending a spell slot or material components.
 
 ##### Beast Speech
 
-You can cast *speak with animals* at will, without expending a spell slot.
+You can cast _speak with animals_ at will, without expending a spell slot.
 
 ##### Beguiling Influence
 
@@ -2176,13 +2176,13 @@ You gain proficiency in the Deception and Persuasion skills.
 
 ##### Bewitching Whispers
 
-*Prerequisite: 7th level*
+_Prerequisite: 7th level_
 
-You can cast *compulsion* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _compulsion_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Book of Ancient Secrets
 
-*Prerequisite: Pact of the Tome feature*
+_Prerequisite: Pact of the Tome feature_
 
 You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
@@ -2190,9 +2190,9 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 
 ##### Chains of Carceri
 
-*Prerequisite: 15th level, Pact of the Chain feature*
+_Prerequisite: 15th level, Pact of the Chain feature_
 
-You can cast *hold monster* at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast _hold monster_ at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ##### Devil’s Sight
 
@@ -2200,19 +2200,19 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 
 ##### Dreadful Word
 
-*Prerequisite: 7th level*
+_Prerequisite: 7th level_
 
-You can cast *confusion* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _confusion_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Eldritch Sight
 
-You can cast *detect magic* at will, without expending a spell slot.
+You can cast _detect magic_ at will, without expending a spell slot.
 
 ##### Eldritch Spear
 
-*Prerequisite:* eldritch blast *cantrip*
+_Prerequisite: Eldritch Blast cantrip_
 
-When you cast *eldritch blast*, its range is 300 feet.
+When you cast _eldritch blast_, its range is 300 feet.
 
 ##### Eyes of the Rune Keeper
 
@@ -2220,7 +2220,7 @@ You can read all writing.
 
 ##### Fiendish Vigor
 
-You can cast *false life* on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+You can cast _false life_ on yourself at will as a 1st-level spell, without expending a spell slot or material components.
 
 ##### Gaze of Two Minds
 
@@ -2228,97 +2228,97 @@ You can use your action to touch a willing humanoid and perceive through its sen
 
 ##### Lifedrinker
 
-*Prerequisite: 12th level, Pact of the Blade feature*
+_Prerequisite: 12th level, Pact of the Blade feature_
 
 When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
 
 ##### Mask of Many Faces
 
-You can cast *disguise self* at will, without expending a spell slot.
+You can cast _disguise self_ at will, without expending a spell slot.
 
 ##### Master of Myriad Forms
 
-*Prerequisite: 15th level*
+_Prerequisite: 15th level_
 
-You can cast *alter self* at will, without expending a spell slot.
+You can cast _alter self_ at will, without expending a spell slot.
 
 ##### Minions of Chaos
 
-*Prerequisite: 9th level*
+_Prerequisite: 9th level_
 
-You can cast *conjure elemental* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _conjure elemental_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Mire the Mind
 
-*Prerequisite: 5th level*
+_Prerequisite: 5th level_
 
-You can cast *slow* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _slow_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Misty Visions
 
-You can cast *silent image* at will, without expending a spell slot or material components.
+You can cast _silent image_ at will, without expending a spell slot or material components.
 
 ##### One with Shadows
 
-*Prerequisite: 5th level*
+_Prerequisite: 5th level_
 
 When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
 
 ##### Otherworldly Leap
 
-*Prerequisite: 9th level*
+_Prerequisite: 9th level_
 
-You can cast *jump* on yourself at will, without expending a spell slot or material components.
+You can cast _jump_ on yourself at will, without expending a spell slot or material components.
 
 ##### Repelling Blast
 
-*Prerequisite:* eldritch blas*t cantrip*
+_Prerequisite: Eldritch Blast cantrip_
 
-When you hit a creature with *eldritch blast*, you can push the creature up to 10 feet away from you in a straight line.
+When you hit a creature with _eldritch blast_, you can push the creature up to 10 feet away from you in a straight line.
 
 ##### Sculptor of Flesh
 
-*Prerequisite: 7th level*
+_Prerequisite: 7th level_
 
-You can cast *polymorph* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _polymorph_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Sign of Ill Omen
 
-*Prerequisite: 5th level*
+_Prerequisite: 5th level_
 
-You can cast *bestow curse* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _bestow curse_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Thief of Five Fates
 
-You can cast *bane* once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast _bane_ once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ##### Thirsting Blade
 
-*Prerequisite: 5th level, Pact of the Blade feature*
+_Prerequisite: 5th level, Pact of the Blade feature_
 
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Visions of Distant Realms
 
-*Prerequisite: 15th level*
+_Prerequisite: 15th level_
 
-You can cast *arcane eye* at will, without expending a spell slot.
+You can cast _arcane eye_ at will, without expending a spell slot.
 
 ##### Voice of the Chain Master
 
-*Prerequisite: Pact of the Chain feature*
+_Prerequisite: Pact of the Chain feature_
 
 You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ##### Whispers of the Grave
 
-*Prerequisite: 9th level*
+_Prerequisite: 9th level_
 
-You can cast *speak with dead* at will, without expending a spell slot.
+You can cast _speak with dead_ at will, without expending a spell slot.
 
 ##### Witch Sight
 
-*Prerequisite: 15th level*
+_Prerequisite: 15th level_
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 
@@ -2339,7 +2339,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 **Fiend Expanded Spells (table)**
 
 | Spell Level | Spells                            |
-|-------------|-----------------------------------|
+| ----------- | --------------------------------- |
 | 1st         | burning hands, command            |
 | 2nd         | blindness/deafness, scorching ray |
 | 3rd         | fireball, stinking cloud          |
@@ -2407,35 +2407,35 @@ As a wizard, you gain the following class features.
 ##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
-* *(a)* a quarterstaff or (*b*) a dagger
-* *(a)* a component pouch or (*b*) an arcane focus
-* *(a)* a scholar’s pack or (*b*) an explorer’s pack
-* A spellbook
+*   (_a_) a quarterstaff or (_b_) a dagger
+*   (_a_) a component pouch or (_b_) an arcane focus
+*   (_a_) a scholar’s pack or (_b_) an explorer’s pack
+*   A spellbook
 
 **The Wizard (table)**
 
-| Level | Proficiency Bonus | Features                       | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-------------------|--------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st   | +2                | Spellcasting, Arcane Recovery  | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Arcane Tradition               | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | -                              | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Ability Score Improvement      | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | -                              | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3                | Arcane Tradition Feature       | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th   | +3                | -                              | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement      | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th   | +4                | -                              | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | Arcane Tradition Feature       | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | +4                | -                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4                | Ability Score Improvement      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th  | +5                | -                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | +5                | Arcane Tradition Feature       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th  | +5                | -                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5                | Ability Score Improvement      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | -                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | Spell Mastery                  | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                | Ability Score Improvement      | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | Signature Spell                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Arcane Recovery | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Arcane Tradition              | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | -                             | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement     | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | -                             | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Arcane Tradition Feature      | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                             | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement     | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | -                             | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Arcane Tradition Feature      | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Arcane Tradition Feature      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Spell Mastery                 | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Signature Spell               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 #### Spellcasting
 
@@ -2455,7 +2455,7 @@ The Wizard table shows how many spell slots you have to cast your spells of 1st 
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you’re a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell *magic missile,* you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell _magic missile_, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 

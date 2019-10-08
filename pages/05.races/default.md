@@ -241,9 +241,9 @@ As a rock gnome, you have a natural inventiveness and hardiness beyond that of o
 
 When you create a device, choose one of the following options:
 
-* _Clockwork Toy_. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
-* _Fire Starter_. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
-* _Music Box_. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+*   _Clockwork Toy_. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+*   _Fire Starter_. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+*   _Music Box_. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
 
 ### Half-Elf
 
@@ -316,6 +316,6 @@ Tieflings share certain racial traits as a result of their infernal descent.
 
 **_Hellish Resistance_**. You have resistance to fire damage.
 
-**_Infernal Legacy_**. You know the *thaumaturgy* cantrip. When you reach 3rd level, you can cast the *hellish rebuke* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+**_Infernal Legacy_**. You know the _thaumaturgy_ cantrip. When you reach 3rd level, you can cast the _hellish rebuke_ spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the _darkness_ spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 **_Languages_**. You can speak, read, and write Common and Infernal.

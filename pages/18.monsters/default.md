@@ -301,11 +301,11 @@ When a monster takes its action, it can choose from the options in the Actions s
 
 The most common actions that a monster will take in combat are melee and ranged attacks. These can be spell attacks or weapon attacks, where the “weapon” might be a manufactured item or a natural weapon, such as a claw or tail spike. For more information on different kinds of attacks, see the _Player’s Handbook_.
 
-***Creature vs. Target.*** The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
+!!!Creature vs. Target!!!. The target of a melee or ranged attack is usually either one creature or one target, the difference being that a “target” can be a creature or an object.
 
-***Hit.*** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the “_Hit_” notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
+!!!Hit!!!. Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the “_Hit_” notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
 
-***Miss.*** If an attack has an effect that occurs on a miss, that information is presented after the “_Miss:_” notation.
+!!!Miss!!!. If an attack has an effect that occurs on a miss, that information is presented after the “_Miss:_” notation.
 
 #### Multiattack
 
@@ -1479,7 +1479,7 @@ _Large fiend (demon), chaotic evil_
 
 **_Talons_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.
 
-**_Spores (Recharge 6)_**. A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
+**_Spores (Recharge 6)_**. A 15-foot radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
 
 **_Stunning Screech (1/Day)_**. The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn’t a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock’s next turn.
 
@@ -1529,7 +1529,7 @@ _Medium fiend (devil), lawful evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+**_Hurl Flame_**. _Ranged Spell Attack:_ +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
 ##### Bearded Devil
 
@@ -1745,7 +1745,7 @@ _Large fiend (devil), lawful evil_
 
 **_Tail_**. _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+**_Hurl Flame_**. _Ranged Spell Attack:_ +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
 
 ##### Ice Devil
 
@@ -4213,9 +4213,7 @@ _Large elemental, neutral_
 
 **_Slam_**. Melee _Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 
-**_Whelm (Recharge 4–6)_**. Each creature in the elemental’s space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8
-+ 4) bludgeoning damage. If it is Large or smaller, it is also grappled
-(escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental’s space.
+**_Whelm (Recharge 4–6)_**. Each creature in the elemental’s space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental’s space.
 
 The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental’s turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
@@ -4469,7 +4467,7 @@ At will: _detect evil and good_, _detect magic_, _thunderwave_
 
 **_Scimitar_**. _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni’s choice).
 
-**_Create Whirlwind_**. A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+**_Create Whirlwind_**. A 5-foot radius, 30-foot tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
 A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
@@ -4511,7 +4509,7 @@ At will: _detect magic_
 
 **_Scimitar_**. _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
-**_Hurl Flame_**. Ranged Spell Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
+**_Hurl Flame_**. _Ranged Spell Attack:_ +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
 
 #### Ghost
 
@@ -5828,7 +5826,7 @@ At will: _disguise self_ (any humanoid form), _major image_
 
 **_Dagger_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-**_Intoxicating Touch_**. Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+**_Intoxicating Touch_**. _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
 #### Lich
 
@@ -5881,7 +5879,7 @@ Cantrips (at will): _mage hand_, _prestidigitation_, _ray of frost_
 
 **Actions**
 
-**_Paralyzing Touch_**. Melee Spell Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Paralyzing Touch_**. _Melee Spell Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Legendary Actions**
 
@@ -7162,7 +7160,7 @@ _Gargantuan monstrosity, unaligned_
 
 **Challenge** 15 (13,000 XP)
 
-**_Tunneler**_. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+**_Tunneler**_. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot diameter tunnel in its wake.
 
 **Actions**
 
@@ -7712,7 +7710,7 @@ _Medium undead, chaotic evil_
 
 **Actions**
 
-**_Life Drain_**. Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. _Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 #### Sphinxes
 
@@ -8343,7 +8341,7 @@ _Tiny undead, chaotic evil_
 
 **Actions**
 
-**_Shock_**. Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
+**_Shock_**. _Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
 
 **_Invisibility_**. The will-o’-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 

@@ -19,7 +19,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 **Standard Exchange Rates (table)**
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
-|---------------|-------|------|------|-------|---------|
+| ------------- | ----- | ---- | ---- | ----- | ------- |
 | Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
 | Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
@@ -95,7 +95,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 **Armor (table)**
 
 | Armor              | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
-|--------------------|----------|---------------------------|----------|--------------|--------|
+| ------------------ | -------- | ------------------------- | -------- | ------------ | ------ |
 | **_Light Armor_**  |          |                           |          |              |        |
 | Padded             | 5 gp     | 11 + Dex modifier         | —        | Disadvantage | 8 lb.  |
 | Leather            | 10 gp    | 11 + Dex modifier         | —        | —            | 10 lb. |
@@ -125,7 +125,7 @@ The time it takes to don or doff armor depends on the armor’s category.
 **Donning and Doffing Armor (table)**
 
 | Category     | Don        | Doff      |
-|--------------|------------|-----------|
+| ------------ | ---------- | --------- |
 | Light Armor  | 1 minute   | 1 minute  |
 | Medium Armor | 5 minutes  | 1 minute  |
 | Heavy Armor  | 10 minutes | 5 minutes |
@@ -153,7 +153,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 **_Finesse_**. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-**_Heavy_**. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. 
+**_Heavy_**. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
 **_Light_**. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
@@ -196,7 +196,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 **Weapons (table)**
 
 | Name                         | Cost  | Damage          | Weight  | Properties                                             |
-|------------------------------|-------|-----------------|---------|--------------------------------------------------------|
+| ---------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ |
 | **_Simple Melee Weapons_**   |       |                 |         |                                                        |
 | Club                         | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                       | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -296,7 +296,7 @@ Lantern, Hooded. A hooded lantern casts bright light in a 30-foot radius and dim
 
 **_Mess Kit_**. This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
 
-**_Oil_**. Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+**_Oil_**. Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
 
 **_Poison, Basic_**. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 
@@ -324,7 +324,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 **Adventuring Gear (table)**
 
 | Item                         | Cost     | Weight       |
-|------------------------------|----------|--------------|
+| ---------------------------- | -------- | ------------ |
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
 | Alchemist’s fire (flask)     | 50 gp    | 1 lb.        |
@@ -376,7 +376,7 @@ Ram, Portable. You can use a portable ram to break down doors. When doing so, yo
 | Hammer                       | 1 gp     | 3 lb.        |
 | Hammer, sledge               | 2 gp     | 10 lb.       |
 | Healer’s kit                 | 5 gp     | 3 lb.        |
-| **_Holy symbol _**           |          |              |
+| **_Holy symbol_**            |          |              |
 | - Amulet                     | 5 gp     | 1 lb.        |
 | - Emblem                     | 5 gp     | —            |
 | - Reliquary                  | 5 gp     | 2 lb.        |
@@ -474,7 +474,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 **Tools (table)**
 
 | Item                      | Cost  | Weight |
-|---------------------------|-------|--------|
+| ------------------------- | ----- | ------ |
 | **_Artisan’s tools_**     |       |        |
 | - Alchemist’s supplies    | 50 gp | 8 lb.  |
 | - Brewer’s supplies       | 20 gp | 9 lb.  |
@@ -554,7 +554,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Mounts and Other Animals (table)**
 
 | Item           | Cost   | Speed  | Carrying Capacity |
-|----------------|--------|--------|-------------------|
+| -------------- | ------ | ------ | ----------------- |
 | Camel          | 50 gp  | 50 ft. | 480 lb.           |
 | Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
 | Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
@@ -567,7 +567,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Tack, Harness, and Drawn Vehicles (table)**
 
 | Item               | Cost   | Weight  |
-|--------------------|--------|---------|
+| ------------------ | ------ | ------- |
 | Barding            | ×4     | ×2      |
 | Bit and bridle     | 2 gp   | 1 lb.   |
 | Carriage           | 100 gp | 600 lb. |
@@ -587,7 +587,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Waterborne Vehicles (table)**
 
 | Item         | Cost      | Speed  |
-|--------------|-----------|--------|
+| ------------ | --------- | ------ |
 | Galley       | 30,000 gp | 4 mph  |
 | Keelboat     | 3,000 gp  | 1 mph  |
 | Longship     | 10,000 gp | 3 mph  |
@@ -604,7 +604,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 **Trade Goods (table)**
 
 | Cost   | Goods                                        |
-|--------|----------------------------------------------|
+| ------ | -------------------------------------------- |
 | 1 cp   | 1 lb. of wheat                               |
 | 2 cp   | 1 lb. of flour or one chicken                |
 | 5 cp   | 1 lb. of salt                                |
@@ -634,7 +634,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 **Lifestyle Expenses (table)**
 
 | Lifestyle    | Price/Day     |
-|--------------|---------------|
+| ------------ | ------------- |
 | Wretched     | —             |
 | Squalid      | 1 sp          |
 | Poor         | 2 sp          |
@@ -670,7 +670,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 **Food, Drink, and Lodging (table)**
 
 | Item                     | Cost  |
-|--------------------------|-------|
+| ------------------------ | ----- |
 | **_Ale_**                |       |
 | - Gallon                 | 2 sp  |
 | - Mug                    | 4 cp  |
@@ -700,7 +700,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the *secret chest* spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the _secret chest_ spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
@@ -709,7 +709,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 **Services (table)**
 
 | Service Pay       | Pay           |
-|-------------------|---------------|
+| ----------------- | ------------- |
 | **_Coach cab_**   |               |
 | - Between towns   | 3 cp per mile |
 | - Within a city   | 1 cp          |
@@ -724,4 +724,4 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as *cure wounds* or *identify*, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
+Hiring someone to cast a relatively common spell of 1st or 2nd level, such as _cure wounds_ or _identify_, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.

@@ -45,7 +45,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 **Trap Save DCs and Attack Bonuses (table)**
 
 | Trap Danger | Save DC | Attack Bonus |
-|-------------|---------|--------------|
+| ----------- | ------- | ------------ |
 | Setback     | 10–11   | +3 to +5     |
 | Dangerous   | 12–15   | +6 to +8     |
 | Deadly      | 16–20   | +9 to +12    |
@@ -53,7 +53,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 **Damage Severity by Level (table)**
 
 | Character Level | Setback | Dangerous | Deadly |
-|-----------------|---------|-----------|--------|
+| --------------- | ------- | --------- | ------ |
 | 1st–4th         | 1d10    | 2d10      | 4d10   |
 | 5th–10th        | 2d10    | 4d10      | 10d10  |
 | 11th–16th       | 4d10    | 10d10     | 18d10  |
@@ -93,9 +93,9 @@ This trap uses a trip wire to release a net suspended from the ceiling.
 
 The trip wire is 3 inches off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves’ tools breaks the trip wire harmlessly. A character without thieves’ tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
-When the trap is triggered, the net is released, covering a 10-foot-square area. Those in the area are trapped under the net and restrained, and those that fail a DC 10 Strength saving throw are also knocked prone. A creature can use its action to make a DC 10
+When the trap is triggered, the net is released, covering a 10-foot square area. Those in the area are trapped under the net and restrained, and those that fail a DC 10 Strength saving throw are also knocked prone. A creature can use its action to make a DC 10
 
-Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of it, freeing any creature trapped in that section.
+Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot square section of it, freeing any creature trapped in that section.
 
 ##### Fire-Breathing Statue
 
@@ -160,7 +160,7 @@ A successful DC 20 Intelligence (Investigation) check allows a character to dedu
 
 _Mechanical trap_
 
-When 20 or more pounds of pressure are placed on this trap’s pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot-diameter rolling sphere of solid stone.
+When 20 or more pounds of pressure are placed on this trap’s pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot diameter rolling sphere of solid stone.
 
 With a successful DC 15 Wisdom (Perception) check, a character can spot the trapdoor and pressure plate. A search of the floor accompanied by a successful DC 15 Intelligence (Investigation) check reveals variations in the mortar and stone that betray the pressure plate’s presence. The same check made while inspecting the ceiling notes variations in the stonework that reveal the trapdoor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating.
 
@@ -228,7 +228,7 @@ In a typical campaign, characters aren’t driven mad by the horrors they face a
 
 #### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -245,7 +245,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Short-Term Madness (table)**
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
-|--------|------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
 | 31–40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
@@ -260,7 +260,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Long-Term Madness (table)**
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
 | 11–20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
 | 21–30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
@@ -277,7 +277,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Indefinite Madness (table)**
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–15  | “Being drunk keeps me sane.”                                                                                                             |
 | 16–25  | “I keep whatever I find.”                                                                                                                |
 | 26–30  | “I try to become more like someone else I know—adopting his or her style of dress, mannerisms, and name.”                                |
@@ -309,26 +309,26 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 **Object Armor Class (table)**
 
-| Substance           | AC |
-|---------------------|----|
-| Cloth, paper, rope  | 11 |
-| Crystal, glass, ice | 13 |
-| Wood, bone          | 15 |
-| Stone               | 17 |
-| Iron, steel         | 19 |
-| Mithral             | 21 |
-| Adamantine          | 23 |
+| Substance           | AC  |
+| ------------------- | --- |
+| Cloth, paper, rope  | 11  |
+| Crystal, glass, ice | 13  |
+| Wood, bone          | 15  |
+| Stone               | 17  |
+| Iron, steel         | 19  |
+| Mithral             | 21  |
+| Adamantine          | 23  |
 
 **_Hit Points_**. An object’s hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
 **Object Hit Points (table)**
 
-| Size                                  | Fragile  | Resilient |
-|---------------------------------------|----------|-----------|
-| Tiny (bottle, lock)                   | 2 (1d4)  | 5 (2d4)   |
-| Small (chest, lute)                   | 3 (1d6)  | 10 (3d6)  |
-| Medium (barrel, chandelier)           | 4 (1d8)  | 18 (4d8)  |
-| Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
+| Size                                | Fragile  | Resilient |
+| ----------------------------------- | -------- | --------- |
+| Tiny (bottle, lock)                 | 2 (1d4)  | 5 (2d4)   |
+| Small (chest, lute)                 | 3 (1d6)  | 10 (3d6)  |
+| Medium (barrel, chandelier)         | 4 (1d8)  | 18 (4d8)  |
+| Large (cart, 10-ft-by-10-ft window) | 5 (1d10) | 27 (5d10) |
 
 **_Huge and Gargantuan Objects_**. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an _earthquake_ spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object’s hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section’s hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
@@ -353,7 +353,7 @@ Poisons come in the following four types.
 **Poisons (table)**
 
 | Item               | Type     | Price per Dose |
-|--------------------|----------|----------------|
+| ------------------ | -------- | -------------- |
 | Assassin’s blood   | Ingested | 150 gp         |
 | Burnt othur fumes  | Inhaled  | 500 gp         |
 | Crawler mucus      | Contact  | 200 gp         |

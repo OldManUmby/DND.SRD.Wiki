@@ -10,7 +10,7 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 
 #### Grappler
 
-*Prerequisite: Strength 13 or higher*
+_Prerequisite: Strength 13 or higher_
 
 You’ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
