@@ -1,5 +1,5 @@
 ---
-title: 'Magic Items'
+title: Magic Items
 ---
 
 [TOC]

@@ -1,5 +1,5 @@
 ---
-title: 'Beyond 1st Level'
+title: Beyond 1st Level
 ---
 
 [TOC]

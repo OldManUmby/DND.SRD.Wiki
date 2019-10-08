@@ -1,5 +1,5 @@
 ---
-title: 'Non-Player Characters'
+title: Non-Player Characters
 ---
 
 [TOC]
@@ -25,7 +25,7 @@ _Medium humanoid (any race), any alignment_
 **Armor Class** 10 **Hit Points** 9 (2d8) **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Religion +2
@@ -59,7 +59,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Int +9, Wis +6
@@ -110,7 +110,7 @@ _Medium humanoid (any race), any non-good alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
 **Saving Throws** Dex +6, Int +4
@@ -152,7 +152,7 @@ _Medium humanoid (any race), any non-lawful alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
@@ -182,7 +182,7 @@ _Medium humanoid (any race), any non-lawful alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
 **Saving Throws** Str +4, Dex +5, Wis +2
@@ -222,7 +222,7 @@ _Medium humanoid (any race), any chaotic alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1) | 11 (+0) | 9 (−1) |
 
 **Senses** passive Perception 10
@@ -246,7 +246,7 @@ _Medium humanoid (any race), any alignment_
 **Armor Class** 10 **Hit Points** 4 (1d8) **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
@@ -272,7 +272,7 @@ _Medium humanoid (any race), any non-good alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Deception +2, Religion +2
@@ -302,7 +302,7 @@ _Medium humanoid (any race), any non-good alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Skills** Deception +4, Persuasion +4, Religion +2
@@ -340,7 +340,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Nature +3, Perception +4
@@ -370,7 +370,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Str +7, Dex +5, Con +6
@@ -412,7 +412,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2
@@ -440,7 +440,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Con +4, Wis +2
@@ -480,7 +480,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 9 (−1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4
@@ -519,7 +519,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Persuasion +5
@@ -553,7 +553,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 25 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Skills** Medicine +7, Persuasion +3, Religion +4
@@ -592,7 +592,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
@@ -626,7 +626,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
@@ -662,7 +662,7 @@ _Medium humanoid (any race), any non-good alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Skills** Intimidation +2
@@ -696,7 +696,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1) | 11 (+0) | 8 (−1) |
 
 **Senses** passive Perception 10
@@ -724,7 +724,7 @@ _Medium humanoid (any race), any alignment_
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
