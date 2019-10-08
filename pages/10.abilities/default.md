@@ -1,5 +1,5 @@
 ---
-title: 'Ability & Checks'
+title: Ability & Checks
 ---
 
 [TOC]

@@ -1,5 +1,5 @@
 ---
-title: 'Situational Rules'
+title: Situational Rules
 ---
 
 [TOC]
