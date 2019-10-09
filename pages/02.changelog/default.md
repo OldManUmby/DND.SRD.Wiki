@@ -6,6 +6,8 @@ title: Changelog
 
 ## To Do
 
+-   [ ] Adjust header-styles in DOCX versions.
+-   [ ] Create EPUB versions.
 -   [ ] Adjust SRD for errata; awaiting official updates from [Wizards](http://dnd.wizards.com).
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option page or integrate it more with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
