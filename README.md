@@ -16,7 +16,7 @@
 
 #### Downloads
 
-*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
+*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/D%26D%205E%20SRD%20v5.1%20Full%20Compile%20(10-08-19).md).
 *   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/archive/master.zip).
 *   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 *   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
