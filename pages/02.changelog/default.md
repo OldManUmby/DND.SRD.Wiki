@@ -14,6 +14,10 @@ title: Changelog
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## October 10th, 2019
+
+-   [x] Adjusted styles in MS Word Compile for readability. Fixed errors in formatting.
+
 ## October 8th, 2019
 
 -   [x] Technical corrections in the Markdown across nearly every section, chapter and page.
