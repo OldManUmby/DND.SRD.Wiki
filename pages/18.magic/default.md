@@ -2045,7 +2045,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 **_Six Buttons_**. You can press one of the rod’s six buttons as a bonus action. A button’s effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press **button 1**, the rod becomes a _flame tongue_, as a fiery blade sprouts from the end opposite the rod’s flanged head.
+If you press **button 1**, the rod becomes a _flame tongue_, as a fiery blade sprouts from the end opposite the rod’s flanged head (you choose the type of sword).
 
 If you press **button 2**, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
