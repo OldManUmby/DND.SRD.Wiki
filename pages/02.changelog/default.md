@@ -8,11 +8,14 @@ title: Changelog
 
 -   [ ] Adjust header-styles in DOCX versions.
 -   [ ] Create EPUB versions.
--   [ ] Adjust SRD for errata; awaiting official updates from [Wizards](http://dnd.wizards.com).
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option page or integrate it more with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
+
+## October 29th, 2019
+
+-   [x] Adjust SRD for PH Errata (Nov 2018) from [Wizards](https://dnd.wizards.com/articles/sage-advice/errata-november-2018). Not an official Wizard's SRD update, but it needed to be done.
 
 ## October 10th, 2019
 
