@@ -8,7 +8,7 @@ title: Changelog
 
 -   [ ] Adjust header-styles in DOCX versions.
 -   [ ] Create EPUB versions.
--   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option page or integrate it more with the site.
+-   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
