@@ -15,7 +15,7 @@ title: Changelog
 
 ## October 29th, 2019
 
--   [x] Adjust SRD for PH Errata (Nov 2018) from [Wizards](https://dnd.wizards.com/articles/sage-advice/errata-november-2018). Not an official Wizard's SRD update, but it needed to be done.
+-   [x] Adjust SRD for DMG, MM and PH Errata (Nov 2018) from [Wizards](https://dnd.wizards.com/articles/sage-advice/errata-november-2018). Not an official Wizard's SRD update, but it needed to be done.
 
 ## October 10th, 2019
 
