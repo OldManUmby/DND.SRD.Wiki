@@ -3,7 +3,7 @@ title: Introduction
 media_order: DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg,D&D SRD5 Remastered.png
 ---
 
-[center]Updated: [October 10th, 2019](https://ogl-srd5.com/changelog#october10th2019)[/center]
+[center]Updated: [October 29th, 2019](https://ogl-srd5.com/changelog#october29th2019)[/center]
 
 ![D&D SRD5 Remastered](D&D_SRD5_Remastered.png)
 
@@ -17,7 +17,7 @@ media_order: DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs and messages, or to simply create rich text using a plain text or markkdown editor.
 
-! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a simple conversion as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account.
+! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a simple conversion as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph and **includes all errata from Nov 2018**. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account.
 
 #### New Features
 1.  **Powerful search engines** for the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the new _TNT Search_, an advanced full-text search feature (also upper-left sidebar), or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
