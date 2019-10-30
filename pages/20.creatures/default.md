@@ -236,9 +236,9 @@ _Medium beast, unaligned_
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**_Bite_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 
-**_Claws_**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.
+**_Claws_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.
 
 #### Blink Dog
 
@@ -360,9 +360,9 @@ _Large beast, unaligned_
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
+**_Bite_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
 
-**_Claws_**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+**_Claws_**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 
 #### Camel
 
@@ -2320,7 +2320,7 @@ _Large beast, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 14 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +3, Stealth +6
@@ -2352,7 +2352,7 @@ _Tiny beast, unaligned_
 **Speed** 10 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
-|--------|---------|--------|--------|--------|--------|
+| ------ | ------- | ------ | ------ | ------ | ------ |
 | 2 (−4) | 11 (+0) | 8 (−1) | 1 (−5) | 8 (−1) | 2 (−4) |
 
 **Senses** blindsight 10 ft., passive Perception 9
@@ -2376,7 +2376,7 @@ _Tiny beast, unaligned_
 **Speed** 0 ft., swim 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
+| ------ | ------- | ------ | ------ | ------- | ------ |
 | 1 (−5) | 12 (+1) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
 **Senses** passive Perception 10
@@ -2398,7 +2398,7 @@ _Tiny beast, unaligned_
 **Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
+| ------ | ------- | ------ | ------ | ------- | ------ |
 | 2 (−4) | 14 (+2) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
 **Skills** Stealth +4
@@ -2430,7 +2430,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 0 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
+| ------ | ------- | ------- | ------ | ------- | ------ |
 | 5 (−3) | 15 (+2) | 10 (+0) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -2464,7 +2464,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
-|--------|---------|---------|--------|--------|--------|
+| ------ | ------- | ------- | ------ | ------ | ------ |
 | 3 (−4) | 13 (+1) | 10 (+0) | 1 (−5) | 7 (−2) | 1 (−5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -2513,7 +2513,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 30 ft., swim 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
+| ------ | ------- | ------- | ------ | ------- | ------ |
 | 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -2543,7 +2543,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 0 ft., swim 40 ft.
 
 | STR     | DEX     | CON    | INT    | WIS    | CHA    |
-|---------|---------|--------|--------|--------|--------|
+| ------- | ------- | ------ | ------ | ------ | ------ |
 | 13 (+1) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -2577,7 +2577,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
+| ------ | ------- | ------ | ------ | ------- | ------ |
 | 9 (−1) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -2609,7 +2609,7 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
+| ------ | ------- | ------ | ------ | ------- | ------ |
 | 6 (−2) | 14 (+2) | 8 (−1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 **Skills** Perception +5
@@ -2641,7 +2641,7 @@ _Large beast, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 14 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +3, Stealth +6
@@ -2675,7 +2675,7 @@ _Medium beast, unaligned_
 **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
+| ------ | ------- | ------- | ------ | ------- | ------ |
 | 7 (−2) | 10 (+0) | 13 (+1) | 2 (−4) | 12 (+1) | 4 (−3) |
 
 **Skills** Perception +3
@@ -2705,7 +2705,7 @@ _Large beast, unaligned_
 **Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 12 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
 **Senses** passive Perception 11
@@ -2731,7 +2731,7 @@ _Tiny beast, unaligned_
 **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
+| ------ | ------- | ------ | ------ | ------- | ------ |
 | 3 (−4) | 16 (+3) | 8 (−1) | 2 (−4) | 12 (+1) | 3 (−4) |
 
 **Skills** Perception +3, Stealth +5
@@ -2759,7 +2759,7 @@ _Large monstrosity, neutral evil_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2) | 12 (+1) | 8 (−1) |
 
 **Skills** Perception +5, Stealth +3
@@ -2793,7 +2793,7 @@ _Medium beast, unaligned_
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 12 (+1) | 15 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
 **Skills** Perception +3, Stealth +4
@@ -2823,7 +2823,7 @@ _Large monstrosity, neutral evil_
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2) | 11 (+0) | 8 (−1) |
 
 **Skills** Perception +4

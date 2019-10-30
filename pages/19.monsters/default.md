@@ -1812,7 +1812,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
 
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 **Damage Immunities** fire, poison
 
