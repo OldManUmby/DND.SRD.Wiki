@@ -550,13 +550,13 @@ _Medium humanoid (any race), any alignment_
 
 **Hit Points** 27 (5d8 + 5)
 
-**Speed** 25 ft.
+**Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
-**Skills** Medicine +7, Persuasion +3, Religion +4
+**Skills** Medicine +7, Persuasion +3, Religion +5
 
 **Senses** passive Perception 13
 

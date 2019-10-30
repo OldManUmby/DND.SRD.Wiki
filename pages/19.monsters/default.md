@@ -180,7 +180,8 @@ A skill bonus is the sum of a monster’s relevant ability modifier and its prof
 
 #### Vulnerabilities, Resistances, and Immunities
 
-Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
+Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures
+are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
 
 #### Senses
 
@@ -349,11 +350,11 @@ If a spellcasting monster needs material components to cast its spells, assume t
 
 A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert magical influence for miles around.
 
-If a creature assumes the form of a legendary creature, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
+If a creature assumes the form of a legendary creature, such as through a spell, it doesn't gain that form's legendary actions, lair actions, or regional effects.
 
 #### Legendary Actions
 
-A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat.
 
 #### A Legendary Creature’s Lair
 
@@ -361,7 +362,7 @@ A legendary creature might have a section describing its lair and the special ef
 
 ##### Lair Actions
 
-If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
+If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while incapacitated or otherwise unable to take actions. If surprised, it can't use one until after its first turn in the combat.
 
 ##### Regional Effects
 
@@ -4500,7 +4501,7 @@ _Large elemental, lawful evil_
 **_Innate Spellcasting_**. The efreeti’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 At will: _detect magic_
-3/day: _enlarge/reduce_, _tongues_
+3/day each: _enlarge/reduce_, _tongues_
 1/day each: _conjure elemental_ (fire elemental only), _gaseous form, invisibility_, _major image_, _plane shift_, _wall of fire_
 
 **Actions**
@@ -5844,7 +5845,7 @@ _Medium undead, any evil alignment_
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
-**Skills** Arcana +18, History +12, Insight +9, Perception +9
+**Skills** Arcana +19, History +12, Insight +9, Perception +9
 
 **Damage Resistances** cold, lightning, necrotic
 
@@ -5891,7 +5892,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Frightening Gaze (Costs 2 Actions)_**. The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
 
-**Disrupt Life (Costs 3 Actions)_**. Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+**Disrupt Life (Costs 3 Actions)_**. Each nonundead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
 #### Lizardfolk
 
@@ -6117,7 +6118,7 @@ _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Actions**
 
-**_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
+**_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 
 **_Bite (Wolf or Hybrid Form Only)_**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
 
@@ -7166,11 +7167,11 @@ _Gargantuan monstrosity, unaligned_
 
 **_Multiattack_**. The worm makes two attacks: one with its bite and one with its stinger.
 
-**_Bite_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm’s turns.
+**_Bite_**. _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm’s turns.
 
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
-**_Tail Stinger_**. _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Tail Stinger_**. _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one creature. _Hit:_ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ### Monsters (R)
 
