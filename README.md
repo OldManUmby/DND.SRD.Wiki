@@ -16,6 +16,8 @@
 
 #### Downloads
 
+**Be aware, the remastered documents below do not yet include any errata updates at this time. Errata updates are coming soon, please check back at a later date.**
+
 *   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/D%26D%205E%20SRD%20v5.1%20Full%20Compile%20(10-08-19).md).
 *   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/archive/master.zip).
 *   Download the remastered [SRD v5.1 in DOCX format (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/exported%20formats/docx).
