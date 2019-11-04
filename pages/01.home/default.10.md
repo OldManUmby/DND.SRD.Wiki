@@ -25,8 +25,8 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,D&D_SRD5_Remastered.png,Illo2.j
 
 #### Downloads
 
-*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.2.md).
-*   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/raw/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.2.md).
+*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.2.1.md).
+*   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/raw/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.2.1.md).
 *   Download the remastered [SRD v5.1 in DOCX format (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/formats/docx).
 *   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 *   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
@@ -35,8 +35,8 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,D&D_SRD5_Remastered.png,Illo2.j
 #### Official D&D Core Rule Books
 
 | <center>[Player's Handbook](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606/ref=asap_bc?ie=UTF8)</center> | <center>[Dungeon Master's Guide](https://www.amazon.com/Dungeon-Masters-Guide-Core-Rulebook/dp/0786965622/ref=asap_bc?ie=UTF8)</center> | <center>[Monster Manual](https://www.amazon.com/Monster-Manual-Core-Rulebook-Wizards/dp/0786965614/ref=asap_bc?ie=UTF8)</center> |
-|:----------------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------- |
-| ![PHB](DnD_PHB.jpg)                                                                                                     | ![DMG](DnD_DMG.jpg)                                                                                                    | ![MM](DnD_MM.jpg)                                                                                               |
+|:---------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- |
+| ![PHB](DnD_PHB.jpg)                                                                                                                      | ![DMG](DnD_DMG.jpg)                                                                                                                     | ![MM](DnD_MM.jpg)                                                                                                                |
 
 <hr>
 

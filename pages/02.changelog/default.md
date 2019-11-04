@@ -16,6 +16,7 @@ title: Changelog
 -   [x] Completely remastered ALL Markdown and DOCX documents from scratch!
 -   [x] Create BETA documents in Apple Pages and EPUB (needs more editing).
 -   [x] Basic styling added to extended formats.
+-   [x] Added new RE& logo.
 -   [x] Fixed many, many formatting and style errors.
 
 ## October 29th, 2019
