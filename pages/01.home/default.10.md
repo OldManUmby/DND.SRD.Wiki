@@ -1,13 +1,13 @@
 ---
 title: Introduction
-media_order: 'DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg,D&D SRD5 Remastered.png'
+media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,D&D_SRD5_Remastered.png,Illo2.jpg'
 ---
 
 [center]**Latest Update: [Remastered SRD v0.2 November 4th, 2019](https://ogl-srd5.com/changelog#november4th2019)**[/center]
 
 ![D&D SRD5 Remastered](D&D_SRD5_Remastered.png)
 
-![Starter Image](DnD_Starter_Art.jpg)
+![Fan Site Kit Image](Illo2.jpg)
 
 #### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (SRD) v5.1 Remastered in Markdown Format!
 
