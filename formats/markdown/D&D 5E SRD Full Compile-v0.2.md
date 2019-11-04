@@ -1,4 +1,4 @@
-# D&D SRD5 Remastered v0.2
+# SRD5 Remastered v0.2
 
 #### Dungeons & Dragons 5E SRD v5.1 Remastered in Markdown!
 
