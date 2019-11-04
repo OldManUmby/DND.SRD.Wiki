@@ -25,8 +25,8 @@ media_order: DnD_Logo.png,DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,DnD_Starter_Art.jpg
 
 #### Downloads
 
-*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)]().
-*   Download the remastered [SRD v5.1 in Markdown format (full compilation)]().
+*   View the remastered [SRD v5.1 raw data in Mardown format (full compilation)](https://raw.githubusercontent.com/Umbyology/OGL-SRD5/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.1.1.md).
+*   Download the remastered [SRD v5.1 in Markdown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/raw/master/formats/markdown/D%26D%205E%20SRD%20Full%20Compile-v0.1.1.md).
 *   Download the remastered [SRD v5.1 in DOCX format (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/formats/docx).
 *   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 *   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
