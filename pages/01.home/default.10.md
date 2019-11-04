@@ -1,11 +1,11 @@
 ---
 title: Introduction
-media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,D&D_SRD5_Remastered.png,Illo2.jpg'
+media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,Illo2.jpg,RE&.logo.1000.286.144.png'
 ---
 
 [center]**Latest Update: [Remastered SRD v0.2 November 4th, 2019](https://ogl-srd5.com/changelog#november4th2019)**[/center]
 
-![D&D SRD5 Remastered](D&D_SRD5_Remastered.png)
+![REmastered Logo](RE&.logo.1000.286.144.png)
 
 ![Fan Site Kit Image](Illo2.jpg)
 
