@@ -6,12 +6,17 @@ title: Changelog
 
 ## To Do
 
--   [ ] Adjust header-styles in DOCX versions.
--   [ ] Create EPUB versions.
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
+
+## November 4th, 2019
+
+-   [x] Completely remastered ALL Markdown and DOCX documents from scratch!
+-   [x] Create BETA documents in Apple Pages and EPUB (needs more editing).
+-   [x] Basic styling added to extended formats.
+-   [x] Fixed many, many formatting and style errors.
 
 ## October 29th, 2019
 
