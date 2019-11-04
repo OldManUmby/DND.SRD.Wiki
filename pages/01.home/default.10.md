@@ -17,11 +17,11 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,D&D_SRD5_Remastered.png,Illo2.j
 
 **Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs and messages, or to simply create rich text using a plain text or markkdown editor.
 
-! The documents contained herein are edited from scratch into Markdown format for portability and conversion to other formats. This is not a simple conversion as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph and **includes all errata from Nov 2018**. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account.
+! The documents contained herein are edited from scratch into Markdown format for import into other formats or into your own 5E projects. This is not a simple export as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph and **includes all errata from Nov 2018**. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account.
 
-#### New Features
-1.  **Powerful search engines** for the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the new _TNT Search_, an advanced full-text search feature (also upper-left sidebar), or perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
-2.  **Public editing** and the correction of errors on pages are now available directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** A free Github account/membership is required. **WARNING:** Abuse of this wiki-like editing process shall not be tollerated resulting in the denial of public editing.
+#### Features
+1.  **Powerful search engines** for the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the recommended _TNT Search_, an advanced full-text search feature (also upper-left sidebar), or your can perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+2.  **Error reporting** is available directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** _A free Github account/membership is required_.
 
 #### Downloads
 
