@@ -26,7 +26,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 3.  Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
 
-4.  Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non- exclusive license with the exact terms of this License to Use, the Open Game Content.
+4.  Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
 
 5.  Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
 
