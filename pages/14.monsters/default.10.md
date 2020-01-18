@@ -935,7 +935,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Horns***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) bludgeoning damage.
 
-***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
 ***Fire Breath (Recharge 5-6)***. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -3187,7 +3187,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Lightning Breath**. The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Lightning Breath**. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 
@@ -3243,7 +3243,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Lightning Breath**. The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Lightning Breath**. The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
@@ -3281,7 +3281,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Lightning Breath**. The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Lightning Breath**. The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
@@ -3729,7 +3729,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Cold Breath**. The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+**Cold Breath**. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -3789,7 +3789,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Cold Breath**. The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+**Cold Breath**. The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -3843,7 +3843,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Cold Breath**. The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+**Cold Breath**. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -3879,7 +3879,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Breath Weapons (Recharge 5-6)***. The dragon uses one of the following breath weapons.
 
-**Cold Breath**. The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+**Cold Breath**. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -4157,7 +4157,7 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 ***Fire Form***. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 
-***Illumination***. The elemental sheds bright light in a 30- foot radius and dim light in an additional 30 feet.
+***Illumination***. The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.
 
 ***Water Susceptibility***. For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
@@ -4279,7 +4279,7 @@ At will: *dancing lights*
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+***Claws.*** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
 
 ***Web (Recharge 5-6)***. *Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
@@ -6277,7 +6277,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) slashing damage.
 
-***Blinding Breath (Recharge 6)***. The mephit exhales a 15- foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Blinding Breath (Recharge 6)***. The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Ice Mephit
 
@@ -6317,7 +6317,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Claws.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
-***Frost Breath (Recharge 6)***. The mephit exhales a 15- foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
+***Frost Breath (Recharge 6)***. The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
 ### Magma Mephit
 
@@ -6391,7 +6391,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Claws.** Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
-***Steam Breath (Recharge 6)***. The mephit exhales a 15- foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
+***Steam Breath (Recharge 6)***. The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
 ## Merfolk
 
@@ -6763,7 +6763,7 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 ***Confer Fire Resistance***. The nightmare can grant resistance to fire damage to anyone riding it.
 
-***Illumination***. The nightmare sheds bright light in a 10- foot radius and dim light for an additional 10 feet.
+***Illumination***. The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
 ###### Actions
 
