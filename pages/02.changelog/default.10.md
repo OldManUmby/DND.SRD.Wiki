@@ -11,6 +11,10 @@ title: Changelog
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## February 9th, 2020
+
+-   [x] Updated homepage cover art and format descriptions.
+
 ## November 4th, 2019
 
 -   [x] Completely remastered ALL Markdown and DOCX documents from scratch!
