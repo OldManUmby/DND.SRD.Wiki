@@ -3,7 +3,7 @@ title: Introduction
 media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKeyArt2.jpg'
 ---
 
-[center]**Latest Update: [Remastered SRD v0.2.1 November 4th, 2019](https://ogl-srd5.com/changelog#november4th2019)**[/center]
+[center]**Latest: [Remastered SRD v0.2.1 | Website Updated February 9th, 2019](https://ogl-srd5.com/changelog#february9th2020)**[/center]
 
 ![REmastered Logo](RE&.logo.1000.286.144.png)
 
