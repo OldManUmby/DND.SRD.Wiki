@@ -6,7 +6,7 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 [center]**Latest Update: [Remastered SRD v0.2.1 November 4th, 2019](https://ogl-srd5.com/changelog#november4th2019)**[/center]
 
 ![REmastered Logo](RE&.logo.1000.286.144.png)
-Now in both Markdown and Microsoft Word Formats!
+<center>Now in both Markdown and Microsoft Word Formats!</center>
 
 ![Fan Site Kit Image](ToDKeyArt2.jpg)
 
