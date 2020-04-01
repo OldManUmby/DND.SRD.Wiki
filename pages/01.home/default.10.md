@@ -34,7 +34,7 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 
 #### Official D&D Core Rule Books
 
-| <center>[Player's Handbook](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606/ref=asap_bc?ie=UTF8)</center> | <center>[Dungeon Master's Guide](https://www.amazon.com/Dungeon-Masters-Guide-Core-Rulebook/dp/0786965622/ref=asap_bc?ie=UTF8)</center> | <center>[Monster Manual](https://www.amazon.com/Monster-Manual-Core-Rulebook-Wizards/dp/0786965614/ref=asap_bc?ie=UTF8)</center> |
+| <center>[Player's Handbook](https://amzn.to/2UydxSQ)</center> | <center>[Dungeon Master's Guide](https://amzn.to/2R4UcGP)</center> | <center>[Monster Manual](https://amzn.to/2w59Nim)</center> |
 |:---------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- |
 | ![PHB](DnD_PHB.jpg)                                                                                                                      | ![DMG](DnD_DMG.jpg)                                                                                                                     | ![MM](DnD_MM.jpg)                                                                                                                |
 
