@@ -1,9 +1,5 @@
 ---
 title: Races
-process:
-    markdown: true
-    twig: true
-twig_first: true
 ---
 
 {{ table_of_contents }}
