@@ -2,7 +2,7 @@
 title: Races
 ---
 
-[TOC]
+{{ table_of_contents }}
 
 ## Racial Traits
 
