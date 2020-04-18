@@ -25,7 +25,7 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 
 #### Downloads
 
-*   View or download the remastered files (.PDF, .DOCX, .MD)[SRD v5.1 raw data in Mardown format (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/formats).
+*   View or download the [REmastered SRD v5.1 in .PDF | .DOCX | .MD) (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/formats).
 *   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 *   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 *   Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
