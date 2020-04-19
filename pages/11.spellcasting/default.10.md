@@ -4,6 +4,8 @@ title: Spellcasting
 
 [TOC]
 
+## Magic
+
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
@@ -12,7 +14,7 @@ This chapter provides the rules for casting spells. Different character classes 
 
 A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect-in most cases, all in the span of seconds.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix A), drain life energy away, and restore life to the dead.
+Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix ##), drain life energy away, and restore life to the dead.
 
 Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
 
@@ -57,6 +59,30 @@ A cantrip is a spell that can be cast at will, without using a spell slot and wi
 Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
 
 To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.
+
+***The Schools of Magic***
+
+*Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.*
+
+*The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.*
+
+***Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.*
+
+***Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.*
+
+***Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.*
+
+***Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.*
+
+***Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.*
+
+***Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.*
+
+***Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.*
+
+*Creating the undead through the use of necromancy spells such as animate dead is not a good act, and only evil casters use such spells frequently.*
+
+***Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.*
 
 ## Casting a Spell
 
@@ -126,11 +152,11 @@ If a spell must be maintained with concentration, that fact appears in its Durat
 
 Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
 
-  - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
+- **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
 
-  - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+- **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
 
-  - **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
@@ -192,8 +218,7 @@ A sphere's point of origin is included in the sphere's area of effect.
 
 Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
 
-**The DC to resist one of your spells** = 8 + your spellcasting ability modifier +
-
+**The DC to resist one of your spells** = 8 + your spellcasting ability modifier +  
 your proficiency bonus + any special modifiers.
 
 ### Spell Attack Rolls
@@ -202,1715 +227,1690 @@ Some spells require the caster to make an attack roll to determine whether the s
 
 Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
 
-### The Schools of Magic
-
-Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
-
-The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
-
-**Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
-
-**Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
-
-**Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
-
-**Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
-
-**Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
-
-**Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
-
-**Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
-
-Creating the undead through the use of necromancy spells such as *animate dead* is not a good act, and only evil casters use such spells frequently.
-
-**Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
-
 ### Combining Magical Effects
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap.
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
-# Spell Lists
+# Chapter ##: Spells
 
-##
+# Spell Lists
 
 ## Bard Spells
 
 #### Cantrips (0 Level)
 
-  - Dancing Lights
+- Dancing Lights
 
-  - Light
+- Light
 
-  - Mage Hand
+- Mage Hand
 
-  - Mending
+- Mending
 
-  - Message
+- Message
 
-  - Minor Illusion
+- Minor Illusion
 
-  - Prestidigitation
+- Prestidigitation
 
-  - True Strike
+- True Strike
 
 #### 1st Level
 
-  - Bane
+- Bane
 
-  - Charm Person
+- Charm Person
 
-  - Comprehend Languages
+- Comprehend Languages
 
-  - Cure Wounds
+- Cure Wounds
 
-  - Detect Magic
+- Detect Magic
 
-  - Disguise Self
+- Disguise Self
 
-  - Faerie Fire
+- Faerie Fire
 
-  - Feather Fall
+- Feather Fall
 
-  - Healing Word
+- Healing Word
 
-  - Heroism
+- Heroism
 
-  - Hideous Laughter
+- Hideous Laughter
 
-  - Identify
+- Identify
 
-  - Illusory Script
+- Illusory Script
 
-  - Longstrider
+- Longstrider
 
-  - Silent Image
+- Silent Image
 
-  - Sleep
+- Sleep
 
-  - Speak with Animals
+- Speak with Animals
 
-  - Thunderwave
+- Thunderwave
 
-  - Unseen Servant
+- Unseen Servant
 
 #### 2nd Level
 
-  - Animal Messenger
+- Animal Messenger
 
-  - Blindness/Deafness
+- Blindness/Deafness
 
-  - Calm Emotions
+- Calm Emotions
 
-  - Detect Thoughts
+- Detect Thoughts
 
-  - Enhance Ability
+- Enhance Ability
 
-  - Enthrall
+- Enthrall
 
-  - Heat Metal
+- Heat Metal
 
-  - Hold Person
+- Hold Person
 
-  - Invisibility
+- Invisibility
 
-  - Knock
+- Knock
 
-  - Lesser Restoration
+- Lesser Restoration
 
-  - Locate Animals or Plants
+- Locate Animals or Plants
 
-  - Locate Object
+- Locate Object
 
-  - Magic Mouth
+- Magic Mouth
 
-  - See Invisibility
+- See Invisibility
 
-  - Shatter
+- Shatter
 
-  - Silence
+- Silence
 
-  - Suggestion
+- Suggestion
 
-  - Zone of Truth
+- Zone of Truth
 
 #### 3rd Level
 
-  - Bestow Curse
+- Bestow Curse
 
-  - Clairvoyance
+- Clairvoyance
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Fear
+- Fear
 
-  - Glyph of Warding
+- Glyph of Warding
 
-  - Hypnotic Pattern
+- Hypnotic Pattern
 
-  - Major Image
+- Major Image
 
-  - Nondetection
+- Nondetection
 
-  - Plant Growth
+- Plant Growth
 
-  - Sending
+- Sending
 
-  - Speak with Dead
+- Speak with Dead
 
-  - Speak with Plants
+- Speak with Plants
 
-  - Stinking Cloud
+- Stinking Cloud
 
-  - Tiny Hut
+- Tiny Hut
 
-  - Tongues
+- Tongues
 
 #### 4th Level
 
-  - Confusion
+- Confusion
 
-  - Dimension Door
+- Dimension Door
 
-  - Freedom of Movement
+- Freedom of Movement
 
-  - Greater Invisibility
+- Greater Invisibility
 
-  - Hallucinatory Terrain
+- Hallucinatory Terrain
 
-  - Locate Creature
+- Locate Creature
 
-  - Polymorph
+- Polymorph
 
 #### 5th Level
 
-  - Animate Objects
+- Animate Objects
 
-  - Awaken
+- Awaken
 
-  - Dominate Person
+- Dominate Person
 
-  - Dream
+- Dream
 
-  - Geas
+- Geas
 
-  - Greater Restoration
+- Greater Restoration
 
-  - Hold Monster
+- Hold Monster
 
-  - Legend Lore
+- Legend Lore
 
-  - Mass Cure Wounds
+- Mass Cure Wounds
 
-  - Mislead
+- Mislead
 
-  - Modify Memory
+- Modify Memory
 
-  - Planar Binding
+- Planar Binding
 
-  - Raise Dead
+- Raise Dead
 
-  - Scrying
+- Scrying
 
-  - Seeming
+- Seeming
 
-  - Teleportation Circle
+- Teleportation Circle
 
 #### 6th Level
 
-  - Eyebite
+- Eyebite
 
-  - Find the Path
+- Find the Path
 
-  - Guards and Wards
+- Guards and Wards
 
-  - Irresistible Dance
+- Irresistible Dance
 
-  - Mass Suggestion
+- Mass Suggestion
 
-  - Programmed Illusion
+- Programmed Illusion
 
-  - True Seeing
+- True Seeing
 
 #### 7th Level
 
-  - Arcane Sword
+- Arcane Sword
 
-  - Etherealness
+- Etherealness
 
-  - Forcecage
+- Forcecage
 
-  - Magnificent Mansion
+- Magnificent Mansion
 
-  - Mirage Arcane
+- Mirage Arcane
 
-  - Project Image
+- Project Image
 
-  - Regenerate
+- Regenerate
 
-  - Resurrection
+- Resurrection
 
-  - Symbol
+- Symbol
 
-  - Teleport
+- Teleport
 
 #### 8th Level
 
-  - Dominate Monster
+- Dominate Monster
 
-  - Feeblemind
+- Feeblemind
 
-  - Glibness
+- Glibness
 
-  - Mind Blank
+- Mind Blank
 
-  - Power Word
+- Power Word
 
-  - Stun
+- Stun
 
 #### 9th Level
 
-  - Foresight
+- Foresight
 
-  - Power Word Kill
+- Power Word Kill
 
-  - True Polymorph
+- True Polymorph
 
 ## Cleric Spells
 
 #### Cantrips (0 Level)
 
-  - Guidance
+- Guidance
 
-  - Light
+- Light
 
-  - Mending
+- Mending
 
-  - Resistance
+- Resistance
 
-  - Sacred Flame
+- Sacred Flame
 
-  - Thaumaturgy
+- Thaumaturgy
 
 #### 1st Level
 
-  - Bane
+- Bane
 
-  - Bless
+- Bless
 
-  - Command
+- Command
 
-  - Create or Destroy Water
+- Create or Destroy Water
 
-  - Cure Wounds
+- Cure Wounds
 
-  - Detect Evil and Good
+- Detect Evil and Good
 
-  - Detect Magic
+- Detect Magic
 
-  - Detect Poison and Disease
+- Detect Poison and Disease
 
-  - Guiding Bolt
+- Guiding Bolt
 
-  - Healing Word
+- Healing Word
 
-  - Inflict Wounds
+- Inflict Wounds
 
-  - Protection from Evil and Good
+- Protection from Evil and Good
 
-  - Purify Food and Drink
+- Purify Food and Drink
 
-  - Sanctuary
+- Sanctuary
 
-  - Shield of Faith
+- Shield of Faith
 
 #### 2nd Level
 
-  - Aid
+- Aid
 
-  - Augury
+- Augury
 
-  - Blindness/Deafness
+- Blindness/Deafness
 
-  - Calm Emotions
+- Calm Emotions
 
-  - Continual Flame
+- Continual Flame
 
-  - Enhance Ability
+- Enhance Ability
 
-  - Find Traps
+- Find Traps
 
-  - Gentle Repose
+- Gentle Repose
 
-  - Hold Person
+- Hold Person
 
-  - Lesser Restoration
+- Lesser Restoration
 
-  - Locate Object
+- Locate Object
 
-  - Prayer of Healing
+- Prayer of Healing
 
-  - Protection from Poison
+- Protection from Poison
 
-  - Silence
+- Silence
 
-  - Spiritual Weapon
+- Spiritual Weapon
 
-  - Warding Bond
+- Warding Bond
 
-  - Zone of Truth
+- Zone of Truth
 
 #### 3rd Level
 
-  - Animate Dead
+- Animate Dead
 
-  - Beacon of Hope
+- Beacon of Hope
 
-  - Bestow Curse
+- Bestow Curse
 
-  - Clairvoyance
+- Clairvoyance
 
-  - Create Food and Water
+- Create Food and Water
 
-  - Daylight
+- Daylight
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Glyph of Warding
+- Glyph of Warding
 
-  - Magic Circle
+- Magic Circle
 
-  - Mass Healing Word
+- Mass Healing Word
 
-  - Meld into Stone
+- Meld into Stone
 
-  - Protection from Energy
+- Protection from Energy
 
-  - Remove Curse
+- Remove Curse
 
-  - Revivify
+- Revivify
 
-  - Sending
+- Sending
 
-  - Speak with Dead
+- Speak with Dead
 
-  - Spirit Guardians
+- Spirit Guardians
 
-  - Tongues
+- Tongues
 
-  - Water Walk
+- Water Walk
 
 #### 4th Level
 
-  - Banishment
+- Banishment
 
-  - Control Water
+- Control Water
 
-  - Death Ward
+- Death Ward
 
-  - Divination
+- Divination
 
-  - Freedom of Movement
+- Freedom of Movement
 
-  - Locate Creature
+- Locate Creature
 
-  - Stone Shape
+- Stone Shape
 
 #### 5th Level
 
-  - Commune
+- Commune
 
-  - Contagion
+- Contagion
 
-  - Dispel Evil and Good
+- Dispel Evil and Good
 
-  - Flame Strike
+- Flame Strike
 
-  - Geas
+- Geas
 
-  - Greater Restoration
+- Greater Restoration
 
-  - Hallow
+- Hallow
 
-  - Insect Plague
+- Insect Plague
 
-  - Legend
+- Legend
 
-  - Lore
+- Lore
 
-  - Mass Cure Wounds
+- Mass Cure Wounds
 
-  - Planar Binding
+- Planar Binding
 
-  - Raise Dead
+- Raise Dead
 
-  - Scrying
+- Scrying
 
 #### 6th Level
 
-  - Blade Barrier
+- Blade Barrier
 
-  - Create Undead
+- Create Undead
 
-  - Find the Path
+- Find the Path
 
-  - Forbiddance
+- Forbiddance
 
-  - Harm
+- Harm
 
-  - Heal
+- Heal
 
-  - Heroes' Feast
+- Heroes' Feast
 
-  - Planar Ally
+- Planar Ally
 
-  - True Seeing
+- True Seeing
 
-  - Word of Recall
+- Word of Recall
 
 #### 7th Level
 
-  - Conjure Celestial
+- Conjure Celestial
 
-  - Divine Word
+- Divine Word
 
-  - Etherealness
+- Etherealness
 
-  - Fire Storm
+- Fire Storm
 
-  - Plane Shift
+- Plane Shift
 
-  - Regenerate
+- Regenerate
 
-  - Resurrection
+- Resurrection
 
-  - Symbol
+- Symbol
 
 #### 8th Level
 
-  - Antimagic Field
+- Antimagic Field
 
-  - Control Weather
+- Control Weather
 
-  - Earthquake
+- Earthquake
 
-  - Holy Aura
+- Holy Aura
 
 #### 9th Level
 
-  - Astral Projection
+- Astral Projection
 
-  - Gate
+- Gate
 
-  - Mass Heal
+- Mass Heal
 
-  - True Resurrection
+- True Resurrection
 
 ## Druid Spells
 
 #### Cantrips (0 Level)
 
-  - Guidance
+- Guidance
 
-  - Mending
+- Mending
 
-  - Produce Flame
+- Produce Flame
 
-  - Resistance
+- Resistance
 
-  - Shillelagh
+- Shillelagh
 
 #### 1st Level
 
-  - Charm Person
+- Charm Person
 
-  - Create or Destroy Water
+- Create or Destroy Water
 
-  - Cure Wounds
+- Cure Wounds
 
-  - Detect Magic
+- Detect Magic
 
-  - Detect Poison and Disease
+- Detect Poison and Disease
 
-  - Entangle
+- Entangle
 
-  - Faerie Fire
+- Faerie Fire
 
-  - Fog Cloud
+- Fog Cloud
 
-  - Healing Word
+- Healing Word
 
-  - Jump
+- Jump
 
-  - Longstrider
+- Longstrider
 
-  - Purify Food and Drink
+- Purify Food and Drink
 
-  - Speak with Animals
+- Speak with Animals
 
-  - Thunderwave
+- Thunderwave
 
 #### 2nd Level
 
-  - Animal Messenger
+- Animal Messenger
 
-  - Barkskin
+- Barkskin
 
-  - Darkvision
+- Darkvision
 
-  - Enhance Ability
+- Enhance Ability
 
-  - Find Traps
+- Find Traps
 
-  - Flame Blade
+- Flame Blade
 
-  - Flaming Sphere
+- Flaming Sphere
 
-  - Gust of Wind
+- Gust of Wind
 
-  - Heat Metal
+- Heat Metal
 
-  - Hold Person
+- Hold Person
 
-  - Lesser Restoration
+- Lesser Restoration
 
-  - Locate Animals or Plants
+- Locate Animals or Plants
 
-  - Locate Object
+- Locate Object
 
-  - Moonbeam
+- Moonbeam
 
-  - Pass without Trace
+- Pass without Trace
 
-  - Protection from Poison
+- Protection from Poison
 
-  - Spike Growth
+- Spike Growth
 
 #### 3rd Level
 
-  - Call Lightning
+- Call Lightning
 
-  - Conjure Animals
+- Conjure Animals
 
-  - Daylight
+- Daylight
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Meld into Stone
+- Meld into Stone
 
-  - Plant Growth
+- Plant Growth
 
-  - Protection from Energy
+- Protection from Energy
 
-  - Sleet Storm
+- Sleet Storm
 
-  - Speak with Plants
+- Speak with Plants
 
-  - Water Breathing
+- Water Breathing
 
-  - Water Walk
+- Water Walk
 
-  - Wind Wall
+- Wind Wall
 
 #### 4th Level
 
-  - Blight
+- Blight
 
-  - Confusion
+- Confusion
 
-  - Conjure Minor Elementals
+- Conjure Minor Elementals
 
-  - Conjure Woodland Beings
+- Conjure Woodland Beings
 
-  - Control Water
+- Control Water
 
-  - Dominate Beast
+- Dominate Beast
 
-  - Freedom of Movement
+- Freedom of Movement
 
-  - Giant Insect
+- Giant Insect
 
-  - Hallucinatory Terrain
+- Hallucinatory Terrain
 
-  - Ice Storm
+- Ice Storm
 
-  - Locate Creature
+- Locate Creature
 
-  - Polymorph
+- Polymorph
 
-  - Stone Shape
+- Stone Shape
 
-  - Stoneskin
+- Stoneskin
 
-  - Wall of Fire
+- Wall of Fire
 
 #### 5th Level
 
-  - Antilife Shell
+- Antilife Shell
 
-  - Awaken
+- Awaken
 
-  - Commune with Nature
+- Commune with Nature
 
-  - Conjure Elemental
+- Conjure Elemental
 
-  - Contagion
+- Contagion
 
-  - Geas
+- Geas
 
-  - Greater Restoration
+- Greater Restoration
 
-  - Insect Plague
+- Insect Plague
 
-  - Mass Cure Wounds
+- Mass Cure Wounds
 
-  - Planar Binding
+- Planar Binding
 
-  - Reincarnate
+- Reincarnate
 
-  - Scrying
+- Scrying
 
-  - Tree Stride
+- Tree Stride
 
-  - Wall of Stone
+- Wall of Stone
 
 #### 6th Level
 
-  - Conjure Fey
+- Conjure Fey
 
-  - Find the Path
+- Find the Path
 
-  - Heal
+- Heal
 
-  - Heroes' Feast
+- Heroes' Feast
 
-  - Move Earth
+- Move Earth
 
-  - Sunbeam
+- Sunbeam
 
-  - Transport via Plants
+- Transport via Plants
 
-  - Wall of Thorns
+- Wall of Thorns
 
-  - Wind Walk
+- Wind Walk
 
 #### 7th Level
 
-  - Fire Storm
+- Fire Storm
 
-  - Mirage Arcane
+- Mirage Arcane
 
-  - Plane Shift
+- Plane Shift
 
-  - Regenerate
+- Regenerate
 
-  - Reverse Gravity
+- Reverse Gravity
 
 #### 8th Level
 
-  - Animal Shapes
+- Animal Shapes
 
-  - Antipathy/Sympathy
+- Antipathy/Sympathy
 
-  - Control Weather
+- Control Weather
 
-  - Earthquake
+- Earthquake
 
-  - Feeblemind
+- Feeblemind
 
-  - Sunburst
+- Sunburst
 
 #### 9th Level
 
-  - Foresight
+- Foresight
 
-  - Shapechange
+- Shapechange
 
-  - Storm of Vengeance
+- Storm of Vengeance
 
-  - True Resurrection
+- True Resurrection
 
 ## Paladin Spells
 
 #### 1st Level
 
-  - Bless
+- Bless
 
-  - Command
+- Command
 
-  - Cure Wounds
+- Cure Wounds
 
-  - Detect Evil and Good
+- Detect Evil and Good
 
-  - Detect Magic
+- Detect Magic
 
-  - Detect Poison and Disease
+- Detect Poison and Disease
 
-  - Divine Favor
+- Divine Favor
 
-  - Heroism
+- Heroism
 
-  - Protection from Evil and Good
+- Protection from Evil and Good
 
-  - Purify Food and Drink
+- Purify Food and Drink
 
-  - Shield of Faith
+- Shield of Faith
 
 #### 2nd Level
 
-  - Aid
+- Aid
 
-  - Find Steed
+- Find Steed
 
-  - Lesser Restoration
+- Lesser Restoration
 
-  - Locate Object
+- Locate Object
 
-  - Magic Weapon
+- Magic Weapon
 
-  - Protection from Poison
+- Protection from Poison
 
-  - Zone of Truth
+- Zone of Truth
 
 #### 3rd Level
 
-  - Create Food and Water
+- Create Food and Water
 
-  - Daylight
+- Daylight
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Magic Circle
+- Magic Circle
 
-  - Remove Curse
+- Remove Curse
 
-  - Revivify
+- Revivify
 
 #### 4th Level
 
-  - Banishment
+- Banishment
 
-  - Death Ward
+- Death Ward
 
-  - Locate Creature
+- Locate Creature
 
 #### 5th Level
 
-  - Dispel Evil and Good
+- Dispel Evil and Good
 
-  - Geas
+- Geas
 
-  - Raise Dead
+- Raise Dead
 
 ## Ranger Spells
 
 #### 1st Level
 
-  - Alarm
+- Alarm
 
-  - Cure Wounds
+- Cure Wounds
 
-  - Detect Magic
+- Detect Magic
 
-  - Detect Poison and Disease
+- Detect Poison and Disease
 
-  - Fog Cloud
+- Fog Cloud
 
-  - Jump
+- Jump
 
-  - Longstrider
+- Longstrider
 
-  - Speak with Animals
+- Speak with Animals
 
 #### 2nd Level
 
-  - Animal Messenger
+- Animal Messenger
 
-  - Barkskin
+- Barkskin
 
-  - Darkvision
+- Darkvision
 
-  - Find Traps
+- Find Traps
 
-  - Lesser Restoration
+- Lesser Restoration
 
-  - Locate Animals or Plants
+- Locate Animals or Plants
 
-  - Locate Object
+- Locate Object
 
-  - Pass without Trace
+- Pass without Trace
 
-  - Protection from Poison
+- Protection from Poison
 
-  - Silence
+- Silence
 
-  - Spike Growth
+- Spike Growth
 
 #### 3rd Level
 
-  - Conjure Animals
+- Conjure Animals
 
-  - Daylight
+- Daylight
 
-  - Nondetection
+- Nondetection
 
-  - Plant Growth
+- Plant Growth
 
-  - Protection from Energy
+- Protection from Energy
 
-  - Speak with Plants
+- Speak with Plants
 
-  - Water Breathing
+- Water Breathing
 
-  - Water Walk
+- Water Walk
 
-  - Wind Wall
+- Wind Wall
 
 #### 4th Level
 
-  - Conjure Woodland Beings
+- Conjure Woodland Beings
 
-  - Freedom of Movement
+- Freedom of Movement
 
-  - Locate Creature
+- Locate Creature
 
-  - Stoneskin
+- Stoneskin
 
 #### 5th Level
 
-  - Commune with Nature
+- Commune with Nature
 
-  - Tree Stride
+- Tree Stride
 
 ## Sorcerer Spells
 
 #### Cantrips (0 Level)
 
-  - Acid Splash
+- Acid Splash
 
-  - Chill Touch
+- Chill Touch
 
-  - Dancing Lights
+- Dancing Lights
 
-  - Light
+- Light
 
-  - Mage Hand
+- Mage Hand
 
-  - Mending
+- Mending
 
-  - Message
+- Message
 
-  - Minor Illusion
+- Minor Illusion
 
-  - Prestidigitation
+- Prestidigitation
 
-  - Ray of Frost
+- Ray of Frost
 
-  - Shocking Grasp
+- Shocking Grasp
 
-  - True Strike
+- True Strike
 
 #### 1st Level
 
-  - Burning Hands
+- Burning Hands
 
-  - Charm Person
+- Charm Person
 
-  - Color Spray
+- Color Spray
 
-  - Comprehend Languages
+- Comprehend Languages
 
-  - Detect Magic
+- Detect Magic
 
-  - Disguise Self
+- Disguise Self
 
-  - Expeditious Retreat
+- Expeditious Retreat
 
-  - False Life
+- False Life
 
-  - Feather Fall
+- Feather Fall
 
-  - Fog Cloud
+- Fog Cloud
 
-  - Jump
+- Jump
 
-  - Mage Armor
+- Mage Armor
 
-  - Magic Missile
+- Magic Missile
 
-  - Shield
+- Shield
 
-  - Silent Image
+- Silent Image
 
-  - Sleep
+- Sleep
 
-  - Thunderwave
+- Thunderwave
 
 #### 2nd Level
 
-  - Alter Self
+- Alter Self
 
-  - Blindness/Deafness
+- Blindness/Deafness
 
-  - Blur
+- Blur
 
-  - Darkness
+- Darkness
 
-  - Darkvision
+- Darkvision
 
-  - Detect Thoughts
+- Detect Thoughts
 
-  - Enhance Ability
+- Enhance Ability
 
-  - Enlarge/Reduce
+- Enlarge/Reduce
 
-  - Gust of Wind
+- Gust of Wind
 
-  - Hold Person
+- Hold Person
 
-  - Invisibility
+- Invisibility
 
-  - Knock
+- Knock
 
-  - Levitate
+- Levitate
 
-  - Mirror Image
+- Mirror Image
 
-  - Misty Step
+- Misty Step
 
-  - Scorching Ray
+- Scorching Ray
 
-  - See Invisibility
+- See Invisibility
 
-  - Shatter
+- Shatter
 
-  - Spider Climb
+- Spider Climb
 
-  - Suggestion
+- Suggestion
 
-  - Web
+- Web
 
 #### 3rd Level
 
-  - Blink
+- Blink
 
-  - Clairvoyance
+- Clairvoyance
 
-  - Daylight
+- Daylight
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Fear
+- Fear
 
-  - Fireball
+- Fireball
 
-  - Fly
+- Fly
 
-  - Gaseous Form
+- Gaseous Form
 
-  - Haste
+- Haste
 
-  - Hypnotic Pattern
+- Hypnotic Pattern
 
-  - Lightning Bolt
+- Lightning Bolt
 
-  - Major Image
+- Major Image
 
-  - Protection from Energy
+- Protection from Energy
 
-  - Sleet Storm
+- Sleet Storm
 
-  - Slow
+- Slow
 
-  - Stinking Cloud
+- Stinking Cloud
 
-  - Tongues
+- Tongues
 
-  - Water Breathing
+- Water Breathing
 
-  - Water Walk
+- Water Walk
 
 #### 4th Level
 
-  - Banishment
+- Banishment
 
-  - Blight
+- Blight
 
-  - Confusion
+- Confusion
 
-  - Dimension Door
+- Dimension Door
 
-  - Dominate Beast
+- Dominate Beast
 
-  - Greater Invisibility
+- Greater Invisibility
 
-  - Ice Storm
+- Ice Storm
 
-  - Polymorph
+- Polymorph
 
-  - Stoneskin
+- Stoneskin
 
-  - Wall of Fire
+- Wall of Fire
 
 #### 5th Level
 
-  - Animate Objects
+- Animate Objects
 
-  - Cloudkill
+- Cloudkill
 
-  - Cone of Cold
+- Cone of Cold
 
-  - Creation
+- Creation
 
-  - Dominate Person
+- Dominate Person
 
-  - Hold Monster
+- Hold Monster
 
-  - Insect Plague
+- Insect Plague
 
-  - Seeming
+- Seeming
 
-  - Telekinesis
+- Telekinesis
 
-  - Teleportation Circle
+- Teleportation Circle
 
-  - Wall of Stone
+- Wall of Stone
 
 #### 6th Level
 
-  - Chain Lightning
+- Chain Lightning
 
-  - Circle of Death
+- Circle of Death
 
-  - Disintegrate
+- Disintegrate
 
-  - Eyebite
+- Eyebite
 
-  - Globe of Invulnerability
+- Globe of Invulnerability
 
-  - Mass Suggestion
+- Mass Suggestion
 
-  - Move Earth
+- Move Earth
 
-  - Sunbeam
+- Sunbeam
 
-  - True Seeing
+- True Seeing
 
 #### 7th Level
 
-  - Delayed Blast
+- Delayed Blast
 
-  - Fireball
+- Fireball
 
-  - Etherealness
+- Etherealness
 
-  - Finger of Death
+- Finger of Death
 
-  - Fire Storm
+- Fire Storm
 
-  - Plane Shift
+- Plane Shift
 
-  - Prismatic Spray
+- Prismatic Spray
 
-  - Reverse Gravity
+- Reverse Gravity
 
-  - Teleport
+- Teleport
 
 #### 8th Level
 
-  - Dominate Monster
+- Dominate Monster
 
-  - Earthquake
+- Earthquake
 
-  - Incendiary Cloud
+- Incendiary Cloud
 
-  - Power Word Stun
+- Power Word Stun
 
-  - Sunburst
+- Sunburst
 
 #### 9th Level
 
-  - Gate
+- Gate
 
-  - Meteor Swarm
+- Meteor Swarm
 
-  - Power Word Kill
+- Power Word Kill
 
-  - Time Stop
+- Time Stop
 
-  - Wish
+- Wish
 
 ## Warlock Spells
 
 #### Cantrips (0 Level)
 
-  - Chill Touch
+- Chill Touch
 
-  - Mage Hand
+- Mage Hand
 
-  - Minor Illusion
+- Minor Illusion
 
-  - Prestidigitation
+- Prestidigitation
 
-  - True Strike
+- True Strike
 
 #### 1st Level
 
-  - Charm Person
+- Charm Person
 
-  - Comprehend Languages
+- Comprehend Languages
 
-  - Expeditious Retreat
+- Expeditious Retreat
 
-  - Illusory Script
+- Illusory Script
 
-  - Protection from Evil and Good
+- Protection from Evil and Good
 
-  - Unseen Servant
+- Unseen Servant
 
 #### 2nd Level
 
-  - Darkness
+- Darkness
 
-  - Enthrall
+- Enthrall
 
-  - Hold Person
+- Hold Person
 
-  - Invisibility
+- Invisibility
 
-  - Mirror Image
+- Mirror Image
 
-  - Misty Step
+- Misty Step
 
-  - Ray of Enfeeblement
+- Ray of Enfeeblement
 
-  - Shatter
+- Shatter
 
-  - Spider Climb
+- Spider Climb
 
-  - Suggestion
+- Suggestion
 
 #### 3rd Level
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Fear
+- Fear
 
-  - Fly
+- Fly
 
-  - Gaseous Form
+- Gaseous Form
 
-  - Hypnotic Pattern
+- Hypnotic Pattern
 
-  - Magic Circle
+- Magic Circle
 
-  - Major Image
+- Major Image
 
-  - Remove Curse
+- Remove Curse
 
-  - Tongues
+- Tongues
 
-  - Vampiric Touch
+- Vampiric Touch
 
 #### 4th Level
 
-  - Banishment
+- Banishment
 
-  - Blight
+- Blight
 
-  - Dimension Door
+- Dimension Door
 
-  - Hallucinatory Terrain
+- Hallucinatory Terrain
 
 #### 5th Level
 
-  - Contact Other Plane
+- Contact Other Plane
 
-  - Dream
+- Dream
 
-  - Hold Monster
+- Hold Monster
 
-  - Scrying
+- Scrying
 
 #### 6th Level
 
-  - Circle of Death
+- Circle of Death
 
-  - Conjure Fey
+- Conjure Fey
 
-  - Create Undead
+- Create Undead
 
-  - Eyebite
+- Eyebite
 
-  - Flesh to Stone
+- Flesh to Stone
 
-  - Mass Suggestion
+- Mass Suggestion
 
-  - True Seeing
+- True Seeing
 
 #### 7th Level
 
-  - Etherealness
+- Etherealness
 
-  - Finger of Death
+- Finger of Death
 
-  - Forcecage
+- Forcecage
 
-  - Plane Shift
+- Plane Shift
 
 #### 8th Level
 
-  - Demiplane
+- Demiplane
 
-  - Dominate Monster
+- Dominate Monster
 
-  - Feeblemind
+- Feeblemind
 
-  - Glibness
+- Glibness
 
-  - Power Word Stun
+- Power Word Stun
 
 #### 9th Level
 
-  - Astral Projection
+- Astral Projection
 
-  - Foresight
+- Foresight
 
-  - Imprisonment
+- Imprisonment
 
-  - Power Word Kill
+- Power Word Kill
 
-  - True Polymorph
+- True Polymorph
 
 ## Wizard Spells
 
 #### Cantrips (0 Level)
 
-  - Acid Splash
+- Acid Splash
 
-  - Chill Touch
+- Chill Touch
 
-  - Dancing Lights
+- Dancing Lights
 
-  - Light
+- Light
 
-  - Mage Hand
+- Mage Hand
 
-  - Mending
+- Mending
 
-  - Message
+- Message
 
-  - Minor Illusion
+- Minor Illusion
 
-  - Prestidigitation
+- Prestidigitation
 
-  - Ray of Frost
+- Ray of Frost
 
-  - Shocking Grasp
+- Shocking Grasp
 
-  - True Strike
+- True Strike
 
 #### 1st Level
 
-  - Alarm
+- Alarm
 
-  - Burning Hands
+- Burning Hands
 
-  - Charm Person
+- Charm Person
 
-  - Color Spray
+- Color Spray
 
-  - Comprehend Languages
+- Comprehend Languages
 
-  - Detect Magic
+- Detect Magic
 
-  - Disguise Self
+- Disguise Self
 
-  - Expeditious Retreat
+- Expeditious Retreat
 
-  - False Life
+- False Life
 
-  - Feather Fall
+- Feather Fall
 
-  - Floating Disk
+- Floating Disk
 
-  - Fog Cloud
+- Fog Cloud
 
-  - Grease
+- Grease
 
-  - Hideous Laughter
+- Hideous Laughter
 
-  - Identify
+- Identify
 
-  - Illusory Script
+- Illusory Script
 
-  - Jump
+- Jump
 
-  - Longstrider
+- Longstrider
 
-  - Mage Armor
+- Mage Armor
 
-  - Magic Missile
+- Magic Missile
 
-  - Protection from Evil and Good
+- Protection from Evil and Good
 
-  - Shield
+- Shield
 
-  - Silent Image
+- Silent Image
 
-  - Sleep
+- Sleep
 
-  - Thunderwave
+- Thunderwave
 
-  - Unseen Servant
+- Unseen Servant
 
 #### 2nd Level
 
-  - Acid Arrow
+- Acid Arrow
 
-  - Alter Self
+- Alter Self
 
-  - Arcane Lock
+- Arcane Lock
 
-  - Arcanist's Magic Aura
+- Arcanist's Magic Aura
 
-  - Blindness/Deafness
+- Blindness/Deafness
 
-  - Blur
+- Blur
 
-  - Continual Flame
+- Continual Flame
 
-  - Darkness
+- Darkness
 
-  - Darkvision
+- Darkvision
 
-  - Detect Thoughts
+- Detect Thoughts
 
-  - Enlarge/Reduce
+- Enlarge/Reduce
 
-  - Flaming Sphere
+- Flaming Sphere
 
-  - Gentle Repose
+- Gentle Repose
 
-  - Gust of Wind
+- Gust of Wind
 
-  - Hold Person
+- Hold Person
 
-  - Invisibility
+- Invisibility
 
-  - Knock
+- Knock
 
-  - Levitate
+- Levitate
 
-  - Locate Object
+- Locate Object
 
-  - Magic Mouth
+- Magic Mouth
 
-  - Magic Weapon
+- Magic Weapon
 
-  - Mirror Image
+- Mirror Image
 
-  - Misty Step
+- Misty Step
 
-  - Ray of Enfeeblement
+- Ray of Enfeeblement
 
-  - Rope Trick
+- Rope Trick
 
-  - Scorching Ray
+- Scorching Ray
 
-  - See Invisibility
+- See Invisibility
 
-  - Shatter
+- Shatter
 
-  - Spider Climb
+- Spider Climb
 
-  - Suggestion
+- Suggestion
 
-  - Web
+- Web
 
 #### 3rd Level
 
-  - Animate Dead
+- Animate Dead
 
-  - Bestow Curse
+- Bestow Curse
 
-  - Blink
+- Blink
 
-  - Clairvoyance
+- Clairvoyance
 
-  - Dispel Magic
+- Dispel Magic
 
-  - Fear
+- Fear
 
-  - Fireball
+- Fireball
 
-  - Fly
+- Fly
 
-  - Gaseous Form
+- Gaseous Form
 
-  - Glyph of Warding
+- Glyph of Warding
 
-  - Haste
+- Haste
 
-  - Hypnotic Pattern
+- Hypnotic Pattern
 
-  - Lightning Bolt
+- Lightning Bolt
 
-  - Magic Circle
+- Magic Circle
 
-  - Major Image
+- Major Image
 
-  - Nondetection
+- Nondetection
 
-  - Phantom Steed
+- Phantom Steed
 
-  - Protection from Energy
+- Protection from Energy
 
-  - Remove Curse
+- Remove Curse
 
-  - Sending
+- Sending
 
-  - Sleet Storm
+- Sleet Storm
 
-  - Slow
+- Slow
 
-  - Stinking Cloud
+- Stinking Cloud
 
-  - Tiny Hut
+- Tiny Hut
 
-  - Tongues
+- Tongues
 
-  - Vampiric Touch
+- Vampiric Touch
 
-  - Water Breathing
+- Water Breathing
 
 #### 4th Level
 
-  - Arcane Eye
+- Arcane Eye
 
-  - Banishment
+- Banishment
 
-  - Black Tentacles
+- Black Tentacles
 
-  - Blight
+- Blight
 
-  - Confusion
+- Confusion
 
-  - Conjure Minor Elementals
+- Conjure Minor Elementals
 
-  - Control Water
+- Control Water
 
-  - Dimension Door
+- Dimension Door
 
-  - Fabricate
+- Fabricate
 
-  - Faithful Hound
+- Faithful Hound
 
-  - Fire Shield
+- Fire Shield
 
-  - Greater Invisibility
+- Greater Invisibility
 
-  - Hallucinatory Terrain
+- Hallucinatory Terrain
 
-  - Ice Storm
+- Ice Storm
 
-  - Locate Creature
+- Locate Creature
 
-  - Phantasmal Killer
+- Phantasmal Killer
 
-  - Polymorph
+- Polymorph
 
-  - Private Sanctum
+- Private Sanctum
 
-  - Resilient
+- Resilient
 
-  - Sphere
+- Sphere
 
-  - Secret Chest
+- Secret Chest
 
-  - Stone Shape
+- Stone Shape
 
-  - Stoneskin
+- Stoneskin
 
-  - Wall of Fire
+- Wall of Fire
 
 #### 5th Level
 
-  - Animate Objects
+- Animate Objects
 
-  - Arcane Hand
+- Arcane Hand
 
-  - Cloudkill
+- Cloudkill
 
-  - Cone of Cold
+- Cone of Cold
 
-  - Conjure Elemental
+- Conjure Elemental
 
-  - Contact Other Plane
+- Contact Other Plane
 
-  - Creation
+- Creation
 
-  - Dominate Person
+- Dominate Person
 
-  - Dream
+- Dream
 
-  - Geas
+- Geas
 
-  - Hold Monster
+- Hold Monster
 
-  - Legend Lore
+- Legend Lore
 
-  - Mislead
+- Mislead
 
-  - Modify Memory
+- Modify Memory
 
-  - Passwall
+- Passwall
 
-  - Planar Binding
+- Planar Binding
 
-  - Scrying
+- Scrying
 
-  - Seeming
+- Seeming
 
-  - Telekinesis
+- Telekinesis
 
-  - Telepathic Bond
+- Telepathic Bond
 
-  - Teleportation Circle
+- Teleportation Circle
 
-  - Wall of Force
+- Wall of Force
 
-  - Wall of Stone
+- Wall of Stone
 
 #### 6th Level
 
-  - Chain Lightning
+- Chain Lightning
 
-  - Circle of Death
+- Circle of Death
 
-  - Contingency
+- Contingency
 
-  - Create Undead
+- Create Undead
 
-  - Disintegrate
+- Disintegrate
 
-  - Eyebite
+- Eyebite
 
-  - Flesh to Stone
+- Flesh to Stone
 
-  - Freezing Sphere
+- Freezing Sphere
 
-  - Globe of Invulnerability
+- Globe of Invulnerability
 
-  - Guards and Wards
+- Guards and Wards
 
-  - Instant Summons
+- Instant Summons
 
-  - Irresistible Dance
+- Irresistible Dance
 
-  - Magic Jar
+- Magic Jar
 
-  - Mass Suggestion
+- Mass Suggestion
 
-  - Move Earth
+- Move Earth
 
-  - Programmed Illusion
+- Programmed Illusion
 
-  - Sunbeam
+- Sunbeam
 
-  - True Seeing
+- True Seeing
 
-  - Wall of Ice
+- Wall of Ice
 
 #### 7th Level
 
-  - Arcane Sword
+- Arcane Sword
 
-  - Delayed Blast
+- Delayed Blast
 
-  - Fireball
+- Fireball
 
-  - Etherealness
+- Etherealness
 
-  - Finger of Death
+- Finger of Death
 
-  - Forcecage
+- Forcecage
 
-  - Magnificent Mansion
+- Magnificent Mansion
 
-  - Mirage Arcane
+- Mirage Arcane
 
-  - Plane Shift
+- Plane Shift
 
-  - Prismatic Spray
+- Prismatic Spray
 
-  - Project Image
+- Project Image
 
-  - Reverse Gravity
+- Reverse Gravity
 
-  - Sequester
+- Sequester
 
-  - Simulacrum
+- Simulacrum
 
-  - Symbol
+- Symbol
 
-  - Teleport
+- Teleport
 
 #### 8th Level
 
-  - Antimagic Field
+- Antimagic Field
 
-  - Antipathy/Sympathy
+- Antipathy/Sympathy
 
-  - Clone
+- Clone
 
-  - Control Weather
+- Control Weather
 
-  - Demiplane
+- Demiplane
 
-  - Dominate Monster
+- Dominate Monster
 
-  - Feeblemind
+- Feeblemind
 
-  - Incendiary Cloud
+- Incendiary Cloud
 
-  - Maze
+- Maze
 
-  - Mind Blank
+- Mind Blank
 
-  - Power Word Stun
+- Power Word Stun
 
-  - Sunburst
+- Sunburst
 
 #### 9th Level
 
-  - Astral Projection
+- Astral Projection
 
-  - Foresight
+- Foresight
 
-  - Gate
+- Gate
 
-  - Imprisonment
+- Imprisonment
 
-  - Meteor Swarm
+- Meteor Swarm
 
-  - Power Word Kill
+- Power Word Kill
 
-  - Prismatic Wall
+- Prismatic Wall
 
-  - Shapechange
+- Shapechange
 
-  - Time Stop
+- Time Stop
 
-  - True Polymorph
+- True Polymorph
 
-  - Weird
+- Weird
 
-  - Wish
+- Wish
 
-  -
 # Spell Descriptions
 
 # Spells (A)
@@ -2073,17 +2073,20 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Animated Object Statistics**
+**Table** **53** - Animated Object Statistics
 
-| **Size** | **HP** | **AC** | **Attack**                 | **Str** | **Dex** |
-| -------- | ------ | ------ | -------------------------- | ------- | ------- |
-| Tiny     | 20     | 18     | +8 to hit, 1d4 + 4 damage  | 4       | 18      |
-| Small    | 25     | 16     | +6 to hit, 1d8 + 2 damage  | 6       | 14      |
-| Medium   | 40     | 13     | +5 to hit, 2d6 + 1 damage  | 10      | 12      |
-| Large    | 50     | 10     | +6 to hit, 2d10 + 2 damage | 14      | 10      |
-| Huge     | 80     | 10     | +8 to hit, 2d12 + 4 damage | 18      | 6       |
+| Size   | HP  | AC  | Attack                     | Str | Dex |
+| ------ | --- | --- | -------------------------- | --- | --- |
+| Tiny   | 20  | 18  | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
+| Small  | 25  | 16  | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
+| Medium | 40  | 13  | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
+| Large  | 50  | 10  | +6 to hit, 2d10 + 2 damage | 14  | 10  |
+| Huge   | 80  | 10  | +8 to hit, 2d12 + 4 damage | 18  | 6   |
+|        |     |     |                            |     |     |
 
-An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
+An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is
+
+30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The GM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
@@ -2213,7 +2216,7 @@ Make a check with the hand's Strength contested by the Strength (Athletics) chec
 
 #### Arcane Lock
 
-*2nd-level abjuration*
+2nd-level abjuration
 
 **Casting Time:** 1 action
 
@@ -2301,13 +2304,13 @@ If you are returned to your body prematurely, your companions remain in their as
 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
 
-  - *Weal*, for good results
+- *Weal*, for good results
 
-  - *Woe*, for bad results
+- *Woe*, for bad results
 
-  - *Weal and woe*, for both good and bad results
+- *Weal and woe*, for both good and bad results
 
-  - *Nothing*, for results that aren't especially good or bad
+- *Nothing*, for results that aren't especially good or bad
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
@@ -2409,13 +2412,13 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
-  - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
+- Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
 
-  - While cursed, the target has disadvantage on attack rolls against you.
+- While cursed, the target has disadvantage on attack rolls against you.
 
-  - While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
+- While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
 
-  - While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
+- While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A *remove curse* spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
 
@@ -2473,7 +2476,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 #### Blight
 
-*4th-level necromancy*
+4th-level necromancy
 
 **Casting Time:** 1 action
 
@@ -2769,7 +2772,7 @@ A flying creature stays aloft, provided that it is able to do so. If it must mov
 
 #### Commune
 
-*5th-level divination (ritual)*
+5th-level divination (ritual)
 
 **Casting Time:** 1 minute
 
@@ -2801,21 +2804,21 @@ You briefly become one with nature and gain knowledge of the surrounding territo
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
-  - terrain and bodies of water
+- terrain and bodies of water
 
-  - prevalent plants, minerals, animals, or peoples
+- prevalent plants, minerals, animals, or peoples
 
-  - powerful celestials, fey, fiends, elementals, or undead
+- powerful celestials, fey, fiends, elementals, or undead
 
-  - influence from other planes of existence
+- influence from other planes of existence
 
-  - buildings
+- buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
 #### Comprehend Languages
 
-*1st-level divination (ritual)*
+1st-level divination (ritual)
 
 **Casting Time:** 1 action
 
@@ -2831,7 +2834,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 #### Cone of Cold
 
-*5th-level evocation*
+5th-level evocation
 
 **Casting Time:** 1 action
 
@@ -2863,12 +2866,15 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-| **d10** | **Behavior**                                                                                                                                                                                    |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
-| 2-6     | The creature doesn't move or take actions this turn.                                                                                                                                            |
-| 7-8     | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
-| 9-10    | The creature can act and move normally.                                                                                                                                                         |
+**Table** **54** - Spell: Confusion (Behavior)
+
+| d10  | Behavior                                                                                                                                                                                        |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
+| 2-6  | The creature doesn't move or take actions this turn.                                                                                                                                            |
+| 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
+| 9-10 | The creature can act and move normally.                                                                                                                                                         |
+|      |                                                                                                                                                                                                 |
 
 At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
 
@@ -2888,13 +2894,13 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-  - One beast of challenge rating 2 or lower
+- One beast of challenge rating 2 or lower
 
-  - Two beasts of challenge rating 1 or lower
+- Two beasts of challenge rating 1 or lower
 
-  - Four beasts of challenge rating 1/2 or lower
+- Four beasts of challenge rating 1/2 or lower
 
-  - Eight beasts of challenge rating 1/4 or lower
+- Eight beasts of challenge rating 1/4 or lower
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 
@@ -2982,13 +2988,13 @@ The GM has the fey creature's statistics.
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
-  - One elemental of challenge rating 2 or lower
+- One elemental of challenge rating 2 or lower
 
-  - Two elementals of challenge rating 1 or lower
+- Two elementals of challenge rating 1 or lower
 
-  - Four elementals of challenge rating 1/2 or lower
+- Four elementals of challenge rating 1/2 or lower
 
-  - Eight elementals of challenge rating 1/4 or lower.
+- Eight elementals of challenge rating 1/4 or lower.
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
@@ -3012,13 +3018,13 @@ The GM has the creatures' statistics.
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-  - One fey creature of challenge rating 2 or lower
+- One fey creature of challenge rating 2 or lower
 
-  - Two fey creatures of challenge rating 1 or lower
+- Two fey creatures of challenge rating 1 or lower
 
-  - Four fey creatures of challenge rating 1/2 or lower
+- Four fey creatures of challenge rating 1/2 or lower
 
-  - Eight fey creatures of challenge rating 1/4 or lower
+- Eight fey creatures of challenge rating 1/4 or lower
 
 A summoned creature disappears when it drops to 0 hit points or when the spell ends.
 
@@ -3154,40 +3160,43 @@ When you cast the spell, you change the current weather conditions, which are de
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-**Precipitation**
+**Table** **55** - Spell: Control Weather (Precipitation)
 
-| **Stage** | **Condition**                              |
-| --------- | ------------------------------------------ |
-| 1         | Clear                                      |
-| 2         | Light clouds                               |
-| 3         | Overcast or ground fog                     |
-| 4         | Rain, hail, or snow                        |
-| 5         | Torrential rain, driving hail, or blizzard |
+| Stage | Condition                                  |
+| ----- | ------------------------------------------ |
+| 1     | Clear                                      |
+| 2     | Light clouds                               |
+| 3     | Overcast or ground fog                     |
+| 4     | Rain, hail, or snow                        |
+| 5     | Torrential rain, driving hail, or blizzard |
+|       |                                            |
 
-**Temperature**
+**Table** **56** - Spell: Control Weather (Temperature)
 
-| **Stage** | **Condition**   |
-| --------- | --------------- |
-| 1         | Unbearable heat |
-| 2         | Hot             |
-| 3         | Warm            |
-| 4         | Cool            |
-| 5         | Cold            |
-| 6         | Arctic cold     |
+| Stage | Condition       |
+| ----- | --------------- |
+| 1     | Unbearable heat |
+| 2     | Hot             |
+| 3     | Warm            |
+| 4     | Cool            |
+| 5     | Cold            |
+| 6     | Arctic cold     |
+|       |                 |
 
-**Wind**
+**Table** **57** - Spell: Control Weather (Wind)
 
-| **Stage** | **Condition** |
-| --------- | ------------- |
-| 1         | Calm          |
-| 2         | Moderate wind |
-| 3         | Strong wind   |
-| 4         | Gale          |
-| 5         | Storm         |
+| Stage | Condition     |
+| ----- | ------------- |
+| 1     | Calm          |
+| 2     | Moderate wind |
+| 3     | Strong wind   |
+| 4     | Gale          |
+| 5     | Storm         |
+|       |               |
 
 #### Create Food and Water
 
-*3rd-level conjuration*
+3rd-level conjuration
 
 **Casting Time:** 1 action
 
@@ -3241,7 +3250,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 #### Creation
 
-*5th-level illusion*
+5th-level illusion
 
 **Casting Time:** 1 minute
 
@@ -3251,17 +3260,20 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Duration:** Special
 
-You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within **range:** soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
+You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within **Range:** soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-| **Material**          | **Duration** |
-| --------------------- | ------------ |
-| Vegetable matter      | 1 day        |
-| Stone or crystal      | 12 hours     |
-| Precious metals       | 1 hour       |
-| Gems                  | 10 minutes   |
-| Adamantine or mithral | 1 minute     |
+**Table** **58** - Spell: Creation (Material)
+
+| Material              | Duration   |
+| --------------------- | ---------- |
+| Vegetable matter      | 1 day      |
+| Stone or crystal      | 12 hours   |
+| Precious metals       | 1 hour     |
+| Gems                  | 10 minutes |
+| Adamantine or mithral | 1 minute   |
+|                       |            |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
@@ -3303,7 +3315,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 #### Darkness
 
-*2nd-level evocation*
+2nd-level evocation
 
 **Casting Time:** 1 action
 
@@ -3335,7 +3347,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 #### Daylight
 
-*3rd-level evocation*
+3rd-level evocation
 
 **Casting Time:** 1 action
 
@@ -3441,7 +3453,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 #### Detect Poison and Disease
 
-*1st-level divination (ritual)*
+1st-level divination (ritual)
 
 **Casting Time:** 1 action
 
@@ -3457,7 +3469,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 #### Detect Thoughts
 
-*2nd-level divination*
+2nd-level divination
 
 **Casting Time:** 1 action
 
@@ -3573,7 +3585,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 #### Divination
 
-*4th-level divination (ritual)*
+4th-level divination (ritual)
 
 **Casting Time:** 1 action
 
@@ -3617,13 +3629,13 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
 
-  - 50 hit points or fewer: deafened for 1 minute
+- 50 hit points or fewer: deafened for 1 minute
 
-  - 40 hit points or fewer: deafened and blinded for 10 minutes
+- 40 hit points or fewer: deafened and blinded for 10 minutes
 
-  - 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
+- 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
 
-  - 20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
+- 20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
 
 #### Dominate Beast
 
@@ -3809,7 +3821,7 @@ When the spell ends, the conjured plants wilt away.
 
 #### Enthrall
 
-*2nd-level enchantment*
+2nd-level enchantment
 
 **Casting Time:** 1 action
 
@@ -3917,7 +3929,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 #### Faithful Hound
 
-*4th-level conjuration*
+4th-level conjuration
 
 **Casting Time:** 1 action
 
@@ -4023,7 +4035,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 #### Find the Path
 
-*6th-level divination*
+6th-level divination
 
 **Casting Time:** 1 minute
 
@@ -4125,7 +4137,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 #### Flame Blade
 
-*2nd-level evocation*
+2nd-level evocation
 
 **Casting Time:** 1 bonus action
 
@@ -4201,7 +4213,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 #### Floating Disk
 
-*1st-level conjuration (ritual)*
+1st-level conjuration (ritual)
 
 **Casting Time:** 1 action
 
@@ -4235,7 +4247,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 #### Fog Cloud
 
-*1st-level conjuration*
+1st-level conjuration
 
 **Casting Time:** 1 action
 
@@ -4271,7 +4283,7 @@ The spell's area can't overlap with the area of another *forbiddance* spell. If 
 
 #### Forcecage
 
-*7th-level evocation*
+7th-level evocation
 
 **Casting Time:** 1 action
 
@@ -4545,13 +4557,13 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
 
-  - One effect that charmed or petrified the target
+- One effect that charmed or petrified the target
 
-  - One curse, including the target's attunement to a cursed magic item
+- One curse, including the target's attunement to a cursed magic item
 
-  - Any reduction to one of the target's ability scores
+- Any reduction to one of the target's ability scores
 
-  - One effect reducing the target's hit point maximum
+- One effect reducing the target's hit point maximum
 
 #### Guards and Wards
 
@@ -4579,15 +4591,15 @@ When you cast this spell, you can specify individuals that are unaffected by any
 
 ***Other Spell Effect***. You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-  - Place dancing lights in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
+- Place dancing lights in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
 
-  - Place magic mouth in two locations.
+- Place magic mouth in two locations.
 
-  - Place stinking cloud in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.
+- Place stinking cloud in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.
 
-  - Place a constant gust of wind in one corridor or room.
+- Place a constant gust of wind in one corridor or room.
 
-  - Place a suggestion in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
+- Place a suggestion in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A *dispel magic* cast on a specific effect, if successful, removes only that effect.
 
@@ -4647,7 +4659,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 #### Hallow
 
-*5th-level evocation*
+5th-level evocation
 
 **Casting Time:** 24 hours
 
@@ -4685,7 +4697,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 #### Hallucinatory Terrain
 
-*4th-level illusion*
+4th-level illusion
 
 **Casting Time:** 10 minutes
 
@@ -4701,7 +4713,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 #### Harm
 
-*6th-level necromancy*
+6th-level necromancy
 
 **Casting Time:** 1 action
 
@@ -4715,7 +4727,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 #### Haste
 
-*3rd-level transmutation*
+3rd-level transmutation
 
 **Casting Time:** 1 action
 
@@ -4731,7 +4743,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 #### Heal
 
-*6th-level evocation*
+6th-level evocation
 
 **Casting Time:** 1 action
 
@@ -4747,7 +4759,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 #### Healing Word
 
-*1st-level evocation*
+1st-level evocation
 
 **Casting Time:** 1 bonus action
 
@@ -4763,7 +4775,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 #### Heat Metal
 
-*2nd-level transmutation*
+2nd-level transmutation
 
 **Casting Time:** 1 action
 
@@ -4781,7 +4793,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 #### Heroes' Feast
 
-*6th-level conjuration*
+6th-level conjuration
 
 **Casting Time:** 10 minutes
 
@@ -4797,7 +4809,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 #### Heroism
 
-*1st-level enchantment*
+1st-level enchantment
 
 **Casting Time:** 1 action
 
@@ -4813,7 +4825,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 #### Hideous Laughter
 
-*1st-level enchantment*
+1st-level enchantment
 
 **Casting Time:** 1 action
 
@@ -4829,7 +4841,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 #### Hold Monster
 
-*5th-level enchantment*
+5th-level enchantment
 
 **Casting Time:** 1 action
 
@@ -4845,7 +4857,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 #### Hold Person
 
-*2nd-level enchantment*
+2nd-level enchantment
 
 **Casting Time:** 1 action
 
@@ -4861,7 +4873,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 #### Holy Aura
 
-*8th-level abjuration*
+8th-level abjuration
 
 **Casting Time:** 1 action
 
@@ -4875,7 +4887,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 #### Hypnotic Pattern
 
-*3rd-level illusion*
+3rd-level illusion
 
 **Casting Time:** 1 action
 
@@ -4893,7 +4905,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 #### Ice Storm
 
-*4th-level evocation*
+4th-level evocation
 
 **Casting Time:** 1 action
 
@@ -4911,7 +4923,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 #### Identify
 
-*1st-level divination (ritual)*
+1st-level divination (ritual)
 
 **Casting Time:** 1 minute
 
@@ -4927,7 +4939,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 #### Illusory Script
 
-*1st-level illusion (ritual)*
+1st-level illusion (ritual)
 
 **Casting Time:** 1 minute
 
@@ -4947,7 +4959,7 @@ A creature with truesight can read the hidden message.
 
 #### Imprisonment
 
-*9th-level abjuration*
+9th-level abjuration
 
 **Casting Time:** 1 minute
 
@@ -4987,7 +4999,7 @@ You can use a particular special component to create only one prison at a time. 
 
 #### Incendiary Cloud
 
-*8th-level conjuration*
+8th-level conjuration
 
 **Casting Time:** 1 action
 
@@ -5005,7 +5017,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 #### Inflict Wounds
 
-*1st-level necromancy*
+1st-level necromancy
 
 **Casting Time:** 1 action
 
@@ -5021,7 +5033,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 #### Insect Plague
 
-*5th-level conjuration*
+5th-level conjuration
 
 **Casting Time:** 1 action
 
@@ -5039,7 +5051,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 #### Instant Summons
 
-*6th-level conjuration (ritual)*
+6th-level conjuration (ritual)
 
 **Casting Time:** 1 minute
 
@@ -5059,7 +5071,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 #### Invisibility
 
-*2nd-level illusion*
+2nd-level illusion
 
 **Casting Time:** 1 action
 
@@ -5075,7 +5087,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 #### Irresistible Dance
 
-*6th-level enchantment*
+6th-level enchantment
 
 **Casting Time:** 1 action
 
@@ -5327,11 +5339,11 @@ You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-  - The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+- The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
 
-  - The creature has disadvantage on attack rolls against targets within the cylinder.
+- The creature has disadvantage on attack rolls against targets within the cylinder.
 
-  - Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
+- Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
@@ -6021,19 +6033,19 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 **Duration:** Up to 1 hour
 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within **range:**
+This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within **Range:**
 
-  - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+- You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 
-  - You instantaneously light or snuff out a candle, a torch, or a small campfire.
+- You instantaneously light or snuff out a candle, a torch, or a small campfire.
 
-  - You instantaneously clean or soil an object no larger than 1 cubic foot.
+- You instantaneously clean or soil an object no larger than 1 cubic foot.
 
-  - You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
 
-  - You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+- You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 
-  - You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
@@ -6051,21 +6063,21 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.
 
-1.  ***Red***. The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.
+- ***Red***. The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.
 
-2.  ***Orange***. The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.
+- ***Orange***. The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.
 
-3.  ***Yellow***. The target takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
+- ***Yellow***. The target takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
 
-4.  ***Green***. The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.
+- ***Green***. The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.
 
-5.  ***Blue***. The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.
+- ***Blue***. The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.
 
-6.  ***Indigo***. On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
+- ***Indigo***. On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
-7.  ***Violet***. On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
+- ***Violet***. On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
 
-8.  ***Special***. The target is struck by two rays. Roll twice more, rerolling any 8.
+- ***Special***. The target is struck by two rays. Roll twice more, rerolling any 8.
 
 #### Prismatic Wall
 
@@ -6089,19 +6101,19 @@ The wall consists of seven layers, each with a different color. When a creature 
 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An *antimagic field* has no effect on it.
 
-1.  ***Red***. The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+- ***Red***. The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 
-2.  ***Orange***. The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+- ***Orange***. The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
 
-3.  ***Yellow***. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+- ***Yellow***. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 
-4.  ***Green***. The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A *passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+- ***Green***. The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A *passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 
-5.  ***Blue***. The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
+- ***Blue***. The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
-6.  ***Indigo***. On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a *daylight* spell or a similar spell of equal or higher level.
+- ***Indigo***. On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a *daylight* spell or a similar spell of equal or higher level.
 
-7.  ***Violet***. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *dispel magic* spell or a similar spell of equal or higher level that can end spells and magical effects.
+- ***Violet***. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *dispel magic* spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 #### Private Sanctum
 
@@ -6119,17 +6131,17 @@ You make an area within range magically secure. The area is a cube that can be a
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
 
-  - Sound can't pass through the barrier at the edge of the warded area.
+- Sound can't pass through the barrier at the edge of the warded area.
 
-  - The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
+- The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
 
-  - Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+- Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
 
-  - Creatures in the area can't be targeted by divination spells.
+- Creatures in the area can't be targeted by divination spells.
 
-  - Nothing can teleport into or out of the warded area.
+- Nothing can teleport into or out of the warded area.
 
-  - Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
+- Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
@@ -6343,22 +6355,25 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-| **d100** | **Race**            |
-| -------- | ------------------- |
-| 01-04    | Dragonborn          |
-| 05-13    | Dwarf, hill         |
-| 14-21    | Dwarf, mountain     |
-| 22-25    | Elf, dark           |
-| 26-34    | Elf, high           |
-| 35-42    | Elf, wood           |
-| 43-46    | Gnome, forest       |
-| 47-52    | Gnome, rock         |
-| 53-56    | Half-elf            |
-| 57-60    | Half-orc            |
-| 61-68    | Halfling, lightfoot |
-| 69-76    | Halfling, stout     |
-| 77-96    | Human               |
-| 97-00    | Tiefling            |
+**Table** **59** - Spell: Reincarnate (Race)
+
+| d100  | Race                |
+| ----- | ------------------- |
+| 01-04 | Dragonborn          |
+| 05-13 | Dwarf, hill         |
+| 14-21 | Dwarf, mountain     |
+| 22-25 | Elf, dark           |
+| 26-34 | Elf, high           |
+| 35-42 | Elf, wood           |
+| 43-46 | Gnome, forest       |
+| 47-52 | Gnome, rock         |
+| 53-56 | Half-elf            |
+| 57-60 | Half-orc            |
+| 61-68 | Halfling, lightfoot |
+| 69-76 | Halfling, stout     |
+| 77-96 | Human               |
+| 97-00 | Tiefling            |
+|       |                     |
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
@@ -6550,15 +6565,18 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-| **Knowledge**                                     | **Save Modifier** |
-| ------------------------------------------------- | ----------------- |
-| Secondhand (you have heard of the target)         | +5                |
-| Firsthand (you have met the target)               | +0                |
-| Familiar (you know the target well)               | -5                |
-| **Connection**                                    | **Save Modifier** |
-| Likeness or picture                               | -2                |
-| Possession or garment                             | -4                |
-| Body part, lock of hair, bit of nail, or the like | -10               |
+**Table** **60** - Spell: Scrying (Knowledge)
+
+| Knowledge                                         | Save Modifier |
+| ------------------------------------------------- | ------------- |
+| Secondhand (you have heard of the target)         | +5            |
+| Firsthand (you have met the target)               | +0            |
+| Familiar (you know the target well)               | -5            |
+| Connection                                        | Save Modifier |
+| Likeness or picture                               | -2            |
+| Possession or garment                             | -4            |
+| Body part, lock of hair, bit of nail, or the like | -10           |
+|                                                   |               |
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
@@ -7204,15 +7222,18 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-| Familiarity       | **Mishap** | **Similar Area** | **Off Target** | **On Target** |
-| ----------------- | ---------- | ---------------- | -------------- | ------------- |
-| Permanent circle  | -          | -                | -              | 01-100        |
-| Associated object | -          | -                | -              | 01-100        |
-| Very familiar     | 01-05      | 06-13            | 14-24          | 25-100        |
-| Seen casually     | 01-33      | 34-43            | 44-53          | 54-100        |
-| Viewed once       | 01-43      | 44-53            | 54-73          | 74-100        |
-| Description       | 01-43      | 44-53            | 54-73          | 74-100        |
-| False destination | 01-50      | 51-100           | -              | -             |
+**Table** **61** - Spell: Teleport (Familiarity)
+
+| Familiarity       | Mishap | Similar Area | Off Target | On Target |
+| ----------------- | ------ | ------------ | ---------- | --------- |
+| Permanent circle  | -      | -            | -          | 01-100    |
+| Associated object | -      | -            | -          | 01-100    |
+| Very familiar     | 01-05  | 06-13        | 14-24      | 25-100    |
+| Seen casually     | 01-33  | 34-43        | 44-53      | 54-100    |
+| Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
+| Description       | 01-43  | 44-53        | 54-73      | 74-100    |
+| False destination | 01-50  | 51-100       | -          | -         |
+|                   |        |              |            |           |
 
 ***Familiarity***. "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
 
@@ -7258,19 +7279,19 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 **Duration:** Up to 1 minute
 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **range:**
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **Range:**
 
-  - Your voice booms up to three times as loud as normal for 1 minute.
+- Your voice booms up to three times as loud as normal for 1 minute.
 
-  - You cause flames to flicker, brighten, dim, or change color for 1 minute.
+- You cause flames to flicker, brighten, dim, or change color for 1 minute.
 
-  - You cause harmless tremors in the ground for 1 minute.
+- You cause harmless tremors in the ground for 1 minute.
 
-  - You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
 
-  - You instantaneously cause an unlocked door or window to fly open or slam shut.
+- You instantaneously cause an unlocked door or window to fly open or slam shut.
 
-  - You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+- You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
 #### Thunderwave
 
@@ -7720,15 +7741,15 @@ The basic use of this spell is to duplicate any other spell of 8th level or lowe
 
 Alternatively, you can create one of the following effects of your choice:
 
-  - You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
+- You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
 
-  - You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the *greater restoration* spell.
+- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the *greater restoration* spell.
 
-  - You grant up to ten creatures that you can see resistance to a damage type you choose.
+- You grant up to ten creatures that you can see resistance to a damage type you choose.
 
-  - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
+- You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
 
-  - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
+- You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
