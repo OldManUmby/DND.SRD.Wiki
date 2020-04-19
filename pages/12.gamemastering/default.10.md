@@ -142,7 +142,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-# Chapter ##: Pantheons
+# Pantheons
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
@@ -259,7 +259,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Uller, god of hunting and winter          | CN        | Nature            | Longbow                           |
 |                                           |           |                   |                                   |
 
-# Chapter ##: Planes
+# Planes
 
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence**. It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.
 
@@ -319,7 +319,7 @@ The planes with some element of good in their nature are called the **Upper Plan
 
 Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don't seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as *demiplane*, or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a *plane shift* spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The *gate* spell is more reliable, assuming the caster knows of the demiplane.
 
-# Chapter ##: Situational Rules
+# Situational Rules
 
 ## Traps
 
