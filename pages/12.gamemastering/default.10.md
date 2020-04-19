@@ -16,34 +16,35 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Blinded
 
-  - A blinded creature can't see and automatically fails any ability check that requires sight.
+- A blinded creature can't see and automatically fails any ability check that requires sight.
 
-  - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 ## Charmed
 
-  - A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
+- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
-  - The charmer has advantage on any ability check to interact socially with the creature.
+- The charmer has advantage on any ability check to interact socially with the creature.
 
 ## Deafened
 
-  - A deafened creature can't hear and automatically fails any ability check that requires hearing.
+- A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
 ## Exhaustion
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
-**Table** **53 - Conditions: Exhaustion Effects**
+**Table** **62** - Conditions: Exhaustion Effects
 
-| **Level** | **Effect**                                     |
-| --------- | ---------------------------------------------- |
-| 1         | Disadvantage on ability checks                 |
-| 2         | Speed halved                                   |
-| 3         | Disadvantage on attack rolls and saving throws |
-| 4         | Hit point maximum halved                       |
-| 5         | Speed reduced to 0                             |
-| 6         | Death                                          |
+| Level | Effect                                         |
+| ----- | ---------------------------------------------- |
+| 1     | Disadvantage on ability checks                 |
+| 2     | Speed halved                                   |
+| 3     | Disadvantage on attack rolls and saving throws |
+| 4     | Hit point maximum halved                       |
+| 5     | Speed reduced to 0                             |
+| 6     | Death                                          |
+|       |                                                |
 
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
 
@@ -55,93 +56,93 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 ## Frightened
 
-  - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
 
-  - The creature can't willingly move closer to the source of its fear.
+- The creature can't willingly move closer to the source of its fear.
 
 ## Grappled
 
-  - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 
-  - The condition ends if the grappler is incapacitated (see the condition).
+- The condition ends if the grappler is incapacitated (see the condition).
 
-  - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
 
 ## Incapacitated
 
-  - An incapacitated creature can't take actions or reactions.
+- An incapacitated creature can't take actions or reactions.
 
 ## Invisible
 
-  - An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
+- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
 
-  - Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 ## Paralyzed
 
-  - A paralyzed creature is incapacitated (see the condition) and can't move or speak.
+- A paralyzed creature is incapacitated (see the condition) and can't move or speak.
 
-  - The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails Strength and Dexterity saving throws.
 
-  - Attack rolls against the creature have advantage.
+- Attack rolls against the creature have advantage.
 
-  - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ## Petrified
 
-  - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
-  - The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
+- The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
 
-  - Attack rolls against the creature have advantage.
+- Attack rolls against the creature have advantage.
 
-  - The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails Strength and Dexterity saving throws.
 
-  - The creature has resistance to all damage.
+- The creature has resistance to all damage.
 
-  - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 ## Poisoned
 
-  - A poisoned creature has disadvantage on attack rolls and ability checks.
+- A poisoned creature has disadvantage on attack rolls and ability checks.
 
 ## Prone
 
-  - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 
-  - The creature has disadvantage on attack rolls.
+- The creature has disadvantage on attack rolls.
 
-  - An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 ## Restrained
 
-  - A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 
-  - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
-  - The creature has disadvantage on Dexterity saving throws.
+- The creature has disadvantage on Dexterity saving throws.
 
 ## Stunned
 
-  - A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
+- A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
 
-  - The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails Strength and Dexterity saving throws.
 
-  - Attack rolls against the creature have advantage.
+- Attack rolls against the creature have advantage.
 
 ## Unconscious
 
-  - An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
+- An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
 
-  - The creature drops whatever it's holding and falls prone.
+- The creature drops whatever it's holding and falls prone.
 
-  - The creature automatically fails Strength and Dexterity saving throws.
+- The creature automatically fails Strength and Dexterity saving throws.
 
-  - Attack rolls against the creature have advantage.
+- Attack rolls against the creature have advantage.
 
-  - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
-# Pantheons
+# Chapter ##: Pantheons
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
@@ -151,52 +152,54 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-**Table** **54 - Pantheons: Celtic Deities**
+**Table** **63** - Pantheons: Celtic Deities
 
-| **Deity**                                         | **Alignment** | **Suggested Domains** | **Symbol**                         |
-| ------------------------------------------------- | ------------- | --------------------- | ---------------------------------- |
-| The Daghdha, god of weather and crops             | CG            | Nature, Trickery      | Bubbling cauldron or shield        |
-| Arawn, god of life and death                      | NE            | Life, Death           | Black star on gray background      |
-| Belenus, god of sun, light, and warmth            | NG            | Light                 | Solar disk and standing stones     |
-| Brigantia, goddess of rivers and livestock        | NG            | Life                  | Footbridge                         |
-| Diancecht, god of medicine and healing            | LG            | Life                  | Crossed oak and mistletoe branches |
-| Dunatis, god of mountains and peaks               | N             | Nature                | Red sun-capped mountain peak       |
-| Goibhniu, god of smiths and healing               | NG            | Knowledge, Life       | Giant mallet over sword            |
-| Lugh, god of arts, travel, and commerce           | CN            | Knowledge, Life       | Pair of long hands                 |
-| Manannan mac Lir, god of oceans and sea creatures | LN            | Nature, Tempest       | Wave of white water on green       |
-| Math Mathonwy, god of magic                       | NE            | Knowledge             | Staff                              |
-| Morrigan, goddess of battle                       | CE            | War                   | Two crossed spears                 |
-| Nuada, god of war and warriors                    | N             | War                   | Silver hand on black background    |
-| Oghma, god of speech and writing                  | NG            | Knowledge             | Unfurled scroll                    |
-| Silvanus, god of nature and forests               | N             | Nature                | Summer oak tree                    |
+| Deity                                             | Alignment | Suggested Domains | Symbol                             |
+| ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
+| The Daghdha, god of weather and crops             | CG        | Nature, Trickery  | Bubbling cauldron or shield        |
+| Arawn, god of life and death                      | NE        | Life, Death       | Black star on gray background      |
+| Belenus, god of sun, light, and warmth            | NG        | Light             | Solar disk and standing stones     |
+| Brigantia, goddess of rivers and livestock        | NG        | Life              | Footbridge                         |
+| Diancecht, god of medicine and healing            | LG        | Life              | Crossed oak and mistletoe branches |
+| Dunatis, god of mountains and peaks               | N         | Nature            | Red sun-capped mountain peak       |
+| Goibhniu, god of smiths and healing               | NG        | Knowledge, Life   | Giant mallet over sword            |
+| Lugh, god of arts, travel, and commerce           | CN        | Knowledge, Life   | Pair of long hands                 |
+| Manannan mac Lir, god of oceans and sea creatures | LN        | Nature, Tempest   | Wave of white water on green       |
+| Math Mathonwy, god of magic                       | NE        | Knowledge         | Staff                              |
+| Morrigan, goddess of battle                       | CE        | War               | Two crossed spears                 |
+| Nuada, god of war and warriors                    | N         | War               | Silver hand on black background    |
+| Oghma, god of speech and writing                  | NG        | Knowledge         | Unfurled scroll                    |
+| Silvanus, god of nature and forests               | N         | Nature            | Summer oak tree                    |
+|                                                   |           |                   |                                    |
 
 ## The Greek Pantheon
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-**Table** **55 - Pantheons: Greek Deities**
+**Table** **64** - Pantheons: Greek Deities
 
-| **Deity**                                  | **Alignment** | **Suggested Domains**  | **Symbol**                            |
-| ------------------------------------------ | ------------- | ---------------------- | ------------------------------------- |
-| Zeus, god of the sky, ruler of the gods    | N             | Tempest                | Fist full of lightning bolts          |
-| Aphrodite, goddess of love and beauty      | CG            | Light                  | Sea shell                             |
-| Apollo, god of light, music, and healing   | CG            | Knowledge, Life, Light | Lyre                                  |
-| Ares, god of war and strife                | CE            | War                    | Spear                                 |
-| Artemis, goddess of hunting and childbirth | NG            | Life, Nature           | Bow and arrow on lunar disk           |
-| Athena, goddess of wisdom and civilization | LG            | Knowledge, War         | Owl                                   |
-| Demeter, goddess of agriculture            | NG            | Life                   | Mare's head                           |
-| Dionysus, god of mirth and wine            | CN            | Life                   | Thyrsus (staff tipped with pine cone) |
-| Hades, god of the underworld               | LE            | Death                  | Black ram                             |
-| Hecate, goddess of magic and the moon      | CE            | Knowledge, Trickery    | Setting moon                          |
-| Hephaestus, god of smithing and craft      | NG            | Knowledge              | Hammer and anvil                      |
-| Hera, goddess of marriage and intrigue     | CN            | Trickery               | Fan of peacock feathers               |
-| Hercules, god of strength and adventure    | CG            | Tempest, War           | Lion's head                           |
-| Hermes, god of travel and commerce         | CG            | Trickery               | Caduceus (winged staff and serpents)  |
-| Hestia, goddess of home and family         | NG            | Life                   | Hearth                                |
-| Nike, goddess of victory                   | LN            | War                    | Winged woman                          |
-| Pan, god of nature                         | CN            | Nature                 | Syrinx (pan pipes)                    |
-| Poseidon, god of the sea and earthquakes   | CN            | Tempest                | Trident                               |
-| Tyche, goddess of good fortune             | N             | Trickery               | Red pentagram                         |
+| Deity                                      | Alignment | Suggested Domains      | Symbol                                |
+| ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
+| Zeus, god of the sky, ruler of the gods    | N         | Tempest                | Fist full of lightning bolts          |
+| Aphrodite, goddess of love and beauty      | CG        | Light                  | Sea shell                             |
+| Apollo, god of light, music, and healing   | CG        | Knowledge, Life, Light | Lyre                                  |
+| Ares, god of war and strife                | CE        | War                    | Spear                                 |
+| Artemis, goddess of hunting and childbirth | NG        | Life, Nature           | Bow and arrow on lunar disk           |
+| Athena, goddess of wisdom and civilization | LG        | Knowledge, War         | Owl                                   |
+| Demeter, goddess of agriculture            | NG        | Life                   | Mare's head                           |
+| Dionysus, god of mirth and wine            | CN        | Life                   | Thyrsus (staff tipped with pine cone) |
+| Hades, god of the underworld               | LE        | Death                  | Black ram                             |
+| Hecate, goddess of magic and the moon      | CE        | Knowledge, Trickery    | Setting moon                          |
+| Hephaestus, god of smithing and craft      | NG        | Knowledge              | Hammer and anvil                      |
+| Hera, goddess of marriage and intrigue     | CN        | Trickery               | Fan of peacock feathers               |
+| Hercules, god of strength and adventure    | CG        | Tempest, War           | Lion's head                           |
+| Hermes, god of travel and commerce         | CG        | Trickery               | Caduceus (winged staff and serpents)  |
+| Hestia, goddess of home and family         | NG        | Life                   | Hearth                                |
+| Nike, goddess of victory                   | LN        | War                    | Winged woman                          |
+| Pan, god of nature                         | CN        | Nature                 | Syrinx (pan pipes)                    |
+| Poseidon, god of the sea and earthquakes   | CN        | Tempest                | Trident                               |
+| Tyche, goddess of good fortune             | N         | Trickery               | Red pentagram                         |
+|                                            |           |                        |                                       |
 
 ## The Egyptian Pantheon
 
@@ -204,24 +207,25 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-**Table** **56 - Pantheons: Egyptian Deities**
+**Table** **65** - Pantheons: Egyptian Deities
 
-| **Deity**                                      | **Alignment** | **Suggested Domains**    | **Symbol**                           |
-| ---------------------------------------------- | ------------- | ------------------------ | ------------------------------------ |
-| Re-Horakhty, god of the sun, ruler of the gods | LG            | Life, Light              | Solar disk encircled by serpent      |
-| Anubis, god of judgment and death              | LN            | Death                    | Black jackal                         |
-| Apep, god of evil, fire, and serpents          | NE            | Trickery                 | Flaming snake                        |
-| Bast, goddess of cats and vengeance            | CG            | War                      | Cat                                  |
-| Bes, god of luck and music                     | CN            | Trickery                 | Image of the misshapen deity         |
-| Hathor, goddess of love, music, and motherhood | NG            | Life, Light              | Horned cowʼs head with lunar disk    |
-| Imhotep, god of crafts and medicine            | NG            | Knowledge                | Step pyramid                         |
-| Isis, goddess of fertility and magic           | NG            | Knowledge, Life          | Ankh and star                        |
-| Nephthys, goddess of death and grief           | CG            | Death                    | Horns around a lunar disk            |
-| Osiris, god of nature and the underworld       | LG            | Life, Nature             | Crook and flail                      |
-| Ptah, god of crafts, knowledge, and secrets    | LN            | Knowledge                | Bull                                 |
-| Set, god of darkness and desert storms         | CE            | Death, Tempest, Trickery | Coiled cobra                         |
-| Sobek, god of water and crocodiles             | LE            | Nature, Tempest          | Crocodile head with horns and plumes |
-| Thoth, god of knowledge and wisdom             | N             | Knowledge                | Ibis                                 |
+| Deity                                          | Alignment | Suggested Domains        | Symbol                               |
+| ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
+| Re-Horakhty, god of the sun, ruler of the gods | LG        | Life, Light              | Solar disk encircled by serpent      |
+| Anubis, god of judgment and death              | LN        | Death                    | Black jackal                         |
+| Apep, god of evil, fire, and serpents          | NE        | Trickery                 | Flaming snake                        |
+| Bast, goddess of cats and vengeance            | CG        | War                      | Cat                                  |
+| Bes, god of luck and music                     | CN        | Trickery                 | Image of the misshapen deity         |
+| Hathor, goddess of love, music, and motherhood | NG        | Life, Light              | Horned cowʼs head with lunar disk    |
+| Imhotep, god of crafts and medicine            | NG        | Knowledge                | Step pyramid                         |
+| Isis, goddess of fertility and magic           | NG        | Knowledge, Life          | Ankh and star                        |
+| Nephthys, goddess of death and grief           | CG        | Death                    | Horns around a lunar disk            |
+| Osiris, god of nature and the underworld       | LG        | Life, Nature             | Crook and flail                      |
+| Ptah, god of crafts, knowledge, and secrets    | LN        | Knowledge                | Bull                                 |
+| Set, god of darkness and desert storms         | CE        | Death, Tempest, Trickery | Coiled cobra                         |
+| Sobek, god of water and crocodiles             | LE        | Nature, Tempest          | Crocodile head with horns and plumes |
+| Thoth, god of knowledge and wisdom             | N         | Knowledge                | Ibis                                 |
+|                                                |           |                          |                                      |
 
 ## The Norse Pantheon
 
@@ -229,32 +233,33 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-**Table** **57 - Pantheons: Norse Deities**
+**Table** **66** - Pantheons: Norse Deities
 
-| **Deity**                                 | **Alignment** | **Suggested Domains** | **Symbol**                        |
-| ----------------------------------------- | ------------- | --------------------- | --------------------------------- |
-| Odin, god of knowledge and war            | NG            | Knowledge, War        | Watching blue eye                 |
-| Aegir, god of the sea and storms          | NE            | Tempest               | Rough ocean waves                 |
-| Balder, god of beauty and poetry          | NG            | Life, Light           | Gem-encrusted silver chalice      |
-| Forseti, god of justice and law           | N             | Light                 | Head of a bearded man             |
-| Frey, god of fertility and the sun        | NG            | Life, Light           | Ice-blue greatsword               |
-| Freya, goddess of fertility and love      | NG            | Life                  | Falcon                            |
-| Frigga, goddess of birth and fertility    | N             | Life, Light           | Cat                               |
-| Heimdall, god of watchfulness and loyalty | LG            | Light, War            | Curling musical horn              |
-| Hel, goddess of the underworld            | NE            | Death                 | Woman's face, rotting on one side |
-| Hermod, god of luck                       | CN            | Trickery              | Winged scroll                     |
-| Loki, god of thieves and trickery         | CE            | Trickery              | Flame                             |
-| Njord, god of sea and wind                | NG            | Nature, Tempest       | Gold coin                         |
-| Odur, god of light and the sun            | CG            | Light                 | Solar disk                        |
-| Sif, goddess of war                       | CG            | War                   | Upraised sword                    |
-| Skadi, god of earth and mountains         | N             | Nature                | Mountain peak                     |
-| Surtur, god of fire giants and war        | LE            | War                   | Flaming sword                     |
-| Thor, god of storms and thunder           | CG            | Tempest, War          | Hammer                            |
-| Thrym, god of frost giants and cold       | CE            | War                   | White double-bladed axe           |
-| Tyr, god of courage and strategy          | LN            | Knowledge, War        | Sword                             |
-| Uller, god of hunting and winter          | CN            | Nature                | Longbow                           |
+| Deity                                     | Alignment | Suggested Domains | Symbol                            |
+| ----------------------------------------- | --------- | ----------------- | --------------------------------- |
+| Odin, god of knowledge and war            | NG        | Knowledge, War    | Watching blue eye                 |
+| Aegir, god of the sea and storms          | NE        | Tempest           | Rough ocean waves                 |
+| Balder, god of beauty and poetry          | NG        | Life, Light       | Gem-encrusted silver chalice      |
+| Forseti, god of justice and law           | N         | Light             | Head of a bearded man             |
+| Frey, god of fertility and the sun        | NG        | Life, Light       | Ice-blue greatsword               |
+| Freya, goddess of fertility and love      | NG        | Life              | Falcon                            |
+| Frigga, goddess of birth and fertility    | N         | Life, Light       | Cat                               |
+| Heimdall, god of watchfulness and loyalty | LG        | Light, War        | Curling musical horn              |
+| Hel, goddess of the underworld            | NE        | Death             | Woman's face, rotting on one side |
+| Hermod, god of luck                       | CN        | Trickery          | Winged scroll                     |
+| Loki, god of thieves and trickery         | CE        | Trickery          | Flame                             |
+| Njord, god of sea and wind                | NG        | Nature, Tempest   | Gold coin                         |
+| Odur, god of light and the sun            | CG        | Light             | Solar disk                        |
+| Sif, goddess of war                       | CG        | War               | Upraised sword                    |
+| Skadi, god of earth and mountains         | N         | Nature            | Mountain peak                     |
+| Surtur, god of fire giants and war        | LE        | War               | Flaming sword                     |
+| Thor, god of storms and thunder           | CG        | Tempest, War      | Hammer                            |
+| Thrym, god of frost giants and cold       | CE        | War               | White double-bladed axe           |
+| Tyr, god of courage and strategy          | LN        | Knowledge, War    | Sword                             |
+| Uller, god of hunting and winter          | CN        | Nature            | Longbow                           |
+|                                           |           |                   |                                   |
 
-# Planes
+# Chapter ##: Planes
 
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence**. It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.
 
@@ -314,7 +319,7 @@ The planes with some element of good in their nature are called the **Upper Plan
 
 Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don't seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as *demiplane*, or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a *plane shift* spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The *gate* spell is more reliable, assuming the caster knows of the demiplane.
 
-# Situational Rules
+# Chapter ##: Situational Rules
 
 ## Traps
 
@@ -354,22 +359,24 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-**Table** **58 - Traps: Save DCs and Attack Bonuses**
+**Table** **67** - Traps: Save DCs and Attack Bonuses
 
-| **Trap Danger** | **Save DC** | **Attack Bonus** |
-| --------------- | ----------- | ---------------- |
-| Setback         | 10-11       | +3 to +5         |
-| Dangerous       | 12-15       | +6 to +8         |
-| Deadly          | 16-20       | +9 to +12        |
+| Trap Danger | Save DC | Attack Bonus |
+| ----------- | ------- | ------------ |
+| Setback     | 10-11   | +3 to +5     |
+| Dangerous   | 12-15   | +6 to +8     |
+| Deadly      | 16-20   | +9 to +12    |
+|             |         |              |
 
-**Table** **59 - Traps: Damage Severity by Level**
+**Table** **68** - Traps: Damage Severity by Level
 
-| **Character Level** | **Setback** | **Dangerous** | **Deadly** |
-| ------------------- | ----------- | ------------- | ---------- |
-| 1st-4th             | 1d10        | 2d10          | 4d10       |
-| 5th-10th            | 2d10        | 4d10          | 10d10      |
-| 11th-16th           | 4d10        | 10d10         | 18d10      |
-| 17th-20th           | 10d10       | 18d10         | 24d10      |
+| Character Level | Setback | Dangerous | Deadly |
+| --------------- | ------- | --------- | ------ |
+| 1st-4th         | 1d10    | 2d10      | 4d10   |
+| 5th-10th        | 2d10    | 4d10      | 10d10  |
+| 11th-16th       | 4d10    | 10d10     | 18d10  |
+| 17th-20th       | 10d10   | 18d10     | 24d10  |
+|                 |         |           |        |
 
 #### Complex Traps
 
@@ -553,54 +560,57 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-**Table** **60 - Madness Short-Term Effects**
+**Table** **69** - Madness Short-Term Effects
 
-| **d100** | **Effect (lasts 1d10 minutes)**                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 01-20    | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
-| 21-30    | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
-| 31-40    | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
-| 41-50    | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
-| 51-60    | The character must use his or her action each round to attack the nearest creature.                                          |
-| 61-70    | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
-| 71-75    | The character does whatever anyone tells him or her to do that isn't obviously self- destructive.                            |
-| 76-80    | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
-| 81-90    | The character is stunned.                                                                                                    |
-| 91-100   | The character falls unconscious.                                                                                             |
+| d100   | Effect (lasts 1d10 minutes)                                                                                                  |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
+| 21-30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
+| 31-40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
+| 41-50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
+| 51-60  | The character must use his or her action each round to attack the nearest creature.                                          |
+| 61-70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
+| 71-75  | The character does whatever anyone tells him or her to do that isn't obviously self- destructive.                            |
+| 76-80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
+| 81-90  | The character is stunned.                                                                                                    |
+| 91-100 | The character falls unconscious.                                                                                             |
+|        |                                                                                                                              |
 
-**Table** **61 - Madness: Long-Term Effects**
+**Table** **70** - Madness: Long-Term Effects
 
-| **d100** | **Effect (lasts 1d10 × 10 hours)**                                                                                                                                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 01-10    | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
-| 11-20    | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
-| 21-30    | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
-| 31-40    | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.                                                                      |
-| 41-45    | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
-| 46-55    | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
-| 56-65    | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
-| 66-75    | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
-| 76-85    | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
-| 86-90    | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
-| 91-95    | The character loses the ability to speak.                                                                                                                                                                                            |
-| 96-100   | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
+| d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01-10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
+| 11-20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
+| 21-30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
+| 31-40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.                                                                      |
+| 41-45  | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
+| 46-55  | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
+| 56-65  | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
+| 66-75  | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
+| 76-85  | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
+| 86-90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
+| 91-95  | The character loses the ability to speak.                                                                                                                                                                                            |
+| 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
+|        |                                                                                                                                                                                                                                      |
 
-**Table** **62 - Madness: Indefinite Flaws**
+**Table** **71** - Madness: Indefinite Flaws
 
-| **d100** | **Flaw (lasts until cured)**                                                                                                             |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-15    | "Being drunk keeps me sane."                                                                                                             |
-| 16-25    | "I keep whatever I find."                                                                                                                |
-| 26-30    | "I try to become more like someone else I know-adopting his or her style of dress, mannerisms, and name."                                |
-| 31-35    | "I must bend the truth, exaggerate, or outright lie to be interesting to other people."                                                  |
-| 36-45    | "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."                                   |
-| 46-50    | "I find it hard to care about anything that goes on around me."                                                                          |
-| 51-55    | "I don't like the way people judge me all the time."                                                                                     |
-| 56-70    | "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."                                                       |
-| 71-80    | "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time." |
-| 81-85    | "There's only one person I can trust. And only I can see this special friend."                                                           |
-| 86-95    | "I can't take anything seriously. The more serious the situation, the funnier I find it."                                                |
-| 96-100   | "I've discovered that I really like killing people."                                                                                     |
+| d100   | Flaw (lasts until cured)                                                                                                                 |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-15  | "Being drunk keeps me sane."                                                                                                             |
+| 16-25  | "I keep whatever I find."                                                                                                                |
+| 26-30  | "I try to become more like someone else I know-adopting his or her style of dress, mannerisms, and name."                                |
+| 31-35  | "I must bend the truth, exaggerate, or outright lie to be interesting to other people."                                                  |
+| 36-45  | "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."                                   |
+| 46-50  | "I find it hard to care about anything that goes on around me."                                                                          |
+| 51-55  | "I don't like the way people judge me all the time."                                                                                     |
+| 56-70  | "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."                                                       |
+| 71-80  | "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time." |
+| 81-85  | "There's only one person I can trust. And only I can see this special friend."                                                           |
+| 86-95  | "I can't take anything seriously. The more serious the situation, the funnier I find it."                                                |
+| 96-100 | "I've discovered that I really like killing people."                                                                                     |
+|        |                                                                                                                                          |
 
 ### Curing Madness
 
@@ -618,28 +628,30 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Armor Class***. An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-**Table** **63 - Objects: Armor Class**
+**Table** **72** - Objects: Armor Class
 
-| **Substance**       | **AC** |
-| ------------------- | ------ |
-| Cloth, paper, rope  | 11     |
-| Crystal, glass, ice | 13     |
-| Wood, bone          | 15     |
-| Stone               | 17     |
-| Iron, steel         | 19     |
-| Mithral             | 21     |
-| Adamantine          | 23     |
+| Substance           | AC  |
+| ------------------- | --- |
+| Cloth, paper, rope  | 11  |
+| Crystal, glass, ice | 13  |
+| Wood, bone          | 15  |
+| Stone               | 17  |
+| Iron, steel         | 19  |
+| Mithral             | 21  |
+| Adamantine          | 23  |
+|                     |     |
 
-**Hit Points**. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
+***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-**Table** **64 - Objects: Hit Points**
+**Table** **73** - Objects: Hit Points
 
-| **Size**                            | **Fragile** | **Resilient** |
-| ----------------------------------- | ----------- | ------------- |
-| Tiny (bottle, lock)                 | 2 (1d4)     | 5 (2d4)       |
-| Small (chest, lute)                 | 3 (1d6)     | 10 (3d6)      |
-| Medium (barrel, chandelier)         | 4 (1d8)     | 18 (4d8)      |
-| Large (cart, 10-ft-by-10-ft window) | 5 (1d10)    | 27 (5d10)     |
+| Size                                | Fragile  | Resilient |
+| ----------------------------------- | -------- | --------- |
+| Tiny (bottle, lock)                 | 2 (1d4)  | 5 (2d4)   |
+| Small (chest, lute)                 | 3 (1d6)  | 10 (3d6)  |
+| Medium (barrel, chandelier)         | 4 (1d8)  | 18 (4d8)  |
+| Large (cart, 10-ft-by-10-ft window) | 5 (1d10) | 27 (5d10) |
+|                                     |          |           |
 
 ***Huge and Gargantuan Objects***. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
@@ -661,24 +673,25 @@ Poisons come in the following four types.
 
 ***Injury***. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-**Table** **65 - Poisons**
+**Table** **74** - Poisons
 
-| **Item**           | **Type** | **Price/Dose** |
-| ------------------ | -------- | -------------- |
-| Assassin's blood   | Ingested | 150 gp         |
-| Burnt othur fumes  | Inhaled  | 500 gp         |
-| Crawler mucus      | Contact  | 200 gp         |
-| Drow poison        | Injury   | 200 gp         |
-| Essence of ether   | Inhaled  | 300 gp         |
-| Malice             | Inhaled  | 250 gp         |
-| Midnight tears     | Ingested | 1,500 gp       |
-| Oil of taggit      | Contact  | 400 gp         |
-| Pale tincture      | Ingested | 250 gp         |
-| Purple worm poison | Injury   | 2,000 gp       |
-| Serpent venom      | Injury   | 200 gp         |
-| Torpor             | Ingested | 600 gp         |
-| Truth serum        | Ingested | 150 gp         |
-| Wyvern poison      | Injury   | 1,200 gp       |
+| Item               | Type     | Price/Dose |
+| ------------------ | -------- | ---------- |
+| Assassin's blood   | Ingested | 150 gp     |
+| Burnt othur fumes  | Inhaled  | 500 gp     |
+| Crawler mucus      | Contact  | 200 gp     |
+| Drow poison        | Injury   | 200 gp     |
+| Essence of ether   | Inhaled  | 300 gp     |
+| Malice             | Inhaled  | 250 gp     |
+| Midnight tears     | Ingested | 1,500 gp   |
+| Oil of taggit      | Contact  | 400 gp     |
+| Pale tincture      | Ingested | 250 gp     |
+| Purple worm poison | Injury   | 2,000 gp   |
+| Serpent venom      | Injury   | 200 gp     |
+| Torpor             | Ingested | 600 gp     |
+| Truth serum        | Ingested | 150 gp     |
+| Wyvern poison      | Injury   | 1,200 gp   |
+|                    |          |            |
 
 ### Sample Poisons
 
