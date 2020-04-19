@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous Creatures
+title: 'Miscellaneous Creatures'
 ---
 
 [TOC]
@@ -18,9 +18,9 @@ This section contains statistics for various animals, vermin, and other critters
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +5, Perception +3
 
@@ -48,9 +48,9 @@ This section contains statistics for various animals, vermin, and other critters
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 8 (-1)  | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2)  |
+| STR    | DEX    | CON     | INT     | WIS     | CHA    |
+| ------ | ------ | ------- | ------- | ------- | ------ |
+| 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2) |
 
 **Damage Vulnerabilities** fire
 
@@ -80,9 +80,9 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 6 (-2)  | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2)  |
+| STR     | DEX    | CON     | INT     | WIS     | CHA    |
+| ------- | ------ | ------- | ------- | ------- | ------ |
+| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Vulnerabilities** fire
 
@@ -112,9 +112,9 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -138,9 +138,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 14 (+2) | 11 (+0) | 4 (-3)  | 12 (+1) | 6 (-2)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 8 (-1) | 14 (+2) | 11 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
 
@@ -164,9 +164,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 20 ft., burrow 5 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 4 (-3)  | 11 (+0) | 12 (+1) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11
 
@@ -190,9 +190,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 5 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 15 (+2) | 8 (-1)  | 2 (-4)  | 12 (+1) | 4 (-3)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -218,9 +218,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 40 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -250,7 +250,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
@@ -282,9 +282,9 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 **Speed** 10 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 14 (+2) | 10 (+0) | 3 (-4)  | 14 (+2) | 5 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
 
 **Skills** Perception +4
 
@@ -314,9 +314,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 11 (+0) | 12 (+1) | 2 (-4)  | 9 (-1)  | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 2 (-4) | 9 (-1) | 5 (-3) |
 
 **Senses** passive Perception 9
 
@@ -342,9 +342,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 10 (+0) | 16 (+3) | 2 (-4)  | 13 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -374,9 +374,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 8 (-1)  | 14 (+2) | 2 (-4)  | 8 (-1)  | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 8 (-1) | 14 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
 **Senses** passive Perception 9
 
@@ -398,9 +398,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 15 (+2) | 10 (+0) | 3 (-4)  | 12 (+1) | 7 (-2)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -426,9 +426,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -452,9 +452,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 20 ft., swim 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 11 (+0) | 10 (+0) | 1 (-5)  | 8 (-1)  | 2 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Skills** Stealth +2
 
@@ -480,9 +480,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 20 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +2
 
@@ -510,9 +510,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4)  | 13 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4) | 13 (+1) | 6 (-2) |
 
 **Skills** Perception +5, Stealth +4
 
@@ -542,9 +542,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4)  | 14 (+2) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4) | 14 (+2) | 5 (-3) |
 
 **Senses** passive Perception 12
 
@@ -566,9 +566,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -596,9 +596,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 10 (+0) | 12 (+1) | 2 (-4)  | 11 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
 
@@ -620,9 +620,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 10 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 15 (+2) | 10 (+0) | 2 (-4)  | 14 (+2) | 7 (-2)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (-2) | 15 (+2) | 10 (+0) | 2 (-4) | 14 (+2) | 7 (-2) |
 
 **Skills** Perception +4
 
@@ -648,9 +648,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 22 (+6) | 9 (-1)  | 17 (+3) | 3 (-4)  | 11 (+0) | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 22 (+6) | 9 (-1) | 17 (+3) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
 
@@ -676,9 +676,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4)  | 10 (+0) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
 
@@ -704,9 +704,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 4 (-3)  | 18 (+4) | 11 (+0) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (-3) | 18 (+4) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** blindsight 10 ft., passive Perception 11
 
@@ -732,9 +732,9 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 
 **Speed** 20 ft., swim 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1 (-5)  | 13 (+1) | 8 (-1)  | 1 (-5)  | 8 (-1)  | 3 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Skills** Perception +1, Stealth +3
 
@@ -762,9 +762,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 40 ft., climb 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 14 (+2) | 18 (+4) | 7 (-2)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 23 (+6) | 14 (+2) | 18 (+4) | 7 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +9, Perception +4
 
@@ -792,9 +792,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., burrow 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 10 (+0) | 15 (+2) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 10 (+0) | 15 (+2) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11
 
@@ -822,9 +822,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 10 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 16 (+3) | 11 (+0) | 2 (-4)  | 12 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 16 (+3) | 11 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -850,9 +850,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 10 (+0) | 16 (+3) | 2 (-4)  | 7 (-2)  | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 17 (+3) | 10 (+0) | 16 (+3) | 2 (-4) | 7 (-2) | 5 (-3) |
 
 **Senses** passive Perception 8
 
@@ -878,9 +878,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 14 (+2) | 12 (+1) | 1 (-5)  | 7 (-2)  | 3 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 5 (-3) | 14 (+2) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
 **Senses** blindsight 30 ft., passive Perception 8
 
@@ -902,9 +902,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Skills** Stealth +5
 
@@ -932,9 +932,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 15 (+2) | 11 (+0) | 1 (-5)  | 9 (-1)  | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 13 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Skills** Stealth +4
 
@@ -960,9 +960,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., swim 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 21 (+5) | 9 (-1)  | 17 (+3) | 2 (-4)  | 10 (+0) | 7 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 21 (+5) | 9 (-1) | 17 (+3) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
 
@@ -990,9 +990,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 10 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 17 (+3) | 13 (+1) | 8 (-1)  | 14 (+2) | 10 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (-1) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +4
 
@@ -1024,9 +1024,9 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 
 **Speed** 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 16 (+3) | 14 (+2) | 7 (-2)  | 14 (+2) | 10 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 16 (+3) | 14 (+2) | 7 (-2) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +4
 
@@ -1056,9 +1056,9 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 10 (+0) | 12 (+1) | 1 (-5)  | 7 (-2)  | 3 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 8 (-1) | 10 (+0) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
 **Senses** blindsight 30 ft., passive Perception 8
 
@@ -1084,9 +1084,9 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2, Stealth +3
 
@@ -1118,9 +1118,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 11 (+0) | 12 (+1) | 3 (-4)  | 12 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 11 (+0) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
 
@@ -1146,9 +1146,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 14 (+2) | 14 (+2) | 2 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -1174,9 +1174,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 12 (+1) | 13 (+1) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -1200,9 +1200,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 10 ft., swim 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 13 (+1) | 13 (+1) | 4 (-3)  | 10 (+0) | 4 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 13 (+1) | 13 (+1) | 4 (-3) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +4, Stealth +5
 
@@ -1234,9 +1234,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 5 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 15 (+2) | 12 (+1) | 8 (-1)  | 13 (+1) | 10 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 13 (+1) | 15 (+2) | 12 (+1) | 8 (-1) | 13 (+1) | 10 (+0) |
 
 **Skills** Perception +5, Stealth +4
 
@@ -1266,9 +1266,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 18 (+4) | 13 (+1) | 2 (-4)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 10 (+0) | 18 (+4) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2
 
@@ -1292,9 +1292,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 15 (+2) | 11 (+0) | 2 (-4)  | 10 (+0) | 4 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -1326,9 +1326,9 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 13 (+1) | 15 (+2) | 1 (-5)  | 9 (-1)  | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Senses** blindsight 60 ft., passive Perception 9
 
@@ -1354,9 +1354,9 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 **Speed** 0 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 15 (+2) | 11 (+0) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 15 (+2) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** passive Perception 11
 
@@ -1384,9 +1384,9 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 
 **Speed** 0 ft., swim 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 11 (+0) | 21 (+5) | 1 (-5)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |
 
 **Skills** Perception +3
 
@@ -1416,9 +1416,9 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4)  | 11 (+0) | 4 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4) | 11 (+0) | 4 (-3) |
 
 **Skills** Stealth +7
 
@@ -1452,9 +1452,9 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 
 **Speed** 20 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 13 (+1) | 13 (+1) | 2 (-4)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -1484,9 +1484,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 **Speed** 10 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 10 (+0) | 15 (+2) | 6 (-2)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 15 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -1520,9 +1520,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Speed** 10 ft., fly 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 14 (+2) | 10 (+0) | 1 (-5)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 10 (+0) | 14 (+2) | 10 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** passive Perception 10
 
@@ -1544,9 +1544,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 11 (+0) | 16 (+3) | 10 (+0) | 4 (-3)  | 12 (+1) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 11 (+0) | 16 (+3) | 10 (+0) | 4 (-3) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3, Stealth +5
 
@@ -1572,9 +1572,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Speed** 40 ft., climb 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 16 (+3) | 13 (+1) | 3 (-4)  | 12 (+1) | 4 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills** Perception +3, Stealth +7
 
@@ -1606,9 +1606,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 10 (+0) | 11 (+0) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 10 (+0) | 11 (+0) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -1634,9 +1634,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Speed** 10 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 16 (+3) | 8 (-1)  | 2 (-4)  | 14 (+2) | 6 (-2)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2) |
 
 **Skills** Perception +4
 
@@ -1662,9 +1662,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Speed** 0 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 13 (+1) | 15 (+2) | 1 (-5)  | 10 (+0) | 4 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 13 (+1) | 15 (+2) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2
 
@@ -1694,9 +1694,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3
 
@@ -1724,9 +1724,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 15 (+2) | 11 (+0) | 3 (-4)  | 12 (+1) | 6 (-2)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 8 (-1) | 15 (+2) | 11 (+0) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3
 
@@ -1754,9 +1754,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 0 ft., swim 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 10 (+0) | 13 (+1) | 3 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 13 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -1786,9 +1786,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 15 (+2) | 13 (+1) | 3 (-4)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 15 (+2) | 13 (+1) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
 
@@ -1822,9 +1822,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 20 ft., climb 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 11 (+0) | 10 (+0) | 1 (-5)  | 8 (-1)  | 3 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Senses** darkvision 30 ft., passive Perception 9
 
@@ -1848,9 +1848,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 24 (+7) | 9 (-1)  | 21 (+5) | 3 (-4)  | 11 (+0) | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 24 (+7) | 9 (-1) | 21 (+5) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
 
@@ -1878,9 +1878,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 14 (+2) | 12 (+1) | 3 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -1908,9 +1908,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 10 (+0) | 13 (+1) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -1936,9 +1936,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 5 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 4 (-3)  | 15 (+2) | 11 (+0) | 3 (-4)  | 10 (+0) | 4 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2, Stealth +4
 
@@ -1970,9 +1970,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 5 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 13 (+1) | 8 (-1)  | 2 (-4)  | 12 (+1) | 7 (-2)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +3
 
@@ -2002,9 +2002,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 50 ft., climb 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4)  | 14 (+2) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 7 (-2) |
 
 **Skills** Perception +4, Stealth +6
 
@@ -2034,9 +2034,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2)  | 10 (+0) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Skills** Stealth +6
 
@@ -2068,9 +2068,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 16 (+3) | 11 (+0) | 1 (-5)  | 10 (+0) | 3 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 2 (-4) | 16 (+3) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -2092,9 +2092,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 40 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4)  | 13 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -2124,9 +2124,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4)  | 11 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
 
@@ -2148,9 +2148,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 0 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 16 (+3) | 9 (-1)  | 1 (-5)  | 7 (-2)  | 2 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 2 (-4) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -2178,9 +2178,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 11 (+0) | 9 (-1)  | 2 (-4)  | 10 (+0) | 4 (-3)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -2204,9 +2204,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 10 ft., fly 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 14 (+2) | 8 (-1)  | 2 (-4)  | 12 (+1) | 6 (-2)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (-4) | 14 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3
 
@@ -2232,9 +2232,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 0 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5)  | 10 (+0) | 4 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2
 
@@ -2264,9 +2264,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 21 (+5) | 8 (-1)  | 15 (+2) | 2 (-4)  | 12 (+1) | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 21 (+5) | 8 (-1) | 15 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
 
@@ -2290,9 +2290,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4)  | 11 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
 
@@ -2316,9 +2316,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 14 (+2) | 15 (+2) | 3 (-4)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 14 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
 
@@ -2348,9 +2348,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 11 (+0) | 8 (-1)  | 1 (-5)  | 8 (-1)  | 2 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 2 (-4) | 11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 9
 
@@ -2372,9 +2372,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 0 ft., swim 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1 (-5)  | 12 (+1) | 8 (-1)  | 1 (-5)  | 10 (+0) | 2 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 1 (-5) | 12 (+1) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Senses** passive Perception 10
 
@@ -2394,9 +2394,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 20 ft., climb 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 2 (-4)  | 14 (+2) | 8 (-1)  | 1 (-5)  | 10 (+0) | 2 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Skills** Stealth +4
 
@@ -2426,9 +2426,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 0 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 15 (+2) | 10 (+0) | 2 (-4)  | 12 (+1) | 4 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 5 (-3) | 15 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -2460,9 +2460,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 20 ft., climb 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 13 (+1) | 10 (+0) | 1 (-5)  | 7 (-2)  | 1 (-5)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 3 (-4) | 13 (+1) | 10 (+0) | 1 (-5) | 7 (-2) | 1 (-5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -2480,23 +2480,23 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 ***Bites***. *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-**Variant: Insect Swarms**
+***Variant: Insect Swarms***
 
-> Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
->
-> **Swarm of Beetles**. A swarm of beetles gains a burrowing speed of 5 feet.
->
-> **Swarm of Centipedes**. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
->
-> **Swarm of Spiders**. A swarm of spiders has the following additional traits.
->
-> Spider Climb. The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
->
-> Web Sense. While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
->
-> Web Walker. The swarm ignores movement restrictions caused by webbing.
->
-> **Swarm of Wasps**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
+*Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.*
+
+***Swarm of Beetles**. A swarm of beetles gains a burrowing speed of 5 feet.*
+
+***Swarm of Centipedes**. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.*
+
+***Swarm of Spiders**. A swarm of spiders has the following additional traits.*
+
+*Spider Climb. The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.*
+
+*Web Sense. While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.*
+
+*Web Walker. The swarm ignores movement restrictions caused by webbing.*
+
+***Swarm of Wasps**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.*
 
 ## Swarm of Poisonous Snakes
 
@@ -2508,9 +2508,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 18 (+4) | 11 (+0) | 1 (-5)  | 10 (+0) | 3 (-4)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 8 (-1) | 18 (+4) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -2538,9 +2538,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 0 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 16 (+3) | 9 (-1)  | 1 (-5)  | 7 (-2)  | 2 (-4)  |
+| STR     | DEX     | CON    | INT    | WIS    | CHA    |
+| ------- | ------- | ------ | ------ | ------ | ------ |
+| 13 (+1) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -2572,9 +2572,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 9 (-1)  | 11 (+0) | 9 (-1)  | 2 (-4)  | 10 (+0) | 3 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 9 (-1) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -2604,9 +2604,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 10 ft., fly 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 14 (+2) | 8 (-1)  | 3 (-4)  | 12 (+1) | 6 (-2)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 6 (-2) | 14 (+2) | 8 (-1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +5
 
@@ -2636,9 +2636,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 15 (+2) | 14 (+2) | 3 (-4)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 15 (+2) | 14 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
 
@@ -2670,9 +2670,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 10 ft., fly 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 10 (+0) | 13 (+1) | 2 (-4)  | 12 (+1) | 4 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 7 (-2) | 10 (+0) | 13 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills** Perception +3
 
@@ -2700,9 +2700,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 12 (+1) | 13 (+1) | 2 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 12 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Senses** passive Perception 11
 
@@ -2726,9 +2726,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 16 (+3) | 8 (-1)  | 2 (-4)  | 12 (+1) | 3 (-4)  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4) |
 
 **Skills** Perception +3, Stealth +5
 
@@ -2754,9 +2754,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 13 (+1) | 14 (+2) | 7 (-2)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (-2) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +5, Stealth +3
 
@@ -2792,9 +2792,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4)  | 12 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -2822,9 +2822,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2)  | 11 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) |
 
 **Skills** Perception +4
 
@@ -2841,3 +2841,7 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 A **worg** is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
+
+# Chapter ##: Non-Player Characters
+
+This appendix contains statistics for various humanoid non-player characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
