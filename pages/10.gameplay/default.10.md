@@ -4,21 +4,21 @@ title: Gameplay
 
 [TOC]
 
-# Abilities
+## Abilities
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
 
-  - **Strength**, measuring physical power
+- **Strength**, measuring physical power
 
-  - **Dexterity**, measuring agility
+- **Dexterity**, measuring agility
 
-  - **Constitution**, measuring endurance
+- **Constitution**, measuring endurance
 
-  - **Intelligence**, measuring reasoning and memory
+- **Intelligence**, measuring reasoning and memory
 
-  - **Wisdom**, measuring perception and insight
+- **Wisdom**, measuring perception and insight
 
-  - **Charisma**, measuring force of personality
+- **Charisma**, measuring force of personality
 
 Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses.
 
@@ -32,26 +32,27 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-**Table** **49 - Ability Scores: Modifiers**
+**Table** **49** - Ability Scores: Modifiers
 
-| **Score** | **Modifier** |
-| --------- | ------------ |
-| 1         | -5           |
-| 2-3       | -4           |
-| 4-5       | -3           |
-| 6-7       | -2           |
-| 8-9       | -1           |
-| 10-11     | +0           |
-| 12-13     | +1           |
-| 14-15     | +2           |
-| 16-17     | +3           |
-| 18-19     | +4           |
-| 20-21     | +5           |
-| 22-23     | +6           |
-| 24-25     | +7           |
-| 26-27     | +8           |
-| 28-29     | +9           |
-| 30        | +10          |
+| Score | Modifier |
+| ----- | -------- |
+| 1     | -5       |
+| 2-3   | -4       |
+| 4-5   | -3       |
+| 6-7   | -2       |
+| 8-9   | -1       |
+| 10-11 | +0       |
+| 12-13 | +1       |
+| 14-15 | +2       |
+| 16-17 | +3       |
+| 18-19 | +4       |
+| 20-21 | +5       |
+| 22-23 | +6       |
+| 24-25 | +7       |
+| 26-27 | +8       |
+| 28-29 | +9       |
+| 30    | +10      |
+|       |          |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 
@@ -91,16 +92,17 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-**Table** **50 - Ability Checks: Typical Difficulty Classes**
+**Table** **50** - Ability Checks: Typical Difficulty Classes
 
-| **Task Difficulty** | **DC** |
-| ------------------- | ------ |
-| Very easy           | 5      |
-| Easy                | 10     |
-| Medium              | 15     |
-| Hard                | 20     |
-| Very hard           | 25     |
-| Nearly impossible   | 30     |
+| Task Difficulty   | DC  |
+| ----------------- | --- |
+| Very easy         | 5   |
+| Easy              | 10  |
+| Medium            | 15  |
+| Hard              | 20  |
+| Very hard         | 25  |
+| Nearly impossible | 30  |
+|                   |     |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success-the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
@@ -120,51 +122,22 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
-**Strength**
-
-Athletics
-
-**Dexterity**
-
-Acrobatics
-
-Sleight of Hand
-
-Stealth
-
-**Intelligence**
-
-Arcana
-
-History
-
-Investigation
-
-Nature
-
-Religion
-
-**Wisdom**
-
-Animal Handling
-
-Insight
-
-Medicine
-
-Perception
-
-Survival
-
-**Charisma**
-
-Deception
-
-Intimidation
-
-Performance
-
-Persuasion
+| Strength         | Wisdom          |
+| ---------------- | --------------- |
+| Athletics        | Animal Handling |
+|                  | Insight         |
+| **Dexterity**    | Medicine        |
+| Acrobatics       | Perception      |
+| Sleight of Hand  | Survival        |
+| Stealth          |                 |
+|                  |                 |
+| **Intelligence** | **Charisma**    |
+| Arcana           | Deception       |
+| History          | Intimidation    |
+| Investigation    | Performance     |
+| Nature           | Persuasion      |
+| Religion         |                 |
+|                  |                 |
 
 Sometimes, the GM might ask for an ability check using a specific skill-for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
@@ -216,25 +189,25 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 
 ***Athletics***. Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
 
-  - You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
+- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
 
-  - You try to jump an unusually long distance or pull off a stunt midjump.
+- You try to jump an unusually long distance or pull off a stunt midjump.
 
-  - You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
 ***Other Strength Checks***. The GM might also call for a Strength check when you try to accomplish tasks like the following:
 
-  - Force open a stuck, locked, or barred door
+- Force open a stuck, locked, or barred door
 
-  - Break free of bonds
+- Break free of bonds
 
-  - Push through a tunnel that is too small
+- Push through a tunnel that is too small
 
-  - Hang on to a wagon while being dragged behind it
+- Hang on to a wagon while being dragged behind it
 
-  - Tip over a statue
+- Tip over a statue
 
-  - Keep a boulder from rolling
+- Keep a boulder from rolling
 
 ### Attack Rolls and Damage
 
@@ -274,21 +247,21 @@ A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or 
 
 ***Other Dexterity Checks***. The GM might call for a Dexterity check when you try to accomplish tasks like the following:
 
-  - Control a heavily laden cart on a steep descent
+- Control a heavily laden cart on a steep descent
 
-  - Steer a chariot around a tight turn
+- Steer a chariot around a tight turn
 
-  - Pick a lock
+- Pick a lock
 
-  - Disable a trap
+- Disable a trap
 
-  - Securely tie up a prisoner
+- Securely tie up a prisoner
 
-  - Wriggle free of bonds
+- Wriggle free of bonds
 
-  - Play a stringed instrument
+- Play a stringed instrument
 
-  - Craft a small or detailed object
+- Craft a small or detailed object
 
 ### Attack Rolls and Damage
 
@@ -302,19 +275,19 @@ Depending on the armor you wear, you might add some or all of your Dexterity mod
 
 At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
 
-**Hiding**
+***Hiding***
 
-> The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
->
-> You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
->
-> An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
->
-> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
->
-> **Passive Perception**. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
->
-> **What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in chapter 8, "Adventuring."
+*The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.*
+
+*You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.*
+
+*An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.*
+
+*In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.*
+
+***Passive Perception**. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.*
+
+***What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in chapter 8, "Adventuring."*
 
 ### Constitution
 
@@ -326,15 +299,15 @@ Constitution checks are uncommon, and no skills apply to Constitution checks, be
 
 The GM might call for a Constitution check when you try to accomplish tasks like the following:
 
-  - Hold your breath
+- Hold your breath
 
-  - March or labor for hours without rest
+- March or labor for hours without rest
 
-  - Go without sleep
+- Go without sleep
 
-  - Survive without food or water
+- Survive without food or water
 
-  - Quaff an entire stein of ale in one go
+- Quaff an entire stein of ale in one go
 
 ### Hit Points
 
@@ -362,17 +335,17 @@ An Intelligence check comes into play when you need to draw on logic, education,
 
 ***Other Intelligence Checks***. The GM might call for an Intelligence check when you try to accomplish tasks like the following:
 
-  - Communicate with a creature without using words
+- Communicate with a creature without using words
 
-  - Estimate the value of a precious item
+- Estimate the value of a precious item
 
-  - Pull together a disguise to pass as a city guard
+- Pull together a disguise to pass as a city guard
 
-  - Forge a document
+- Forge a document
 
-  - Recall lore about a craft or trade
+- Recall lore about a craft or trade
 
-  - Win a game of skill
+- Win a game of skill
 
 #### Spellcasting Ability
 
@@ -398,9 +371,9 @@ A Wisdom check might reflect an effort to read body language, understand someone
 
 ***Other Wisdom Checks***. The GM might call for a Wisdom check when you try to accomplish tasks like the following:
 
-  - Get a gut feeling about what course of action to follow
+- Get a gut feeling about what course of action to follow
 
-  - Discern whether a seemingly dead or living creature is undead
+- Discern whether a seemingly dead or living creature is undead
 
 #### Spellcasting Ability
 
@@ -424,9 +397,9 @@ A Charisma check might arise when you try to influence or entertain others, when
 
 ***Other Charisma Checks***. The GM might call for a Charisma check when you try to accomplish tasks like the following:
 
-  - Find the best person to talk to for news, rumors, and gossip
+- Find the best person to talk to for news, rumors, and gossip
 
-  - Blend into a crowd to get the sense of key topics of conversation
+- Blend into a crowd to get the sense of key topics of conversation
 
 #### Spellcasting Ability
 
@@ -446,7 +419,7 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
-# Adventuring
+# Chapter ##: Adventuring
 
 ## Time
 
@@ -480,7 +453,7 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 
 ***Forced March***. The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix ##).
 
 ***Mounts and Vehicles***. For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
@@ -488,13 +461,14 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-**Table** **51 - Adventuring: Travel Pace**
+**Table** **51** - Adventuring: Travel Pace
 
-| **Pace** | **Distance per: Minute** | **Hour** | **Day**  | **Effect**                                       |
-| -------- | ------------------------ | -------- | -------- | ------------------------------------------------ |
-| Fast     | 400 feet                 | 4 miles  | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
-| Normal   | 300 feet                 | 3 miles  | 18 miles | -                                                |
-| Slow     | 200 feet                 | 2 miles  | 24 miles | Able to use stealth                              |
+| Pace   | Distance per: Minute | Hour    | Day      | Effect                                           |
+| ------ | -------------------- | ------- | -------- | ------------------------------------------------ |
+| Fast   | 400 feet             | 4 miles | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
+| Normal | 300 feet             | 3 miles | 18 miles | -                                                |
+| Slow   | 200 feet             | 2 miles | 24 miles | Able to use stealth                              |
+|        |                      |         |          |                                                  |
 
 #### Difficult Terrain
 
@@ -546,7 +520,7 @@ The most fundamental tasks of adventuring- noticing danger, finding hidden objec
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
-A **heavily obscured** area-such as darkness, opaque fog, or dense foliage-blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix A) when trying to see something in that area.
+A **heavily obscured** area-such as darkness, opaque fog, or dense foliage-blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix ##) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -574,7 +548,7 @@ A creature with truesight can, out to a specific range, see in normal and magica
 
 ### Food and Water
 
-Characters who don't eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of exhaustion (see appendix ##). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 #### Food
 
@@ -662,9 +636,9 @@ You can use downtime between adventures to recover from a debilitating injury, d
 
 After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
 
-  - End one effect on you that prevents you from regaining hit points.
+- End one effect on you that prevents you from regaining hit points.
 
-  - For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
+- For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
 #### Researching
 
@@ -682,21 +656,21 @@ First, you must find an instructor willing to teach you. The GM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
 
-# Combat
+# Chapter ##: Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
 ### Combat Step by Step
 
-1.  **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
+- **Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
 
-2.  **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+- **Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
 
-3.  **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
+- **Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 
-4.  **Take turns.** Each participant in the battle takes a turn in initiative order.
+- **Take turns.** Each participant in the battle takes a turn in initiative order.
 
-5.  **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
+- **Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 ### Surprise
 
@@ -794,47 +768,47 @@ To move while prone, you must **crawl** or use magic such as teleportation. Ever
 
 Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 
-  - draw or sheathe a sword
+- draw or sheathe a sword
 
-  - open or close a door
+- open or close a door
 
-  - withdraw a potion from your backpack
+- withdraw a potion from your backpack
 
-  - pick up a dropped axe
+- pick up a dropped axe
 
-  - take a bauble from a table
+- take a bauble from a table
 
-  - remove a ring from your finger
+- remove a ring from your finger
 
-  - stuff some food into your mouth
+- stuff some food into your mouth
 
-  - plant a banner in the ground
+- plant a banner in the ground
 
-  - fish a few coins from your belt pouch
+- fish a few coins from your belt pouch
 
-  - drink all the ale in a flagon
+- drink all the ale in a flagon
 
-  - throw a lever or a switch
+- throw a lever or a switch
 
-  - pull a torch from a sconce
+- pull a torch from a sconce
 
-  - take a book from a shelf you can reach
+- take a book from a shelf you can reach
 
-  - extinguish a small flame
+- extinguish a small flame
 
-  - don a mask
+- don a mask
 
-  - pull the hood of your cloak up and over your head
+- pull the hood of your cloak up and over your head
 
-  - put your ear to a door
+- put your ear to a door
 
-  - kick a small stone
+- kick a small stone
 
-  - turn a key in a lock
+- turn a key in a lock
 
-  - tap the floor with a 10-foot pole
+- tap the floor with a 10-foot pole
 
-  - hand an item to another character
+- hand an item to another character
 
 ### Moving Around Other Creatures
 
@@ -852,9 +826,9 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-**Table** **52 - Combat: Creature Size Categories**
+**Table** **52** - Combat: Creature Size Categories
 
-| **Size**   | **Space**              |
+| Size       | Space                  |
 | ---------- | ---------------------- |
 | Tiny       | 2½ by 2½ ft.           |
 | Small      | 5 by 5 ft.             |
@@ -862,6 +836,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 | Large      | 10 by 10 ft.           |
 | Huge       | 15 by 15 ft.           |
 | Gargantuan | 20 by 20 ft. or larger |
+|            |                        |
 
 #### Space
 
@@ -939,11 +914,11 @@ You normally interact with an object while doing something else, such as when yo
 
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
-1.  **Choose a target**. Pick a target within your attack's range: a creature, an object, or a location.
+- **Choose a target**. Pick a target within your attack's **Range:** a creature, an object, or a location.
 
-2.  **Determine modifiers**. The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+- **Determine modifiers**. The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 
-3.  **Resolve the attack**. You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
+- **Resolve the attack**. You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
@@ -1001,9 +976,9 @@ Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet
 
 Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.
 
-**Contests in Combat**
+***Contests in Combat***
 
-> Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
+*Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.*
 
 #### Opportunity Attacks
 
@@ -1023,7 +998,7 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). You succeed automatically if the target is incapacitated. If you succeed, you subject the target to the grappled condition (see appendix A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). You succeed automatically if the target is incapacitated. If you succeed, you subject the target to the grappled condition (see appendix ##). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 ***Escaping a Grapple***. A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
 
@@ -1135,7 +1110,7 @@ For example, a cleric with a maximum of 12 hit points currently has 6 hit points
 
 #### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix A). This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix ##). This unconsciousness ends if you regain any hit points.
 
 #### Death Saving Throws
 
