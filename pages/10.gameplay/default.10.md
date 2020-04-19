@@ -419,7 +419,7 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
-# Chapter ##: Adventuring
+# Adventuring
 
 ## Time
 
@@ -656,7 +656,7 @@ First, you must find an instructor willing to teach you. The GM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
 
-# Chapter ##: Combat
+# Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
