@@ -1,5 +1,5 @@
 ---
-title: Non-Player Characters
+title: 'Non-Player Characters'
 ---
 
 [TOC]
@@ -28,7 +28,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
@@ -42,9 +42,9 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 ***Spellcasting***. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): *light, sacred flame, thaumaturgy*
+Cantrips (at will): light, sacred flame, thaumaturgy
 
-1st level (3 slots): *bless, cure wounds, sanctuary*
+1st level (3 slots): bless, cure wounds, sanctuary
 
 ###### Actions
 
@@ -62,7 +62,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
@@ -82,19 +82,19 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 ***Spellcasting***. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt, light, mage hand, prestidigitation, shocking grasp*
+Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
 
-1st level (4 slots): *detect magic, identify, mage armor***, magic missile*
+1st level (4 slots): detect magic, identify, mage armor*, magic missile
 
-2nd level (3 slots): *detect thoughts, mirror image, misty step*
+2nd level (3 slots): detect thoughts, mirror image, misty step
 
-3rd level (3 slots): *counterspell, fly, lightning bolt*
+3rd level (3 slots): counterspell, fly, lightning bolt
 
-4th level (3 slots): *banishment, fire shield, stoneskin**
+4th level (3 slots): banishment, fire shield, stoneskin*
 
-5th level (3 slots): *cone of cold, scrying, wall of force*
+5th level (3 slots): cone of cold, scrying, wall of force
 
-6th level (1 slot): *globe of invulnerability*
+6th level (1 slot): globe of invulnerability
 
 7th level (1 slot): *teleport*
 
@@ -122,7 +122,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
@@ -164,7 +164,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
@@ -194,7 +194,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
@@ -236,9 +236,9 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1)  | 11 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 11 (+0) | 9 (-1) |
 
 **Senses** passive Perception 10
 
@@ -264,7 +264,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
@@ -290,7 +290,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -320,7 +320,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
@@ -336,11 +336,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 ***Spellcasting***. The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-Cantrips (at will): *light, sacred flame, thaumaturgy*
+Cantrips (at will): light, sacred flame, thaumaturgy
 
-1st level (4 slots): *command, inflict wounds, shield of faith*
+1st level (4 slots): command, inflict wounds, shield of faith
 
-2nd level (3 slots): *hold person, spiritual weapon*
+2nd level (3 slots): hold person, spiritual weapon
 
 ###### Actions
 
@@ -360,7 +360,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
@@ -374,11 +374,11 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 
 ***Spellcasting***. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): *druidcraft, produce flame, shillelagh*
+Cantrips (at will): druidcraft, produce flame, shillelagh
 
-1st level (4 slots): *entangle, longstrider, speak with animals, thunderwave*
+1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
 
-2nd level (3 slots): *animal messenger, barkskin*
+2nd level (3 slots): animal messenger, barkskin
 
 ###### Actions
 
@@ -396,7 +396,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
@@ -438,7 +438,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -466,7 +466,7 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
@@ -506,9 +506,9 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 9 (-1)  | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4
 
@@ -522,15 +522,15 @@ Cantrips (at will): *druidcraft, produce flame, shillelagh*
 
 ***Spellcasting***. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
+Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
-1st level (4 slots): *detect magic, mage armor, magic missile, shield*
+1st level (4 slots): detect magic, mage armor, magic missile, shield
 
-2nd level (3 slots): *misty step, suggestion*
+2nd level (3 slots): misty step, suggestion
 
-3rd level (3 slots): *counterspell, fireball, fly*
+3rd level (3 slots): counterspell, fireball, fly
 
-4th level (3 slots): *greater invisibility, ice storm*
+4th level (3 slots): greater invisibility, ice storm
 
 5th level (1 slot): *cone of cold*
 
@@ -550,7 +550,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
@@ -584,7 +584,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
@@ -600,13 +600,13 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 ***Spellcasting***. The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
+Cantrips (at will): light, sacred flame, thaumaturgy
 
-1st level (4 slots): *cure wounds, guiding bolt, sanctuary*
+1st level (4 slots): cure wounds, guiding bolt, sanctuary
 
-2nd level (3 slots): *lesser restoration, spiritual weapon*
+2nd level (3 slots): lesser restoration, spiritual weapon
 
-3rd level (2 slots): *dispel magic, spirit guardians*
+3rd level (2 slots): dispel magic, spirit guardians
 
 ###### Actions
 
@@ -626,7 +626,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
@@ -660,7 +660,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
@@ -696,7 +696,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
@@ -730,9 +730,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1)  | 11 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1) | 11 (+0) | 8 (-1) |
 
 **Senses** passive Perception 10
 
@@ -758,7 +758,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
