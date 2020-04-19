@@ -4,7 +4,7 @@ title: Monsters
 
 [TOC]
 
-# Stats
+# Monster Statistics
 
 ## Type
 
@@ -66,16 +66,17 @@ A monster's hit points are presented both as a die expression and as an average 
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-**Table** **66 - Monsters: Hit Dice by Size**
+**Table** **111** - Monsters: Hit Dice by Size
 
-| **Monster Size** | **Hit Die** | **Average HP per Die** |
-| ---------------- | ----------- | ---------------------- |
-| Tiny             | d4          | 2 1/2                  |
-| Small            | d6          | 3 1/2                  |
-| Medium           | d8          | 4 1/2                  |
-| Large            | d10         | 5 1/2                  |
-| Huge             | d12         | 6 1/2                  |
-| Gargantuan       | d20         | 10 1/2                 |
+| Monster Size | Hit Die | Average HP per Die |
+| ------------ | ------- | ------------------ |
+| Tiny         | d4      | 2 1/2              |
+| Small        | d6      | 3 1/2              |
+| Medium       | d8      | 4 1/2              |
+| Large        | d10     | 5 1/2              |
+| Huge         | d12     | 6 1/2              |
+| Gargantuan   | d20     | 10 1/2             |
+|              |         |                    |
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
 
@@ -113,44 +114,45 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-**Table** **67 - Monsters: Proficiency Bonus by Challenge Rating**
+**Table** **112** - Monsters: Proficiency Bonus by Challenge Rating
 
-| **Challenge** | **Proficiency Bonus** |
-| ------------- | --------------------- |
-| 0             | +2                    |
-| 1/8           | +2                    |
-| 1/4           | +2                    |
-| 1/2           | +2                    |
-| 1             | +2                    |
-| 2             | +2                    |
-| 3             | +2                    |
-| 4             | +2                    |
-| 5             | +3                    |
-| 6             | +3                    |
-| 7             | +3                    |
-| 8             | +3                    |
-| 9             | +4                    |
-| 10            | +4                    |
-| 11            | +4                    |
-| 12            | +4                    |
-| 13            | +5                    |
-| 14            | +5                    |
-| 15            | +5                    |
-| 16            | +5                    |
-| 17            | +6                    |
-| 18            | +6                    |
-| 19            | +6                    |
-| 20            | +6                    |
-| 21            | +7                    |
-| 22            | +7                    |
-| 23            | +7                    |
-| 24            | +7                    |
-| 25            | +8                    |
-| 26            | +8                    |
-| 27            | +8                    |
-| 28            | +8                    |
-| 29            | +9                    |
-| 30            | +9                    |
+| Challenge | Proficiency Bonus |
+| --------- | ----------------- |
+| 0         | +2                |
+| 1/8       | +2                |
+| 1/4       | +2                |
+| 1/2       | +2                |
+| 1         | +2                |
+| 2         | +2                |
+| 3         | +2                |
+| 4         | +2                |
+| 5         | +3                |
+| 6         | +3                |
+| 7         | +3                |
+| 8         | +3                |
+| 9         | +4                |
+| 10        | +4                |
+| 11        | +4                |
+| 12        | +4                |
+| 13        | +5                |
+| 14        | +5                |
+| 15        | +5                |
+| 16        | +5                |
+| 17        | +6                |
+| 18        | +6                |
+| 19        | +6                |
+| 20        | +6                |
+| 21        | +7                |
+| 22        | +7                |
+| 23        | +7                |
+| 24        | +7                |
+| 25        | +8                |
+| 26        | +8                |
+| 27        | +8                |
+| 28        | +8                |
+| 29        | +9                |
+| 30        | +9                |
+|           |                   |
 
 ## Skills
 
@@ -158,13 +160,13 @@ The Skills entry is reserved for monsters that are proficient in one or more ski
 
 A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
-**Armor, Weapon, and Tool Proficiencies**
+***Armor, Weapon, and Tool Proficiencies***
 
-> Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
->
-> For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
->
-> See the Player's Handbook for rules on using armor or weapons without proficiency.
+*Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.*
+
+*For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.*
+
+*See the Player's Handbook for rules on using armor or weapons without proficiency.*
 
 ## Vulnerabilities, Resistances, and Immunities
 
@@ -220,34 +222,35 @@ The number of experience points (XP) a monster is worth is based on its challeng
 
 Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-**Table** **68 - Monsters: Experience Points by Challenge Rating**
+**Table** **113** - Monsters: Experience Points by Challenge Rating
 
-| **Challenge** | **XP**  |
-| ------------- | ------- |
-| 0             | 0 or 10 |
-| 1/8           | 25      |
-| 1/4           | 50      |
-| 1/2           | 100     |
-| 1             | 200     |
-| 2             | 450     |
-| 3             | 700     |
-| 4             | 1,100   |
-| 5             | 1,800   |
-| 6             | 2,300   |
-| 7             | 2,900   |
-| 8             | 3,900   |
-| 14            | 11,500  |
-| 15            | 13,000  |
-| 16            | 15,000  |
-| 17            | 18,000  |
-| 18            | 20,000  |
-| 19            | 22,000  |
-| 20            | 25,000  |
-| 21            | 33,000  |
-| 22            | 41,000  |
-| 23            | 50,000  |
-| 24            | 62,000  |
-| 25            | 75,000  |
+| Challenge | XP      |
+| --------- | ------- |
+| 0         | 0 or 10 |
+| 1/8       | 25      |
+| 1/4       | 50      |
+| 1/2       | 100     |
+| 1         | 200     |
+| 2         | 450     |
+| 3         | 700     |
+| 4         | 1,100   |
+| 5         | 1,800   |
+| 6         | 2,300   |
+| 7         | 2,900   |
+| 8         | 3,900   |
+| 14        | 11,500  |
+| 15        | 13,000  |
+| 16        | 15,000  |
+| 17        | 18,000  |
+| 18        | 20,000  |
+| 19        | 22,000  |
+| 20        | 25,000  |
+| 21        | 33,000  |
+| 22        | 41,000  |
+| 23        | 50,000  |
+| 24        | 62,000  |
+| 25        | 75,000  |
+|           |         |
 
 ## Special Traits
 
@@ -287,11 +290,11 @@ The most common actions that a monster will take in combat are melee and ranged 
 
 ***Miss***. If an attack has an effect that occurs on a miss, that information is presented after the "Miss:" notation.
 
-**Grapple Rules for Monsters**
+***Grapple Rules for Monsters***
 
-> Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
->
-> A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.
+*Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.*
+
+*A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.*
 
 ### Multiattack
 
@@ -325,7 +328,7 @@ You can equip monsters with additional gear and trinkets however you like, and y
 
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
-# Legendary Creatures
+# Chapter ##: Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
 
@@ -347,6 +350,8 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
+# Chapter ##: Monster List
+
 # Monsters (A)
 
 ## Aboleth
@@ -359,9 +364,9 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 **Speed** 10 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 21 (+5) | 9 (-1)  | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Con +6, Int +8, Wis +6
 
@@ -413,7 +418,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft., fly 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
@@ -433,11 +438,11 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 ***Angelic Weapons***. The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 
-***Innate Spellcasting***. The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
+***Innate Spellcasting***. The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal **Components:**
 
-At will: *detect evil and good*
+At will: detect evil and good
 
-1/day each: *commune, raise dead*
+1/day each: commune, raise dead
 
 ***Magic Resistance***. The deva has advantage on saving throws against spells and other magical effects.
 
@@ -463,7 +468,7 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 **Speed** 40 ft., fly 120 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
 
@@ -485,13 +490,13 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 ***Divine Awareness***. The planetar knows if it hears a lie.
 
-***Innate Spellcasting***. The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect evil and good, invisibility (self only)*
+At will: detect evil and good, invisibility (self only)
 
-3/day each: *blade barrier, dispel evil and good, flame strike, raise dead*
+3/day each: blade barrier, dispel evil and good, flame strike, raise dead
 
-1/day each: *commune, control weather, insect plague*
+1/day each: commune, control weather, insect plague
 
 ***Magic Resistance***. The planetar has advantage on saving throws against spells and other magical effects.
 
@@ -513,7 +518,7 @@ At will: *detect evil and good, invisibility (self only)*
 
 **Speed** 50 ft., fly 150 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA      |
 | ------- | ------- | ------- | ------- | ------- | -------- |
 | 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
@@ -537,13 +542,13 @@ At will: *detect evil and good, invisibility (self only)*
 
 ***Divine Awareness***. The solar knows if it hears a lie.
 
-***Innate Spellcasting***. The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect evil and good, invisibility (self only)*
+At will: detect evil and good, invisibility (self only)
 
-3/day each: *blade barrier, dispel evil and good, resurrection*
+3/day each: blade barrier, dispel evil and good, resurrection
 
-1/day each: *commune, control weather*
+1/day each: commune, control weather
 
 ***Magic Resistance***. The solar has advantage on saving throws against spells and other magical effects.
 
@@ -581,9 +586,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 25 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5)  | 3 (-4)  | 1 (-5)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Damage Immunities** poison, psychic
 
@@ -617,9 +622,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5)  | 5 (-3)  | 1 (-5)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 
 **Saving Throws** Dex +4
 
@@ -651,9 +656,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5)  | 3 (-4)  | 1 (-5)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Damage Immunities** poison, psychic
 
@@ -685,9 +690,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 30 ft., burrow 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 11 (+0) | 13 (+1) | 1 (-5)  | 13 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 11 (+0) | 13 (+1) | 1 (-5) | 13 (+1) | 6 (-2) |
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 
@@ -711,7 +716,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
@@ -749,9 +754,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 8 (-1)  | 15 (+2) | 2 (-4)  | 8 (-1)  | 7 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -779,9 +784,9 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **Speed** 50 ft., climb 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2)  | 14 (+2) | 12 (+1) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +6, Stealth +7
 
@@ -809,7 +814,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ## Bugbear
 
-*Medium humanoid (goblinoid), chaotic evil*
+Medium humanoid (goblinoid), chaotic evil
 
 **Armor Class** 16 (hide armor, shield)
 
@@ -817,9 +822,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1)  | 11 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
 **Skills** Stealth +6, Survival +2
 
@@ -849,9 +854,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 40 ft., burrow 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 11 (+0) | 21 (+5) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 11 (+0) | 21 (+5) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Perception +6
 
@@ -881,9 +886,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1)  | 13 (+1) | 11 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1) | 13 (+1) | 11 (+0) |
 
 **Skills** Athletics +6, Perception +3, Survival +3
 
@@ -915,9 +920,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4)  | 14 (+2) | 10 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +8
 
@@ -949,9 +954,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3)  | 11 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 11 (+0) | 5 (-3) |
 
 **Skills** Perception +4
 
@@ -987,7 +992,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 10 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
@@ -1031,9 +1036,9 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 **Speed** 20 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 12 (+1) | 12 (+1) | 2 (-4)  | 13 (+1) | 5 (-3)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-3) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -1055,7 +1060,7 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 **Speed** 30 ft., fly 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
@@ -1071,13 +1076,13 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 **Challenge** 4 (1,100 XP)
 
-***Innate Spellcasting***. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
+***Innate Spellcasting***. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal **Components:**
 
-At will: *detect evil and good, detect magic, detect thoughts*
+At will: detect evil and good, detect magic, detect thoughts
 
-3/day each: *bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield*
+3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield
 
-1/day each: *dream, greater restoration, scrying*
+1/day each: dream, greater restoration, scrying
 
 ***Magic Weapons***. The couatl's weapon attacks are magical.
 
@@ -1105,9 +1110,9 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 **Speed** 10 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +3
 
@@ -1143,7 +1148,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
@@ -1189,9 +1194,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 11 (+0) | 11 (+0) | 12 (+1) | 5 (-3)  | 8 (-1)  | 3 (-4)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 11 (+0) | 11 (+0) | 12 (+1) | 5 (-3) | 8 (-1) | 3 (-4) |
 
 **Damage Resistances** cold, fire, lightning
 
@@ -1225,7 +1230,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
 
@@ -1243,11 +1248,11 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Challenge** 9 (5,000 XP)
 
-***Innate Spellcasting***. The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material **Components:**
 
-At will: *darkness, detect magic, dispel magic*
+At will: darkness, detect magic, dispel magic
 
-1/day each: *confusion, fly, power word stun*
+1/day each: confusion, fly, power word stun
 
 ***Magic Resistance***. The glabrezu has advantage on saving throws against spells and other magical effects.
 
@@ -1269,9 +1274,9 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 17 (+3) | 20 (+5) | 5 (-3)  | 12 (+1) | 13 (+1) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 17 (+3) | 20 (+5) | 5 (-3) | 12 (+1) | 13 (+1) |
 
 **Saving Throws** Str +7, Con +8, Wis +4
 
@@ -1309,7 +1314,7 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
 
@@ -1357,7 +1362,7 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 20 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
@@ -1399,9 +1404,9 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 17 (+3) | 10 (+0) | 7 (-2)  | 10 (+0) | 10 (+0) |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 5 (-3) | 17 (+3) | 10 (+0) | 7 (-2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +5
 
@@ -1439,9 +1444,9 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 40 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 15 (+2) | 18 (+4) | 8 (-1)  | 13 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 15 (+2) | 18 (+4) | 8 (-1) | 13 (+1) | 8 (-1) |
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
 
@@ -1483,7 +1488,7 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
@@ -1529,9 +1534,9 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1)  | 11 (+0) | 11 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1) | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Str +5, Con +4, Wis +2
 
@@ -1571,7 +1576,7 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 40 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
 
@@ -1613,7 +1618,7 @@ At will: *darkness, detect magic, dispel magic*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
@@ -1659,7 +1664,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
@@ -1703,7 +1708,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 20 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
@@ -1745,7 +1750,7 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
@@ -1793,9 +1798,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 20 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
 
@@ -1833,9 +1838,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 15 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 5 (-3)  | 11 (+0) | 1 (-5)  | 11 (+0) | 3 (-4)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
 
 **Damage Resistances** cold
 
@@ -1867,7 +1872,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
@@ -1891,11 +1896,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 ***Magic Weapons***. The pit fiend's weapon attacks are magical.
 
-***Innate Spellcasting***. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect magic, fireball*
+At will: detect magic, fireball
 
-3/day each: *hold monster, wall of fire*
+3/day each: hold monster, wall of fire
 
 ###### Actions
 
@@ -1921,9 +1926,9 @@ At will: *detect magic, fireball*
 
 **Speed** 20 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4)  | 12 (+1) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -1949,9 +1954,9 @@ At will: *detect magic, fireball*
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 22 (+6) | 9 (-1)  | 17 (+3) | 2 (-4)  | 11 (+0) | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 22 (+6) | 9 (-1) | 17 (+3) | 2 (-4) | 11 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -1979,9 +1984,9 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 25 (+7) | 10 (+0) | 19 (+4) | 2 (-4)  | 12 (+1) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 25 (+7) | 10 (+0) | 19 (+4) | 2 (-4) | 12 (+1) | 9 (-1) |
 
 **Skills** Perception +4
 
@@ -2009,7 +2014,7 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
@@ -2051,7 +2056,7 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
@@ -2097,7 +2102,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### Adult Black Dragon
 
-*Huge dragon, chaotic evil*
+Huge dragon, chaotic evil
 
 **Armor Class** 19 (natural armor)
 
@@ -2105,7 +2110,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
@@ -2159,7 +2164,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -2197,7 +2202,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
@@ -2233,7 +2238,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
@@ -2285,7 +2290,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
@@ -2337,7 +2342,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
@@ -2373,7 +2378,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -2407,7 +2412,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
@@ -2463,7 +2468,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
@@ -2503,7 +2508,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
@@ -2541,7 +2546,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR**  | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
@@ -2593,7 +2598,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
@@ -2637,7 +2642,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### Young Red Dragon
 
-*Large dragon, chaotic evil*
+Large dragon, chaotic evil
 
 **Armor Class** 18 (natural armor)
 
@@ -2645,7 +2650,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
@@ -2681,7 +2686,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -2715,7 +2720,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
 
@@ -2769,9 +2774,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1)  | 12 (+1) | 12 (+1) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
 
 **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
 
@@ -2823,9 +2828,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2)  | 11 (+0) | 12 (+1) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
 
@@ -2861,9 +2866,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3)  | 10 (+0) | 11 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
 
@@ -2897,7 +2902,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
@@ -2957,7 +2962,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
@@ -3013,7 +3018,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -3053,7 +3058,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
@@ -3091,7 +3096,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
@@ -3153,7 +3158,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
@@ -3215,7 +3220,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
@@ -3257,7 +3262,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -3297,7 +3302,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
@@ -3357,7 +3362,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
@@ -3413,7 +3418,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
@@ -3453,7 +3458,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
@@ -3491,7 +3496,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR**  | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
 
@@ -3553,7 +3558,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
 
@@ -3615,7 +3620,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
 
@@ -3657,7 +3662,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
 
@@ -3697,7 +3702,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| **STR**  | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
@@ -3757,7 +3762,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
@@ -3817,7 +3822,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
@@ -3857,7 +3862,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
@@ -3893,7 +3898,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 20 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
@@ -3931,7 +3936,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
 
@@ -3945,11 +3950,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Fey Ancestry***. The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 
-***Innate Spellcasting***. The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material **Components:**
 
-At will: *dancing lights*
+At will: dancing lights
 
-1/day each: *darkness, faerie fire*
+1/day each: darkness, faerie fire
 
 ***Spider Climb***. The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -3977,7 +3982,7 @@ At will: *dancing lights*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
 
@@ -3989,13 +3994,13 @@ At will: *dancing lights*
 
 **Challenge** 1 (200 XP)
 
-***Innate Spellcasting***. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material **Components:**
 
-At will: *druidcraft*
+At will: druidcraft
 
-3/day each: *entangle, goodberry*
+3/day each: entangle, goodberry
 
-1/day each: *barkskin, pass without trace, shillelagh*
+1/day each: barkskin, pass without trace, shillelagh
 
 ***Magic Resistance***. The dryad has advantage on saving throws against spells and other magical effects.
 
@@ -4023,9 +4028,9 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 **Speed** 25 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1) |
 
 **Damage Resistances** poison
 
@@ -4063,9 +4068,9 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 **Speed** 0 ft., fly 90 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2)  | 10 (+0) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -4101,9 +4106,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 30 ft., burrow 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 8 (-1)  | 20 (+5) | 5 (-3)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 20 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 10 (+0) | 5 (-3) |
 
 **Damage Vulnerabilities** thunder
 
@@ -4139,9 +4144,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2)  | 10 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -4177,9 +4182,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 30 ft., swim 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 14 (+2) | 18 (+4) | 5 (-3)  | 10 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 14 (+2) | 18 (+4) | 5 (-3) | 10 (+0) | 8 (-1) |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -4217,7 +4222,7 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
 
@@ -4231,11 +4236,11 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 
 ***Fey Ancestry***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting***. The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material **Components:**
 
-At will: *dancing lights*
+At will: dancing lights
 
-1/day each: *darkness, faerie fire*
+1/day each: darkness, faerie fire
 
 ***Sunlight Sensitivity***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
@@ -4255,9 +4260,9 @@ At will: *dancing lights*
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 15 (+2) | 13 (+1) | 7 (-2)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 15 (+2) | 13 (+1) | 7 (-2) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +4, Survival +3
 
@@ -4293,9 +4298,9 @@ At will: *dancing lights*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 21 (+5) | 8 (-1)  | 17 (+3) | 6 (-2)  | 10 (+0) | 8 (-1)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 21 (+5) | 8 (-1) | 17 (+3) | 6 (-2) | 10 (+0) | 8 (-1) |
 
 **Skills** Perception +4
 
@@ -4331,9 +4336,9 @@ At will: *dancing lights*
 
 **Speed** 0 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1 (-5)  | 1 (-5)  | 10 (+0) | 1 (-5)  | 3 (-4)  | 1 (-5)  |
+| STR    | DEX    | CON     | INT    | WIS    | CHA    |
+| ------ | ------ | ------- | ------ | ------ | ------ |
+| 1 (-5) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened
 
@@ -4359,9 +4364,9 @@ At will: *dancing lights*
 
 **Speed** 5 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 1 (-5)  | 10 (+0) | 1 (-5)  | 3 (-4)  | 1 (-5)  |
+| STR    | DEX    | CON     | INT    | WIS    | CHA    |
+| ------ | ------ | ------- | ------ | ------ | ------ |
+| 3 (-4) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened
 
@@ -4391,9 +4396,9 @@ At will: *dancing lights*
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 11 (+0) | 16 (+3) | 6 (-2)  | 11 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 11 (+0) | 16 (+3) | 6 (-2) | 11 (+0) | 7 (-2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -4429,7 +4434,7 @@ At will: *dancing lights*
 
 **Speed** 30 ft., fly 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
 
@@ -4445,13 +4450,13 @@ At will: *dancing lights*
 
 ***Elemental Demise***. If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
-***Innate Spellcasting***. The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect evil and good, detect magic, thunderwave*
+At will: detect evil and good, detect magic, thunderwave
 
-3/day each: *create food and water (can create wine instead of water), tongues, wind walk*
+3/day each: create food and water (can create wine instead of water), tongues, wind walk
 
-1/day each: *conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift*
+1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift
 
 ###### Actions
 
@@ -4473,7 +4478,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 **Speed** 40 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
 
@@ -4489,13 +4494,13 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 ***Elemental Demise***. If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
-***Innate Spellcasting***. The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect magic*
+At will: detect magic
 
-3/day each: *enlarge/reduce, tongues*
+3/day each: enlarge/reduce, tongues
 
-1/day each: *conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire*
+1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire
 
 ###### Actions
 
@@ -4515,9 +4520,9 @@ At will: *detect magic*
 
 **Speed** 0 ft., fly 40 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 7 (-2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
 **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -4559,9 +4564,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (-1) |
 
 **Damage Resistances** necrotic
 
@@ -4595,9 +4600,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2)  | 10 (+0) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2) |
 
 **Damage Immunities** poison
 
@@ -4627,7 +4632,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
@@ -4643,13 +4648,13 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 ***Keen Smell***. The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
-***Innate Spellcasting***. The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect magic, fog cloud, light*
+At will: detect magic, fog cloud, light
 
-3/day each: *feather fall, fly, misty step, telekinesis*
+3/day each: feather fall, fly, misty step, telekinesis
 
-1/day each: *control weather, gaseous form*
+1/day each: control weather, gaseous form
 
 ###### Actions
 
@@ -4669,9 +4674,9 @@ At will: *detect magic, fog cloud, light*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 25 (+7) | 9 (-1)  | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 25 (+7) | 9 (-1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +10, Cha +5
 
@@ -4703,9 +4708,9 @@ At will: *detect magic, fog cloud, light*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 9 (-1)  | 21 (+5) | 9 (-1)  | 10 (+0) | 12 (+1) |
+| STR     | DEX    | CON     | INT    | WIS     | CHA     |
+| ------- | ------ | ------- | ------ | ------- | ------- |
+| 23 (+6) | 9 (-1) | 21 (+5) | 9 (-1) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Con +8, Wis +3, Cha +4
 
@@ -4737,9 +4742,9 @@ At will: *detect magic, fog cloud, light*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 21 (+5) | 8 (-1)  | 19 (+4) | 5 (-3)  | 9 (-1)  | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
 
 **Skills** Perception +2
 
@@ -4767,9 +4772,9 @@ At will: *detect magic, fog cloud, light*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
 
 **Saving Throws** Dex +5, Con +8, Wis +4
 
@@ -4805,7 +4810,7 @@ At will: *detect magic, fog cloud, light*
 
 **Speed** 50 ft., swim 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
@@ -4827,9 +4832,9 @@ At will: *detect magic, fog cloud, light*
 
 ***Innate Spellcasting***. The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material **components:**
 
-At will: *detect magic, feather fall, levitate, light*
+At will: detect magic, feather fall, levitate, light
 
-3/day each: *control weather, water breathing*
+3/day each: control weather, water breathing
 
 ###### Actions
 
@@ -4851,9 +4856,9 @@ At will: *detect magic, feather fall, levitate, light*
 
 **Speed** 10 ft., swim 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 8 (-1)  | 16 (+3) | 3 (-4)  | 10 (+0) | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 10 (+0) | 8 (-1) | 16 (+3) | 3 (-4) | 10 (+0) | 6 (-2) |
 
 **Condition Immunities** prone
 
@@ -4885,9 +4890,9 @@ At will: *detect magic, feather fall, levitate, light*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2)  | 10 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -4915,9 +4920,9 @@ At will: *detect magic, feather fall, levitate, light*
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1) |
 
 **Skills** Investigation +3, Perception +2, Stealth +4
 
@@ -4931,11 +4936,11 @@ At will: *detect magic, feather fall, levitate, light*
 
 ***Gnome Cunning***. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 
-***Innate Spellcasting***. The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material **Components:**
 
-At will: *nondetection (self only)*
+At will: nondetection (self only)
 
-1/day each: *blindness/deafness, blur, disguise self*
+1/day each: blindness/deafness, blur, disguise self
 
 ###### Actions
 
@@ -4953,9 +4958,9 @@ At will: *nondetection (self only)*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1)  | 8 (-1)  |
+| STR    | DEX     | CON     | INT     | WIS    | CHA    |
+| ------ | ------- | ------- | ------- | ------ | ------ |
+| 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |
 
 **Skills** Stealth +6
 
@@ -4985,9 +4990,9 @@ At will: *nondetection (self only)*
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 9 (-1)  | 18 (+4) | 3 (-4)  | 8 (-1)  | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 20 (+5) | 9 (-1) | 18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |
 
 **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -5027,9 +5032,9 @@ At will: *nondetection (self only)*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 9 (-1)  | 18 (+4) | 6 (-2)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -5071,9 +5076,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 24 (+7) | 9 (-1)  | 20 (+5) | 3 (-4)  | 11 (+0) | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 24 (+7) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -5113,9 +5118,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 22 (+6) | 9 (-1)  | 20 (+5) | 3 (-4)  | 11 (+0) | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -5151,9 +5156,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 11 (+0) | 18 (+4) | 2 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 11 (+0) | 18 (+4) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +4
 
@@ -5185,9 +5190,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., climb 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 14 (+2) | 11 (+0) | 3 (-4)  | 14 (+2) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -5217,9 +5222,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4)  | 13 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |
 
 **Skills** Perception +5
 
@@ -5249,9 +5254,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 12 (+1) | 12 (+1) | 9 (-1)  | 8 (-1)  | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (-1) | 8 (-1) | 6 (-2) |
 
 **Skills** Athletics +5, Perception +3, Stealth +3
 
@@ -5287,7 +5292,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
@@ -5301,9 +5306,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Amphibious***. The hag can breathe air and water.
 
-***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material **Components:**
 
-At will: *dancing lights, minor illusion, vicious mockery*
+At will: dancing lights, minor illusion, vicious mockery
 
 ***Mimicry***. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
@@ -5327,7 +5332,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
@@ -5343,11 +5348,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Challenge** 5 (1,800 XP)
 
-***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect magic, magic missile*
+At will: detect magic, magic missile
 
-2/day each: *plane shift (self only), ray of enfeeblement, sleep*
+2/day each: plane shift (self only), ray of enfeeblement, sleep
 
 ***Magic Resistance***. The hag has advantage on saving throws against spells and other magical effects.
 
@@ -5371,7 +5376,7 @@ At will: *detect magic, magic missile*
 
 **Speed** 30 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
@@ -5401,29 +5406,35 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.
 
-**Challenge**. To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.
+***Challenge***. To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, recalculate the rating after you apply the template.
 
 **Senses**. The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 
 ***Resistances***. The half-dragon gains resistance to a type of damage based on its color.
 
-| **Color**           | **Damage Resistance** |
-| ------------------- | --------------------- |
-| Black or copper     | Acid                  |
-| Blue or bronze      | Lightning             |
-| Brass, gold, or red | Fire                  |
-| Green               | Poison                |
-| Silver or white     | Cold                  |
+**Table** **114** - Monsters: Half-Dragon Template (Damage Resistance)
+
+| Color               | Damage Resistance |
+| ------------------- | ----------------- |
+| Black or copper     | Acid              |
+| Blue or bronze      | Lightning         |
+| Brass, gold, or red | Fire              |
+| Green               | Poison            |
+| Silver or white     | Cold              |
+|                     |                   |
 
 **Languages**. The half-dragon speaks Draconic in addition to any other languages it knows.
 
 ***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half- dragon's size determines how this action functions.
 
-| **Size**         | **Breath Weapon**  | **Optional Prerequisite** |
-| ---------------- | ------------------ | ------------------------- |
-| Large or smaller | As a wyrmling      | Challenge 2 or higher     |
-| Huge             | As a young dragon  | Challenge 7 or higher     |
-| Gargantuan       | As an adult dragon | Challenge 8 or higher     |
+**Table** **115** - Monsters: Half-Dragon Template (Size)
+
+| Size             | Breath Weapon      | Optional Prerequisite |
+| ---------------- | ------------------ | --------------------- |
+| Large or smaller | As a wyrmling      | Challenge 2 or higher |
+| Huge             | As a young dragon  | Challenge 7 or higher |
+| Gargantuan       | As an adult dragon | Challenge 8 or higher |
+|                  |                    |                       |
 
 ### Half-Red Dragon Veteran
 
@@ -5435,7 +5446,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -5471,9 +5482,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 20 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 13 (+1) | 12 (+1) | 7 (-2)  | 10 (+0) | 13 (+1) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 12 (+1) | 13 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 13 (+1) |
 
 **Senses** passive Perception 10
 
@@ -5505,9 +5516,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 12 (+1) | 14 (+2) | 6 (-2)  | 13 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (-2) | 13 (+1) | 6 (-2) |
 
 **Skills** Perception +5
 
@@ -5539,9 +5550,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 40 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 13 (+1) | 13 (+1) | 2 (-4)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +5
 
@@ -5571,9 +5582,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -5599,9 +5610,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 20 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 4 (-3)  | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (-2)  |
+| STR    | DEX     | CON     | INT     | WIS     | CHA    |
+| ------ | ------- | ------- | ------- | ------- | ------ |
+| 4 (-3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Immunities** poison
 
@@ -5629,9 +5640,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4)  | 10 (+0) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Skills** Perception +6
 
@@ -5671,7 +5682,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 **Speed** 50 ft., fly 50 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
@@ -5711,9 +5722,9 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 15 (+2) | 9 (-1)  | 8 (-1)  | 7 (-2)  | 8 (-1)  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 7 (-2) | 15 (+2) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -5741,7 +5752,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 **Speed** 20 ft., swim 60 ft.
 
-| **STR**  | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 30 (+10) | 11 (+0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
@@ -5799,7 +5810,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
@@ -5813,9 +5824,9 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 ***Innate Spellcasting***. The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
-At will: *disguise self (any humanoid form), major image*
+At will: disguise self (any humanoid form), major image
 
-3/day each: *charm person, mirror image, scrying, suggestion*
+3/day each: charm person, mirror image, scrying, suggestion
 
 1/day: *geas*
 
@@ -5839,7 +5850,7 @@ At will: *disguise self (any humanoid form), major image*
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
 
@@ -5865,23 +5876,23 @@ At will: *disguise self (any humanoid form), major image*
 
 ***Spellcasting***. The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand, prestidigitation, ray of frost*
+Cantrips (at will): mage hand, prestidigitation, ray of frost
 
-1st level (4 slots): *detect magic, magic missile, shield, thunderwave*
+1st level (4 slots): detect magic, magic missile, shield, thunderwave
 
-2nd level (3 slots): *acid arrow, detect thoughts, invisibility, mirror image*
+2nd level (3 slots): acid arrow, detect thoughts, invisibility, mirror image
 
-3rd level (3 slots): *animate dead, counterspell, dispel magic, fireball*
+3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
 
-4th level (3 slots): *blight, dimension door*
+4th level (3 slots): blight, dimension door
 
 5th level (3 slots): *cloudkill, scrying*
 
-6th level (1 slot): *disintegrate, globe of invulnerability*
+6th level (1 slot): disintegrate, globe of invulnerability
 
-7th level (1 slot): *finger of death, plane shift*
+7th level (1 slot): finger of death, plane shift
 
-8th level (1 slot): *dominate monster, power word stun*
+8th level (1 slot): dominate monster, power word stun
 
 9th level (1 slot): *power word kill*
 
@@ -5913,9 +5924,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft., swim 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 10 (+0) | 13 (+1) | 7 (-2)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4, Survival +5
 
@@ -5951,7 +5962,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
@@ -5989,9 +6000,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft. in boar form)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (-1) |
 
 **Skills** Perception +2
 
@@ -6027,9 +6038,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (-1) |
 
 **Skills** Perception +2, Stealth +4
 
@@ -6065,7 +6076,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft. in tiger form)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
@@ -6107,7 +6118,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft. (40 ft. in wolf form)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
@@ -6147,9 +6158,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 15 (+2) | 12 (+1) | 8 (-1)  | 11 (+0) | 10 (+0) |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -6179,9 +6190,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft., fly 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2)  | 12 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2) | 12 (+1) | 8 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -6211,7 +6222,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
@@ -6251,19 +6262,19 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 14 (+2) | 10 (+0) | 9 (-1)  | 11 (+0) | 10 (+0) |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 5 (-3) | 14 (+2) | 10 (+0) | 9 (-1) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2, Stealth +4
 
-**Damage Vulnerabilities** fire
+**Damage Vulnerabilities** Fire
 
-**Damage Immunities** poison
+**Damage Immunities** Poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** Poisoned
 
-**Senses** darkvision 60 ft., passive Perception 12
+**Senses** Darkvision 60 ft., passive Perception 12
 
 **Languages** Auran, Terran
 
@@ -6289,9 +6300,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 7 (-2)  | 13 (+1) | 10 (+0) | 9 (-1)  | 11 (+0) | 12 (+1) |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 7 (-2) | 13 (+1) | 10 (+0) | 9 (-1) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2, Stealth +3
 
@@ -6329,9 +6340,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 12 (+1) | 12 (+1) | 7 (-2)  | 10 (+0) | 10 (+0) |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 8 (-1) | 12 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +3
 
@@ -6369,9 +6380,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 5 (-3)  | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 5 (-3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Immunities** fire, poison
 
@@ -6403,7 +6414,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 10 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
 
@@ -6431,9 +6442,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 10 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1)  | 10 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1) | 10 (+0) | 9 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -6463,9 +6474,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 15 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3)  | 13 (+1) | 8 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
 
 **Skills** Stealth +5
 
@@ -6503,9 +6514,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 11 (+0) | 16 (+3) | 6 (-2)  | 16 (+3) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (-2) | 16 (+3) | 9 (-1) |
 
 **Skills** Perception +7
 
@@ -6539,11 +6550,11 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 8 (-1)  | 15 (+2) | 6 (-2)  | 10 (+0) | 12 (+1) |
+| STR     | DEX    | CON     | INT    | WIS     | CHA     |
+| ------- | ------ | ------- | ------ | ------- | ------- |
+| 16 (+3) | 8 (-1) | 15 (+2) | 6 (-2) | 10 (+0) | 12 (+1) |
 
-**Saving Throws** Wis +2
+Saving Throws Wis +2
 
 **Damage Vulnerabilities** fire
 
@@ -6577,7 +6588,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
 
@@ -6603,17 +6614,17 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Spellcasting***. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-Cantrips (at will): *sacred flame, thaumaturgy*
+Cantrips (at will): sacred flame, thaumaturgy
 
-1st level (4 slots): *command, guiding bolt, shield of faith*
+1st level (4 slots): command, guiding bolt, shield of faith
 
-2nd level (3 slots): *hold person, silence, spiritual weapon*
+2nd level (3 slots): hold person, silence, spiritual weapon
 
-3rd level (3 slots): *animate dead, dispel magic*
+3rd level (3 slots): animate dead, dispel magic
 
-4th level (3 slots): *divination, guardian of faith*
+4th level (3 slots): divination, guardian of faith
 
-5th level (2 slots): *contagion, insect plague*
+5th level (2 slots): contagion, insect plague
 
 6th level (1 slot): *harm*
 
@@ -6653,7 +6664,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
@@ -6675,15 +6686,15 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ***Spellcasting***. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): *mending, sacred flame, thaumaturgy*
+Cantrips (at will): mending, sacred flame, thaumaturgy
 
-1st level (4 slots): *command, cure wounds, shield of faith*
+1st level (4 slots): command, cure wounds, shield of faith
 
 2nd level (3 slots): calm emotions, hold person
 
-3rd level (3 slots): *bestow curse, clairvoyance*
+3rd level (3 slots): bestow curse, clairvoyance
 
-4th level (3 slots): *banishment, freedom of movement*
+4th level (3 slots): banishment, freedom of movement
 
 5th level (2 slots): *flame strike, geas*
 
@@ -6705,7 +6716,7 @@ Cantrips (at will): *mending, sacred flame, thaumaturgy*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
@@ -6723,15 +6734,15 @@ Cantrips (at will): *mending, sacred flame, thaumaturgy*
 
 ***Spellcasting***. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand, minor illusion, ray of frost*
+Cantrips (at will): mage hand, minor illusion, ray of frost
 
-1st level (4 slots): *charm person, detect magic, sleep*
+1st level (4 slots): charm person, detect magic, sleep
 
-2nd level (3 slots): *detect thoughts, hold person*
+2nd level (3 slots): detect thoughts, hold person
 
-3rd level (3 slots): *lightning bolt, water breathing*
+3rd level (3 slots): lightning bolt, water breathing
 
-4th level (3 slots): *blight, dimension door*
+4th level (3 slots): blight, dimension door
 
 5th level (2 slots): *dominate person*
 
@@ -6749,7 +6760,7 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 **Speed** 60 ft., fly 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
@@ -6783,9 +6794,9 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 8 (-1)  | 16 (+3) | 5 (-3)  | 7 (-2)  | 7 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -6809,7 +6820,7 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 **Speed** 30 ft., fly 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
@@ -6823,11 +6834,11 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 **Challenge** 7 (2,900 XP)
 
-***Innate Spellcasting***. The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material **Components:**
 
-At will: *darkness, invisibility*
+At will: darkness, invisibility
 
-1/day each: *charm person, cone of cold, gaseous form, sleep*
+1/day each: charm person, cone of cold, gaseous form, sleep
 
 ***Magic Weapons***. The oni's weapon attacks are magical.
 
@@ -6855,9 +6866,9 @@ At will: *darkness, invisibility*
 
 **Speed** 20 ft., climb 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 5 (-3)  | 16 (+3) | 1 (-5)  | 6 (-2)  | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 **Damage Immunities** acid, cold, lightning, slashing
 
@@ -6895,9 +6906,9 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 **Speed** 15 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 14 (+2) | 3 (-4)  | 20 (+5) | 1 (-5)  | 6 (-2)  | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 14 (+2) | 3 (-4) | 20 (+5) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
@@ -6939,9 +6950,9 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 **Speed** 10 ft., climb 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 6 (-2)  | 16 (+3) | 1 (-5)  | 6 (-2)  | 2 (-4)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 12 (+1) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 
 **Skills** Stealth +2
 
@@ -6977,9 +6988,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 10 ft., climb 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 6 (-2)  | 14 (+2) | 2 (-4)  | 6 (-2)  | 1 (-5)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 15 (+2) | 6 (-2) | 14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
 
 **Damage Resistances** acid
 
@@ -7015,9 +7026,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2)  | 11 (+0) | 10 (+0) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 11 (+0) | 10 (+0) |
 
 **Skills** Intimidation +2
 
@@ -7045,11 +7056,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 11 (+0) | 19 (+4) | 6 (-2)  | 13 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 11 (+0) | 19 (+4) | 6 (-2) | 13 (+1) | 6 (-2) |
 
-**Saving Throws** Con +7
+Saving Throws Con +7
 
 **Senses** darkvision 120 ft., passive Perception 11
 
@@ -7079,9 +7090,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 20 (+5) | 12 (+1) | 17 (+3) | 3 (-4)  | 12 (+1) | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -7113,7 +7124,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 60 ft., fly 90 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
@@ -7141,9 +7152,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 15 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 6 (-2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -7175,9 +7186,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 50 ft., burrow 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 28 (+9) | 7 (-2)  | 22 (+6) | 1 (-5)  | 8 (-1)  | 4 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 28 (+9) | 7 (-2) | 22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
 
 **Saving Throws** Con +11, Wis +4
 
@@ -7211,7 +7222,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
@@ -7229,13 +7240,13 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Limited Magic Immunity***. The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 
-***Innate Spellcasting***. The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
+***Innate Spellcasting***. The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material **Components:**
 
-At will: *detect thoughts, disguise self, mage hand, minor illusion*
+At will: detect thoughts, disguise self, mage hand, minor illusion
 
-3/day each: *charm person, detect magic, invisibility, major image, suggestion*
+3/day each: charm person, detect magic, invisibility, major image, suggestion
 
-1/day each: *dominate person, fly, plane shift, true seeing*
+1/day each: dominate person, fly, plane shift, true seeing
 
 ###### Actions
 
@@ -7253,9 +7264,9 @@ At will: *detect thoughts, disguise self, mage hand, minor illusion*
 
 **Speed** 30 ft., burrow 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 24 (+7) | 13 (+1) | 21 (+5) | 4 (-3)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 24 (+7) | 13 (+1) | 21 (+5) | 4 (-3) | 10 (+0) | 5 (-3) |
 
 **Damage Immunities** cold, fire
 
@@ -7285,9 +7296,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 20 ft., fly 120 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4)  | 10 (+0) | 9 (-1)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
 
@@ -7319,9 +7330,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 10 ft., climb 10 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 8 (-1)  | 17 (+3) | 7 (-2)  | 16 (+3) | 6 (-2)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (-1) | 17 (+3) | 7 (-2) | 16 (+3) | 6 (-2) |
 
 **Skills** Perception +6, Stealth +5
 
@@ -7357,9 +7368,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 12 (+1) | 13 (+1) | 2 (-4)  | 13 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 12 (+1) | 13 (+1) | 2 (-4) | 13 (+1) | 6 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -7391,9 +7402,9 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 **Speed** 30 ft., swim 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (-1)  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (-1) |
 
 **Skills** Perception +5
 
@@ -7429,7 +7440,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
@@ -7467,7 +7478,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
@@ -7499,9 +7510,9 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 14 (+2) | 13 (+1) | 6 (-2)  | 10 (+0) | 8 (-1)  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (-2) | 14 (+2) | 13 (+1) | 6 (-2) | 10 (+0) | 8 (-1) |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)
 
@@ -7541,9 +7552,9 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 **Speed** 20 ft., swim 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 8 (-1)  | 16 (+3) | 5 (-3)  | 10 (+0) | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +2
 
@@ -7579,9 +7590,9 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 8 (-1)  | 18 (+4) | 7 (-2)  | 10 (+0) | 3 (-4)  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (-1) | 18 (+4) | 7 (-2) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
@@ -7613,7 +7624,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 ### Skeleton
 
-Medium undead, lawful evil
+*Medium undead, lawful evil*
 
 **Armor Class** 13 (armor scraps)
 
@@ -7621,9 +7632,9 @@ Medium undead, lawful evil
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 10 (+0) | 14 (+2) | 15 (+2) | 6 (-2)  | 8 (-1)  | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -7653,9 +7664,9 @@ Medium undead, lawful evil
 
 **Speed** 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 11 (+0) | 15 (+2) | 6 (-2)  | 8 (-1)  | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -7687,9 +7698,9 @@ Medium undead, lawful evil
 
 **Speed** 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4)  | 8 (-1)  | 5 (-3)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -7717,9 +7728,9 @@ Medium undead, lawful evil
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1 (-5)  | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 1 (-5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -7753,7 +7764,7 @@ Medium undead, lawful evil
 
 **Speed** 40 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
@@ -7777,17 +7788,17 @@ Medium undead, lawful evil
 
 ***Spellcasting***. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-Cantrips (at will): *sacred flame, spare the dying, thaumaturgy*
+Cantrips (at will): sacred flame, spare the dying, thaumaturgy
 
-1st level (4 slots): *command, detect evil and good, detect magic*
+1st level (4 slots): command, detect evil and good, detect magic
 
-2nd level (3 slots): *lesser restoration, zone of truth*
+2nd level (3 slots): lesser restoration, zone of truth
 
 3rd level (3 slots): *dispel magic, tongues*
 
-4th level (3 slots): *banishment, freedom of movement*
+4th level (3 slots): banishment, freedom of movement
 
-5th level (2 slots): *flame strike, greater restoration*
+5th level (2 slots): flame strike, greater restoration
 
 6th level (1 slot): *heroes' feast*
 
@@ -7825,7 +7836,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
@@ -7849,15 +7860,15 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ***Spellcasting***. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-Cantrips (at will): *mage hand, minor illusion, prestidigitation*
+Cantrips (at will): mage hand, minor illusion, prestidigitation
 
-1st level (4 slots): *detect magic, identify, shield*
+1st level (4 slots): detect magic, identify, shield
 
-2nd level (3 slots): *darkness, locate object, suggestion*
+2nd level (3 slots): darkness, locate object, suggestion
 
-3rd level (3 slots): *dispel magic, remove curse, tongues*
+3rd level (3 slots): dispel magic, remove curse, tongues
 
-4th level (3 slots): *banishment, greater invisibility*
+4th level (3 slots): banishment, greater invisibility
 
 5th level (1 slot): *legend lore*
 
@@ -7887,9 +7898,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 10 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 3 (-4)  | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 3 (-4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +8
 
@@ -7919,9 +7930,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 10 ft., fly 40 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 4 (-3)  | 16 (+3) | 11 (+0) | 2 (-4)  | 8 (-1)  | 6 (-2)  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 4 (-3) | 16 (+3) | 11 (+0) | 2 (-4) | 8 (-1) | 6 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -7945,9 +7956,9 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 
 **Speed** 30 ft., fly 60 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 8 (-1)  | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 8 (-1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 
@@ -7989,9 +8000,9 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 **Speed** 40 ft.
 
-| **STR**  | **DEX** | **CON**  | **INT** | **WIS** | **CHA** |
-| -------- | ------- | -------- | ------- | ------- | ------- |
-| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4)  | 11 (+0) | 11 (+0) |
+| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+| -------- | ------- | -------- | ------ | ------- | ------- |
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Int +5, Wis +9, Cha +9
 
@@ -8051,9 +8062,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 23 (+6) | 8 (-1)  | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 **Damage Resistances** bludgeoning, piercing
 
@@ -8089,9 +8100,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2)  | 9 (-1)  | 7 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
 **Skills** Perception +2
 
@@ -8125,7 +8136,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Speed** 50 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
@@ -8141,11 +8152,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ***Charge***. If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-***Innate Spellcasting***. The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
+***Innate Spellcasting***. The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no **Components:**
 
-At will: *detect evil and good, druidcraft, pass without trace*
+At will: detect evil and good, druidcraft, pass without trace
 
-1/day each: *calm emotions, dispel evil and good, entangle*
+1/day each: calm emotions, dispel evil and good, entangle
 
 ***Magic Resistance***. The unicorn has advantage on saving throws against spells and other magical effects.
 
@@ -8187,7 +8198,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
 
@@ -8263,7 +8274,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
@@ -8313,7 +8324,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
@@ -8355,9 +8366,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1 (-5)  | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
 **Damage Immunities** lightning, poison
 
@@ -8395,9 +8406,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 60 ft. (hover)
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 6 (-2)  | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 6 (-2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
@@ -8431,9 +8442,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 20 ft., fly 80 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3)  | 12 (+1) | 6 (-2)  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +4
 
@@ -8465,7 +8476,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 20 ft., burrow 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
@@ -8507,11 +8518,11 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 20 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 13 (+1) | 6 (-2)  | 16 (+3) | 3 (-4)  | 6 (-2)  | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 
-**Saving Throws** Wis +0
+Saving Throws Wis +0
 
 **Damage Immunities** poison
 
@@ -8539,11 +8550,11 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 30 ft.
 
-| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 19 (+4) | 6 (-2)  | 18 (+4) | 3 (-4)  | 6 (-2)  | 5 (-3)  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 6 (-2) | 18 (+4) | 3 (-4) | 6 (-2) | 5 (-3) |
 
-**Saving Throws** Wis +0
+Saving Throws Wis +0
 
 **Damage Immunities** poison
 
@@ -8560,3 +8571,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 ###### Actions
 
 ***Morningstar***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+
+# Chapter ##: Creatures
+
+This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
