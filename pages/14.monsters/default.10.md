@@ -8569,7 +8569,3 @@ Saving Throws Wis +0
 ###### Actions
 
 ***Morningstar***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
-
-# Chapter ##: Creatures
-
-This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
