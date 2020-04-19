@@ -6,6 +6,7 @@ title: Changelog
 
 ## To Do
 
+-   [ ] Reorganize material into more usable and realistic chapters.
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
