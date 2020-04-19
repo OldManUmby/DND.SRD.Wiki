@@ -180,20 +180,21 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 ***Speed***. Your base walking speed is 30 feet.
 
-**Table** **1 - Dragonborn: Draconic Ancestry**
+**Table** **2** - Dragonborn: Draconic Ancestry
 
-| **Dragon** | **Damage Type** | **Breath Weapon**            |
-| ---------- | --------------- | ---------------------------- |
-| Black      | Acid            | 5 by 30 ft. line (Dex. save) |
-| Blue       | Lightning       | 5 by 30 ft. line (Dex. save) |
-| Brass      | Fire            | 5 by 30 ft. line (Dex. save) |
-| Bronze     | Lightning       | 5 by 30 ft. line (Dex. save) |
-| Copper     | Acid            | 5 by 30 ft. line (Dex. save) |
-| Gold       | Fire            | 15 ft. cone (Dex. save)      |
-| Green      | Poison          | 15 ft. cone (Con. save)      |
-| Red        | Fire            | 15 ft. cone (Dex. save)      |
-| Silver     | Cold            | 15 ft. cone (Con. save)      |
-| White      | Cold            | 15 ft. cone (Con. save)      |
+| Dragon | Damage Type | Breath Weapon                |
+| ------ | ----------- | ---------------------------- |
+| Black  | Acid        | 5 by 30 ft. line (Dex. save) |
+| Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
+| Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
+| Bronze | Lightning   | 5 by 30 ft. line (Dex. save) |
+| Copper | Acid        | 5 by 30 ft. line (Dex. save) |
+| Gold   | Fire        | 15 ft. cone (Dex. save)      |
+| Green  | Poison      | 15 ft. cone (Con. save)      |
+| Red    | Fire        | 15 ft. cone (Dex. save)      |
+| Silver | Cold        | 15 ft. cone (Con. save)      |
+| White  | Cold        | 15 ft. cone (Con. save)      |
+|        |             |                              |
 
 ***Draconic Ancestry***. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 
