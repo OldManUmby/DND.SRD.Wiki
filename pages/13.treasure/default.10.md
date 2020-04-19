@@ -2760,7 +2760,7 @@ While wearing this cloak, you can use an action to speak its command word. This 
 
 # Magic Items (Z)
 
-# Chapter ##: Sentient Magic
+# Sentient Magic
 
 Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
@@ -2862,7 +2862,7 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 
 If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
 
-# Chapter ##: Artifacts
+# Artifacts
 
 ### Orb of Dragonkind
 
