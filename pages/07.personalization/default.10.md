@@ -46,31 +46,33 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-**Table** **32 - Languages: Standard**
+**Table** **29** - Languages: Standard
 
-| **Language** | **Typical Speakers** | **Script** |
-| ------------ | -------------------- | ---------- |
-| Common       | Humans               | Common     |
-| Dwarvish     | Dwarves              | Dwarvish   |
-| Elvish       | Elves                | Elvish     |
-| Giant        | Ogres, giants        | Dwarvish   |
-| Gnomish      | Gnomes               | Dwarvish   |
-| Goblin       | Goblinoids           | Dwarvish   |
-| Halfling     | Halflings            | Common     |
-| Orc          | Orcs                 | Dwarvish   |
+| Language | Typical Speakers | Script   |
+| -------- | ---------------- | -------- |
+| Common   | Humans           | Common   |
+| Dwarvish | Dwarves          | Dwarvish |
+| Elvish   | Elves            | Elvish   |
+| Giant    | Ogres, giants    | Dwarvish |
+| Gnomish  | Gnomes           | Dwarvish |
+| Goblin   | Goblinoids       | Dwarvish |
+| Halfling | Halflings        | Common   |
+| Orc      | Orcs             | Dwarvish |
+|          |                  |          |
 
-**Table** **33 - Languages: Exotic**
+**Table** **30** - Languages: Exotic
 
-| **Language** | **Typical Speakers** | **Script** |
-| ------------ | -------------------- | ---------- |
-| Abyssal      | Demons               | Infernal   |
-| Celestial    | Celestials           | Celestial  |
-| Draconic     | Dragons, dragonborn  | Draconic   |
-| Deep Speech  | Aboleths, cloakers   | -          |
-| Infernal     | Devils               | Infernal   |
-| Primordial   | Elementals           | Dwarvish   |
-| Sylvan       | Fey creatures        | Elvish     |
-| Undercommon  | Underworld traders   | Elvish     |
+| Language    | Typical Speakers    | Script    |
+| ----------- | ------------------- | --------- |
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
+|             |                     |           |
 
 # Inspiration
 
@@ -122,11 +124,11 @@ You might want to tweak some of the features of a background so it better fits y
 
 ## Acolyte
 
-You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric-performing sacred rites is not the same thing as channeling divine power.
+You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric - performing sacred rites is not the same thing as channeling divine power.
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
-**Skill Proficiencies:** Insight, Religion
+Skill Proficiencies: Insight, Religion
 
 **Languages:** Two of your choice
 
@@ -142,9 +144,9 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-**Table** **34 - Backgrounds: Suggested Acolyte Characteristics**
+**Table** **31** - Background: Suggested Acolyte Characteristics
 
-| **d8** | **Personality Trait**                                                                                                  |
+| d8     | Personality Trait                                                                                                      |
 | ------ | ---------------------------------------------------------------------------------------------------------------------- |
 | 1      | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.                      |
 | 2      | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.          |
@@ -175,3 +177,4 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4      | I am inflexible in my thinking.                                                                                        |
 | 5      | I am suspicious of strangers and expect the worst of them.                                                             |
 | 6      | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.                          |
+|        |                                                                                                                        |
