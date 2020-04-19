@@ -10,7 +10,7 @@ title: Classes
 
 As a barbarian, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d12 per barbarian level
 
@@ -18,7 +18,7 @@ As a barbarian, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -30,40 +30,41 @@ As a barbarian, you gain the following class features.
 
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) a greataxe or (*b*) any martial melee weapon
+- (*a*) a greataxe or (*b*) any martial melee weapon
 
-  - (*a*) two handaxes or (*b*) any simple weapon
+- (*a*) two handaxes or (*b*) any simple weapon
 
-  - An explorer's pack and four javelins
+- An explorer's pack and four javelins
 
-**Table** **2 - Barbarian**
+**Table** **3** - Barbarian
 
-| **Level** | **Proficiency Bonus** | **Features**                  | **Rages** | **Rage Damage** |
-| --------- | --------------------- | ----------------------------- | --------- | --------------- |
-| 1st       | +2                    | Rage, Unarmored Defense       | 2         | +2              |
-| 2nd       | +2                    | Reckless Attack, Danger Sense | 2         | +2              |
-| 3rd       | +2                    | Primal Path                   | 3         | +2              |
-| 4th       | +2                    | Ability Score Improvement     | 3         | +2              |
-| 5th       | +3                    | Extra Attack, Fast Movement   | 3         | +2              |
-| 6th       | +3                    | Path feature                  | 4         | +2              |
-| 7th       | +3                    | Feral Instinct                | 4         | +2              |
-| 8th       | +3                    | Ability Score Improvement     | 4         | +2              |
-| 9th       | +4                    | Brutal Critical (1 die)       | 4         | +3              |
-| 10th      | +4                    | Path feature                  | 4         | +3              |
-| 11th      | +4                    | Relentless                    | 4         | +3              |
-| 12th      | +4                    | Ability Score Improvement     | 5         | +3              |
-| 13th      | +5                    | Brutal Critical (2 dice)      | 5         | +3              |
-| 14th      | +5                    | Path feature                  | 5         | +3              |
-| 15th      | +5                    | Persistent Rage               | 5         | +3              |
-| 16th      | +5                    | Ability Score Improvement     | 5         | +4              |
-| 17th      | +6                    | Brutal Critical (3 dice)      | 6         | +4              |
-| 18th      | +6                    | Indomitable Might             | 6         | +4              |
-| 19th      | +6                    | Ability Score Improvement     | 6         | +4              |
-| 20th      | +6                    | Primal Champion               | Unlimited | +4              |
+| Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
+| ----- | ----------------- | ----------------------------- | --------- | ----------- |
+| 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
+| 2nd   | +2                | Reckless Attack, Danger Sense | 2         | +2          |
+| 3rd   | +2                | Primal Path                   | 3         | +2          |
+| 4th   | +2                | Ability Score Improvement     | 3         | +2          |
+| 5th   | +3                | Extra Attack, Fast Movement   | 3         | +2          |
+| 6th   | +3                | Path feature                  | 4         | +2          |
+| 7th   | +3                | Feral Instinct                | 4         | +2          |
+| 8th   | +3                | Ability Score Improvement     | 4         | +2          |
+| 9th   | +4                | Brutal Critical (1 die)       | 4         | +3          |
+| 10th  | +4                | Path feature                  | 4         | +3          |
+| 11th  | +4                | Relentless                    | 4         | +3          |
+| 12th  | +4                | Ability Score Improvement     | 5         | +3          |
+| 13th  | +5                | Brutal Critical (2 dice)      | 5         | +3          |
+| 14th  | +5                | Path feature                  | 5         | +3          |
+| 15th  | +5                | Persistent Rage               | 5         | +3          |
+| 16th  | +5                | Ability Score Improvement     | 5         | +4          |
+| 17th  | +6                | Brutal Critical (3 dice)      | 6         | +4          |
+| 18th  | +6                | Indomitable Might             | 6         | +4          |
+| 19th  | +6                | Ability Score Improvement     | 6         | +4          |
+| 20th  | +6                | Primal Champion               | Unlimited | +4          |
+|       |                   |                               |           |             |
 
 ### Rage
 
@@ -71,11 +72,11 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 
 While raging, you gain the following benefits if you aren't wearing heavy armor:
 
-  - You have advantage on Strength checks and Strength saving throws.
+- You have advantage on Strength checks and Strength saving throws.
 
-  - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
 
-  - You have resistance to bludgeoning, piercing, and slashing damage.
+- You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
@@ -143,27 +144,27 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-### Barbarian Paths
+## Barbarian Paths
 
-#### Path of the Berserker
+### Path of the Berserker
 
 For some barbarians, rage is a means to an end- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
-##### Frenzy
+#### Frenzy
 
 Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
 
-##### Mindless Rage
+#### Mindless Rage
 
 Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
-##### Intimidating Presence
+#### Intimidating Presence
 
 Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
 
 If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 
-##### Retaliation
+#### Retaliation
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
@@ -173,7 +174,7 @@ Starting at 14th level, when you take damage from a creature that is within 5 fe
 
 As a bard, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per bard level
 
@@ -181,7 +182,7 @@ As a bard, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor
 
@@ -193,42 +194,43 @@ As a bard, you gain the following class features.
 
 **Skills:** Choose any three
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
+- (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
 
-  - (*a*) a diplomat's pack or (*b*) an entertainer's pack
+- (*a*) a diplomat's pack or (*b*) an entertainer's pack
 
-  - (*a*) a lute or (*b*) any other musical instrument
+- (*a*) a lute or (*b*) any other musical instrument
 
-  - Leather armor and a dagger
+- Leather armor and a dagger
 
-**Table** **3 - Bard**
+**Table** **4** - Bard
 
-| **Level** | **Proficiency Bonus** | **Features**                                         | **Spells Known** | **Cantrips Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| --------- | --------------------- | ---------------------------------------------------- | ---------------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Spellcasting, Bardic Inspiration (d6)                | 2                | 4                  | 2       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Jack of All Trades, Song of Rest (d6)                | 2                | 5                  | 3       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 3rd       | +2                    | Bard College, Expertise                              | 2                | 6                  | 4       | 2       | -       | -       | -       | -       | -       | -       | -       |
-| 4th       | +2                    | Ability Score Improvement                            | 3                | 7                  | 4       | 3       | -       | -       | -       | -       | -       | -       | -       |
-| 5th       | +3                    | Bardic Inspiration (d8), Font of Inspiration         | 3                | 8                  | 4       | 3       | 2       | -       | -       | -       | -       | -       | -       |
-| 6th       | +3                    | Countercharm, Bard College Feature                   | 3                | 9                  | 4       | 3       | 3       | -       | -       | -       | -       | -       | -       |
-| 7th       | +3                    | -                                                    | 3                | 10                 | 4       | 3       | 3       | 1       | -       | -       | -       | -       | -       |
-| 8th       | +3                    | Ability Score Improvement                            | 3                | 11                 | 4       | 3       | 3       | 2       | -       | -       | -       | -       | -       |
-| 9th       | +4                    | Song of Rest (d8)                                    | 3                | 12                 | 4       | 3       | 3       | 3       | 1       | -       | -       | -       | -       |
-| 10th      | +4                    | Bardic Inspiration (d10), Expertise, Magical Secrets | 4                | 14                 | 4       | 3       | 3       | 3       | 2       | -       | -       | -       | -       |
-| 11th      | +4                    | -                                                    | 4                | 15                 | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement                            | 4                | 15                 | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 13th      | +5                    | Song of Rest (d10)                                   | 4                | 16                 | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 14th      | +5                    | Magical Secrets, Bard College Feature                | 4                | 18                 | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 15th      | +5                    | Bardic Inspiration (d12)                             | 4                | 19                 | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 16th      | +5                    | Ability Score Improvement                            | 4                | 19                 | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 17th      | +6                    | Song of Rest (d12)                                   | 4                | 20                 | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | 1       |
-| 18th      | +6                    | Magical Secrets                                      | 4                | 22                 | 4       | 3       | 3       | 3       | 3       | 1       | 1       | 1       | 1       |
-| 19th      | +6                    | Ability Score Improvement                            | 4                | 22                 | 4       | 3       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
-| 20th      | +6                    | Superior Inspiration                                 | 4                | 22                 | 4       | 3       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| Level | Proficiency Bonus | Features                                             | Spells Known | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ---------------------------------------------------- | ------------ | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Bardic Inspiration (d6)                | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Jack of All Trades, Song of Rest (d6)                | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | Bard College, Expertise                              | 2            | 6              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement                            | 3            | 7              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Bardic Inspiration (d8), Font of Inspiration         | 3            | 8              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Countercharm, Bard College Feature                   | 3            | 9              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                                                    | 3            | 10             | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement                            | 3            | 11             | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | Song of Rest (d8)                                    | 3            | 12             | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Bardic Inspiration (d10), Expertise, Magical Secrets | 4            | 14             | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | -                                                    | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                            | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | Song of Rest (d10)                                   | 4            | 16             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Magical Secrets, Bard College Feature                | 4            | 18             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | Bardic Inspiration (d12)                             | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement                            | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | Song of Rest (d12)                                   | 4            | 20             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Magical Secrets                                      | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement                            | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Superior Inspiration                                 | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       |                   |                                                      |              |                |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 
@@ -268,7 +270,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a musical instrument (see chapter 5, "Equipment") as a spellcasting focus for your bard spells.
+You can use a musical instrument (see chapter ##, "Equipment") as a spellcasting focus for your bard spells.
 
 ### Bardic Inspiration
 
@@ -334,19 +336,19 @@ The loyalty of these bards lies in the pursuit of beauty and truth, not in fealt
 
 The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
-##### Bonus Proficiencies
+#### Bonus Proficiencies
 
 When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
 
-##### Cutting Words
+#### Cutting Words
 
 Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
 
-##### Additional Magical Secrets
+#### Additional Magical Secrets
 
 At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.
 
-##### Peerless Skill
+#### Peerless Skill
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
@@ -356,7 +358,7 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 
 As a cleric, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per cleric level
 
@@ -364,7 +366,7 @@ As a cleric, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -376,44 +378,45 @@ As a cleric, you gain the following class features.
 
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) a mace or (*b*) a warhammer (if proficient)
+- (*a*) a mace or (*b*) a warhammer (if proficient)
 
-  - (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
+- (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
 
-  - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
+- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
 
-  - (*a*) a priest's pack or (*b*) an explorer's pack
+- (*a*) a priest's pack or (*b*) an explorer's pack
 
-  - A shield and a holy symbol
+- A shield and a holy symbol
 
-**Table** **4 - Cleric**
+**Table** **5** - Cleric
 
-| **Level** | **Proficiency Bonus** | **Features**                                                            | **Cantrips Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| --------- | --------------------- | ----------------------------------------------------------------------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Spellcasting, Divine Domain                                             | 3                  | 2       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Channel Divinity (1/rest), Divine Domain Feature                        | 3                  | 3       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 3rd       | +2                    | -                                                                       | 3                  | 4       | 2       | -       | -       | -       | -       | -       | -       | -       |
-| 4th       | +2                    | Ability Score Improvement                                               | 4                  | 4       | 3       | -       | -       | -       | -       | -       | -       | -       |
-| 5th       | +3                    | Destroy Undead (CR 1/2)                                                 | 4                  | 4       | 3       | 2       | -       | -       | -       | -       | -       | -       |
-| 6th       | +3                    | Channel Divinity (2/rest), Divine Domain Feature                        | 4                  | 4       | 3       | 3       | -       | -       | -       | -       | -       | -       |
-| 7th       | +3                    | -                                                                       | 4                  | 4       | 3       | 3       | 1       | -       | -       | -       | -       | -       |
-| 8th       | +3                    | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain Feature | 4                  | 4       | 3       | 3       | 2       | -       | -       | -       | -       | -       |
-| 9th       | +4                    | -                                                                       | 4                  | 4       | 3       | 3       | 3       | 1       | -       | -       | -       | -       |
-| 10th      | +4                    | Divine Intervention                                                     | 5                  | 4       | 3       | 3       | 3       | 2       | -       | -       | -       | -       |
-| 11th      | +4                    | Destroy Undead (CR 2)                                                   | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement                                               | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 13th      | +5                    | -                                                                       | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 14th      | +5                    | Destroy Undead (CR 3)                                                   | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 15th      | +5                    | -                                                                       | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 16th      | +5                    | Ability Score Improvement                                               | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 17th      | +6                    | Destroy Undead (CR 4), Divine Domain Feature                            | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | 1       |
-| 18th      | +6                    | Channel Divinity (3/rest)                                               | 5                  | 4       | 3       | 3       | 3       | 3       | 1       | 1       | 1       | 1       |
-| 19th      | +6                    | Ability Score Improvement                                               | 5                  | 4       | 3       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
-| 20th      | +6                    | Divine Intervention improvement                                         | 5                  | 4       | 3       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Destroy Undead (CR 1/2)                                                 | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Channel Divinity (2/rest), Divine Domain Feature                        | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                                                                       | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain Feature | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | -                                                                       | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Divine Intervention                                                     | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | Destroy Undead (CR 2)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Destroy Undead (CR 3)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | Destroy Undead (CR 4), Divine Domain Feature                            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Channel Divinity (3/rest)                                               | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Divine Intervention improvement                                         | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       |                   |                                                                         |                |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 
@@ -447,7 +450,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a holy symbol (see chapter 5, "Equipment") as a spellcasting focus for your cleric spells.
+You can use a holy symbol (see chapter ##, "Equipment") as a spellcasting focus for your cleric spells.
 
 ### Divine Domain
 
@@ -455,7 +458,7 @@ Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest
 
 #### Domain Spells
 
-Each domain has a list of spells-its domain spells- that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+Each domain has a list of spells - its domain spells - that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
@@ -483,15 +486,16 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-**Table** **5 - Cleric: Destroy Undead**
+**Table** **6** - Cleric: Destroy Undead
 
-| **Cleric Level** | **Destroys Undead of CR ...** |
-| ---------------- | ----------------------------- |
-| 5th              | 1/2 or lower                  |
-| 8th              | 1 or lower                    |
-| 11th             | 2 or lower                    |
-| 14th             | 3 or lower                    |
-| 17th             | 4 or lower                    |
+| Cleric Level | Destroys Undead of CR ... |
+| ------------ | ------------------------- |
+| 5th          | 1/2 or lower              |
+| 8th          | 1 or lower                |
+| 11th         | 2 or lower                |
+| 14th         | 3 or lower                |
+| 17th         | 4 or lower                |
+|              |                           |
 
 ### Divine Intervention
 
@@ -509,39 +513,40 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-**Table** **6 - Cleric: Life Domain Spells**
+**Table** **7** - Cleric: Life Domain Spells
 
-| **Cleric Level** | **Spells**                           |
-| ---------------- | ------------------------------------ |
-| 1st              | bless, cure wounds                   |
-| 3rd              | lesser restoration, spiritual weapon |
-| 5th              | beacon of hope, revivify             |
-| 7th              | death ward, guardian of faith        |
-| 9th              | mass cure wounds, raise dead         |
+| Cleric Level | Spells                               |
+| ------------ | ------------------------------------ |
+| 1st          | bless, cure wounds                   |
+| 3rd          | lesser restoration, spiritual weapon |
+| 5th          | beacon of hope, revivify             |
+| 7th          | death ward, guardian of faith        |
+| 9th          | mass cure wounds, raise dead         |
+|              |                                      |
 
-##### Bonus Proficiency
+#### Bonus Proficiency
 
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
-##### Disciple of Life
+#### Disciple of Life
 
 Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
 
-##### Channel Divinity: Preserve Life
+#### Channel Divinity: Preserve Life
 
 Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
 
 As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
-##### Blessed Healer
+#### Blessed Healer
 
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
 
-##### Divine Strike
+#### Divine Strike
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-##### Supreme Healing
+#### Supreme Healing
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
@@ -551,7 +556,7 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 
 As a druid, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per druid level
 
@@ -559,7 +564,7 @@ As a druid, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
@@ -571,40 +576,41 @@ As a druid, you gain the following class features.
 
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) a wooden shield or (*b*) any simple weapon
+- (*a*) a wooden shield or (*b*) any simple weapon
 
-  - (*a*) a scimitar or (*b*) any simple melee weapon
+- (*a*) a scimitar or (*b*) any simple melee weapon
 
-  - Leather armor, an explorer's pack, and a druidic focus
+- Leather armor, an explorer's pack, and a druidic focus
 
-**Table** **7 - Druid**
+**Table** **8** - Druid
 
-| **Level** | **Proficiency Bonus** | **Features**                                      | **Cantrips Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| --------- | --------------------- | ------------------------------------------------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Druidic, Spellcasting                             | 2                  | 2       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Wild Shape, Druid Circle                          | 2                  | 3       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 3rd       | +2                    | -                                                 | 2                  | 4       | 2       | -       | -       | -       | -       | -       | -       | -       |
-| 4th       | +2                    | Wild Shape Improvement, Ability Score Improvement | 3                  | 4       | 3       | -       | -       | -       | -       | -       | -       | -       |
-| 5th       | +3                    | -                                                 | 3                  | 4       | 3       | 2       | -       | -       | -       | -       | -       | -       |
-| 6th       | +3                    | Druid Circle feature                              | 3                  | 4       | 3       | 3       | -       | -       | -       | -       | -       | -       |
-| 7th       | +3                    | -                                                 | 3                  | 4       | 3       | 3       | 1       | -       | -       | -       | -       | -       |
-| 8th       | +3                    | Wild Shape Improvement, Ability Score Improvement | 3                  | 4       | 3       | 3       | 2       | -       | -       | -       | -       | -       |
-| 9th       | +4                    | -                                                 | 3                  | 4       | 3       | 3       | 3       | 1       | -       | -       | -       | -       |
-| 10th      | +4                    | Druid Circle feature                              | 4                  | 4       | 3       | 3       | 3       | 2       | -       | -       | -       | -       |
-| 11th      | +4                    | -                                                 | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement                         | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 13th      | +5                    | -                                                 | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 14th      | +5                    | Druid Circle feature                              | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 15th      | +5                    | -                                                 | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 16th      | +5                    | Ability Score Improvement                         | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 17th      | +6                    | -                                                 | 4                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | 1       |
-| 18th      | +6                    | Timeless Body, Beast Spells                       | 4                  | 4       | 3       | 3       | 3       | 3       | 1       | 1       | 1       | 1       |
-| 19th      | +6                    | Ability Score Improvement                         | 4                  | 4       | 3       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
-| 20th      | +6                    | Archdruid                                         | 4                  | 4       | 3       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| Level | Proficiency Bonus | Features                                          | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Druidic, Spellcasting                             | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Wild Shape, Druid Circle                          | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | -                                                 | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Wild Shape Improvement, Ability Score Improvement | 3              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | -                                                 | 3              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Druid Circle feature                              | 3              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                                                 | 3              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Wild Shape Improvement, Ability Score Improvement | 3              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | -                                                 | 3              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Druid Circle feature                              | 4              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                         | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Druid Circle feature                              | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement                         | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Timeless Body, Beast Spells                       | 4              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Archdruid                                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       |                   |                                                   |                |     |     |     |     |     |     |     |     |     |
 
 ### Druidic
 
@@ -642,15 +648,15 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus (see chapter 5, "Equipment") as a spellcasting focus for your druid spells.
+You can use a druidic focus (see chapter ##, "Equipment") as a spellcasting focus for your druid spells.
 
-**Sacred Plants and Wood**
+***Sacred Plants and Wood***
 
-> A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
->
-> Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
->
-> Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+*A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.*
+
+*Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.*
+
+*Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.*
 
 ### Wild Shape
 
@@ -658,27 +664,28 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-**Table** **8 - Druid: Beast Shapes**
+**Table** **9** - Druid: Beast Shapes
 
-| **Level** | **Max. CR** | **Limitations**             | **Example** |
-| --------- | ----------- | --------------------------- | ----------- |
-| 2nd       | 1/4         | No flying or swimming speed | Wolf        |
-| 4th       | 1/2         | No flying speed             | Crocodile   |
-| 8th       | 1           | -                           | Giant eagle |
+| Level | Max. CR | Limitations                 | Example     |
+| ----- | ------- | --------------------------- | ----------- |
+| 2nd   | 1/4     | No flying or swimming speed | Wolf        |
+| 4th   | 1/2     | No flying speed             | Crocodile   |
+| 8th   | 1       | -                           | Giant eagle |
+|       |         |                             |             |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 
-  - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+- Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
 
-  - When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 
-  - You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
 
-  - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 
-  - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+- You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Druid Circle
 
@@ -708,104 +715,111 @@ Additionally, you can ignore the verbal and somatic components of your druid spe
 
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
 
-##### Bonus Cantrip
+#### Bonus Cantrip
 
 When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.
 
-##### Natural Recovery
+#### Natural Recovery
 
 Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
 
-##### Circle Spells
+#### Circle Spells
 
 Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land-arctic, coast, desert, forest, grassland, mountain, or swamp-and consult the associated list of spells.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Table** **9 - Druid: Arctic** **Circle Spells**
+**Table** **10** - Druid: Arctic Circle Spells
 
-| **Druid Level** | **Circle Spells**                 |
-| --------------- | --------------------------------- |
-| 3rd             | hold person, spike growth         |
-| 5th             | sleet storm, slow                 |
-| 7th             | freedom of movement, ice storm    |
-| 9th             | commune with nature, cone of cold |
+| Druid Level | Circle Spells                     |
+| ----------- | --------------------------------- |
+| 3rd         | hold person, spike growth         |
+| 5th         | sleet storm, slow                 |
+| 7th         | freedom of movement, ice storm    |
+| 9th         | commune with nature, cone of cold |
+|             |                                   |
 
-**Table** **10 - Druid: Coast Circle Spells**
+**Table** **11** - Druid: Coast Circle Spells
 
-| **Druid Level** | **Circle Spells**                  |
-| --------------- | ---------------------------------- |
-| 3rd             | mirror image, misty step           |
-| 5th             | water breathing, water walk        |
-| 7th             | control water, freedom of movement |
-| 9th             | conjure elemental, scrying         |
+| Druid Level | Circle Spells                      |
+| ----------- | ---------------------------------- |
+| 3rd         | mirror image, misty step           |
+| 5th         | water breathing, water walk        |
+| 7th         | control water, freedom of movement |
+| 9th         | conjure elemental, scrying         |
+|             |                                    |
 
-**Table** **11 - Druid: Desert Circle Spells**
+**Table** **12** - Druid: Desert Circle Spells
 
-| **Druid Level** | **Circle Spells**                             |
-| --------------- | --------------------------------------------- |
-| 3rd             | blur, silence                                 |
-| 5th             | create food and water, protection from energy |
-| 7th             | blight, hallucinatory terrain                 |
-| 9th             | insect plague, wall of stone                  |
+| Druid Level | Circle Spells                                 |
+| ----------- | --------------------------------------------- |
+| 3rd         | blur, silence                                 |
+| 5th         | create food and water, protection from energy |
+| 7th         | blight, hallucinatory terrain                 |
+| 9th         | insect plague, wall of stone                  |
+|             |                                               |
 
-**Table** **12 - Druid: Forest Circle Spells**
+**Table** **13** - Druid: Forest Circle Spells
 
-| **Druid Level** | **Circle Spells**                |
-| --------------- | -------------------------------- |
-| 3rd             | barkskin, spider climb           |
-| 5th             | call lightning, plant growth     |
-| 7th             | divination, freedom of movement  |
-| 9th             | commune with nature, tree stride |
+| Druid Level | Circle Spells                    |
+| ----------- | -------------------------------- |
+| 3rd         | barkskin, spider climb           |
+| 5th         | call lightning, plant growth     |
+| 7th         | divination, freedom of movement  |
+| 9th         | commune with nature, tree stride |
+|             |                                  |
 
-**Table** **13 - Druid: Grassland Circle Spells**
+**Table** **14** - Druid: Grassland Circle Spells
 
-| **Druid Level** | **Circle Spells**                |
-| --------------- | -------------------------------- |
-| 3rd             | invisibility, pass without trace |
-| 5th             | daylight, haste                  |
-| 7th             | divination, freedom of movement  |
-| 9th             | dream, insect plague             |
+| Druid Level | Circle Spells                    |
+| ----------- | -------------------------------- |
+| 3rd         | invisibility, pass without trace |
+| 5th         | daylight, haste                  |
+| 7th         | divination, freedom of movement  |
+| 9th         | dream, insect plague             |
+|             |                                  |
 
-**Table** **14 -** **Druid: Mountain Circle Spells**
+**Table** **15** - Druid: Mountain Circle Spells
 
-| **Druid Level** | **Circle Spells**               |
-| --------------- | ------------------------------- |
-| 3rd             | spider climb, spike growth      |
-| 5th             | lightning bolt, meld into stone |
-| 7th             | stone shape, stoneskin          |
-| 9th             | passwall, wall of stone         |
+| Druid Level | Circle Spells                   |
+| ----------- | ------------------------------- |
+| 3rd         | spider climb, spike growth      |
+| 5th         | lightning bolt, meld into stone |
+| 7th         | stone shape, stoneskin          |
+| 9th         | passwall, wall of stone         |
+|             |                                 |
 
-**Table** **15 -** **Druid: Swamp Circle Spells**
+**Table** **16** - Druid: Swamp Circle Spells
 
-| **Druid Level** | **Circle Spells**                    |
-| --------------- | ------------------------------------ |
-| 3rd             | acid arrow, darkness                 |
-| 5th             | water walk, stinking cloud           |
-| 7th             | freedom of movement, locate creature |
-| 9th             | insect plague, scrying               |
+| Druid Level | Circle Spells                        |
+| ----------- | ------------------------------------ |
+| 3rd         | acid arrow, darkness                 |
+| 5th         | water walk, stinking cloud           |
+| 7th         | freedom of movement, locate creature |
+| 9th         | insect plague, scrying               |
+|             |                                      |
 
-##### Land's Stride
+#### Land's Stride
 
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
-##### Nature's Ward
+#### Nature's Ward
 
 When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
-##### Nature's Sanctuary
+#### Nature's Sanctuary
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
 
 The creature is aware of this effect before it makes its attack against you.
 
-**Druids and the Gods**
+***Druids and the Gods***
 
-> Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
+*Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.*
 
 # Fighter
 
@@ -813,7 +827,7 @@ The creature is aware of this effect before it makes its attack against you.
 
 As a fighter, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d10 per fighter level
 
@@ -821,54 +835,55 @@ As a fighter, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** All armor, shields
 
 **Weapons:** Simple weapons, martial weapons
 
-**Tools:** None
+Tools: None
 
 **Saving Throws:** Strength, Constitution
 
 **Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows
+- (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows
 
-  - (*a*) a martial weapon and a shield or (*b*) two martial weapons
+- (*a*) a martial weapon and a shield or (*b*) two martial weapons
 
-  - (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
+- (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
 
-  - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
+- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-**Table** **16 - Fighter**
+**Table** **17** - Fighter
 
-| **Level** | **Proficiency Bonus** | **Features**                                      |
-| --------- | --------------------- | ------------------------------------------------- |
-| 1st       | +2                    | Fighting Style, Second Wind                       |
-| 2nd       | +2                    | Action Surge (one use)                            |
-| 3rd       | +2                    | Martial Archetype                                 |
-| 4th       | +2                    | Ability Score Improvement                         |
-| 5th       | +3                    | Extra Attack                                      |
-| 6th       | +3                    | Ability Score Improvement                         |
-| 7th       | +3                    | Martial Archetype Feature                         |
-| 8th       | +3                    | Ability Score Improvement                         |
-| 9th       | +4                    | Indomitable (one use)                             |
-| 10th      | +4                    | Martial Archetype Feature                         |
-| 11th      | +4                    | Extra Attack (2)                                  |
-| 12th      | +4                    | Ability Score Improvement                         |
-| 13th      | +5                    | Indomitable (two uses)                            |
-| 14th      | +5                    | Ability Score Improvement                         |
-| 15th      | +5                    | Martial Archetype Feature                         |
-| 16th      | +5                    | Ability Score Improvement                         |
-| 17th      | +6                    | Action Surge (two uses), Indomitable (three uses) |
-| 18th      | +6                    | Martial Archetype Feature                         |
-| 19th      | +6                    | Ability Score Improvement                         |
-| 20th      | +6                    | Extra Attack (3)                                  |
+| Level | Proficiency Bonus | Features                                          |
+| ----- | ----------------- | ------------------------------------------------- |
+| 1st   | +2                | Fighting Style, Second Wind                       |
+| 2nd   | +2                | Action Surge (one use)                            |
+| 3rd   | +2                | Martial Archetype                                 |
+| 4th   | +2                | Ability Score Improvement                         |
+| 5th   | +3                | Extra Attack                                      |
+| 6th   | +3                | Ability Score Improvement                         |
+| 7th   | +3                | Martial Archetype Feature                         |
+| 8th   | +3                | Ability Score Improvement                         |
+| 9th   | +4                | Indomitable (one use)                             |
+| 10th  | +4                | Martial Archetype Feature                         |
+| 11th  | +4                | Extra Attack (2)                                  |
+| 12th  | +4                | Ability Score Improvement                         |
+| 13th  | +5                | Indomitable (two uses)                            |
+| 14th  | +5                | Ability Score Improvement                         |
+| 15th  | +5                | Martial Archetype Feature                         |
+| 16th  | +5                | Ability Score Improvement                         |
+| 17th  | +6                | Action Surge (two uses), Indomitable (three uses) |
+| 18th  | +6                | Martial Archetype Feature                         |
+| 19th  | +6                | Ability Score Improvement                         |
+| 20th  | +6                | Extra Attack (3)                                  |
+|       |                   |                                                   |
 
 ### Fighting Style
 
@@ -964,7 +979,7 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 
 As a monk, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per monk level
 
@@ -972,9 +987,9 @@ As a monk, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
-### Proficiencies
+#### Proficiencies
 
-**Armor:** None
+Armor: None
 
 **Weapons:** Simple weapons, shortswords
 
@@ -984,40 +999,41 @@ As a monk, you gain the following class features.
 
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (*a*) a shortsword or (*b*) any simple weapon
+- (*a*) a shortsword or (*b*) any simple weapon
 
-  - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
+- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-  - 10 darts
+- 10 darts
 
-**Table** **17 - Monk**
+**Table** **18** - Monk
 
-| **Level** | **Proficiency Bonus** | **Martial Arts** | **Ki Points** | **Unarmored Movement** | **Features**                                     |
-| --------- | --------------------- | ---------------- | ------------- | ---------------------- | ------------------------------------------------ |
-| 1st       | +2                    | 1d4              | -             | -                      | Unarmored Defense, Martial Arts                  |
-| 2nd       | +2                    | 1d4              | 2             | +10 ft.                | Ki, Unarmored Movement                           |
-| 3rd       | +2                    | 1d4              | 3             | +10 ft.                | Monastic Tradition, Deflect Missiles             |
-| 4th       | +2                    | 1d4              | 4             | +10 ft.                | Ability Score Improvement, Slow Fall             |
-| 5th       | +3                    | 1d6              | 5             | +10 ft.                | Extra Attack, Stunning Strike                    |
-| 6th       | +3                    | 1d6              | 6             | +15 ft.                | Ki-Empowered Strikes, Monastic Tradition Feature |
-| 7th       | +3                    | 1d6              | 7             | +15 ft.                | Evasion, Stillness of Mind                       |
-| 8th       | +3                    | 1d6              | 8             | +15 ft.                | Ability Score Improvement                        |
-| 9th       | +4                    | 1d6              | 9             | +15 ft.                | Unarmored Movement improvement                   |
-| 10th      | +4                    | 1d6              | 10            | +20 ft.                | Purity of Body                                   |
-| 11th      | +4                    | 1d8              | 11            | +20 ft.                | Monastic Tradition Feature                       |
-| 12th      | +4                    | 1d8              | 12            | +20 ft.                | Ability Score Improvement                        |
-| 13th      | +5                    | 1d8              | 13            | +20 ft.                | Tongue of the Sun and Moon                       |
-| 14th      | +5                    | 1d8              | 14            | +25 ft.                | Diamond Soul                                     |
-| 15th      | +5                    | 1d8              | 15            | +25 ft.                | Timeless Body                                    |
-| 16th      | +5                    | 1d8              | 16            | +25 ft.                | Ability Score Improvement                        |
-| 17th      | +6                    | 1d10             | 17            | +25 ft.                | Monastic Tradition Feature                       |
-| 18th      | +6                    | 1d10             | 18            | +30 ft.                | Empty Body                                       |
-| 19th      | +6                    | 1d10             | 19            | +30 ft.                | Ability Score Improvement                        |
-| 20th      | +6                    | 1d10             | 20            | +30 ft.                | Perfect Self                                     |
+| Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
+| ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
+| 1st   | +2                | 1d4          | -         | -                  | Unarmored Defense, Martial Arts                  |
+| 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
+| 3rd   | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |
+| 4th   | +2                | 1d4          | 4         | +10 ft.            | Ability Score Improvement, Slow Fall             |
+| 5th   | +3                | 1d6          | 5         | +10 ft.            | Extra Attack, Stunning Strike                    |
+| 6th   | +3                | 1d6          | 6         | +15 ft.            | Ki-Empowered Strikes, Monastic Tradition Feature |
+| 7th   | +3                | 1d6          | 7         | +15 ft.            | Evasion, Stillness of Mind                       |
+| 8th   | +3                | 1d6          | 8         | +15 ft.            | Ability Score Improvement                        |
+| 9th   | +4                | 1d6          | 9         | +15 ft.            | Unarmored Movement improvement                   |
+| 10th  | +4                | 1d6          | 10        | +20 ft.            | Purity of Body                                   |
+| 11th  | +4                | 1d8          | 11        | +20 ft.            | Monastic Tradition Feature                       |
+| 12th  | +4                | 1d8          | 12        | +20 ft.            | Ability Score Improvement                        |
+| 13th  | +5                | 1d8          | 13        | +20 ft.            | Tongue of the Sun and Moon                       |
+| 14th  | +5                | 1d8          | 14        | +25 ft.            | Diamond Soul                                     |
+| 15th  | +5                | 1d8          | 15        | +25 ft.            | Timeless Body                                    |
+| 16th  | +5                | 1d8          | 16        | +25 ft.            | Ability Score Improvement                        |
+| 17th  | +6                | 1d10         | 17        | +25 ft.            | Monastic Tradition Feature                       |
+| 18th  | +6                | 1d10         | 18        | +30 ft.            | Empty Body                                       |
+| 19th  | +6                | 1d10         | 19        | +30 ft.            | Ability Score Improvement                        |
+| 20th  | +6                | 1d10         | 20        | +30 ft.            | Perfect Self                                     |
+|       |                   |              |           |                    |                                                  |
 
 ### Unarmored Defense
 
@@ -1029,11 +1045,11 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
 
-  - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
 
-  - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 
-  - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
+- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
 
@@ -1145,11 +1161,11 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
-  - It must succeed on a Dexterity saving throw or be knocked prone.
+- It must succeed on a Dexterity saving throw or be knocked prone.
 
-  - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+- It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 
-  - It can't take reactions until the end of your next turn.
+- It can't take reactions until the end of your next turn.
 
 ##### Wholeness of Body
 
@@ -1171,7 +1187,7 @@ You can have only one creature under the effect of this feature at a time. You c
 
 As a paladin, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d10 per paladin level
 
@@ -1179,7 +1195,7 @@ As a paladin, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** All armor, shields
 
@@ -1191,42 +1207,43 @@ As a paladin, you gain the following class features.
 
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) a martial weapon and a shield or (b) two martial weapons
+- (*a*) a martial weapon and a shield or (*b*) two martial weapons
 
-  - (a) five javelins or (b) any simple melee weapon
+- (*a*) five javelins or (*b*) any simple melee weapon
 
-  - (a) a priest's pack or (b) an explorer's pack
+- (*a*) a priest's pack or (*b*) an explorer's pack
 
-  - Chain mail and a holy symbol
+- Chain mail and a holy symbol
 
-**Table** **18 - Paladin**
+**Table** **19** - Paladin
 
-| **Level** | **Proficiency Bonus** | **Features**                               | **1st** | **2nd** | **3rd** | **4th** | **5th** |
-| --------- | --------------------- | ------------------------------------------ | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Divine Sense, Lay on Hands                 | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Fighting Style, Spellcasting, Divine Smite | 2       | -       | -       | -       | -       |
-| 3rd       | +2                    | Divine Health, Sacred Oath                 | 3       | -       | -       | -       | -       |
-| 4th       | +2                    | Ability Score Improvement                  | 3       | -       | -       | -       | -       |
-| 5th       | +3                    | Extra Attack                               | 4       | 2       | -       | -       | -       |
-| 6th       | +3                    | Aura of Protection                         | 4       | 2       | -       | -       | -       |
-| 7th       | +3                    | Sacred Oath feature                        | 4       | 3       | -       | -       | -       |
-| 8th       | +3                    | Ability Score Improvement                  | 4       | 3       | -       | -       | -       |
-| 9th       | +4                    | -                                          | 4       | 3       | 2       | -       | -       |
-| 10th      | +4                    | Aura of Courage                            | 4       | 3       | 2       | -       | -       |
-| 11th      | +4                    | Improved Divine Smite                      | 4       | 3       | 3       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement                  | 4       | 3       | 3       | -       | -       |
-| 13th      | +5                    | -                                          | 4       | 3       | 3       | 1       | -       |
-| 14th      | +5                    | Cleansing Touch                            | 4       | 3       | 3       | 1       | -       |
-| 15th      | +5                    | Sacred Oath feature                        | 4       | 3       | 3       | 2       | -       |
-| 16th      | +5                    | Ability Score Improvement                  | 4       | 3       | 3       | 2       | -       |
-| 17th      | +6                    | -                                          | 4       | 3       | 3       | 3       | 1       |
-| 18th      | +6                    | Aura improvements                          | 4       | 3       | 3       | 3       | 1       |
-| 19th      | +6                    | Ability Score Improvement                  | 4       | 3       | 3       | 3       | 2       |
-| 20th      | +6                    | Sacred Oath feature                        | 4       | 3       | 3       | 3       | 2       |
+| Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
+| 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement                  | 3   | -   | -   | -   | -   |
+| 5th   | +3                | Extra Attack                               | 4   | 2   | -   | -   | -   |
+| 6th   | +3                | Aura of Protection                         | 4   | 2   | -   | -   | -   |
+| 7th   | +3                | Sacred Oath feature                        | 4   | 3   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement                  | 4   | 3   | -   | -   | -   |
+| 9th   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
+| 10th  | +4                | Aura of Courage                            | 4   | 3   | 2   | -   | -   |
+| 11th  | +4                | Improved Divine Smite                      | 4   | 3   | 3   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                  | 4   | 3   | 3   | -   | -   |
+| 13th  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
+| 14th  | +5                | Cleansing Touch                            | 4   | 3   | 3   | 1   | -   |
+| 15th  | +5                | Sacred Oath feature                        | 4   | 3   | 3   | 2   | -   |
+| 16th  | +5                | Ability Score Improvement                  | 4   | 3   | 3   | 2   | -   |
+| 17th  | +6                | -                                          | 4   | 3   | 3   | 3   | 1   |
+| 18th  | +6                | Aura improvements                          | 4   | 3   | 3   | 3   | 1   |
+| 19th  | +6                | Ability Score Improvement                  | 4   | 3   | 3   | 3   | 2   |
+| 20th  | +6                | Sacred Oath feature                        | 4   | 3   | 3   | 3   | 2   |
+|       |                   |                                            |     |     |     |     |     |
 
 ### Divine Sense
 
@@ -1374,15 +1391,16 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 You gain oath spells at the paladin levels listed.
 
-**Table** **19 - Paladin: Oath of Devotion Spells**
+**Table** **20** - Paladin: Oath of Devotion Spells
 
-| **Level** | **Paladin Spells**                       |
-| --------- | ---------------------------------------- |
-| 3rd       | protection from evil and good, sanctuary |
-| 5th       | lesser restoration, zone of truth        |
-| 9th       | beacon of hope, dispel magic             |
-| 13th      | freedom of movement, guardian of faith   |
-| 17th      | commune, flame strike                    |
+| Level | Paladin Spells                           |
+| ----- | ---------------------------------------- |
+| 3rd   | protection from evil and good, sanctuary |
+| 5th   | lesser restoration, zone of truth        |
+| 9th   | beacon of hope, dispel magic             |
+| 13th  | freedom of movement, guardian of faith   |
+| 17th  | commune, flame strike                    |
+|       |                                          |
 
 ##### Channel Divinity
 
@@ -1416,13 +1434,13 @@ In addition, for the duration, you have advantage on saving throws against spell
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
->**Breaking Your Oath**
->
-> A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
->
-> A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
->
-> If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.
+***Breaking Your Oath***
+
+*A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.*
+
+*A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.*
+
+*If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.*
 
 # Ranger
 
@@ -1430,7 +1448,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 As a ranger, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d10 per ranger level
 
@@ -1438,7 +1456,7 @@ As a ranger, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 
@@ -1450,42 +1468,43 @@ As a ranger, you gain the following class features.
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) scale mail or (b) leather armor
+- (*a*) scale mail or (*b*) leather armor
 
-  - (a) two shortswords or (b) two simple melee weapons
+- (*a*) two shortswords or (*b*) two simple melee weapons
 
-  - (a) a dungeoneer's pack or (b) an explorer's pack
+- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-  - A longbow and a quiver of 20 arrows
+- A longbow and a quiver of 20 arrows
 
-**Table** **20 - Ranger**
+**Table** **21** - Ranger
 
-| **Level** | **Proficiency Bonus** | **Features**                                      | **Spells Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** |
-| --------- | --------------------- | ------------------------------------------------- | ---------------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Favored Enemy, Natural Explorer                   | -                | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Fighting Style, Spellcasting                      | 2                | 2       | -       | -       | -       | -       |
-| 3rd       | +2                    | Ranger Archetype, Primeval Awareness              | 3                | 3       | -       | -       | -       | -       |
-| 4th       | +2                    | Ability Score Improvement                         | 3                | 3       | -       | -       | -       | -       |
-| 5th       | +3                    | Extra Attack                                      | 4                | 4       | 2       | -       | -       | -       |
-| 6th       | +3                    | Favored Enemy and Natural Explorer improvements   | 4                | 4       | 2       | -       | -       | -       |
-| 7th       | +3                    | Ranger Archetype feature                          | 5                | 4       | 3       | -       | -       | -       |
-| 8th       | +3                    | Ability Score Improvement, Land's Stride          | 5                | 4       | 3       | -       | -       | -       |
-| 9th       | +4                    | -                                                 | 6                | 4       | 3       | 2       | -       | -       |
-| 10th      | +4                    | Natural Explorer improvement, Hide in Plain Sight | 6                | 4       | 3       | 2       | -       | -       |
-| 11th      | +4                    | Ranger Archetype feature                          | 7                | 4       | 3       | 3       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement                         | 7                | 4       | 3       | 3       | -       | -       |
-| 13th      | +5                    | -                                                 | 8                | 4       | 3       | 3       | 1       | -       |
-| 14th      | +5                    | Favored Enemy improvement, Vanish                 | 8                | 4       | 3       | 3       | 1       | -       |
-| 15th      | +5                    | Ranger Archetype feature                          | 9                | 4       | 3       | 3       | 2       | -       |
-| 16th      | +5                    | Ability Score Improvement                         | 9                | 4       | 3       | 3       | 2       | -       |
-| 17th      | +6                    | -                                                 | 10               | 4       | 3       | 3       | 3       | 1       |
-| 18th      | +6                    | Feral Senses                                      | 10               | 4       | 3       | 3       | 3       | 1       |
-| 19th      | +6                    | Ability Score Improvement                         | 11               | 4       | 3       | 3       | 3       | 2       |
-| 20th      | +6                    | Foe Slayer                                        | 11               | 4       | 3       | 3       | 3       | 2       |
+| Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ----------------- | ------------------------------------------------- | ------------ | --- | --- | --- | --- | --- |
+| 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
+| 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement                         | 3            | 3   | -   | -   | -   | -   |
+| 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
+| 6th   | +3                | Favored Enemy and Natural Explorer improvements   | 4            | 4   | 2   | -   | -   | -   |
+| 7th   | +3                | Ranger Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement, Land's Stride          | 5            | 4   | 3   | -   | -   | -   |
+| 9th   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
+| 10th  | +4                | Natural Explorer improvement, Hide in Plain Sight | 6            | 4   | 3   | 2   | -   | -   |
+| 11th  | +4                | Ranger Archetype feature                          | 7            | 4   | 3   | 3   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                         | 7            | 4   | 3   | 3   | -   | -   |
+| 13th  | +5                | -                                                 | 8            | 4   | 3   | 3   | 1   | -   |
+| 14th  | +5                | Favored Enemy improvement, Vanish                 | 8            | 4   | 3   | 3   | 1   | -   |
+| 15th  | +5                | Ranger Archetype feature                          | 9            | 4   | 3   | 3   | 2   | -   |
+| 16th  | +5                | Ability Score Improvement                         | 9            | 4   | 3   | 3   | 2   | -   |
+| 17th  | +6                | -                                                 | 10           | 4   | 3   | 3   | 3   | 1   |
+| 18th  | +6                | Feral Senses                                      | 10           | 4   | 3   | 3   | 3   | 1   |
+| 19th  | +6                | Ability Score Improvement                         | 11           | 4   | 3   | 3   | 3   | 2   |
+| 20th  | +6                | Foe Slayer                                        | 11           | 4   | 3   | 3   | 3   | 2   |
+|       |                   |                                                   |              |     |     |     |     |     |
 
 ### Favored Enemy
 
@@ -1505,17 +1524,17 @@ You are particularly familiar with one type of natural environment and are adept
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
-  - Difficult terrain doesn't slow your group's travel.
+- Difficult terrain doesn't slow your group's travel.
 
-  - Your group can't become lost except by magical means.
+- Your group can't become lost except by magical means.
 
-  - Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
 
-  - If you are traveling alone, you can move stealthily at a normal pace.
+- If you are traveling alone, you can move stealthily at a normal pace.
 
-  - When you forage, you find twice as much food as you normally would.
+- When you forage, you find twice as much food as you normally would.
 
-  - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 You choose additional favored terrain types at 6th and 10th level.
 
@@ -1659,7 +1678,7 @@ At 15th level, you gain one of the following features of your choice.
 
 As a rogue, you have the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per rogue level
 
@@ -1667,7 +1686,7 @@ As a rogue, you have the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor
 
@@ -1679,42 +1698,43 @@ As a rogue, you have the following class features.
 
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) a rapier or (b) a shortsword
+- (*a*) a rapier or (*b*) a shortsword
 
-  - (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+- (*a*) a shortbow and quiver of 20 arrows or (*b*) a shortsword
 
-  - (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
+- (*a*) a burglar's pack, (*b*) a dungeoneer's pack, or (*c*) an explorer's pack
 
-  - (a) Leather armor, two daggers, and thieves' tools
+- Leather armor, two daggers, and thieves' tools
 
-**Table** **21 - Rogue**
+**Table** **22** - Rogue
 
-| **Level** | **Proficiency Bonus** | **Sneak Attack** | **Features**                           |
-| --------- | --------------------- | ---------------- | -------------------------------------- |
-| 1st       | +2                    | 1d6              | Expertise, Sneak Attack, Thieves' Cant |
-| 2nd       | +2                    | 1d6              | Cunning Action                         |
-| 3rd       | +2                    | 2d6              | Roguish Archetype                      |
-| 4th       | +2                    | 2d6              | Ability Score Improvement              |
-| 5th       | +3                    | 3d6              | Uncanny Dodge                          |
-| 6th       | +3                    | 3d6              | Expertise                              |
-| 7th       | +3                    | 4d6              | Evasion                                |
-| 8th       | +3                    | 4d6              | Ability Score Improvement              |
-| 9th       | +4                    | 5d6              | Roguish Archetype feature              |
-| 10th      | +4                    | 5d6              | Ability Score Improvement              |
-| 11th      | +4                    | 6d6              | Reliable Talent                        |
-| 12th      | +4                    | 6d6              | Ability Score Improvement              |
-| 13th      | +5                    | 7d6              | Roguish Archetype Feature              |
-| 14th      | +5                    | 7d6              | Blindsense                             |
-| 15th      | +5                    | 8d6              | Slippery Mind                          |
-| 16th      | +5                    | 8d6              | Ability Score Improvement              |
-| 17th      | +6                    | 9d6              | Roguish Archetype Feature              |
-| 18th      | +6                    | 9d6              | Elusive                                |
-| 19th      | +6                    | 10d6             | Ability Score Improvement              |
-| 20th      | +6                    | 10d6             | Stroke of Luck                         |
+| Level | Proficiency Bonus | Sneak Attack | Features                               |
+| ----- | ----------------- | ------------ | -------------------------------------- |
+| 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
+| 2nd   | +2                | 1d6          | Cunning Action                         |
+| 3rd   | +2                | 2d6          | Roguish Archetype                      |
+| 4th   | +2                | 2d6          | Ability Score Improvement              |
+| 5th   | +3                | 3d6          | Uncanny Dodge                          |
+| 6th   | +3                | 3d6          | Expertise                              |
+| 7th   | +3                | 4d6          | Evasion                                |
+| 8th   | +3                | 4d6          | Ability Score Improvement              |
+| 9th   | +4                | 5d6          | Roguish Archetype feature              |
+| 10th  | +4                | 5d6          | Ability Score Improvement              |
+| 11th  | +4                | 6d6          | Reliable Talent                        |
+| 12th  | +4                | 6d6          | Ability Score Improvement              |
+| 13th  | +5                | 7d6          | Roguish Archetype Feature              |
+| 14th  | +5                | 7d6          | Blindsense                             |
+| 15th  | +5                | 8d6          | Slippery Mind                          |
+| 16th  | +5                | 8d6          | Ability Score Improvement              |
+| 17th  | +6                | 9d6          | Roguish Archetype Feature              |
+| 18th  | +6                | 9d6          | Elusive                                |
+| 19th  | +6                | 10d6         | Ability Score Improvement              |
+| 20th  | +6                | 10d6         | Stroke of Luck                         |
+|       |                   |              |                                        |
 
 ### Expertise
 
@@ -1814,7 +1834,7 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 
 As a sorcerer, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d6 per sorcerer level
 
@@ -1822,7 +1842,7 @@ As a sorcerer, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** None
 
@@ -1834,42 +1854,43 @@ As a sorcerer, you gain the following class features.
 
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
 
-  - (a) a component pouch or (b) an arcane focus
+- (*a*) a component pouch or (*b*) an arcane focus
 
-  - (a) a dungeoneer's pack or (b) an explorer's pack
+- (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-  - Two daggers
+- Two daggers
 
-**Table** **22 - Sorcerer**
+**Table** **23** - Sorcerer
 
-| **Level** | **Proficiency Bonus** | **Sorcery Points** | **Features**                   | **Cantrips Known** | **Spells Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| --------- | --------------------- | ------------------ | ------------------------------ | ------------------ | ---------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | -                  | Spellcasting, Sorcerous Origin | 4                  | 2                | 2       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | 2                  | Font of Magic                  | 4                  | 3                | 3       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 3rd       | +2                    | 3                  | Metamagic                      | 4                  | 4                | 4       | 2       | -       | -       | -       | -       | -       | -       | -       |
-| 4th       | +2                    | 4                  | Ability Score Improvement      | 5                  | 5                | 4       | 3       | -       | -       | -       | -       | -       | -       | -       |
-| 5th       | +3                    | 5                  | -                              | 5                  | 6                | 4       | 3       | 2       | -       | -       | -       | -       | -       | -       |
-| 6th       | +3                    | 6                  | Sorcerous Origin Feature       | 5                  | 7                | 4       | 3       | 3       | -       | -       | -       | -       | -       | -       |
-| 7th       | +3                    | 7                  | -                              | 5                  | 8                | 4       | 3       | 3       | 1       | -       | -       | -       | -       | -       |
-| 8th       | +3                    | 8                  | Ability Score Improvement      | 5                  | 9                | 4       | 3       | 3       | 2       | -       | -       | -       | -       | -       |
-| 9th       | +4                    | 9                  | -                              | 5                  | 10               | 4       | 3       | 3       | 3       | 1       | -       | -       | -       | -       |
-| 10th      | +4                    | 10                 | Metamagic                      | 6                  | 11               | 4       | 3       | 3       | 3       | 2       | -       | -       | -       | -       |
-| 11th      | +4                    | 11                 | -                              | 6                  | 12               | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 12th      | +4                    | 12                 | Ability Score Improvement      | 6                  | 12               | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 13th      | +5                    | 13                 | -                              | 6                  | 13               | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 14th      | +5                    | 14                 | Sorcerous Origin Feature       | 6                  | 13               | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 15th      | +5                    | 15                 | -                              | 6                  | 14               | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 16th      | +5                    | 16                 | Ability Score Improvement      | 6                  | 14               | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 17th      | +6                    | 17                 | Metamagic                      | 6                  | 15               | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | 1       |
-| 18th      | +6                    | 18                 | Sorcerous Origin Feature       | 6                  | 15               | 4       | 3       | 3       | 3       | 3       | 1       | 1       | 1       | 1       |
-| 19th      | +6                    | 19                 | Ability Score Improvement      | 6                  | 15               | 4       | 3       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
-| 20th      | +6                    | 20                 | Sorcerous Restoration          | 6                  | 15               | 4       | 3       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | -------------- | ------------------------------ | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | -              | Spellcasting, Sorcerous Origin | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | 2              | Font of Magic                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | 3              | Metamagic                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | 4              | Ability Score Improvement      | 5              | 5            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | 5              | -                              | 5              | 6            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | 6              | Sorcerous Origin Feature       | 5              | 7            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | 7              | -                              | 5              | 8            | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | 8              | Ability Score Improvement      | 5              | 9            | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | 9              | -                              | 5              | 10           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | 10             | Metamagic                      | 6              | 11           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | 11             | -                              | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | 12             | Ability Score Improvement      | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | 13             | -                              | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | 14             | Sorcerous Origin Feature       | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | 15             | -                              | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | 16             | Ability Score Improvement      | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | 17             | Metamagic                      | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | 18             | Sorcerous Origin Feature       | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | 19             | Ability Score Improvement      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | 20             | Sorcerous Restoration          | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       |                   |                |                                |                |              |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 
@@ -1927,15 +1948,16 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-**Table** **23 - Sorcerer: Creating Spell Slots**
+**Table** **24** - Sorcerer: Creating Spell Slots
 
-| **Spell Slot Level** | **Sorcery Point Cost** |
-| -------------------- | ---------------------- |
-| 1st                  | 2                      |
-| 2nd                  | 3                      |
-| 3rd                  | 5                      |
-| 4th                  | 6                      |
-| 5th                  | 7                      |
+| Spell Slot Level | Sorcery Point Cost |
+| ---------------- | ------------------ |
+| 1st              | 2                  |
+| 2nd              | 3                  |
+| 3rd              | 5                  |
+| 4th              | 6                  |
+| 5th              | 7                  |
+|                  |                    |
 
 ***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
@@ -2003,20 +2025,21 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-**Table** **24 - Sorcerer: Draconic Ancestry**
+**Table** **25** - Sorcerer: Draconic Ancestry
 
-| **Dragon** | **Damage Type** |
-| ---------- | --------------- |
-| Black      | Acid            |
-| Blue       | Lightning       |
-| Brass      | Fire            |
-| Bronze     | Lightning       |
-| Copper     | Acid            |
-| Gold       | Fire            |
-| Green      | Poison          |
-| Red        | Fire            |
-| Silver     | Cold            |
-| White      | Cold            |
+| Dragon | Damage Type |
+| ------ | ----------- |
+| Black  | Acid        |
+| Blue   | Lightning   |
+| Brass  | Fire        |
+| Bronze | Lightning   |
+| Copper | Acid        |
+| Gold   | Fire        |
+| Green  | Poison      |
+| Red    | Fire        |
+| Silver | Cold        |
+| White  | Cold        |
+|        |             |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
@@ -2046,7 +2069,7 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 
 As a warlock, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per warlock level
 
@@ -2054,7 +2077,7 @@ As a warlock, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** Light armor
 
@@ -2066,42 +2089,43 @@ As a warlock, you gain the following class features.
 
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
 
-  - (a) a component pouch or (b) an arcane focus
+- (*a*) a component pouch or (*b*) an arcane focus
 
-  - (a) a scholar's pack or (b) a dungeoneer's pack
+- (*a*) a scholar's pack or (*b*) a dungeoneer's pack
 
-  - Leather armor, any simple weapon, and two daggers
+- Leather armor, any simple weapon, and two daggers
 
-**Table** **25 - Warlock**
+**Table** **26** - Warlock
 
-| **Level** | **Proficiency Bonus** | **Features**                    | **Cantrips Known** | **Spells Known** | **Spell Slots** | **Slot Level** | **Invocations Known** |
-| --------- | --------------------- | ------------------------------- | ------------------ | ---------------- | --------------- | -------------- | --------------------- |
-| 1st       | +2                    | Otherworldly Patron, Pact Magic | 2                  | 2                | 1               | 1st            | -                     |
-| 2nd       | +2                    | Eldritch Invocations            | 2                  | 3                | 2               | 1st            | 2                     |
-| 3rd       | +2                    | Pact Boon                       | 2                  | 4                | 2               | 2nd            | 2                     |
-| 4th       | +2                    | Ability Score Improvement       | 3                  | 5                | 2               | 2nd            | 2                     |
-| 5th       | +3                    | -                               | 3                  | 6                | 2               | 3rd            | 3                     |
-| 6th       | +3                    | Otherworldly Patron feature     | 3                  | 7                | 2               | 3rd            | 3                     |
-| 7th       | +3                    | -                               | 3                  | 8                | 2               | 4th            | 4                     |
-| 8th       | +3                    | Ability Score Improvement       | 3                  | 9                | 2               | 4th            | 4                     |
-| 9th       | +4                    | -                               | 3                  | 10               | 2               | 5th            | 5                     |
-| 10th      | +4                    | Otherworldly Patron feature     | 4                  | 10               | 2               | 5th            | 5                     |
-| 11th      | +4                    | Mystic Arcanum (6th level)      | 4                  | 11               | 3               | 5th            | 5                     |
-| 12th      | +4                    | Ability Score Improvement       | 4                  | 11               | 3               | 5th            | 6                     |
-| 13th      | +5                    | Mystic Arcanum (7th level)      | 4                  | 12               | 3               | 5th            | 6                     |
-| 14th      | +5                    | Otherworldly Patron feature     | 4                  | 12               | 3               | 5th            | 6                     |
-| 15th      | +5                    | Mystic Arcanum (8th level)      | 4                  | 13               | 3               | 5th            | 7                     |
-| 16th      | +5                    | Ability Score Improvement       | 4                  | 13               | 3               | 5th            | 7                     |
-| 17th      | +6                    | Mystic Arcanum (9th level)      | 4                  | 14               | 4               | 5th            | 7                     |
-| 18th      | +6                    | -                               | 4                  | 14               | 4               | 5th            | 8                     |
-| 19th      | +6                    | Ability Score Improvement       | 4                  | 15               | 4               | 5th            | 8                     |
-| 20th      | +6                    | Eldritch Master                 | 4                  | 15               | 4               | 5th            | 8                     |
+| Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
+| ----- | ----------------- | ------------------------------- | -------------- | ------------ | ----------- | ---------- | ----------------- |
+| 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | -                 |
+| 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
+| 3rd   | +2                | Pact Boon                       | 2              | 4            | 2           | 2nd        | 2                 |
+| 4th   | +2                | Ability Score Improvement       | 3              | 5            | 2           | 2nd        | 2                 |
+| 5th   | +3                | -                               | 3              | 6            | 2           | 3rd        | 3                 |
+| 6th   | +3                | Otherworldly Patron feature     | 3              | 7            | 2           | 3rd        | 3                 |
+| 7th   | +3                | -                               | 3              | 8            | 2           | 4th        | 4                 |
+| 8th   | +3                | Ability Score Improvement       | 3              | 9            | 2           | 4th        | 4                 |
+| 9th   | +4                | -                               | 3              | 10           | 2           | 5th        | 5                 |
+| 10th  | +4                | Otherworldly Patron feature     | 4              | 10           | 2           | 5th        | 5                 |
+| 11th  | +4                | Mystic Arcanum (6th level)      | 4              | 11           | 3           | 5th        | 5                 |
+| 12th  | +4                | Ability Score Improvement       | 4              | 11           | 3           | 5th        | 6                 |
+| 13th  | +5                | Mystic Arcanum (7th level)      | 4              | 12           | 3           | 5th        | 6                 |
+| 14th  | +5                | Otherworldly Patron feature     | 4              | 12           | 3           | 5th        | 6                 |
+| 15th  | +5                | Mystic Arcanum (8th level)      | 4              | 13           | 3           | 5th        | 7                 |
+| 16th  | +5                | Ability Score Improvement       | 4              | 13           | 3           | 5th        | 7                 |
+| 17th  | +6                | Mystic Arcanum (9th level)      | 4              | 14           | 4           | 5th        | 7                 |
+| 18th  | +6                | -                               | 4              | 14           | 4           | 5th        | 8                 |
+| 19th  | +6                | Ability Score Improvement       | 4              | 15           | 4           | 5th        | 8                 |
+| 20th  | +6                | Eldritch Master                 | 4              | 15           | 4           | 5th        | 8                 |
+|       |                   |                                 |                |              |             |            |                   |
 
 ### Otherworldly Patron
 
@@ -2175,15 +2199,15 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
-**Your Pact Boon**
+***Your Pact Boon***
 
-> Each Pact Boon option produces a special creature or an object that reflects your patron's nature.
->
-> **Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
->
-> **Pact of the Blade**. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
->
-> **Pact of the Tome**. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
+*Each Pact Boon option produces a special creature or an object that reflects your patron's nature.*
+
+***Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.*
+
+***Pact of the Blade**. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.*
+
+***Pact of the Tome**. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.*
 
 ### Ability Score Improvement
 
@@ -2207,7 +2231,7 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 #### Agonizing Blast
 
-*Prerequisite: Eldritch Blast cantrip*
+Prerequisite: Eldritch Blast cantrip
 
 When you cast *eldritch blast*, add your Charisma modifier to the damage it deals on a hit.
 
@@ -2217,7 +2241,7 @@ You can cast *mage armor* on yourself at will, without expending a spell slot or
 
 #### Ascendant Step
 
-*Prerequisite: 9th level*
+Prerequisite: 9th level
 
 You can cast *levitate* on yourself at will, without expending a spell slot or material components.
 
@@ -2321,7 +2345,7 @@ When you are in an area of dim light or darkness, you can use your action to bec
 
 #### Otherworldly Leap
 
-*Prerequisite: 9th level*
+Prerequisite: 9th level
 
 You can cast *jump* on yourself at will, without expending a spell slot or material components.
 
@@ -2355,7 +2379,7 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 
 #### Visions of Distant Realms
 
-*Prerequisite: 15th level*
+Prerequisite: 15th level
 
 You can cast *arcane eye* at will, without expending a spell slot.
 
@@ -2373,7 +2397,7 @@ You can cast *speak with dead* at will, without expending a spell slot.
 
 #### Witch Sight
 
-*Prerequisite: 15th level*
+Prerequisite: 15th level
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 
@@ -2391,15 +2415,16 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**Table** **26 - Warlock: Fiend Expanded Spells**
+**Table** **27** - Warlock: Fiend Expanded Spells
 
-| **Spell Level** | **Spells**                        |
-| --------------- | --------------------------------- |
-| 1st             | burning hands, command            |
-| 2nd             | blindness/deafness, scorching ray |
-| 3rd             | fireball, stinking cloud          |
-| 4th             | fire shield, wall of fire         |
-| 5th             | flame strike, hallow              |
+| Spell Level | Spells                            |
+| ----------- | --------------------------------- |
+| 1st         | burning hands, command            |
+| 2nd         | blindness/deafness, scorching ray |
+| 3rd         | fireball, stinking cloud          |
+| 4th         | fire shield, wall of fire         |
+| 5th         | flame strike, hallow              |
+|             |                                   |
 
 ##### Dark One's Blessing
 
@@ -2429,7 +2454,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 As a wizard, you gain the following class features.
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d6 per wizard level
 
@@ -2437,7 +2462,7 @@ As a wizard, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armor:** None
 
@@ -2449,42 +2474,43 @@ As a wizard, you gain the following class features.
 
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-  - (a) a quarterstaff or (b) a dagger
+- (*a*) a quarterstaff or (*b*) a dagger
 
-  - (a) a component pouch or (b) an arcane focus
+- (*a*) a component pouch or (*b*) an arcane focus
 
-  - (a) a scholar's pack or (b) an explorer's pack
+- (*a*) a scholar's pack or (*b*) an explorer's pack
 
-  - A spellbook
+- A spellbook
 
-**Table** **27 - Wizard**
+**Table** **28** - Wizard
 
-| **Level** | **Proficiency Bonus** | **Features**                  | **Cantrips Known** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| --------- | --------------------- | ----------------------------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1st       | +2                    | Spellcasting, Arcane Recovery | 3                  | 2       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 2nd       | +2                    | Arcane Tradition              | 3                  | 3       | -       | -       | -       | -       | -       | -       | -       | -       |
-| 3rd       | +2                    | -                             | 3                  | 4       | 2       | -       | -       | -       | -       | -       | -       | -       |
-| 4th       | +2                    | Ability Score Improvement     | 4                  | 4       | 3       | -       | -       | -       | -       | -       | -       | -       |
-| 5th       | +3                    | -                             | 4                  | 4       | 3       | 2       | -       | -       | -       | -       | -       | -       |
-| 6th       | +3                    | Arcane Tradition Feature      | 4                  | 4       | 3       | 3       | -       | -       | -       | -       | -       | -       |
-| 7th       | +3                    | -                             | 4                  | 4       | 3       | 3       | 1       | -       | -       | -       | -       | -       |
-| 8th       | +3                    | Ability Score Improvement     | 4                  | 4       | 3       | 3       | 2       | -       | -       | -       | -       | -       |
-| 9th       | +4                    | -                             | 4                  | 4       | 3       | 3       | 3       | 1       | -       | -       | -       | -       |
-| 10th      | +4                    | Arcane Tradition Feature      | 5                  | 4       | 3       | 3       | 3       | 2       | -       | -       | -       | -       |
-| 11th      | +4                    | -                             | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 12th      | +4                    | Ability Score Improvement     | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | -       | -       | -       |
-| 13th      | +5                    | -                             | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 14th      | +5                    | Arcane Tradition Feature      | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | -       | -       |
-| 15th      | +5                    | -                             | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 16th      | +5                    | Ability Score Improvement     | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | -       |
-| 17th      | +6                    | -                             | 5                  | 4       | 3       | 3       | 3       | 2       | 1       | 1       | 1       | 1       |
-| 18th      | +6                    | Spell Mastery                 | 5                  | 4       | 3       | 3       | 3       | 3       | 1       | 1       | 1       | 1       |
-| 19th      | +6                    | Ability Score Improvement     | 5                  | 4       | 3       | 3       | 3       | 3       | 2       | 1       | 1       | 1       |
-| 20th      | +6                    | Signature Spell               | 5                  | 4       | 3       | 3       | 3       | 3       | 2       | 2       | 1       | 1       |
+| Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Arcane Recovery | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Arcane Tradition              | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | -                             | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement     | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | -                             | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Arcane Tradition Feature      | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                             | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement     | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | -                             | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Arcane Tradition Feature      | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Arcane Tradition Feature      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | -                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Spell Mastery                 | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Signature Spell               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       |                   |                               |                |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 
@@ -2498,21 +2524,21 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 
 At 1st level, you have a spellbook containing six 1st- level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
-**Your Spellbook**
+***Your Spellbook***
 
-> The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
->
-> **Copying a Spell into the Book**. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
->
-> Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
->
-> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
->
-> **Replacing the Book**. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
->
-> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
->
-> **The Book's Appearance**. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+*The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.*
+
+***Copying a Spell into the Book**. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.*
+
+*Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.*
+
+*For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.*
+
+***Replacing the Book**. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.*
+
+*If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.*
+
+***The Book's Appearance**. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
 
 #### Preparing and Casting Spells
 
@@ -2542,7 +2568,7 @@ You can use an arcane focus as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
 
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar).
+Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook").
 
 ### Arcane Recovery
 
