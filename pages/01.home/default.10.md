@@ -3,7 +3,7 @@ title: Introduction
 media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKeyArt2.jpg'
 ---
 
-[center]**Latest News: Remastered SRD v0.4.0 Now Available | [Content Updated April 17th, 2019](https://ogl-srd5.com/changelog#april17th2020)**[/center]
+[center]**Latest News: REmastered D&D SRD5 v0.4.0 Now Available | [Content Updated April 17th, 2019](https://ogl-srd5.com/changelog#april17th2020)**[/center]
 
 ![REmastered Logo](RE&.logo.1000.286.144.png)
 
