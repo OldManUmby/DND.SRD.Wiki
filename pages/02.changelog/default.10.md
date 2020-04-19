@@ -14,7 +14,7 @@ title: Changelog
 ## April 17th, 2020
 
 -   [x] Created (from scratch) new Markdown and MS Word versions (v0.4.0) of the D&D SRD 5.1.
--   [x] Uploaded to public.
+-   [x] All updated content uploaded to the website.
 
 ## February 9th, 2020
 
