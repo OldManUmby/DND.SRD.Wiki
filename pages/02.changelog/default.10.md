@@ -6,7 +6,7 @@ title: Changelog
 
 ## To Do
 
--   [ ] Reorganize material into more usable and realistic chapters.
+-   [ ] Reorganize online material into chapters to match newly reorganized SRD.
 -   [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
 -   [ ] Link [spell lists](https://ogl-srd5.com/spellcasting) with thier respective spells.
 
@@ -15,6 +15,7 @@ title: Changelog
 ## April 17th, 2020
 
 -   [x] Created (from scratch) new Markdown and MS Word versions (v0.4.0) of the D&D SRD 5.1.
+-   [x] Better organize SRD into more usable chapters.
 -   [x] All updated content uploaded to the website.
 
 ## February 9th, 2020
