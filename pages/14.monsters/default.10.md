@@ -328,7 +328,7 @@ You can equip monsters with additional gear and trinkets however you like, and y
 
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
 
-# Chapter ##: Legendary Creatures
+# Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
 
@@ -349,8 +349,6 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 ### Regional Effects
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
-
-# Chapter ##: Monster List
 
 # Monsters (A)
 
