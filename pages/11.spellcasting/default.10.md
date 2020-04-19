@@ -231,7 +231,7 @@ The effects of different spells add together while the durations of those spells
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
-# Chapter ##: Spells
+# Spells
 
 # Spell Lists
 
