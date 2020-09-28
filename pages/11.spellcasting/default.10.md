@@ -463,9 +463,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 - Mind Blank
 
-- Power Word
-
-- Stun
+- Power Word Stun
 
 #### 9th Level
 
@@ -633,9 +631,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 - Insect Plague
 
-- Legend
-
-- Lore
+- Legend Lore
 
 - Mass Cure Wounds
 
@@ -1297,9 +1293,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 #### 7th Level
 
-- Delayed Blast
-
-- Fireball
+- Delayed Blast Fireball
 
 - Etherealness
 
@@ -1721,9 +1715,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 - Private Sanctum
 
-- Resilient
-
-- Sphere
+- Resilient Sphere
 
 - Secret Chest
 
@@ -1825,9 +1817,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 - Arcane Sword
 
-- Delayed Blast
-
-- Fireball
+- Delayed Blast Fireball
 
 - Etherealness
 
@@ -2212,7 +2202,7 @@ Make a check with the hand's Strength contested by the Strength (Athletics) chec
 
 #### Arcane Lock
 
-2nd-level abjuration
+*2nd-level abjuration*
 
 **Casting Time:** 1 action
 
@@ -2472,7 +2462,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 #### Blight
 
-4th-level necromancy
+*4th-level necromancy*
 
 **Casting Time:** 1 action
 
@@ -2768,7 +2758,7 @@ A flying creature stays aloft, provided that it is able to do so. If it must mov
 
 #### Commune
 
-5th-level divination (ritual)
+*5th-level divination (ritual)*
 
 **Casting Time:** 1 minute
 
@@ -2814,7 +2804,7 @@ For example, you could determine the location of powerful undead in the area, th
 
 #### Comprehend Languages
 
-1st-level divination (ritual)
+*1st-level divination (ritual)*
 
 **Casting Time:** 1 action
 
@@ -2830,7 +2820,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 #### Cone of Cold
 
-5th-level evocation
+*5th-level evocation*
 
 **Casting Time:** 1 action
 
@@ -3192,7 +3182,7 @@ When you change the weather conditions, find a current condition on the followin
 
 #### Create Food and Water
 
-3rd-level conjuration
+*3rd-level conjuration*
 
 **Casting Time:** 1 action
 
@@ -3246,7 +3236,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 #### Creation
 
-5th-level illusion
+*5th-level illusion*
 
 **Casting Time:** 1 minute
 
@@ -3311,7 +3301,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 #### Darkness
 
-2nd-level evocation
+*2nd-level evocation*
 
 **Casting Time:** 1 action
 
@@ -3343,7 +3333,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 #### Daylight
 
-3rd-level evocation
+*3rd-level evocation*
 
 **Casting Time:** 1 action
 
@@ -3449,7 +3439,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 #### Detect Poison and Disease
 
-1st-level divination (ritual)
+*1st-level divination (ritual)*
 
 **Casting Time:** 1 action
 
@@ -3465,7 +3455,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 #### Detect Thoughts
 
-2nd-level divination
+*2nd-level divination*
 
 **Casting Time:** 1 action
 
@@ -3581,7 +3571,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 #### Divination
 
-4th-level divination (ritual)
+*4th-level divination (ritual)*
 
 **Casting Time:** 1 action
 
@@ -3817,7 +3807,7 @@ When the spell ends, the conjured plants wilt away.
 
 #### Enthrall
 
-2nd-level enchantment
+*2nd-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -3925,7 +3915,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 #### Faithful Hound
 
-4th-level conjuration
+*4th-level conjuration*
 
 **Casting Time:** 1 action
 
@@ -4031,7 +4021,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 #### Find the Path
 
-6th-level divination
+*6th-level divination*
 
 **Casting Time:** 1 minute
 
@@ -4133,7 +4123,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 #### Flame Blade
 
-2nd-level evocation
+*2nd-level evocation*
 
 **Casting Time:** 1 bonus action
 
@@ -4209,7 +4199,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 #### Floating Disk
 
-1st-level conjuration (ritual)
+*1st-level conjuration (ritual)*
 
 **Casting Time:** 1 action
 
@@ -4243,7 +4233,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 #### Fog Cloud
 
-1st-level conjuration
+*1st-level conjuration*
 
 **Casting Time:** 1 action
 
@@ -4279,7 +4269,7 @@ The spell's area can't overlap with the area of another *forbiddance* spell. If 
 
 #### Forcecage
 
-7th-level evocation
+*7th-level evocation*
 
 **Casting Time:** 1 action
 
@@ -4655,7 +4645,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 #### Hallow
 
-5th-level evocation
+*5th-level evocation*
 
 **Casting Time:** 24 hours
 
@@ -4693,7 +4683,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 #### Hallucinatory Terrain
 
-4th-level illusion
+*4th-level illusion*
 
 **Casting Time:** 10 minutes
 
@@ -4709,7 +4699,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 #### Harm
 
-6th-level necromancy
+*6th-level necromancy*
 
 **Casting Time:** 1 action
 
@@ -4723,7 +4713,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 #### Haste
 
-3rd-level transmutation
+*3rd-level transmutation*
 
 **Casting Time:** 1 action
 
@@ -4739,7 +4729,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 #### Heal
 
-6th-level evocation
+*6th-level evocation*
 
 **Casting Time:** 1 action
 
@@ -4755,7 +4745,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 #### Healing Word
 
-1st-level evocation
+*1st-level evocation*
 
 **Casting Time:** 1 bonus action
 
@@ -4771,7 +4761,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 #### Heat Metal
 
-2nd-level transmutation
+*2nd-level transmutation*
 
 **Casting Time:** 1 action
 
@@ -4789,7 +4779,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 #### Heroes' Feast
 
-6th-level conjuration
+*6th-level conjuration*
 
 **Casting Time:** 10 minutes
 
@@ -4805,7 +4795,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 #### Heroism
 
-1st-level enchantment
+*1st-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -4821,7 +4811,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 #### Hideous Laughter
 
-1st-level enchantment
+*1st-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -4837,7 +4827,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 #### Hold Monster
 
-5th-level enchantment
+*5th-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -4853,7 +4843,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 #### Hold Person
 
-2nd-level enchantment
+*2nd-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -4869,7 +4859,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 #### Holy Aura
 
-8th-level abjuration
+*8th-level abjuration*
 
 **Casting Time:** 1 action
 
@@ -4883,7 +4873,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 #### Hypnotic Pattern
 
-3rd-level illusion
+*3rd-level illusion*
 
 **Casting Time:** 1 action
 
@@ -4901,7 +4891,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 #### Ice Storm
 
-4th-level evocation
+*4th-level evocation*
 
 **Casting Time:** 1 action
 
@@ -4919,7 +4909,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 #### Identify
 
-1st-level divination (ritual)
+*1st-level divination (ritual)*
 
 **Casting Time:** 1 minute
 
@@ -4935,7 +4925,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 #### Illusory Script
 
-1st-level illusion (ritual)
+*1st-level illusion (ritual)*
 
 **Casting Time:** 1 minute
 
@@ -4955,7 +4945,7 @@ A creature with truesight can read the hidden message.
 
 #### Imprisonment
 
-9th-level abjuration
+*9th-level abjuration*
 
 **Casting Time:** 1 minute
 
@@ -4995,7 +4985,7 @@ You can use a particular special component to create only one prison at a time. 
 
 #### Incendiary Cloud
 
-8th-level conjuration
+*8th-level conjuration*
 
 **Casting Time:** 1 action
 
@@ -5013,7 +5003,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 #### Inflict Wounds
 
-1st-level necromancy
+*1st-level necromancy*
 
 **Casting Time:** 1 action
 
@@ -5029,7 +5019,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 #### Insect Plague
 
-5th-level conjuration
+*5th-level conjuration*
 
 **Casting Time:** 1 action
 
@@ -5047,7 +5037,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 #### Instant Summons
 
-6th-level conjuration (ritual)
+*6th-level conjuration (ritual)*
 
 **Casting Time:** 1 minute
 
@@ -5067,7 +5057,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 #### Invisibility
 
-2nd-level illusion
+*2nd-level illusion*
 
 **Casting Time:** 1 action
 
@@ -5083,7 +5073,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 #### Irresistible Dance
 
-6th-level enchantment
+*6th-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -7788,3 +7778,4 @@ You must designate a sanctuary by casting this spell within a location, such as 
 You create a magical zone that guards against deception in a 15-foot radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
+
