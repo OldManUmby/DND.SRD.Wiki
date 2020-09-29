@@ -38,7 +38,7 @@ Some races have subraces. Members of a subrace have the traits of the parent rac
 
 # Dwarf
 
-## Dwarf Traits
+### Dwarf Traits
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
@@ -64,7 +64,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 ***Languages***. You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
-### Hill Dwarf
+## Hill Dwarf
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
@@ -74,7 +74,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 
 # Elf
 
-## Elf Traits
+### Elf Traits
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
@@ -100,7 +100,7 @@ After resting in this way, you gain the same benefit that a human does from 8 ho
 
 ***Languages***. You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
 
-### High Elf
+## High Elf
 
 As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.
 
@@ -114,7 +114,7 @@ As a high elf, you have a keen mind and a mastery of at least the basics of magi
 
 # Halfling
 
-## Halfling Traits
+### Halfling Traits
 
 Your halfling character has a number of traits in common with all other halflings.
 
@@ -136,7 +136,7 @@ Your halfling character has a number of traits in common with all other halfling
 
 ***Languages***. You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
 
-### Lightfoot
+## Lightfoot
 
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others.
 
@@ -148,7 +148,7 @@ Lightfoots are more prone to wanderlust than other halflings, and often dwell al
 
 # Human
 
-## Human Traits
+### Human Traits
 
 It's hard to make generalizations about humans, but your human character has these traits.
 
@@ -166,7 +166,7 @@ It's hard to make generalizations about humans, but your human character has the
 
 # Dragonborn
 
-## Dragonborn Traits
+### Dragonborn Traits
 
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 
@@ -210,7 +210,7 @@ After you use your breath weapon, you can't use it again until you complete a sh
 
 # Gnome
 
-## Gnome Traits
+### Gnome Traits
 
 Your gnome character has certain characteristics in common with all other gnomes.
 
@@ -230,7 +230,7 @@ Your gnome character has certain characteristics in common with all other gnomes
 
 ***Languages***. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
-### Rock Gnome
+## Rock Gnome
 
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
 
@@ -250,7 +250,7 @@ When you create a device, choose one of the following options:
 
 # Half-Elf
 
-## Half-Elf Traits
+### Half-Elf Traits
 
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
 
@@ -274,7 +274,7 @@ Your half-elf character has some qualities in common with elves and some that ar
 
 # Half-Orc
 
-## Half-Orc Traits
+### Half-Orc Traits
 
 Your half-orc character has certain traits deriving from your orc ancestry.
 
@@ -300,7 +300,7 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 
 # Tiefling
 
-## Tiefling Traits
+### Tiefling Traits
 
 Tieflings share certain racial traits as a result of their infernal descent.
 
