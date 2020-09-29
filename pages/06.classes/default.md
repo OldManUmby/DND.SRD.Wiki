@@ -6,28 +6,22 @@ title: Classes
 
 # Barbarian
 
-## Class Features
+### Class Features
 
 As a barbarian, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d12 per barbarian level
-
 **Hit Points at 1st Level:** 12 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
 **Tools:** None
-
 **Saving Throws:** Strength, Constitution
-
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
 #### Equipment
@@ -35,15 +29,13 @@ As a barbarian, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a greataxe or (*b*) any martial melee weapon
-
 - (*a*) two handaxes or (*b*) any simple weapon
-
 - An explorer's pack and four javelins
 
-**Table** **3** - Barbarian
+**Table: The Barbarian**
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
-| ----- | ----------------- | ----------------------------- | --------- | ----------- |
+|-------|-------------------|-------------------------------|-----------|-------------|
 | 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
 | 2nd   | +2                | Reckless Attack, Danger Sense | 2         | +2          |
 | 3rd   | +2                | Primal Path                   | 3         | +2          |
@@ -73,9 +65,7 @@ In battle, you fight with primal ferocity. On your turn, you can enter a rage as
 While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 - You have advantage on Strength checks and Strength saving throws.
-
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
-
 - You have resistance to bludgeoning, piercing, and slashing damage.
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
@@ -170,28 +160,22 @@ Starting at 14th level, when you take damage from a creature that is within 5 fe
 
 # Bard
 
-## Class Features
+### Class Features
 
 As a bard, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per bard level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
 **Tools:** Three musical instruments of your choice
-
 **Saving Throws:** Dexterity, Charisma
-
 **Skills:** Choose any three
 
 #### Equipment
@@ -199,17 +183,14 @@ As a bard, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a rapier, (*b*) a longsword, or (*c*) any simple weapon
-
 - (*a*) a diplomat's pack or (*b*) an entertainer's pack
-
 - (*a*) a lute or (*b*) any other musical instrument
-
 - Leather armor and a dagger
 
-**Table** **4** - Bard
+**Table: The Bard**
 
 | Level | Proficiency Bonus | Features                                             | Spells Known | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ---------------------------------------------------- | ------------ | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|-------|-------------------|------------------------------------------------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | Spellcasting, Bardic Inspiration (d6)                | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Jack of All Trades, Song of Rest (d6)                | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | Bard College, Expertise                              | 2            | 6              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -354,28 +335,22 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 
 # Cleric
 
-## Class Features
+### Class Features
 
 As a cleric, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per cleric level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
-
 **Weapons:** Simple weapons
-
 **Tools:** None
-
 **Saving Throws:** Wisdom, Charisma
-
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 #### Equipment
@@ -383,19 +358,15 @@ As a cleric, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
-
 - (*a*) scale mail, (*b*) leather armor, or (*c*) chain mail (if proficient)
-
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-
 - (*a*) a priest's pack or (*b*) an explorer's pack
-
 - A shield and a holy symbol
 
-**Table** **5** - Cleric
+**Table: The Cleric**
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ----------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | Spellcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -486,10 +457,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-**Table** **6** - Cleric: Destroy Undead
+**Table: Destroy Undead**
 
 | Cleric Level | Destroys Undead of CR ... |
-| ------------ | ------------------------- |
+|--------------|---------------------------|
 | 5th          | 1/2 or lower              |
 | 8th          | 1 or lower                |
 | 11th         | 2 or lower                |
@@ -513,10 +484,10 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-**Table** **7** - Cleric: Life Domain Spells
+**Table: Life Domain Spells**
 
 | Cleric Level | Spells                               |
-| ------------ | ------------------------------------ |
+|--------------|--------------------------------------|
 | 1st          | bless, cure wounds                   |
 | 3rd          | lesser restoration, spiritual weapon |
 | 5th          | beacon of hope, revivify             |
@@ -552,28 +523,22 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 
 # Druid
 
-## Class Features
+### Class Features
 
 As a druid, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per druid level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-
 **Tools:** Herbalism kit
-
 **Saving Throws:** Intelligence, Wisdom
-
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 #### Equipment
@@ -586,10 +551,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - Leather armor, an explorer's pack, and a druidic focus
 
-**Table** **8** - Druid
+**Table: The Druid**
 
 | Level | Proficiency Bonus | Features                                          | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|-------|-------------------|---------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | Druidic, Spellcasting                             | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Wild Shape, Druid Circle                          | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                 | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -650,24 +615,16 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 You can use a druidic focus (see chapter ##, "Equipment") as a spellcasting focus for your druid spells.
 
-***Sacred Plants and Wood***
-
-*A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.*
-
-*Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.*
-
-*Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.*
-
 ### Wild Shape
 
 Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-**Table** **9** - Druid: Beast Shapes
+**Table: Beast Shapes**
 
 | Level | Max. CR | Limitations                 | Example     |
-| ----- | ------- | --------------------------- | ----------- |
+|-------|---------|-----------------------------|-------------|
 | 2nd   | 1/4     | No flying or swimming speed | Wolf        |
 | 4th   | 1/2     | No flying speed             | Crocodile   |
 | 8th   | 1       | -                           | Giant eagle |
@@ -678,13 +635,9 @@ You can stay in a beast shape for a number of hours equal to half your druid lev
 While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
-
 - When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
-
 - You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
-
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
-
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Druid Circle
@@ -731,70 +684,70 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Table** **10** - Druid: Arctic Circle Spells
+**Table: Arctic Circle Spells**
 
 | Druid Level | Circle Spells                     |
-| ----------- | --------------------------------- |
+|-------------|-----------------------------------|
 | 3rd         | hold person, spike growth         |
 | 5th         | sleet storm, slow                 |
 | 7th         | freedom of movement, ice storm    |
 | 9th         | commune with nature, cone of cold |
 |             |                                   |
 
-**Table** **11** - Druid: Coast Circle Spells
+**Table: Coast Circle Spells**
 
 | Druid Level | Circle Spells                      |
-| ----------- | ---------------------------------- |
+|-------------|------------------------------------|
 | 3rd         | mirror image, misty step           |
 | 5th         | water breathing, water walk        |
 | 7th         | control water, freedom of movement |
 | 9th         | conjure elemental, scrying         |
 |             |                                    |
 
-**Table** **12** - Druid: Desert Circle Spells
+**Table: Desert Circle Spells**
 
 | Druid Level | Circle Spells                                 |
-| ----------- | --------------------------------------------- |
+|-------------|-----------------------------------------------|
 | 3rd         | blur, silence                                 |
 | 5th         | create food and water, protection from energy |
 | 7th         | blight, hallucinatory terrain                 |
 | 9th         | insect plague, wall of stone                  |
 |             |                                               |
 
-**Table** **13** - Druid: Forest Circle Spells
+**Table: Forest Circle Spells**
 
 | Druid Level | Circle Spells                    |
-| ----------- | -------------------------------- |
+|-------------|----------------------------------|
 | 3rd         | barkskin, spider climb           |
 | 5th         | call lightning, plant growth     |
 | 7th         | divination, freedom of movement  |
 | 9th         | commune with nature, tree stride |
 |             |                                  |
 
-**Table** **14** - Druid: Grassland Circle Spells
+**Table: Grassland Circle Spells**
 
 | Druid Level | Circle Spells                    |
-| ----------- | -------------------------------- |
+|-------------|----------------------------------|
 | 3rd         | invisibility, pass without trace |
 | 5th         | daylight, haste                  |
 | 7th         | divination, freedom of movement  |
 | 9th         | dream, insect plague             |
 |             |                                  |
 
-**Table** **15** - Druid: Mountain Circle Spells
+**Table: Mountain Circle Spells**
 
 | Druid Level | Circle Spells                   |
-| ----------- | ------------------------------- |
+|-------------|---------------------------------|
 | 3rd         | spider climb, spike growth      |
 | 5th         | lightning bolt, meld into stone |
 | 7th         | stone shape, stoneskin          |
 | 9th         | passwall, wall of stone         |
 |             |                                 |
 
-**Table** **16** - Druid: Swamp Circle Spells
+**Table: Swamp Circle Spells**
 
 | Druid Level | Circle Spells                        |
-| ----------- | ------------------------------------ |
+|-------------|--------------------------------------|
 | 3rd         | acid arrow, darkness                 |
 | 5th         | water walk, stinking cloud           |
 | 7th         | freedom of movement, locate creature |
@@ -817,34 +770,36 @@ When you reach 14th level, creatures of the natural world sense your connection 
 
 The creature is aware of this effect before it makes its attack against you.
 
-***Druids and the Gods***
-
-*Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.*
+>**Sacred Plants and Wood**
+>
+>A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+>
+>Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+>
+>Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+>
+>**Druids and the Gods**
+>
+>Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
 
 # Fighter
 
-## Class Features
+### Class Features
 
 As a fighter, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d10 per fighter level
-
 **Hit Points at 1st Level:** 10 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 #### Proficiencies
 
 **Armor:** All armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
-Tools: None
-
+**Tools:** None
 **Saving Throws:** Strength, Constitution
-
 **Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 #### Equipment
@@ -852,17 +807,14 @@ Tools: None
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) chain mail or (*b*) leather armor, longbow, and 20 arrows
-
 - (*a*) a martial weapon and a shield or (*b*) two martial weapons
-
 - (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
-
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-**Table** **17** - Fighter
+**Table: The Fighter**
 
 | Level | Proficiency Bonus | Features                                          |
-| ----- | ----------------- | ------------------------------------------------- |
+|-------|-------------------|---------------------------------------------------|
 | 1st   | +2                | Fighting Style, Second Wind                       |
 | 2nd   | +2                | Action Surge (one use)                            |
 | 3rd   | +2                | Martial Archetype                                 |
@@ -975,28 +927,22 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 
 # Monk
 
-## Class Features
+### Class Features
 
 As a monk, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per monk level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 
-Armor: None
-
+**Armor:** None
 **Weapons:** Simple weapons, shortswords
-
 **Tools:** Choose one type of artisan's tools or one musical instrument
-
 **Saving Throws:** Strength, Dexterity
-
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
 #### Equipment
@@ -1004,15 +950,13 @@ Armor: None
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a shortsword or (*b*) any simple weapon
-
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
-
 - 10 darts
 
-**Table** **18** - Monk
+**Table: The Monk**
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
-| ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
+|-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
 | 1st   | +2                | 1d4          | -         | -                  | Unarmored Defense, Martial Arts                  |
 | 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Unarmored Movement                           |
 | 3rd   | +2                | 1d4          | 3         | +10 ft.            | Monastic Tradition, Deflect Missiles             |
@@ -1046,9 +990,7 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-
 - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
@@ -1162,9 +1104,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
 - It must succeed on a Dexterity saving throw or be knocked prone.
-
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-
 - It can't take reactions until the end of your next turn.
 
 ##### Wholeness of Body
@@ -1183,28 +1123,22 @@ You can have only one creature under the effect of this feature at a time. You c
 
 # Paladin
 
-## Class Features
+### Class Features
 
 As a paladin, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d10 per paladin level
-
 **Hit Points at 1st Level:** 10 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
 #### Proficiencies
 
 **Armor:** All armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
 **Tools:** None
-
 **Saving Throws:** Wisdom, Charisma
-
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
 #### Equipment
@@ -1212,17 +1146,14 @@ As a paladin, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a martial weapon and a shield or (*b*) two martial weapons
-
 - (*a*) five javelins or (*b*) any simple melee weapon
-
 - (*a*) a priest's pack or (*b*) an explorer's pack
-
 - Chain mail and a holy symbol
 
-**Table** **19** - Paladin
+**Table: The Paladin**
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | ----------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
+|-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
 | 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
@@ -1391,10 +1322,10 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 You gain oath spells at the paladin levels listed.
 
-**Table** **20** - Paladin: Oath of Devotion Spells
+**Table: Oath of Devotion Spells**
 
 | Level | Paladin Spells                           |
-| ----- | ---------------------------------------- |
+|-------|------------------------------------------|
 | 3rd   | protection from evil and good, sanctuary |
 | 5th   | lesser restoration, zone of truth        |
 | 9th   | beacon of hope, dispel magic             |
@@ -1434,38 +1365,32 @@ In addition, for the duration, you have advantage on saving throws against spell
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-***Breaking Your Oath***
-
-*A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.*
-
-*A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.*
-
-*If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.*
+>**Breaking Your Oath**
+>
+>A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+>
+>A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+>
+>If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
 # Ranger
 
-## Class Features
+### Class Features
 
 As a ranger, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d10 per ranger level
-
 **Hit Points at 1st Level:** 10 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
 **Tools:** None
-
 **Saving Throws:** Strength, Dexterity
-
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
 #### Equipment
@@ -1473,17 +1398,14 @@ As a ranger, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) scale mail or (*b*) leather armor
-
 - (*a*) two shortswords or (*b*) two simple melee weapons
-
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
-
 - A longbow and a quiver of 20 arrows
 
-**Table** **21** - Ranger
+**Table: The Ranger**
 
 | Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | ----------------- | ------------------------------------------------- | ------------ | --- | --- | --- | --- | --- |
+|-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
 | 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
 | 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
@@ -1525,15 +1447,10 @@ You are particularly familiar with one type of natural environment and are adept
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
 - Difficult terrain doesn't slow your group's travel.
-
 - Your group can't become lost except by magical means.
-
 - Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-
 - If you are traveling alone, you can move stealthily at a normal pace.
-
 - When you forage, you find twice as much food as you normally would.
-
 - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 You choose additional favored terrain types at 6th and 10th level.
@@ -1674,28 +1591,22 @@ At 15th level, you gain one of the following features of your choice.
 
 # Rogue
 
-## Class Features
+### Class Features
 
 As a rogue, you have the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per rogue level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
 **Tools:** Thieves' tools
-
 **Saving Throws:** Dexterity, Intelligence
-
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
@@ -1703,17 +1614,14 @@ As a rogue, you have the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a rapier or (*b*) a shortsword
-
 - (*a*) a shortbow and quiver of 20 arrows or (*b*) a shortsword
-
 - (*a*) a burglar's pack, (*b*) a dungeoneer's pack, or (*c*) an explorer's pack
-
 - Leather armor, two daggers, and thieves' tools
 
-**Table** **22** - Rogue
+**Table: The Rogue**
 
 | Level | Proficiency Bonus | Sneak Attack | Features                               |
-| ----- | ----------------- | ------------ | -------------------------------------- |
+|-------|-------------------|--------------|----------------------------------------|
 | 1st   | +2                | 1d6          | Expertise, Sneak Attack, Thieves' Cant |
 | 2nd   | +2                | 1d6          | Cunning Action                         |
 | 3rd   | +2                | 2d6          | Roguish Archetype                      |
@@ -1830,28 +1738,22 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 
 # Sorcerer
 
-## Class Features
+### Class Features
 
 As a sorcerer, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d6 per sorcerer level
-
 **Hit Points at 1st Level:** 6 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
 #### Proficiencies
 
 **Armor:** None
-
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-
 **Tools:** None
-
 **Saving Throws:** Constitution, Charisma
-
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 #### Equipment
@@ -1859,17 +1761,14 @@ As a sorcerer, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-
 - (*a*) a component pouch or (*b*) an arcane focus
-
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
-
 - Two daggers
 
-**Table** **23** - Sorcerer
+**Table: The Sorcerer**
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | -------------- | ------------------------------ | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | -              | Spellcasting, Sorcerous Origin | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | 2              | Font of Magic                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | 3              | Metamagic                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -1948,10 +1847,10 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-**Table** **24** - Sorcerer: Creating Spell Slots
+**Table: Creating Spell Slots**
 
 | Spell Slot Level | Sorcery Point Cost |
-| ---------------- | ------------------ |
+|------------------|--------------------|
 | 1st              | 2                  |
 | 2nd              | 3                  |
 | 3rd              | 5                  |
@@ -2025,10 +1924,10 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-**Table** **25** - Sorcerer: Draconic Ancestry
+**Table: Draconic Ancestry**
 
 | Dragon | Damage Type |
-| ------ | ----------- |
+|--------|-------------|
 | Black  | Acid        |
 | Blue   | Lightning   |
 | Brass  | Fire        |
@@ -2065,28 +1964,22 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 
 # Warlock
 
-## Class Features
+### Class Features
 
 As a warlock, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d8 per warlock level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons
-
 **Tools:** None
-
 **Saving Throws:** Wisdom, Charisma
-
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
 #### Equipment
@@ -2094,17 +1987,14 @@ As a warlock, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-
 - (*a*) a component pouch or (*b*) an arcane focus
-
 - (*a*) a scholar's pack or (*b*) a dungeoneer's pack
-
 - Leather armor, any simple weapon, and two daggers
 
-**Table** **26** - Warlock
+**Table: The Warlock**
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
-| ----- | ----------------- | ------------------------------- | -------------- | ------------ | ----------- | ---------- | ----------------- |
+|-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
 | 1st   | +2                | Otherworldly Patron, Pact Magic | 2              | 2            | 1           | 1st        | -                 |
 | 2nd   | +2                | Eldritch Invocations            | 2              | 3            | 2           | 1st        | 2                 |
 | 3rd   | +2                | Pact Boon                       | 2              | 4            | 2           | 2nd        | 2                 |
@@ -2198,16 +2088,6 @@ You can transform one magic weapon into your pact weapon by performing a special
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
-
-***Your Pact Boon***
-
-*Each Pact Boon option produces a special creature or an object that reflects your patron's nature.*
-
-***Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.*
-
-***Pact of the Blade**. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.*
-
-***Pact of the Tome**. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.*
 
 ### Ability Score Improvement
 
@@ -2345,7 +2225,7 @@ When you are in an area of dim light or darkness, you can use your action to bec
 
 #### Otherworldly Leap
 
-Prerequisite: 9th level
+*Prerequisite: 9th level*
 
 You can cast *jump* on yourself at will, without expending a spell slot or material components.
 
@@ -2379,7 +2259,7 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 
 #### Visions of Distant Realms
 
-Prerequisite: 15th level
+*Prerequisite: 15th level*
 
 You can cast *arcane eye* at will, without expending a spell slot.
 
@@ -2397,7 +2277,7 @@ You can cast *speak with dead* at will, without expending a spell slot.
 
 #### Witch Sight
 
-Prerequisite: 15th level
+*Prerequisite: 15th level*
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
 
@@ -2415,10 +2295,10 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**Table** **27** - Warlock: Fiend Expanded Spells
+**Table: Fiend Expanded Spells**
 
 | Spell Level | Spells                            |
-| ----------- | --------------------------------- |
+|-------------|-----------------------------------|
 | 1st         | burning hands, command            |
 | 2nd         | blindness/deafness, scorching ray |
 | 3rd         | fireball, stinking cloud          |
@@ -2448,30 +2328,34 @@ At the end of your next turn, the target returns to the space it previously occu
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
+>**Your Pact Boon**
+>
+>Each Pact Boon option produces a special creature or an object that reflects your patron's nature.
+>
+>***Pact of the Chain***. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
+>
+>***Pact of the Blade***. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
+>
+>***Pact of the Tome***. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
+
 # Wizard
 
-## Class Features
+### Class Features
 
 As a wizard, you gain the following class features.
 
 #### Hit Points
 
 **Hit Dice:** 1d6 per wizard level
-
 **Hit Points at 1st Level:** 6 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
 #### Proficiencies
 
 **Armor:** None
-
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-
 **Tools:** None
-
 **Saving Throws:** Intelligence, Wisdom
-
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
 #### Equipment
@@ -2479,17 +2363,14 @@ As a wizard, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a quarterstaff or (*b*) a dagger
-
 - (*a*) a component pouch or (*b*) an arcane focus
-
 - (*a*) a scholar's pack or (*b*) an explorer's pack
-
 - A spellbook
 
-**Table** **28** - Wizard
+**Table: The Wizard**
 
 | Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| ----- | ----------------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|-------|-------------------|-------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | Spellcasting, Arcane Recovery | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Arcane Tradition              | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                             | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
@@ -2523,22 +2404,6 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 #### Spellbook
 
 At 1st level, you have a spellbook containing six 1st- level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
-
-***Your Spellbook***
-
-*The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.*
-
-***Copying a Spell into the Book**. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.*
-
-*Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.*
-
-*For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.*
-
-***Replacing the Book**. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.*
-
-*If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.*
-
-***The Book's Appearance**. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.*
 
 #### Preparing and Casting Spells
 
@@ -2629,3 +2494,19 @@ Beginning at 10th level, you can add your Intelligence modifier to one damage ro
 Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
+
+>**Your Spellbook**
+>
+>The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
+>
+>***Copying a Spell into the Book***. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+>
+>Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+>
+>For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+>
+>***Replacing the Book***. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+>
+>*If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
+>
+>***The Book's Appearance***. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
