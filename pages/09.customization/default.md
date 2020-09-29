@@ -1,10 +1,46 @@
 ---
-title: Customization
+title: 'Beyond 1st Level'
 ---
 
 [TOC]
 
-# Multiclassing
+As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.
+
+When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can't increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
+
+Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total (minimum of 1). to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+
+When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level fighter has a Constitution score of 18, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+
+The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
+
+**Table: Character Advancement**
+
+| Experience Points | Level | Proficiency Bonus |
+| ----------------- | ----- | ----------------- |
+| 0                 | 1     | +2                |
+| 300               | 2     | +2                |
+| 900               | 3     | +2                |
+| 2,700             | 4     | +2                |
+| 6,500             | 5     | +3                |
+| 14,000            | 6     | +3                |
+| 23,000            | 7     | +3                |
+| 34,000            | 8     | +3                |
+| 48,000            | 9     | +4                |
+| 64,000            | 10    | +4                |
+| 85,000            | 11    | +4                |
+| 100,000           | 12    | +4                |
+| 120,000           | 13    | +5                |
+| 140,000           | 14    | +5                |
+| 165,000           | 15    | +5                |
+| 195,000           | 16    | +5                |
+| 225,000           | 17    | +6                |
+| 265,000           | 18    | +6                |
+| 305,000           | 19    | +6                |
+| 355,000           | 20    | +6                |
+|                   |       |                   |
+
+## Multiclassing
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
@@ -12,7 +48,7 @@ With this rule, you have the option of gaining a level in a new class whenever y
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
 
-## Prerequisites
+### Prerequisites
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
 
@@ -34,21 +70,21 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Wizard    | Intelligence 13             |
 |           |                             |
 
-## Experience Points
+### Experience Points
 
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
 
-## Hit Points and Hit Dice
+### Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
 You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
-## Proficiency Bonus
+### Proficiency Bonus
 
 Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th- level character, which is +3.
 
-## Proficiencies
+### Proficiencies
 
 When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
@@ -104,7 +140,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 ***Pact Magic***. If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-**Table** **48** - Multiclass Spellcaster: Spell Slots per Spell Level
+**Table- Multiclass Spellcaster: Spell Slots per Spell Level**
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

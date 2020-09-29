@@ -32,7 +32,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) two handaxes or (*b*) any simple weapon
 - An explorer's pack and four javelins
 
-**Table: The Barbarian**
+**Table- The Barbarian**
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
 |-------|-------------------|-------------------------------|-----------|-------------|
@@ -187,7 +187,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a lute or (*b*) any other musical instrument
 - Leather armor and a dagger
 
-**Table: The Bard**
+**Table- The Bard**
 
 | Level | Proficiency Bonus | Features                                             | Spells Known | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|------------------------------------------------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -363,7 +363,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - A shield and a holy symbol
 
-**Table: The Cleric**
+**Table- The Cleric**
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -457,7 +457,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-**Table: Destroy Undead**
+**Table- Destroy Undead**
 
 | Cleric Level | Destroys Undead of CR ... |
 |--------------|---------------------------|
@@ -484,7 +484,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-**Table: Life Domain Spells**
+**Table- Life Domain Spells**
 
 | Cleric Level | Spells                               |
 |--------------|--------------------------------------|
@@ -551,7 +551,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - Leather armor, an explorer's pack, and a druidic focus
 
-**Table: The Druid**
+**Table- The Druid**
 
 | Level | Proficiency Bonus | Features                                          | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|---------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -621,7 +621,7 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-**Table: Beast Shapes**
+**Table- Beast Shapes**
 
 | Level | Max. CR | Limitations                 | Example     |
 |-------|---------|-----------------------------|-------------|
@@ -684,7 +684,7 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Table: Arctic Circle Spells**
+**Table- Arctic Circle Spells**
 
 | Druid Level | Circle Spells                     |
 |-------------|-----------------------------------|
@@ -694,7 +694,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | commune with nature, cone of cold |
 |             |                                   |
 
-**Table: Coast Circle Spells**
+**Table- Coast Circle Spells**
 
 | Druid Level | Circle Spells                      |
 |-------------|------------------------------------|
@@ -704,7 +704,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | conjure elemental, scrying         |
 |             |                                    |
 
-**Table: Desert Circle Spells**
+**Table- Desert Circle Spells**
 
 | Druid Level | Circle Spells                                 |
 |-------------|-----------------------------------------------|
@@ -714,7 +714,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | insect plague, wall of stone                  |
 |             |                                               |
 
-**Table: Forest Circle Spells**
+**Table- Forest Circle Spells**
 
 | Druid Level | Circle Spells                    |
 |-------------|----------------------------------|
@@ -724,7 +724,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | commune with nature, tree stride |
 |             |                                  |
 
-**Table: Grassland Circle Spells**
+**Table- Grassland Circle Spells**
 
 | Druid Level | Circle Spells                    |
 |-------------|----------------------------------|
@@ -734,7 +734,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | dream, insect plague             |
 |             |                                  |
 
-**Table: Mountain Circle Spells**
+**Table- Mountain Circle Spells**
 
 | Druid Level | Circle Spells                   |
 |-------------|---------------------------------|
@@ -744,7 +744,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | passwall, wall of stone         |
 |             |                                 |
 
-**Table: Swamp Circle Spells**
+**Table- Swamp Circle Spells**
 
 | Druid Level | Circle Spells                        |
 |-------------|--------------------------------------|
@@ -811,7 +811,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-**Table: The Fighter**
+**Table- The Fighter**
 
 | Level | Proficiency Bonus | Features                                          |
 |-------|-------------------|---------------------------------------------------|
@@ -953,7 +953,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - 10 darts
 
-**Table: The Monk**
+**Table- The Monk**
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
 |-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
@@ -1150,7 +1150,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - Chain mail and a holy symbol
 
-**Table: The Paladin**
+**Table- The Paladin**
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
@@ -1322,7 +1322,7 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 You gain oath spells at the paladin levels listed.
 
-**Table: Oath of Devotion Spells**
+**Table- Oath of Devotion Spells**
 
 | Level | Paladin Spells                           |
 |-------|------------------------------------------|
@@ -1402,7 +1402,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - A longbow and a quiver of 20 arrows
 
-**Table: The Ranger**
+**Table- The Ranger**
 
 | Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
@@ -1618,7 +1618,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a burglar's pack, (*b*) a dungeoneer's pack, or (*c*) an explorer's pack
 - Leather armor, two daggers, and thieves' tools
 
-**Table: The Rogue**
+**Table- The Rogue**
 
 | Level | Proficiency Bonus | Sneak Attack | Features                               |
 |-------|-------------------|--------------|----------------------------------------|
@@ -1765,7 +1765,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - Two daggers
 
-**Table: The Sorcerer**
+**Table- The Sorcerer**
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -1847,7 +1847,7 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-**Table: Creating Spell Slots**
+**Table- Creating Spell Slots**
 
 | Spell Slot Level | Sorcery Point Cost |
 |------------------|--------------------|
@@ -1924,7 +1924,7 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-**Table: Draconic Ancestry**
+**Table- Draconic Ancestry**
 
 | Dragon | Damage Type |
 |--------|-------------|
@@ -1991,7 +1991,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scholar's pack or (*b*) a dungeoneer's pack
 - Leather armor, any simple weapon, and two daggers
 
-**Table: The Warlock**
+**Table- The Warlock**
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
 |-------|-------------------|---------------------------------|----------------|--------------|-------------|------------|-------------------|
@@ -2295,7 +2295,7 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**Table: Fiend Expanded Spells**
+**Table- Fiend Expanded Spells**
 
 | Spell Level | Spells                            |
 |-------------|-----------------------------------|
@@ -2367,7 +2367,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scholar's pack or (*b*) an explorer's pack
 - A spellbook
 
-**Table: The Wizard**
+**Table- The Wizard**
 
 | Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|-------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
