@@ -26,7 +26,7 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
 
-**Table** **1** - Character Advancement
+**Table- 1** - Character Advancement
 
 | Experience Points | Level | Proficiency Bonus |
 | ----------------- | ----- | ----------------- |
@@ -230,7 +230,7 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 ***Speed***. Your base walking speed is 30 feet.
 
-**Table** **2** - Dragonborn: Draconic Ancestry
+**Table- 2** - Dragonborn: Draconic Ancestry
 
 | Dragon | Damage Type | Breath Weapon                |
 | ------ | ----------- | ---------------------------- |
@@ -410,7 +410,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - An explorer's pack and four javelins
 
-**Table** **3** - Barbarian
+**Table- 3** - Barbarian
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
 | ----- | ----------------- | ----------------------------- | --------- | ----------- |
@@ -576,7 +576,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Leather armor and a dagger
 
-**Table** **4** - Bard
+**Table- 4** - Bard
 
 | Level | Proficiency Bonus | Features                                             | Spells Known | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ---------------------------------------------------- | ------------ | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -762,7 +762,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - A shield and a holy symbol
 
-**Table** **5** - Cleric
+**Table- 5** - Cleric
 
 | Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ----------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -856,7 +856,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
-**Table** **6** - Cleric: Destroy Undead
+**Table- 6** - Cleric: Destroy Undead
 
 | Cleric Level | Destroys Undead of CR ... |
 | ------------ | ------------------------- |
@@ -883,7 +883,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
-**Table** **7** - Cleric: Life Domain Spells
+**Table- 7** - Cleric: Life Domain Spells
 
 | Cleric Level | Spells                               |
 | ------------ | ------------------------------------ |
@@ -956,7 +956,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Leather armor, an explorer's pack, and a druidic focus
 
-**Table** **8** - Druid
+**Table- 8** - Druid
 
 | Level | Proficiency Bonus | Features                                          | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1034,7 +1034,7 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-**Table** **9** - Druid: Beast Shapes
+**Table- 9** - Druid: Beast Shapes
 
 | Level | Max. CR | Limitations                 | Example     |
 | ----- | ------- | --------------------------- | ----------- |
@@ -1101,7 +1101,7 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Table** **10** - Druid: Arctic Circle Spells
+**Table- 10** - Druid: Arctic Circle Spells
 
 | Druid Level | Circle Spells                     |
 | ----------- | --------------------------------- |
@@ -1111,7 +1111,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | commune with nature, cone of cold |
 |             |                                   |
 
-**Table** **11** - Druid: Coast Circle Spells
+**Table- 11** - Druid: Coast Circle Spells
 
 | Druid Level | Circle Spells                      |
 | ----------- | ---------------------------------- |
@@ -1121,7 +1121,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | conjure elemental, scrying         |
 |             |                                    |
 
-**Table** **12** - Druid: Desert Circle Spells
+**Table- 12** - Druid: Desert Circle Spells
 
 | Druid Level | Circle Spells                                 |
 | ----------- | --------------------------------------------- |
@@ -1131,7 +1131,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | insect plague, wall of stone                  |
 |             |                                               |
 
-**Table** **13** - Druid: Forest Circle Spells
+**Table- 13** - Druid: Forest Circle Spells
 
 | Druid Level | Circle Spells                    |
 | ----------- | -------------------------------- |
@@ -1141,7 +1141,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | commune with nature, tree stride |
 |             |                                  |
 
-**Table** **14** - Druid: Grassland Circle Spells
+**Table- 14** - Druid: Grassland Circle Spells
 
 | Druid Level | Circle Spells                    |
 | ----------- | -------------------------------- |
@@ -1151,7 +1151,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | dream, insect plague             |
 |             |                                  |
 
-**Table** **15** - Druid: Mountain Circle Spells
+**Table- 15** - Druid: Mountain Circle Spells
 
 | Druid Level | Circle Spells                   |
 | ----------- | ------------------------------- |
@@ -1161,7 +1161,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | passwall, wall of stone         |
 |             |                                 |
 
-**Table** **16** - Druid: Swamp Circle Spells
+**Table- 16** - Druid: Swamp Circle Spells
 
 | Druid Level | Circle Spells                        |
 | ----------- | ------------------------------------ |
@@ -1229,7 +1229,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 
-**Table** **17** - Fighter
+**Table- 17** - Fighter
 
 | Level | Proficiency Bonus | Features                                          |
 | ----- | ----------------- | ------------------------------------------------- |
@@ -1379,7 +1379,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - 10 darts
 
-**Table** **18** - Monk
+**Table- 18** - Monk
 
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features                                         |
 | ----- | ----------------- | ------------ | --------- | ------------------ | ------------------------------------------------ |
@@ -1589,7 +1589,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Chain mail and a holy symbol
 
-**Table** **19** - Paladin
+**Table- 19** - Paladin
 
 | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | ----------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
@@ -1761,7 +1761,7 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 You gain oath spells at the paladin levels listed.
 
-**Table** **20** - Paladin: Oath of Devotion Spells
+**Table- 20** - Paladin: Oath of Devotion Spells
 
 | Level | Paladin Spells                           |
 | ----- | ---------------------------------------- |
@@ -1850,7 +1850,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - A longbow and a quiver of 20 arrows
 
-**Table** **21** - Ranger
+**Table- 21** - Ranger
 
 | Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | ----------------- | ------------------------------------------------- | ------------ | --- | --- | --- | --- | --- |
@@ -2080,7 +2080,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Leather armor, two daggers, and thieves' tools
 
-**Table** **22** - Rogue
+**Table- 22** - Rogue
 
 | Level | Proficiency Bonus | Sneak Attack | Features                               |
 | ----- | ----------------- | ------------ | -------------------------------------- |
@@ -2236,7 +2236,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Two daggers
 
-**Table** **23** - Sorcerer
+**Table- 23** - Sorcerer
 
 | Level | Proficiency Bonus | Sorcery Points | Features                       | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | -------------- | ------------------------------ | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2318,7 +2318,7 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
-**Table** **24** - Sorcerer: Creating Spell Slots
+**Table- 24** - Sorcerer: Creating Spell Slots
 
 | Spell Slot Level | Sorcery Point Cost |
 | ---------------- | ------------------ |
@@ -2395,7 +2395,7 @@ Your innate magic comes from draconic magic that was mingled with your blood or 
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
-**Table** **25** - Sorcerer: Draconic Ancestry
+**Table- 25** - Sorcerer: Draconic Ancestry
 
 | Dragon | Damage Type |
 | ------ | ----------- |
@@ -2471,7 +2471,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - Leather armor, any simple weapon, and two daggers
 
-**Table** **26** - Warlock
+**Table- 26** - Warlock
 
 | Level | Proficiency Bonus | Features                        | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
 | ----- | ----------------- | ------------------------------- | -------------- | ------------ | ----------- | ---------- | ----------------- |
@@ -2785,7 +2785,7 @@ You have made a pact with a fiend from the lower planes of existence, a being wh
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
-**Table** **27** - Warlock: Fiend Expanded Spells
+**Table- 27** - Warlock: Fiend Expanded Spells
 
 | Spell Level | Spells                            |
 | ----------- | --------------------------------- |
@@ -2856,7 +2856,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
   - A spellbook
 
-**Table** **28** - Wizard
+**Table- 28** - Wizard
 
 | Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3044,7 +3044,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-**Table** **29** - Languages: Standard
+**Table- 29** - Languages: Standard
 
 | Language | Typical Speakers | Script   |
 | -------- | ---------------- | -------- |
@@ -3058,7 +3058,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Orc      | Orcs             | Dwarvish |
 |          |                  |          |
 
-**Table** **30** - Languages: Exotic
+**Table- 30** - Languages: Exotic
 
 | Language    | Typical Speakers    | Script    |
 | ----------- | ------------------- | --------- |
@@ -3142,7 +3142,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-**Table** **31** - Background: Suggested Acolyte Characteristics
+**Table- 31** - Background: Suggested Acolyte Characteristics
 
 | d8     | Personality Trait                                                                                                      |
 | ------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -3191,7 +3191,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-**Table** **32** - Equipment: Standard Exchange Rates
+**Table- 32** - Equipment: Standard Exchange Rates
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
 | ------------- | ----- | ---- | ---- | ----- | ------- |
@@ -3268,7 +3268,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 ***Plate***. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-**Table** **33** - Equipment: Armor
+**Table- 33** - Equipment: Armor
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
 | ---------------- | -------- | ------------------------- | -------- | ------------ | ------ |
@@ -3299,7 +3299,7 @@ The time it takes to don or doff armor depends on the armor's category.
 
 ***Doff***. This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-**Table** **34** - Equipment: Armor Donning and Doffing
+**Table- 34** - Equipment: Armor Donning and Doffing
 
 | Category     | Don        | Doff      |
 | ------------ | ---------- | --------- |
@@ -3371,7 +3371,7 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-**Table** **35** - Equipment: Weapons
+**Table- 35** - Equipment: Weapons
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
 | -------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ |
@@ -3514,7 +3514,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 **Scholar's Pack (40 gp)**. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-**Table** **36** - Equipment: Adventuring Gear
+**Table- 36** - Equipment: Adventuring Gear
 
 | Item                         | Cost     | Weight       |
 | ---------------------------- | -------- | ------------ |
@@ -3623,7 +3623,7 @@ The starting equipment you get from your class includes a collection of useful a
 | Whetstone                    | 1 cp     | 1 lb.        |
 |                              |          |              |
 
-**Table** **37** - Equipment: Container Capacity
+**Table- 37** - Equipment: Container Capacity
 
 | Container        | Capacity                               |
 | ---------------- | -------------------------------------- |
@@ -3648,7 +3648,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-**Table** **38** - Equipment: Tools
+**Table- 38** - Equipment: Tools
 
 | Item                     | Cost  | Weight |
 | ------------------------ | ----- | ------ |
@@ -3729,7 +3729,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-**Table** **39** - Equipment: Mounts and Other Animals
+**Table- 39** - Equipment: Mounts and Other Animals
 
 | Item           | Cost   | Speed  | Carrying Capacity |
 | -------------- | ------ | ------ | ----------------- |
@@ -3743,7 +3743,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 |                |        |        |                   |
 
-**Table** **40** - Equipment: Tack, Harness, and Drawn Vehicles
+**Table- 40** - Equipment: Tack, Harness, and Drawn Vehicles
 
 | Item               | Cost   | Weight  |
 | ------------------ | ------ | ------- |
@@ -3764,7 +3764,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Wagon              | 35 gp  | 400 lb. |
 |                    |        |         |
 
-**Table** **41** - Equipment: Waterborne Vehicles
+**Table- 41** - Equipment: Waterborne Vehicles
 
 | Item         | Cost      | Speed  |
 | ------------ | --------- | ------ |
@@ -3782,7 +3782,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-**Table** **42** - Equipment: Cost of Trade Goods
+**Table- 42** - Equipment: Cost of Trade Goods
 
 | Cost   | Goods                                        |
 | ------ | -------------------------------------------- |
@@ -3813,7 +3813,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-**Table** **43** - Equipment: Lifestyle Expenses
+**Table- 43** - Equipment: Lifestyle Expenses
 
 | Lifestyle    | Price/Day     |
 | ------------ | ------------- |
@@ -3850,7 +3850,7 @@ Maintaining this kind of lifestyle doesn't require you to spend any coin, but it
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-**Table** **44** - Equipment: Cost of Food, Drink, and Lodging
+**Table- 44** - Equipment: Cost of Food, Drink, and Lodging
 
 | Item                   | Cost  |
 | ---------------------- | ----- |
@@ -3890,7 +3890,7 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-**Table** **45** - Equipment: Cost of Services
+**Table- 45** - Equipment: Cost of Services
 
 | Service Pay       | Pay           |
 | ----------------- | ------------- |
@@ -3925,7 +3925,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
 
-**Table** **46** - Multiclassing Prerequisites
+**Table- 46** - Multiclassing Prerequisites
 
 | Class     | Ability Score Min.          |
 | --------- | --------------------------- |
@@ -3961,7 +3961,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-**Table** **47** - Multiclassing Proficiencies
+**Table- 47** - Multiclassing Proficiencies
 
 | Class     | Proficiencies Gained                                                                                       |
 | --------- | ---------------------------------------------------------------------------------------------------------- |
@@ -4013,7 +4013,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 ***Pact Magic***. If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-**Table** **48** - Multiclass Spellcaster: Spell Slots per Spell Level
+**Table- 48** - Multiclass Spellcaster: Spell Slots per Spell Level
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4087,7 +4087,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-**Table** **49** - Ability Scores: Modifiers
+**Table- 49** - Ability Scores: Modifiers
 
 | Score | Modifier |
 | ----- | -------- |
@@ -4147,7 +4147,7 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-**Table** **50** - Ability Checks: Typical Difficulty Classes
+**Table- 50** - Ability Checks: Typical Difficulty Classes
 
 | Task Difficulty   | DC |
 | ----------------- | -- |
@@ -4516,7 +4516,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-**Table** **51** - Adventuring: Travel Pace
+**Table- 51** - Adventuring: Travel Pace
 
 | Pace   | Distance per: Minute | Hour    | Day      | Effect                                            |
 | ------ | -------------------- | ------- | -------- | ------------------------------------------------- |
@@ -4881,7 +4881,7 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-**Table** **52** - Combat: Creature Size Categories
+**Table- 52** - Combat: Creature Size Categories
 
 | Size       | Space                  |
 | ---------- | ---------------------- |
@@ -7314,7 +7314,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Table** **53** - Animated Object Statistics
+**Table- 53** - Animated Object Statistics
 
 | Size   | HP | AC | Attack                      | Str | Dex |
 | ------ | -- | -- | --------------------------- | --- | --- |
@@ -8107,7 +8107,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-**Table** **54** - Spell: Confusion (Behavior)
+**Table- 54** - Spell: Confusion (Behavior)
 
 | d10  | Behavior                                                                                                                                                                                        |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8401,7 +8401,7 @@ When you cast the spell, you change the current weather conditions, which are de
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-**Table** **55** - Spell: Control Weather (Precipitation)
+**Table- 55** - Spell: Control Weather (Precipitation)
 
 | Stage | Condition                                  |
 | ----- | ------------------------------------------ |
@@ -8412,7 +8412,7 @@ When you change the weather conditions, find a current condition on the followin
 | 5     | Torrential rain, driving hail, or blizzard |
 |       |                                            |
 
-**Table** **56** - Spell: Control Weather (Temperature)
+**Table- 56** - Spell: Control Weather (Temperature)
 
 | Stage | Condition       |
 | ----- | --------------- |
@@ -8424,7 +8424,7 @@ When you change the weather conditions, find a current condition on the followin
 | 6     | Arctic cold     |
 |       |                 |
 
-**Table** **57** - Spell: Control Weather (Wind)
+**Table- 57** - Spell: Control Weather (Wind)
 
 | Stage | Condition     |
 | ----- | ------------- |
@@ -8505,7 +8505,7 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-**Table** **58** - Spell: Creation (Material)
+**Table- 58** - Spell: Creation (Material)
 
 | Material              | Duration   |
 | --------------------- | ---------- |
@@ -11596,7 +11596,7 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-**Table** **59** - Spell: Reincarnate (Race)
+**Table- 59** - Spell: Reincarnate (Race)
 
 | d100  | Race                |
 | ----- | ------------------- |
@@ -11806,7 +11806,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-**Table** **60** - Spell: Scrying (Knowledge)
+**Table- 60** - Spell: Scrying (Knowledge)
 
 | Knowledge                                         | Save Modifier |
 | ------------------------------------------------- | ------------- |
@@ -12463,7 +12463,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-**Table** **61** - Spell: Teleport (Familiarity)
+**Table- 61** - Spell: Teleport (Familiarity)
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
 | ----------------- | ------ | ------------ | ---------- | --------- |
@@ -13066,7 +13066,7 @@ The following definitions specify what happens to a creature while it is subject
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
-**Table** **62** - Conditions: Exhaustion Effects
+**Table- 62** - Conditions: Exhaustion Effects
 
 | Level | Effect                                         |
 | ----- | ---------------------------------------------- |
@@ -13184,7 +13184,7 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-**Table** **63** - Pantheons: Celtic Deities
+**Table- 63** - Pantheons: Celtic Deities
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
 | ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
@@ -13208,7 +13208,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-**Table** **64** - Pantheons: Greek Deities
+**Table- 64** - Pantheons: Greek Deities
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
 | ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
@@ -13239,7 +13239,7 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-**Table** **65** - Pantheons: Egyptian Deities
+**Table- 65** - Pantheons: Egyptian Deities
 
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
 | ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
@@ -13265,7 +13265,7 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-**Table** **66** - Pantheons: Norse Deities
+**Table- 66** - Pantheons: Norse Deities
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
 | ----------------------------------------- | --------- | ----------------- | --------------------------------- |
@@ -13391,7 +13391,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-**Table** **67** - Traps: Save DCs and Attack Bonuses
+**Table- 67** - Traps: Save DCs and Attack Bonuses
 
 | Trap Danger | Save DC | Attack Bonus |
 | ----------- | ------- | ------------ |
@@ -13400,7 +13400,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Deadly      | 16-20   | +9 to +12   |
 |             |         |              |
 
-**Table** **68** - Traps: Damage Severity by Level
+**Table- 68** - Traps: Damage Severity by Level
 
 | Character Level | Setback | Dangerous | Deadly |
 | --------------- | ------- | --------- | ------ |
@@ -13592,7 +13592,7 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-**Table** **69** - Madness Short-Term Effects
+**Table- 69** - Madness Short-Term Effects
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -13608,7 +13608,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91-100 | The character falls unconscious.                                                                                             |
 |        |                                                                                                                              |
 
-**Table** **70** - Madness: Long-Term Effects
+**Table- 70** - Madness: Long-Term Effects
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -13626,7 +13626,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 |        |                                                                                                                                                                                                                                      |
 
-**Table** **71** - Madness: Indefinite Flaws
+**Table- 71** - Madness: Indefinite Flaws
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13660,7 +13660,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Armor Class***. An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-**Table** **72** - Objects: Armor Class
+**Table- 72** - Objects: Armor Class
 
 | Substance           | AC |
 | ------------------- | -- |
@@ -13675,7 +13675,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-**Table** **73** - Objects: Hit Points
+**Table- 73** - Objects: Hit Points
 
 | Size                                | Fragile  | Resilient |
 | ----------------------------------- | -------- | --------- |
@@ -13705,7 +13705,7 @@ Poisons come in the following four types.
 
 ***Injury***. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-**Table** **74** - Poisons
+**Table- 74** - Poisons
 
 | Item               | Type     | Price/Dose |
 | ------------------ | -------- | ---------- |
@@ -13823,7 +13823,7 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 
 A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
 
-**Table** **75** - Apparatus of the Crab Levers
+**Table- 75** - Apparatus of the Crab Levers
 
 | Lever | Up                                                                                                                               | Down                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13857,7 +13857,7 @@ You have resistance to nonmagical damage while you wear this armor. Additionally
 
 You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
 
-**Table** **76** - Magic Item: Armor of Resistance (Damage Type)
+**Table- 76** - Magic Item: Armor of Resistance (Damage Type)
 
 | d10 | Damage Type |
 | --- | ----------- |
@@ -13909,7 +13909,7 @@ If you dump the bag's contents out on the ground, they explode in a 10-foot radi
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.
 
-**Table** **77** - Magic Item: Bag of Beans (Effect)
+**Table- 77** - Magic Item: Bag of Beans (Effect)
 
 | d100  | Effect                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13960,7 +13960,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-**Table** **78** - Magic Item: Gray Bag of Tricks (Creature)
+**Table- 78** - Magic Item: Gray Bag of Tricks (Creature)
 
 | d8 | Creature     |
 | -- | ------------ |
@@ -13974,7 +13974,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8  | Giant elk    |
 |    |              |
 
-**Table** **79** - Magic Item: Rust Bag of Tricks (Creature)
+**Table- 79** - Magic Item: Rust Bag of Tricks (Creature)
 
 | d8 | Creature   |
 | -- | ---------- |
@@ -13988,7 +13988,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8  | Brown bear |
 |    |            |
 
-**Table** **80** - Magic Item: Tan Bag of Tricks (Creature)
+**Table- 80** - Magic Item: Tan Bag of Tricks (Creature)
 
 | d8 | Creature     |
 | -- | ------------ |
@@ -14040,7 +14040,7 @@ While wearing this belt, your Strength score changes to a score granted by the b
 
 Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.
 
-**Table** **81** - Magic Item: Belt of Strength (Type)
+**Table- 81** - Magic Item: Belt of Strength (Type)
 
 | Type              | Strength | Rarity    |
 | ----------------- | -------- | --------- |
@@ -14149,7 +14149,7 @@ You can send the broom to travel alone to a destination within 1 mile of you if 
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the *detect evil and good* spell. The GM chooses the god and associated alignment or determines the alignment randomly.
 
-**Table** **82** - Magic Item: Candle of Invocation (Alignment)
+**Table- 82** - Magic Item: Candle of Invocation (Alignment)
 
 | d20   | Alignment       |
 | ----- | --------------- |
@@ -14186,7 +14186,7 @@ You can speak the carpet's command word as an action to make the carpet hover an
 
 Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpet or determines it randomly.
 
-**Table** **83** - Magic Item: Carpet of Flying (Type)
+**Table- 83** - Magic Item: Carpet of Flying (Type)
 
 | d100   | Size          | Capacity | Flying Speed |
 | ------ | ------------- | -------- | ------------ |
@@ -14292,7 +14292,7 @@ You can use an action to press one of the cube's faces, expending a number of ch
 
 If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
-**Table** **84** - Magic Item: Cube of Force (Faces)
+**Table- 84** - Magic Item: Cube of Force (Faces)
 
 | Face | Charges | Effect                                                                                                            |
 | ---- | ------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -14306,7 +14306,7 @@ If your movement causes the barrier to come into contact with a solid object tha
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-**Table** **85** - Magic Item: Cube of Force (Charges Lost)
+**Table- 85** - Magic Item: Cube of Force (Charges Lost)
 
 | Spell or Item    | Charges Lost |
 | ---------------- | ------------ |
@@ -14373,7 +14373,7 @@ An illusion of one or more creatures forms over the thrown card and remains unti
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-**Table** **86** - Magic Item: Deck of Illusions (Illusion)
+**Table- 86** - Magic Item: Deck of Illusions (Illusion)
 
 | Playing Card      | Illusion                         |
 | ----------------- | -------------------------------- |
@@ -14422,7 +14422,7 @@ Before you draw a card, you must declare how many cards you intend to draw and t
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-**Table** **87** - Magic Item: Deck of Many Things (Card)
+**Table- 87** - Magic Item: Deck of Many Things (Card)
 
 | Playing Card       | Card        |
 | ------------------ | ----------- |
@@ -14562,7 +14562,7 @@ While wearing this armor, you gain a +1 bonus to AC, you have advantage on savin
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
 
-**Table** **88** - Magic Item: Dragon Scale Mail (Resistance)
+**Table- 88** - Magic Item: Dragon Scale Mail (Resistance)
 
 | Dragon | Resistance |
 | ------ | ---------- |
@@ -14640,7 +14640,7 @@ This painted brass bottle weighs 1 pound. When you use an action to remove the s
 
 The first time the bottle is opened, the GM rolls to determine what happens.
 
-**Table** **89** - Magic Item: Efreeti Bottle (Effect)
+**Table- 89** - Magic Item: Efreeti Bottle (Effect)
 
 | d100   | Effect                                                                                                                                                                                                                                                                                                                                                 |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -14655,7 +14655,7 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *conjure elemental* spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
 
-**Table** **90** - Magic Item: Elemental Gem (Summoned Elemental)
+**Table- 90** - Magic Item: Elemental Gem (Summoned Elemental)
 
 | Gem            | Summoned Elemental |
 | -------------- | ------------------ |
@@ -14705,7 +14705,7 @@ These crystal lenses fit over the eyes. While wearing them, you have advantage o
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.
 
-**Table** **91** - Magic Item: Feather Token (Kind of Token)
+**Table- 91** - Magic Item: Feather Token (Kind of Token)
 
 | d100   | Feather Token |
 | ------ | ------------- |
@@ -14975,7 +14975,7 @@ You can use an action to blow this horn. In response, warrior spirits from the V
 
 Four types of *horn of Valhalla* are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
 
-**Table** **92** - Magic Item: Horn of Valhalla (Type)
+**Table- 92** - Magic Item: Horn of Valhalla (Type)
 
 | d100  | Horn Type | Berserkers Summoned | Requirement                          |
 | ----- | --------- | ------------------- | ------------------------------------ |
@@ -15089,7 +15089,7 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An *identify* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
 
-**Table** **93** - Magic Item: Iron Flask (Contents)
+**Table- 93** - Magic Item: Iron Flask (Contents)
 
 | d100  | Contents          |
 | ----- | ----------------- |
@@ -15195,7 +15195,7 @@ This book describes fitness exercises, and its words are charged with magic. If 
 
 This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
 
-**Table** **94** - Magic Item: Manual of Golems (Type of Golem)
+**Table- 94** - Magic Item: Manual of Golems (Type of Golem)
 
 | d20   | Golem | Time     | Cost       |
 | ----- | ----- | -------- | ---------- |
@@ -15283,7 +15283,7 @@ This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topa
 
 Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
-**Table** **95** - Magic Item: Necklace of Prayer Beads (Bead Type)
+**Table- 95** - Magic Item: Necklace of Prayer Beads (Bead Type)
 
 | d20   | Bead of ...  | Spell                                         |
 | ----- | ------------ | --------------------------------------------- |
@@ -15447,7 +15447,7 @@ When you drink this potion, your Strength score changes for 1 hour. The type of 
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The *potion of frost giant strength* and the *potion of stone giant strength* have the same effect.
 
-**Table** **96** - Magic Item: Potion of Giant Strength (Giant Type)
+**Table- 96** - Magic Item: Potion of Giant Strength (Giant Type)
 
 | Type of Giant     | Strength | Rarity    |
 | ----------------- | -------- | --------- |
@@ -15470,7 +15470,7 @@ When you drink this potion, you gain the "enlarge" effect of the *enlarge/reduce
 
 You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.
 
-**Table** **97** - Magic Item: Potions of Healing (HP Regained)
+**Table- 97** - Magic Item: Potions of Healing (HP Regained)
 
 | Potion of ...    | Rarity    | HP Regained |
 | ---------------- | --------- | ----------- |
@@ -15512,7 +15512,7 @@ If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Con
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
-**Table** **98** - Magic Item: Potion of Resistance (Damage type)
+**Table- 98** - Magic Item: Potion of Resistance (Damage type)
 
 | d10 | Damage Type |
 | --- | ----------- |
@@ -15678,7 +15678,7 @@ While wearing this ring, you regain 1d6 hit points every 10 minutes, provided th
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
 
-**Table** **99** - Magic Item: Ring of Resistance (Damage Type)
+**Table- 99** - Magic Item: Ring of Resistance (Damage Type)
 
 | d10 | Damage Type | Gem        |
 | --- | ----------- | ---------- |
@@ -15710,7 +15710,7 @@ Each sphere appears in an unoccupied space you can see within 120 feet of you. T
 
 As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
 
-**Table** **100** - Magic Item: Ring of Shooting Stars (Damage)
+**Table- 100** - Magic Item: Ring of Shooting Stars (Damage)
 
 | Spheres | Lightning Damage |
 | ------- | ---------------- |
@@ -15852,7 +15852,7 @@ The robe has two of each of the following patches:
 
 In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
 
-**Table** **101** - Magic Item: Robe of Useful Items (Patch)
+**Table- 101** - Magic Item: Robe of Useful Items (Patch)
 
 | d100   | Patch                                                                                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16014,7 +16014,7 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-**Table** **102** - Magic Item: Spell Scroll (Spell Level Statistics)
+**Table- 102** - Magic Item: Spell Scroll (Spell Level Statistics)
 
 | Spell Level | Rarity    | Save DC | Attack Bonus |
 | ----------- | --------- | ------- | ------------ |
@@ -16052,7 +16052,7 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the *gate* spell, or an extradimensional space, such as that within a *portable hole*, the GM determines randomly what happens, using the following table.
 
-**Table** **103** - Magic Item: Sphere of Annihilation (Contact Result)
+**Table- 103** - Magic Item: Sphere of Annihilation (Contact Result)
 
 | d100  | Result                                                                                                                             |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -16115,7 +16115,7 @@ The staff has 20 charges for the following properties. The staff regains 2d8 + 4
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-**Table** **104** - Magic Item: Staff of Power (Damage)
+**Table- 104** - Magic Item: Staff of Power (Damage)
 
 | Distance from Origin  | Damage                                 |
 | --------------------- | -------------------------------------- |
@@ -16160,7 +16160,7 @@ You can also use an action to cast one of the following spells from the staff wi
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-**Table** **105** - Magic Item: Staff of the Magi (Damage)
+**Table- 105** - Magic Item: Staff of the Magi (Damage)
 
 | Distance from Origin  | Damage                                 |
 | --------------------- | -------------------------------------- |
@@ -16449,7 +16449,7 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
-**Table** **106** - Magic Item: Wand of Wonder (Effect)
+**Table- 106** - Magic Item: Wand of Wonder (Effect)
 
 | d100   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16535,7 +16535,7 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-**Table** **107** - Creating Sentient Magic Items: Communication
+**Table- 107** - Creating Sentient Magic Items: Communication
 
 | d100   | Communication                                                                                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16548,7 +16548,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-**Table** **108** - Creating Sentient Magic Items: Senses
+**Table- 108** - Creating Sentient Magic Items: Senses
 
 | d4 | Senses                                     |
 | -- | ------------------------------------------ |
@@ -16562,7 +16562,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-**Table** **109** - Creating Sentient Magic Items: Alignment
+**Table- 109** - Creating Sentient Magic Items: Alignment
 
 | d100   | Alignment       |
 | ------ | --------------- |
@@ -16581,7 +16581,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-**Table** **110** - Creating Sentient Magic Items: Special Purpose
+**Table- 110** - Creating Sentient Magic Items: Special Purpose
 
 | d10 | Purpose                                                                                                                                |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16715,7 +16715,7 @@ A monster's hit points are presented both as a die expression and as an average 
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-**Table** **111** - Monsters: Hit Dice by Size
+**Table- 111** - Monsters: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
 | ------------ | ------- | ------------------ |
@@ -16763,7 +16763,7 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-**Table** **112** - Monsters: Proficiency Bonus by Challenge Rating
+**Table- 112** - Monsters: Proficiency Bonus by Challenge Rating
 
 | Challenge | Proficiency Bonus |
 | --------- | ----------------- |
@@ -16871,7 +16871,7 @@ The number of experience points (XP) a monster is worth is based on its challeng
 
 Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-**Table** **113** - Monsters: Experience Points by Challenge Rating
+**Table- 113** - Monsters: Experience Points by Challenge Rating
 
 | Challenge | XP      |
 | --------- | ------- |
@@ -22061,7 +22061,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***Resistances***. The half-dragon gains resistance to a type of damage based on its color.
 
-**Table** **114** - Monsters: Half-Dragon Template (Damage Resistance)
+**Table- 114** - Monsters: Half-Dragon Template (Damage Resistance)
 
 | Color               | Damage Resistance |
 | ------------------- | ----------------- |
@@ -22076,7 +22076,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half- dragon's size determines how this action functions.
 
-**Table** **115** - Monsters: Half-Dragon Template (Size)
+**Table- 115** - Monsters: Half-Dragon Template (Size)
 
 | Size             | Breath Weapon      | Optional Prerequisite |
 | ---------------- | ------------------ | --------------------- |

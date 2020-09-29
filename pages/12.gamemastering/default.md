@@ -34,7 +34,7 @@ The following definitions specify what happens to a creature while it is subject
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
-**Table** **62** - Conditions: Exhaustion Effects
+**Table- 62** - Conditions: Exhaustion Effects
 
 | Level | Effect                                         |
 | ----- | ---------------------------------------------- |
@@ -152,7 +152,7 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-**Table** **63** - Pantheons: Celtic Deities
+**Table- 63** - Pantheons: Celtic Deities
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
 | ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
@@ -176,7 +176,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-**Table** **64** - Pantheons: Greek Deities
+**Table- 64** - Pantheons: Greek Deities
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
 | ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
@@ -207,7 +207,7 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-**Table** **65** - Pantheons: Egyptian Deities
+**Table- 65** - Pantheons: Egyptian Deities
 
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
 | ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
@@ -233,7 +233,7 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-**Table** **66** - Pantheons: Norse Deities
+**Table- 66** - Pantheons: Norse Deities
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
 | ----------------------------------------- | --------- | ----------------- | --------------------------------- |
@@ -359,7 +359,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-**Table** **67** - Traps: Save DCs and Attack Bonuses
+**Table- 67** - Traps: Save DCs and Attack Bonuses
 
 | Trap Danger | Save DC | Attack Bonus |
 | ----------- | ------- | ------------ |
@@ -368,7 +368,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Deadly      | 16-20   | +9 to +12    |
 |             |         |              |
 
-**Table** **68** - Traps: Damage Severity by Level
+**Table- 68** - Traps: Damage Severity by Level
 
 | Character Level | Setback | Dangerous | Deadly |
 | --------------- | ------- | --------- | ------ |
@@ -560,7 +560,7 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-**Table** **69** - Madness Short-Term Effects
+**Table- 69** - Madness Short-Term Effects
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -576,7 +576,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91-100 | The character falls unconscious.                                                                                             |
 |        |                                                                                                                              |
 
-**Table** **70** - Madness: Long-Term Effects
+**Table- 70** - Madness: Long-Term Effects
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -594,7 +594,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 |        |                                                                                                                                                                                                                                      |
 
-**Table** **71** - Madness: Indefinite Flaws
+**Table- 71** - Madness: Indefinite Flaws
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -628,7 +628,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Armor Class***. An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-**Table** **72** - Objects: Armor Class
+**Table- 72** - Objects: Armor Class
 
 | Substance           | AC  |
 | ------------------- | --- |
@@ -643,7 +643,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-**Table** **73** - Objects: Hit Points
+**Table- 73** - Objects: Hit Points
 
 | Size                                | Fragile  | Resilient |
 | ----------------------------------- | -------- | --------- |
@@ -673,7 +673,7 @@ Poisons come in the following four types.
 
 ***Injury***. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-**Table** **74** - Poisons
+**Table- 74** - Poisons
 
 | Item               | Type     | Price/Dose |
 | ------------------ | -------- | ---------- |

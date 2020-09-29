@@ -14,7 +14,7 @@ When your Constitution modifier increases by 1, your hit point maximum increases
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
 
-**Table** **1** - Character Advancement
+**Table- Character Advancement**
 
 | Experience Points | Level | Proficiency Bonus |
 | ----------------- | ----- | ----------------- |

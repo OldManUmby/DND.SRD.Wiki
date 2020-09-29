@@ -68,7 +68,7 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 
 A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
 
-**Table** **75** - Apparatus of the Crab Levers
+**Table- 75** - Apparatus of the Crab Levers
 
 | Lever | Up                                                                                                                               | Down                                                                                                                                        |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ You have resistance to nonmagical damage while you wear this armor. Additionally
 
 You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
 
-**Table** **76** - Magic Item: Armor of Resistance (Damage Type)
+**Table- 76** - Magic Item: Armor of Resistance (Damage Type)
 
 | d10 | Damage Type |
 | --- | ----------- |
@@ -154,7 +154,7 @@ If you dump the bag's contents out on the ground, they explode in a 10-foot radi
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.
 
-**Table** **77** - Magic Item: Bag of Beans (Effect)
+**Table- 77** - Magic Item: Bag of Beans (Effect)
 
 | d100  | Effect                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -205,7 +205,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-**Table** **78** - Magic Item: Gray Bag of Tricks (Creature)
+**Table- 78** - Magic Item: Gray Bag of Tricks (Creature)
 
 | d8  | Creature     |
 | --- | ------------ |
@@ -219,7 +219,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8   | Giant elk    |
 |     |              |
 
-**Table** **79** - Magic Item: Rust Bag of Tricks (Creature)
+**Table- 79** - Magic Item: Rust Bag of Tricks (Creature)
 
 | d8  | Creature   |
 | --- | ---------- |
@@ -233,7 +233,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8   | Brown bear |
 |     |            |
 
-**Table** **80** - Magic Item: Tan Bag of Tricks (Creature)
+**Table- 80** - Magic Item: Tan Bag of Tricks (Creature)
 
 | d8  | Creature     |
 | --- | ------------ |
@@ -285,7 +285,7 @@ While wearing this belt, your Strength score changes to a score granted by the b
 
 Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.
 
-**Table** **81** - Magic Item: Belt of Strength (Type)
+**Table- 81** - Magic Item: Belt of Strength (Type)
 
 | Type              | Strength | Rarity    |
 | ----------------- | -------- | --------- |
@@ -394,7 +394,7 @@ You can send the broom to travel alone to a destination within 1 mile of you if 
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the *detect evil and good* spell. The GM chooses the god and associated alignment or determines the alignment randomly.
 
-**Table** **82** - Magic Item: Candle of Invocation (Alignment)
+**Table- 82** - Magic Item: Candle of Invocation (Alignment)
 
 | d20   | Alignment       |
 | ----- | --------------- |
@@ -431,7 +431,7 @@ You can speak the carpet's command word as an action to make the carpet hover an
 
 Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpet or determines it randomly.
 
-**Table** **83** - Magic Item: Carpet of Flying (Type)
+**Table- 83** - Magic Item: Carpet of Flying (Type)
 
 | d100   | Size          | Capacity | Flying Speed |
 | ------ | ------------- | -------- | ------------ |
@@ -537,7 +537,7 @@ You can use an action to press one of the cube's faces, expending a number of ch
 
 If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
-**Table** **84** - Magic Item: Cube of Force (Faces)
+**Table- 84** - Magic Item: Cube of Force (Faces)
 
 | Face | Charges | Effect                                                                                                            |
 | ---- | ------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -551,7 +551,7 @@ If your movement causes the barrier to come into contact with a solid object tha
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-**Table** **85** - Magic Item: Cube of Force (Charges Lost)
+**Table- 85** - Magic Item: Cube of Force (Charges Lost)
 
 | Spell or Item    | Charges Lost |
 | ---------------- | ------------ |
@@ -618,7 +618,7 @@ An illusion of one or more creatures forms over the thrown card and remains unti
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-**Table** **86** - Magic Item: Deck of Illusions (Illusion)
+**Table- 86** - Magic Item: Deck of Illusions (Illusion)
 
 | Playing Card      | Illusion                         |
 | ----------------- | -------------------------------- |
@@ -667,7 +667,7 @@ Before you draw a card, you must declare how many cards you intend to draw and t
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-**Table** **87** - Magic Item: Deck of Many Things (Card)
+**Table- 87** - Magic Item: Deck of Many Things (Card)
 
 | Playing Card       | Card       |
 | ------------------ | ---------- |
@@ -807,7 +807,7 @@ While wearing this armor, you gain a +1 bonus to AC, you have advantage on savin
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
 
-**Table** **88** - Magic Item: Dragon Scale Mail (Resistance)
+**Table- 88** - Magic Item: Dragon Scale Mail (Resistance)
 
 | Dragon | Resistance |
 | ------ | ---------- |
@@ -885,7 +885,7 @@ This painted brass bottle weighs 1 pound. When you use an action to remove the s
 
 The first time the bottle is opened, the GM rolls to determine what happens.
 
-**Table** **89** - Magic Item: Efreeti Bottle (Effect)
+**Table- 89** - Magic Item: Efreeti Bottle (Effect)
 
 | d100   | Effect                                                                                                                                                                                                                                                                                                                                                 |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -900,7 +900,7 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *conjure elemental* spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
 
-**Table** **90** - Magic Item: Elemental Gem (Summoned Elemental)
+**Table- 90** - Magic Item: Elemental Gem (Summoned Elemental)
 
 | Gem            | Summoned Elemental |
 | -------------- | ------------------ |
@@ -950,7 +950,7 @@ These crystal lenses fit over the eyes. While wearing them, you have advantage o
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.
 
-**Table** **91** - Magic Item: Feather Token (Kind of Token)
+**Table- 91** - Magic Item: Feather Token (Kind of Token)
 
 | d100   | Feather Token |
 | ------ | ------------- |
@@ -1220,7 +1220,7 @@ You can use an action to blow this horn. In response, warrior spirits from the V
 
 Four types of *horn of Valhalla* are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
 
-**Table** **92** - Magic Item: Horn of Valhalla (Type)
+**Table- 92** - Magic Item: Horn of Valhalla (Type)
 
 | d100  | Horn Type | Berserkers Summoned | Requirement                          |
 | ----- | --------- | ------------------- | ------------------------------------ |
@@ -1334,7 +1334,7 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An *identify* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
 
-**Table** **93** - Magic Item: Iron Flask (Contents)
+**Table- 93** - Magic Item: Iron Flask (Contents)
 
 | d100  | Contents          |
 | ----- | ----------------- |
@@ -1440,7 +1440,7 @@ This book describes fitness exercises, and its words are charged with magic. If 
 
 This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
 
-**Table** **94** - Magic Item: Manual of Golems (Type of Golem)
+**Table- 94** - Magic Item: Manual of Golems (Type of Golem)
 
 | d20   | Golem | Time     | Cost       |
 | ----- | ----- | -------- | ---------- |
@@ -1528,7 +1528,7 @@ This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topa
 
 Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
-**Table** **95** - Magic Item: Necklace of Prayer Beads (Bead Type)
+**Table- 95** - Magic Item: Necklace of Prayer Beads (Bead Type)
 
 | d20   | Bead of ...  | Spell                                         |
 | ----- | ------------ | --------------------------------------------- |
@@ -1692,7 +1692,7 @@ When you drink this potion, your Strength score changes for 1 hour. The type of 
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The *potion of frost giant strength* and the *potion of stone giant strength* have the same effect.
 
-**Table** **96** - Magic Item: Potion of Giant Strength (Giant Type)
+**Table- 96** - Magic Item: Potion of Giant Strength (Giant Type)
 
 | Type of Giant     | Strength | Rarity    |
 | ----------------- | -------- | --------- |
@@ -1715,7 +1715,7 @@ When you drink this potion, you gain the "enlarge" effect of the *enlarge/reduce
 
 You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.
 
-**Table** **97** - Magic Item: Potions of Healing (HP Regained)
+**Table- 97** - Magic Item: Potions of Healing (HP Regained)
 
 | Potion of ...    | Rarity    | HP Regained |
 | ---------------- | --------- | ----------- |
@@ -1757,7 +1757,7 @@ If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Con
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
-**Table** **98** - Magic Item: Potion of Resistance (Damage type)
+**Table- 98** - Magic Item: Potion of Resistance (Damage type)
 
 | d10 | Damage Type |
 | --- | ----------- |
@@ -1923,7 +1923,7 @@ While wearing this ring, you regain 1d6 hit points every 10 minutes, provided th
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
 
-**Table** **99** - Magic Item: Ring of Resistance (Damage Type)
+**Table- 99** - Magic Item: Ring of Resistance (Damage Type)
 
 | d10 | Damage Type | Gem        |
 | --- | ----------- | ---------- |
@@ -1955,7 +1955,7 @@ Each sphere appears in an unoccupied space you can see within 120 feet of you. T
 
 As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
 
-**Table** **100** - Magic Item: Ring of Shooting Stars (Damage)
+**Table- 100** - Magic Item: Ring of Shooting Stars (Damage)
 
 | Spheres | Lightning Damage |
 | ------- | ---------------- |
@@ -2097,7 +2097,7 @@ The robe has two of each of the following patches:
 
 In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
 
-**Table** **101** - Magic Item: Robe of Useful Items (Patch)
+**Table- 101** - Magic Item: Robe of Useful Items (Patch)
 
 | d100   | Patch                                                                                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2259,7 +2259,7 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-**Table** **102** - Magic Item: Spell Scroll (Spell Level Statistics)
+**Table- 102** - Magic Item: Spell Scroll (Spell Level Statistics)
 
 | Spell Level | Rarity    | Save DC | Attack Bonus |
 | ----------- | --------- | ------- | ------------ |
@@ -2297,7 +2297,7 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the *gate* spell, or an extradimensional space, such as that within a *portable hole*, the GM determines randomly what happens, using the following table.
 
-**Table** **103** - Magic Item: Sphere of Annihilation (Contact Result)
+**Table- 103** - Magic Item: Sphere of Annihilation (Contact Result)
 
 | d100  | Result                                                                                                                             |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -2360,7 +2360,7 @@ The staff has 20 charges for the following properties. The staff regains 2d8 + 4
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-**Table** **104** - Magic Item: Staff of Power (Damage)
+**Table- 104** - Magic Item: Staff of Power (Damage)
 
 | Distance from Origin  | Damage                                 |
 | --------------------- | -------------------------------------- |
@@ -2405,7 +2405,7 @@ You can also use an action to cast one of the following spells from the staff wi
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-**Table** **105** - Magic Item: Staff of the Magi (Damage)
+**Table- 105** - Magic Item: Staff of the Magi (Damage)
 
 | Distance from Origin  | Damage                                 |
 | --------------------- | -------------------------------------- |
@@ -2694,7 +2694,7 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
-**Table** **106** - Magic Item: Wand of Wonder (Effect)
+**Table- 106** - Magic Item: Wand of Wonder (Effect)
 
 | d100   | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2780,7 +2780,7 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-**Table** **107** - Creating Sentient Magic Items: Communication
+**Table- 107** - Creating Sentient Magic Items: Communication
 
 | d100   | Communication                                                                                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2793,7 +2793,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-**Table** **108** - Creating Sentient Magic Items: Senses
+**Table- 108** - Creating Sentient Magic Items: Senses
 
 | d4  | Senses                                     |
 | --- | ------------------------------------------ |
@@ -2807,7 +2807,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-**Table** **109** - Creating Sentient Magic Items: Alignment
+**Table- 109** - Creating Sentient Magic Items: Alignment
 
 | d100   | Alignment       |
 | ------ | --------------- |
@@ -2826,7 +2826,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-**Table** **110** - Creating Sentient Magic Items: Special Purpose
+**Table- 110** - Creating Sentient Magic Items: Special Purpose
 
 | d10 | Purpose                                                                                                                                |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |

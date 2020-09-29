@@ -32,7 +32,7 @@ A score of 10 or 11 is the normal human average, but adventurers and many monste
 
 Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-**Table** **49** - Ability Scores: Modifiers
+**Table- 49** - Ability Scores: Modifiers
 
 | Score | Modifier |
 | ----- | -------- |
@@ -92,7 +92,7 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-**Table** **50** - Ability Checks: Typical Difficulty Classes
+**Table- 50** - Ability Checks: Typical Difficulty Classes
 
 | Task Difficulty   | DC  |
 | ----------------- | --- |
@@ -461,7 +461,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a *carpet of flying*, allow you to travel more swiftly.
 
-**Table** **51** - Adventuring: Travel Pace
+**Table- 51** - Adventuring: Travel Pace
 
 | Pace   | Distance per: Minute | Hour    | Day      | Effect                                           |
 | ------ | -------------------- | ------- | -------- | ------------------------------------------------ |
@@ -826,7 +826,7 @@ Flying creatures enjoy many benefits of mobility, but they must also deal with t
 
 Each creature takes up a different amount of space. The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-**Table** **52** - Combat: Creature Size Categories
+**Table- 52** - Combat: Creature Size Categories
 
 | Size       | Space                  |
 | ---------- | ---------------------- |

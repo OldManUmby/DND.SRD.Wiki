@@ -46,7 +46,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-**Table** **29** - Languages: Standard
+**Table- 29** - Languages: Standard
 
 | Language | Typical Speakers | Script   |
 | -------- | ---------------- | -------- |
@@ -60,7 +60,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Orc      | Orcs             | Dwarvish |
 |          |                  |          |
 
-**Table** **30** - Languages: Exotic
+**Table- 30** - Languages: Exotic
 
 | Language    | Typical Speakers    | Script    |
 | ----------- | ------------------- | --------- |
@@ -144,7 +144,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-**Table** **31** - Background: Suggested Acolyte Characteristics
+**Table- 31** - Background: Suggested Acolyte Characteristics
 
 | d8     | Personality Trait                                                                                                      |
 | ------ | ---------------------------------------------------------------------------------------------------------------------- |

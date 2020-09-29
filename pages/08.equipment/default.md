@@ -18,7 +18,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-**Table** **32** - Equipment: Standard Exchange Rates
+**Table- 32** - Equipment: Standard Exchange Rates
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
 | ------------- | ----- | ---- | ---- | ----- | ------- |
@@ -95,7 +95,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 ***Plate***. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-**Table** **33** - Equipment: Armor
+**Table- 33** - Equipment: Armor
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
 | ---------------- | -------- | ------------------------- | -------- | ------------ | ------ |
@@ -126,7 +126,7 @@ The time it takes to don or doff armor depends on the armor's category.
 
 ***Doff***. This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-**Table** **34** - Equipment: Armor Donning and Doffing
+**Table- 34** - Equipment: Armor Donning and Doffing
 
 | Category     | Don        | Doff      |
 | ------------ | ---------- | --------- |
@@ -198,7 +198,7 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-**Table** **35** - Equipment: Weapons
+**Table- 35** - Equipment: Weapons
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
 | -------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ |
@@ -341,7 +341,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 **Scholar's Pack (40 gp)**. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-**Table** **36** - Equipment: Adventuring Gear
+**Table- 36** - Equipment: Adventuring Gear
 
 | Item                         | Cost     | Weight       |
 | ---------------------------- | -------- | ------------ |
@@ -450,7 +450,7 @@ The starting equipment you get from your class includes a collection of useful a
 | Whetstone                    | 1 cp     | 1 lb.        |
 |                              |          |              |
 
-**Table** **37** - Equipment: Container Capacity
+**Table- 37** - Equipment: Container Capacity
 
 | Container        | Capacity                               |
 | ---------------- | -------------------------------------- |
@@ -475,7 +475,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-**Table** **38** - Equipment: Tools
+**Table- 38** - Equipment: Tools
 
 | Item                     | Cost  | Weight |
 | ------------------------ | ----- | ------ |
@@ -556,7 +556,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-**Table** **39** - Equipment: Mounts and Other Animals
+**Table- 39** - Equipment: Mounts and Other Animals
 
 | Item           | Cost   | Speed  | Carrying Capacity |
 | -------------- | ------ | ------ | ----------------- |
@@ -570,7 +570,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 |                |        |        |                   |
 
-**Table** **40** - Equipment: Tack, Harness, and Drawn Vehicles
+**Table- 40** - Equipment: Tack, Harness, and Drawn Vehicles
 
 | Item               | Cost   | Weight  |
 | ------------------ | ------ | ------- |
@@ -591,7 +591,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Wagon              | 35 gp  | 400 lb. |
 |                    |        |         |
 
-**Table** **41** - Equipment: Waterborne Vehicles
+**Table- 41** - Equipment: Waterborne Vehicles
 
 | Item         | Cost      | Speed  |
 | ------------ | --------- | ------ |
@@ -609,7 +609,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-**Table** **42** - Equipment: Cost of Trade Goods
+**Table- 42** - Equipment: Cost of Trade Goods
 
 | Cost   | Goods                                        |
 | ------ | -------------------------------------------- |
@@ -640,7 +640,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-**Table** **43** - Equipment: Lifestyle Expenses
+**Table- 43** - Equipment: Lifestyle Expenses
 
 | Lifestyle    | Price/Day     |
 | ------------ | ------------- |
@@ -677,7 +677,7 @@ Maintaining this kind of lifestyle doesn't require you to spend any coin, but it
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-**Table** **44** - Equipment: Cost of Food, Drink, and Lodging
+**Table- 44** - Equipment: Cost of Food, Drink, and Lodging
 
 | Item                   | Cost  |
 | ---------------------- | ----- |
@@ -717,7 +717,7 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-**Table** **45** - Equipment: Cost of Services
+**Table- 45** - Equipment: Cost of Services
 
 | Service Pay       | Pay           |
 | ----------------- | ------------- |

@@ -66,7 +66,7 @@ A monster's hit points are presented both as a die expression and as an average 
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-**Table** **111** - Monsters: Hit Dice by Size
+**Table- 111** - Monsters: Hit Dice by Size
 
 | Monster Size | Hit Die | Average HP per Die |
 | ------------ | ------- | ------------------ |
@@ -114,7 +114,7 @@ The Saving Throws entry is reserved for creatures that are adept at resisting ce
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-**Table** **112** - Monsters: Proficiency Bonus by Challenge Rating
+**Table- 112** - Monsters: Proficiency Bonus by Challenge Rating
 
 | Challenge | Proficiency Bonus |
 | --------- | ----------------- |
@@ -222,7 +222,7 @@ The number of experience points (XP) a monster is worth is based on its challeng
 
 Unless something tells you otherwise, a monster summoned by a spell or other magical ability is worth the XP noted in its stat block.
 
-**Table** **113** - Monsters: Experience Points by Challenge Rating
+**Table- 113** - Monsters: Experience Points by Challenge Rating
 
 | Challenge | XP      |
 | --------- | ------- |
@@ -5410,7 +5410,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***Resistances***. The half-dragon gains resistance to a type of damage based on its color.
 
-**Table** **114** - Monsters: Half-Dragon Template (Damage Resistance)
+**Table- 114** - Monsters: Half-Dragon Template (Damage Resistance)
 
 | Color               | Damage Resistance |
 | ------------------- | ----------------- |
@@ -5425,7 +5425,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 ***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half- dragon's size determines how this action functions.
 
-**Table** **115** - Monsters: Half-Dragon Template (Size)
+**Table- 115** - Monsters: Half-Dragon Template (Size)
 
 | Size             | Breath Weapon      | Optional Prerequisite |
 | ---------------- | ------------------ | --------------------- |
