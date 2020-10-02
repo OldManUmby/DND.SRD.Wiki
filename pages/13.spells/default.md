@@ -1153,7 +1153,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Table- 53** - Animated Object Statistics
+**Table- Animated Object**
 
 | Size   | HP | AC | Attack                     | Str | Dex |
 |--------|----|----|----------------------------|-----|-----|
@@ -1355,11 +1355,8 @@ If you are returned to your body prematurely, your companions remain in their as
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
 
 - *Weal*, for good results
-
 - *Woe*, for bad results
-
 - *Weal and woe*, for both good and bad results
-
 - *Nothing*, for results that aren't especially good or bad
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
@@ -1445,11 +1442,8 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
 - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-
 - While cursed, the target has disadvantage on attack rolls against you.
-
 - While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
-
 - While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A *remove curse* spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
@@ -1787,13 +1781,9 @@ You briefly become one with nature and gain knowledge of the surrounding territo
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
 - terrain and bodies of water
-
 - prevalent plants, minerals, animals, or peoples
-
 - powerful celestials, fey, fiends, elementals, or undead
-
 - influence from other planes of existence
-
 - buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
@@ -1852,7 +1842,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-**Table- 54** - Spell: Confusion (Behavior)
+**Table- Confusion**
 
 | d10  | Behavior                                                                                                                                                                                        |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1878,11 +1868,8 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
 - One beast of challenge rating 2 or lower
-
 - Two beasts of challenge rating 1 or lower
-
 - Four beasts of challenge rating 1/2 or lower
-
 - Eight beasts of challenge rating 1/4 or lower
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
@@ -1960,11 +1947,8 @@ The GM has the fey creature's statistics.
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
 - One elemental of challenge rating 2 or lower
-
 - Two elementals of challenge rating 1 or lower
-
 - Four elementals of challenge rating 1/2 or lower
-
 - Eight elementals of challenge rating 1/4 or lower.
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
@@ -1987,11 +1971,8 @@ The GM has the creatures' statistics.
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
 - One fey creature of challenge rating 2 or lower
-
 - Two fey creatures of challenge rating 1 or lower
-
 - Four fey creatures of challenge rating 1/2 or lower
-
 - Eight fey creatures of challenge rating 1/4 or lower
 
 A summoned creature disappears when it drops to 0 hit points or when the spell ends.
@@ -2111,7 +2092,7 @@ When you cast the spell, you change the current weather conditions, which are de
 
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
-**Table- 55** - Spell: Control Weather (Precipitation)
+**Table- Control Weather (Precipitation)**
 
 | Stage | Condition                                  |
 |-------|--------------------------------------------|
@@ -2122,7 +2103,7 @@ When you change the weather conditions, find a current condition on the followin
 | 5     | Torrential rain, driving hail, or blizzard |
 |       |                                            |
 
-**Table- 56** - Spell: Control Weather (Temperature)
+**Table- Control Weather (Temperature)**
 
 | Stage | Condition       |
 |-------|-----------------|
@@ -2134,7 +2115,7 @@ When you change the weather conditions, find a current condition on the followin
 | 6     | Arctic cold     |
 |       |                 |
 
-**Table- 57** - Spell: Control Weather (Wind)
+**Table- Control Weather (Wind)**
 
 | Stage | Condition     |
 |-------|---------------|
@@ -2216,7 +2197,7 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-**Table- 58** - Spell: Creation (Material)
+**Table- Creation**
 
 | Material              | Duration   |
 |-----------------------|------------|
@@ -2522,11 +2503,8 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
 
 - 50 hit points or fewer: deafened for 1 minute
-
 - 40 hit points or fewer: deafened and blinded for 10 minutes
-
 - 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
-
 - 20 hit points or fewer: killed instantly Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a *wish* spell.
 
 #### Dominate Beast
@@ -3382,11 +3360,8 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
 
 - One effect that charmed or petrified the target
-
 - One curse, including the target's attunement to a cursed magic item
-
 - Any reduction to one of the target's ability scores
-
 - One effect reducing the target's hit point maximum
 
 #### Guards and Wards
@@ -3413,13 +3388,9 @@ When you cast this spell, you can specify individuals that are unaffected by any
 ***Other Spell Effect***. You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
 - Place dancing lights in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
-
 - Place magic mouth in two locations.
-
 - Place stinking cloud in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.
-
 - Place a constant gust of wind in one corridor or room.
-
 - Place a suggestion in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A *dispel magic* cast on a specific effect, if successful, removes only that effect.
@@ -4064,9 +4035,7 @@ You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
 - The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-
 - The creature has disadvantage on attack rolls against targets within the cylinder.
-
 - Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
@@ -4659,15 +4628,10 @@ Up to six creatures of your choice that you can see within range each regain hit
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within **Range:**
 
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-
 - You instantaneously light or snuff out a candle, a torch, or a small campfire.
-
 - You instantaneously clean or soil an object no larger than 1 cubic foot.
-
 - You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-
 - You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-
 - You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
@@ -4684,19 +4648,12 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.
 
 - ***Red***. The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.
-
 - ***Orange***. The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.
-
 - ***Yellow***. The target takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
-
 - ***Green***. The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.
-
 - ***Blue***. The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.
-
 - ***Indigo***. On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
-
 - ***Violet***. On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
-
 - ***Special***. The target is struck by two rays. Roll twice more, rerolling any 8.
 
 #### Prismatic Wall
@@ -4719,17 +4676,11 @@ The wall consists of seven layers, each with a different color. When a creature 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An *antimagic field* has no effect on it.
 
 - ***Red***. The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
-
 - ***Orange***. The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
-
 - ***Yellow***. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
-
 - ***Green***. The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A *passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
-
 - ***Blue***. The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
-
 - ***Indigo***. On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a *daylight* spell or a similar spell of equal or higher level.
-
 - ***Violet***. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a *dispel magic* spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 #### Private Sanctum
@@ -4746,15 +4697,10 @@ You make an area within range magically secure. The area is a cube that can be a
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
 
 - Sound can't pass through the barrier at the edge of the warded area.
-
 - The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
-
 - Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-
 - Creatures in the area can't be targeted by divination spells.
-
 - Nothing can teleport into or out of the warded area.
-
 - Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
@@ -4933,7 +4879,7 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-**Table- 59** - Spell: Reincarnate (Race)
+**Table- Reincarnate**
 
 | d100  | Race                |
 |-------|---------------------|
@@ -5110,7 +5056,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-**Table- 60** - Spell: Scrying (Knowledge)
+**Table- Scrying**
 
 | Knowledge                                         | Save Modifier |
 |---------------------------------------------------|---------------|
@@ -5673,7 +5619,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-**Table- 61** - Spell: Teleport (Familiarity)
+**Table- Teleport**
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
 |-------------------|--------|--------------|------------|-----------|
@@ -5727,15 +5673,10 @@ You can create a permanent teleportation circle by casting this spell in the sam
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **Range:**
 
 - Your voice booms up to three times as loud as normal for 1 minute.
-
 - You cause flames to flicker, brighten, dim, or change color for 1 minute.
-
 - You cause harmless tremors in the ground for 1 minute.
-
 - You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-
 - You instantaneously cause an unlocked door or window to fly open or slam shut.
-
 - You alter the appearance of your eyes for 1 minute. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
 #### Thunderwave
@@ -6125,13 +6066,9 @@ The basic use of this spell is to duplicate any other spell of 8th level or lowe
 Alternatively, you can create one of the following effects of your choice:
 
 - You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
-
 - You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the *greater restoration* spell.
-
 - You grant up to ten creatures that you can see resistance to a damage type you choose.
-
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
-
 - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
