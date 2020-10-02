@@ -17,13 +17,11 @@ The following definitions specify what happens to a creature while it is subject
 ## Blinded
 
 - A blinded creature can't see and automatically fails any ability check that requires sight.
-
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 ## Charmed
 
 - A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
-
 - The charmer has advantage on any ability check to interact socially with the creature.
 
 ## Deafened
@@ -34,7 +32,7 @@ The following definitions specify what happens to a creature while it is subject
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 
-**Table- 62** - Conditions: Exhaustion Effects
+**Table- Exhaustion Effects**
 
 | Level | Effect                                         |
 |-------|------------------------------------------------|
@@ -57,15 +55,12 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 ## Frightened
 
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-
 - The creature can't willingly move closer to the source of its fear.
 
 ## Grappled
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-
 - The condition ends if the grappler is incapacitated (see the condition).
-
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
 
 ## Incapacitated
@@ -81,25 +76,17 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 ## Paralyzed
 
 - A paralyzed creature is incapacitated (see the condition) and can't move or speak.
-
 - The creature automatically fails Strength and Dexterity saving throws.
-
 - Attack rolls against the creature have advantage.
-
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ## Petrified
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-
 - The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
-
 - Attack rolls against the creature have advantage.
-
 - The creature automatically fails Strength and Dexterity saving throws.
-
 - The creature has resistance to all damage.
-
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 ## Poisoned
@@ -109,37 +96,27 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 ## Prone
 
 - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
-
 - The creature has disadvantage on attack rolls.
-
 - An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 ## Restrained
 
 - A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-
 - The creature has disadvantage on Dexterity saving throws.
 
 ## Stunned
 
 - A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
-
 - The creature automatically fails Strength and Dexterity saving throws.
-
 - Attack rolls against the creature have advantage.
 
 ## Unconscious
 
 - An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
-
 - The creature drops whatever it's holding and falls prone.
-
 - The creature automatically fails Strength and Dexterity saving throws.
-
 - Attack rolls against the creature have advantage.
-
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 # Pantheons
@@ -152,7 +129,7 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-**Table- 63** - Pantheons: Celtic Deities
+**Table- Celtic Deities**
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
 |---------------------------------------------------|-----------|-------------------|------------------------------------|
@@ -176,7 +153,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-**Table- 64** - Pantheons: Greek Deities
+**Table- Greek Deities**
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
 |--------------------------------------------|-----------|------------------------|---------------------------------------|
@@ -207,7 +184,7 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-**Table- 65** - Pantheons: Egyptian Deities
+**Table- Egyptian Deities**
 
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
 |------------------------------------------------|-----------|--------------------------|--------------------------------------|
@@ -233,7 +210,7 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-**Table- 66** - Pantheons: Norse Deities
+**Table- Norse Deities**
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
 |-------------------------------------------|-----------|-------------------|-----------------------------------|
@@ -359,7 +336,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-**Table- 67** - Traps: Save DCs and Attack Bonuses
+**Table- Trap Dangers**
 
 | Trap Danger | Save DC | Attack Bonus |
 |-------------|---------|--------------|
@@ -368,7 +345,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Deadly      | 16-20   | +9 to +12    |
 |             |         |              |
 
-**Table- 68** - Traps: Damage Severity by Level
+**Table- Trap Severity**
 
 | Character Level | Setback | Dangerous | Deadly |
 |-----------------|---------|-----------|--------|
@@ -560,7 +537,7 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-**Table- 69** - Madness Short-Term Effects
+**Table- Madness Short-Term Effects**
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
@@ -576,7 +553,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91-100 | The character falls unconscious.                                                                                             |
 |        |                                                                                                                              |
 
-**Table- 70** - Madness: Long-Term Effects
+**Table- Madness Long-Term Effects**
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -594,7 +571,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 |        |                                                                                                                                                                                                                                      |
 
-**Table- 71** - Madness: Indefinite Flaws
+**Table- Madness Indefinite Flaws**
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -628,7 +605,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Armor Class***. An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-**Table- 72** - Objects: Armor Class
+**Table- Object's Armor Class**
 
 | Substance           | AC |
 |---------------------|----|
@@ -643,7 +620,7 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 ***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-**Table- 73** - Objects: Hit Points
+**Table- Object's Hit Points**
 
 | Size                                | Fragile  | Resilient |
 |-------------------------------------|----------|-----------|
@@ -673,7 +650,7 @@ Poisons come in the following four types.
 
 ***Injury***. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-**Table- 74** - Poisons
+**Table- List of Poisons**
 
 | Item               | Type     | Price/Dose |
 |--------------------|----------|------------|
