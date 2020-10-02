@@ -1,5 +1,5 @@
 ---
-title: 'Customizations'
+title: 'Customization'
 ---
 
 [TOC]
@@ -54,7 +54,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
 
-**Table- 46** - Multiclassing Prerequisites
+**Table- Multiclassing Prerequisites**
 
 | Class     | Ability Score Min.          |
 |-----------|-----------------------------|
@@ -90,7 +90,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-**Table- 47** - Multiclassing Proficiencies
+**Table- Multiclassing Proficiencies**
 
 | Class     | Proficiencies Gained                                                                                       |
 |-----------|------------------------------------------------------------------------------------------------------------|
@@ -183,5 +183,4 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
 - You have advantage on attack rolls against a creature you are grappling.
-
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
