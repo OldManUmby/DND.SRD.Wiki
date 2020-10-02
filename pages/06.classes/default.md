@@ -546,9 +546,7 @@ As a druid, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a wooden shield or (*b*) any simple weapon
-
 - (*a*) a scimitar or (*b*) any simple melee weapon
-
 - Leather armor, an explorer's pack, and a druidic focus
 
 **Table- The Druid**
@@ -2111,7 +2109,7 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 #### Agonizing Blast
 
-Prerequisite: Eldritch Blast cantrip
+*Prerequisite: Eldritch Blast cantrip*
 
 When you cast *eldritch blast*, add your Charisma modifier to the damage it deals on a hit.
 
@@ -2121,7 +2119,7 @@ You can cast *mage armor* on yourself at will, without expending a spell slot or
 
 #### Ascendant Step
 
-Prerequisite: 9th level
+*Prerequisite: 9th level*
 
 You can cast *levitate* on yourself at will, without expending a spell slot or material components.
 
