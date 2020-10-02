@@ -49,7 +49,7 @@ Some of these languages are actually families of languages with many dialects. F
 **Table- 29** - Languages: Standard
 
 | Language | Typical Speakers | Script   |
-| -------- | ---------------- | -------- |
+|----------|------------------|----------|
 | Common   | Humans           | Common   |
 | Dwarvish | Dwarves          | Dwarvish |
 | Elvish   | Elves            | Elvish   |
@@ -63,7 +63,7 @@ Some of these languages are actually families of languages with many dialects. F
 **Table- 30** - Languages: Exotic
 
 | Language    | Typical Speakers    | Script    |
-| ----------- | ------------------- | --------- |
+|-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
 | Draconic    | Dragons, dragonborn | Draconic  |
@@ -147,7 +147,7 @@ Acolytes are shaped by their experience in temples or other religious communitie
 **Table- 31** - Background: Suggested Acolyte Characteristics
 
 | d8     | Personality Trait                                                                                                      |
-| ------ | ---------------------------------------------------------------------------------------------------------------------- |
+|--------|------------------------------------------------------------------------------------------------------------------------|
 | 1      | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example.                      |
 | 2      | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.          |
 | 3      | I see omens in every event and action. The gods try to speak to us, we just need to listen                             |

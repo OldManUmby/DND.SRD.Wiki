@@ -1377,14 +1377,14 @@ As a bonus action, you can mentally command any creature you made with this spel
 
 **Table- 53** - Animated Object Statistics
 
-| Size   | HP  | AC  | Attack                     | Str | Dex |
-| ------ | --- | --- | -------------------------- | --- | --- |
-| Tiny   | 20  | 18  | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
-| Small  | 25  | 16  | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
-| Medium | 40  | 13  | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
-| Large  | 50  | 10  | +6 to hit, 2d10 + 2 damage | 14  | 10  |
-| Huge   | 80  | 10  | +8 to hit, 2d12 + 4 damage | 18  | 6   |
-|        |     |     |                            |     |     |
+| Size   | HP | AC | Attack                     | Str | Dex |
+|--------|----|----|----------------------------|-----|-----|
+| Tiny   | 20 | 18 | +8 to hit, 1d4 + 4 damage  | 4   | 18  |
+| Small  | 25 | 16 | +6 to hit, 1d8 + 2 damage  | 6   | 14  |
+| Medium | 40 | 13 | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
+| Large  | 50 | 10 | +6 to hit, 2d10 + 2 damage | 14  | 10  |
+| Huge   | 80 | 10 | +8 to hit, 2d12 + 4 damage | 18  | 6   |
+|        |    |    |                            |     |     |
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is
 
@@ -2171,7 +2171,7 @@ An affected target can't take reactions and must roll a d10 at the start of each
 **Table- 54** - Spell: Confusion (Behavior)
 
 | d10  | Behavior                                                                                                                                                                                        |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
 | 2-6  | The creature doesn't move or take actions this turn.                                                                                                                                            |
 | 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
@@ -2465,7 +2465,7 @@ When you change the weather conditions, find a current condition on the followin
 **Table- 55** - Spell: Control Weather (Precipitation)
 
 | Stage | Condition                                  |
-| ----- | ------------------------------------------ |
+|-------|--------------------------------------------|
 | 1     | Clear                                      |
 | 2     | Light clouds                               |
 | 3     | Overcast or ground fog                     |
@@ -2476,7 +2476,7 @@ When you change the weather conditions, find a current condition on the followin
 **Table- 56** - Spell: Control Weather (Temperature)
 
 | Stage | Condition       |
-| ----- | --------------- |
+|-------|-----------------|
 | 1     | Unbearable heat |
 | 2     | Hot             |
 | 3     | Warm            |
@@ -2488,7 +2488,7 @@ When you change the weather conditions, find a current condition on the followin
 **Table- 57** - Spell: Control Weather (Wind)
 
 | Stage | Condition     |
-| ----- | ------------- |
+|-------|---------------|
 | 1     | Calm          |
 | 2     | Moderate wind |
 | 3     | Strong wind   |
@@ -2569,7 +2569,7 @@ The duration depends on the object's material. If the object is composed of mult
 **Table- 58** - Spell: Creation (Material)
 
 | Material              | Duration   |
-| --------------------- | ---------- |
+|-----------------------|------------|
 | Vegetable matter      | 1 day      |
 | Stone or crystal      | 12 hours   |
 | Precious metals       | 1 hour     |
@@ -5660,7 +5660,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 **Table- 59** - Spell: Reincarnate (Race)
 
 | d100  | Race                |
-| ----- | ------------------- |
+|-------|---------------------|
 | 01-04 | Dragonborn          |
 | 05-13 | Dwarf, hill         |
 | 14-21 | Dwarf, mountain     |
@@ -5870,7 +5870,7 @@ You can see and hear a particular creature you choose that is on the same plane 
 **Table- 60** - Spell: Scrying (Knowledge)
 
 | Knowledge                                         | Save Modifier |
-| ------------------------------------------------- | ------------- |
+|---------------------------------------------------|---------------|
 | Secondhand (you have heard of the target)         | +5            |
 | Firsthand (you have met the target)               | +0            |
 | Familiar (you know the target well)               | -5            |
@@ -6527,7 +6527,7 @@ The destination you choose must be known to you, and it must be on the same plan
 **Table- 61** - Spell: Teleport (Familiarity)
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
-| ----------------- | ------ | ------------ | ---------- | --------- |
+|-------------------|--------|--------------|------------|-----------|
 | Permanent circle  | -      | -            | -          | 01-100    |
 | Associated object | -      | -            | -          | 01-100    |
 | Very familiar     | 01-05  | 06-13        | 14-24      | 25-100    |

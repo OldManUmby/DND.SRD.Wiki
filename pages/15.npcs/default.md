@@ -29,7 +29,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Religion +2
@@ -63,7 +63,7 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Int +9, Wis +6
@@ -123,7 +123,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
 **Saving Throws** Dex +6, Int +4
@@ -165,7 +165,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
@@ -195,7 +195,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
 **Saving Throws** Str +4, Dex +5, Wis +2
@@ -237,7 +237,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
+|---------|---------|---------|--------|---------|--------|
 | 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 11 (+0) | 9 (-1) |
 
 **Senses** passive Perception 10
@@ -265,7 +265,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
@@ -291,7 +291,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Deception +2, Religion +2
@@ -321,7 +321,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Skills** Deception +4, Persuasion +4, Religion +2
@@ -361,7 +361,7 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Nature +3, Perception +4
@@ -397,7 +397,7 @@ Cantrips (at will): druidcraft, produce flame, shillelagh
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Str +7, Dex +5, Con +6
@@ -439,7 +439,7 @@ Cantrips (at will): druidcraft, produce flame, shillelagh
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2
@@ -467,7 +467,7 @@ Cantrips (at will): druidcraft, produce flame, shillelagh
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Con +4, Wis +2
@@ -507,7 +507,7 @@ Cantrips (at will): druidcraft, produce flame, shillelagh
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
-| ------ | ------- | ------- | ------- | ------- | ------- |
+|--------|---------|---------|---------|---------|---------|
 | 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4
@@ -551,7 +551,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Persuasion +5
@@ -585,7 +585,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Skills** Medicine +7, Persuasion +3, Religion +5
@@ -627,7 +627,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
@@ -661,7 +661,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
@@ -697,7 +697,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Skills** Intimidation +2
@@ -731,7 +731,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
-| ------- | ------- | ------- | ------ | ------- | ------ |
+|---------|---------|---------|--------|---------|--------|
 | 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1) | 11 (+0) | 8 (-1) |
 
 **Senses** passive Perception 10
@@ -759,7 +759,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
+|---------|---------|---------|---------|---------|---------|
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2

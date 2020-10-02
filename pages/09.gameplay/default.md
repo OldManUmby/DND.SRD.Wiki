@@ -35,7 +35,7 @@ Each ability also has a modifier, derived from the score and ranging from -5 (fo
 **Table- 49** - Ability Scores: Modifiers
 
 | Score | Modifier |
-| ----- | -------- |
+|-------|----------|
 | 1     | -5       |
 | 2-3   | -4       |
 | 4-5   | -3       |
@@ -94,15 +94,15 @@ The more difficult a task, the higher its DC. The Typical Difficulty Classes tab
 
 **Table- 50** - Ability Checks: Typical Difficulty Classes
 
-| Task Difficulty   | DC  |
-| ----------------- | --- |
-| Very easy         | 5   |
-| Easy              | 10  |
-| Medium            | 15  |
-| Hard              | 20  |
-| Very hard         | 25  |
-| Nearly impossible | 30  |
-|                   |     |
+| Task Difficulty   | DC |
+|-------------------|----|
+| Very easy         | 5  |
+| Easy              | 10 |
+| Medium            | 15 |
+| Hard              | 20 |
+| Very hard         | 25 |
+| Nearly impossible | 30 |
+|                   |    |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success-the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
@@ -123,7 +123,7 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this section for examples of how to use a skill associated with an ability.
 
 | Strength         | Wisdom          |
-| ---------------- | --------------- |
+|------------------|-----------------|
 | Athletics        | Animal Handling |
 |                  | Insight         |
 | **Dexterity**    | Medicine        |
@@ -464,7 +464,7 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 **Table- 51** - Adventuring: Travel Pace
 
 | Pace   | Distance per: Minute | Hour    | Day      | Effect                                           |
-| ------ | -------------------- | ------- | -------- | ------------------------------------------------ |
+|--------|----------------------|---------|----------|--------------------------------------------------|
 | Fast   | 400 feet             | 4 miles | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
 | Normal | 300 feet             | 3 miles | 18 miles | -                                                |
 | Slow   | 200 feet             | 2 miles | 24 miles | Able to use stealth                              |
@@ -829,7 +829,7 @@ Each creature takes up a different amount of space. The Size Categories table sh
 **Table- 52** - Combat: Creature Size Categories
 
 | Size       | Space                  |
-| ---------- | ---------------------- |
+|------------|------------------------|
 | Tiny       | 2½ by 2½ ft.           |
 | Small      | 5 by 5 ft.             |
 | Medium     | 5 by 5 ft.             |

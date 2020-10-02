@@ -37,7 +37,7 @@ Some special abilities and environmental hazards, such as starvation and the lon
 **Table- 62** - Conditions: Exhaustion Effects
 
 | Level | Effect                                         |
-| ----- | ---------------------------------------------- |
+|-------|------------------------------------------------|
 | 1     | Disadvantage on ability checks                 |
 | 2     | Speed halved                                   |
 | 3     | Disadvantage on attack rolls and saving throws |
@@ -155,7 +155,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 **Table- 63** - Pantheons: Celtic Deities
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
-| ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
+|---------------------------------------------------|-----------|-------------------|------------------------------------|
 | The Daghdha, god of weather and crops             | CG        | Nature, Trickery  | Bubbling cauldron or shield        |
 | Arawn, god of life and death                      | NE        | Life, Death       | Black star on gray background      |
 | Belenus, god of sun, light, and warmth            | NG        | Light             | Solar disk and standing stones     |
@@ -179,7 +179,7 @@ The gods of Olympus make themselves known with the gentle lap of waves against t
 **Table- 64** - Pantheons: Greek Deities
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
-| ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
+|--------------------------------------------|-----------|------------------------|---------------------------------------|
 | Zeus, god of the sky, ruler of the gods    | N         | Tempest                | Fist full of lightning bolts          |
 | Aphrodite, goddess of love and beauty      | CG        | Light                  | Sea shell                             |
 | Apollo, god of light, music, and healing   | CG        | Knowledge, Life, Light | Lyre                                  |
@@ -210,7 +210,7 @@ The Egyptian pantheon is unusual in having three gods responsible for death, eac
 **Table- 65** - Pantheons: Egyptian Deities
 
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
-| ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
+|------------------------------------------------|-----------|--------------------------|--------------------------------------|
 | Re-Horakhty, god of the sun, ruler of the gods | LG        | Life, Light              | Solar disk encircled by serpent      |
 | Anubis, god of judgment and death              | LN        | Death                    | Black jackal                         |
 | Apep, god of evil, fire, and serpents          | NE        | Trickery                 | Flaming snake                        |
@@ -236,7 +236,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 **Table- 66** - Pantheons: Norse Deities
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
-| ----------------------------------------- | --------- | ----------------- | --------------------------------- |
+|-------------------------------------------|-----------|-------------------|-----------------------------------|
 | Odin, god of knowledge and war            | NG        | Knowledge, War    | Watching blue eye                 |
 | Aegir, god of the sea and storms          | NE        | Tempest           | Rough ocean waves                 |
 | Balder, god of beauty and poetry          | NG        | Life, Light       | Gem-encrusted silver chalice      |
@@ -362,7 +362,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 **Table- 67** - Traps: Save DCs and Attack Bonuses
 
 | Trap Danger | Save DC | Attack Bonus |
-| ----------- | ------- | ------------ |
+|-------------|---------|--------------|
 | Setback     | 10-11   | +3 to +5     |
 | Dangerous   | 12-15   | +6 to +8     |
 | Deadly      | 16-20   | +9 to +12    |
@@ -371,7 +371,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 **Table- 68** - Traps: Damage Severity by Level
 
 | Character Level | Setback | Dangerous | Deadly |
-| --------------- | ------- | --------- | ------ |
+|-----------------|---------|-----------|--------|
 | 1st-4th         | 1d10    | 2d10      | 4d10   |
 | 5th-10th        | 2d10    | 4d10      | 10d10  |
 | 11th-16th       | 4d10    | 10d10     | 18d10  |
@@ -563,7 +563,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- 69** - Madness Short-Term Effects
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
+|--------|------------------------------------------------------------------------------------------------------------------------------|
 | 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21-30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
 | 31-40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
@@ -579,7 +579,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- 70** - Madness: Long-Term Effects
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
 | 11-20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
 | 21-30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
@@ -597,7 +597,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- 71** - Madness: Indefinite Flaws
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-15  | "Being drunk keeps me sane."                                                                                                             |
 | 16-25  | "I keep whatever I find."                                                                                                                |
 | 26-30  | "I try to become more like someone else I know-adopting his or her style of dress, mannerisms, and name."                                |
@@ -630,23 +630,23 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 **Table- 72** - Objects: Armor Class
 
-| Substance           | AC  |
-| ------------------- | --- |
-| Cloth, paper, rope  | 11  |
-| Crystal, glass, ice | 13  |
-| Wood, bone          | 15  |
-| Stone               | 17  |
-| Iron, steel         | 19  |
-| Mithral             | 21  |
-| Adamantine          | 23  |
-|                     |     |
+| Substance           | AC |
+|---------------------|----|
+| Cloth, paper, rope  | 11 |
+| Crystal, glass, ice | 13 |
+| Wood, bone          | 15 |
+| Stone               | 17 |
+| Iron, steel         | 19 |
+| Mithral             | 21 |
+| Adamantine          | 23 |
+|                     |    |
 
 ***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
 **Table- 73** - Objects: Hit Points
 
 | Size                                | Fragile  | Resilient |
-| ----------------------------------- | -------- | --------- |
+|-------------------------------------|----------|-----------|
 | Tiny (bottle, lock)                 | 2 (1d4)  | 5 (2d4)   |
 | Small (chest, lute)                 | 3 (1d6)  | 10 (3d6)  |
 | Medium (barrel, chandelier)         | 4 (1d8)  | 18 (4d8)  |
@@ -676,7 +676,7 @@ Poisons come in the following four types.
 **Table- 74** - Poisons
 
 | Item               | Type     | Price/Dose |
-| ------------------ | -------- | ---------- |
+|--------------------|----------|------------|
 | Assassin's blood   | Ingested | 150 gp     |
 | Burnt othur fumes  | Inhaled  | 500 gp     |
 | Crawler mucus      | Contact  | 200 gp     |

@@ -21,7 +21,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 **Table- 32** - Equipment: Standard Exchange Rates
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
-| ------------- | ----- | ---- | ---- | ----- | ------- |
+|---------------|-------|------|------|-------|---------|
 | Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
 | Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
@@ -98,7 +98,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 **Table- 33** - Equipment: Armor
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
-| ---------------- | -------- | ------------------------- | -------- | ------------ | ------ |
+|------------------|----------|---------------------------|----------|--------------|--------|
 | **Light Armor**  |          |                           |          |              |        |
 | Padded           | 5 gp     | 11 + Dex modifier         | -        | Disadvantage | 8 lb.  |
 | Leather          | 10 gp    | 11 + Dex modifier         | -        | -            | 10 lb. |
@@ -129,7 +129,7 @@ The time it takes to don or doff armor depends on the armor's category.
 **Table- 34** - Equipment: Armor Donning and Doffing
 
 | Category     | Don        | Doff      |
-| ------------ | ---------- | --------- |
+|--------------|------------|-----------|
 | Light Armor  | 1 minute   | 1 minute  |
 | Medium Armor | 5 minutes  | 1 minute  |
 | Heavy Armor  | 10 minutes | 5 minutes |
@@ -201,7 +201,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 **Table- 35** - Equipment: Weapons
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
-| -------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ |
+|----------------------------|-------|-----------------|---------|--------------------------------------------------------|
 | **Simple Melee Weapons**   |       |                 |         |                                                        |
 | Club                       | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                     | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -344,7 +344,7 @@ The starting equipment you get from your class includes a collection of useful a
 **Table- 36** - Equipment: Adventuring Gear
 
 | Item                         | Cost     | Weight       |
-| ---------------------------- | -------- | ------------ |
+|------------------------------|----------|--------------|
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
 | Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
@@ -453,7 +453,7 @@ The starting equipment you get from your class includes a collection of useful a
 **Table- 37** - Equipment: Container Capacity
 
 | Container        | Capacity                               |
-| ---------------- | -------------------------------------- |
+|------------------|----------------------------------------|
 | Backpack*        | 1 cubic foot/30 pounds of gear         |
 | Barrel           | 40 gallons liquid, 4 cubic feet solid  |
 | Basket           | 2 cubic feet/40 pounds of gear         |
@@ -478,7 +478,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 **Table- 38** - Equipment: Tools
 
 | Item                     | Cost  | Weight |
-| ------------------------ | ----- | ------ |
+|--------------------------|-------|--------|
 | **Artisan's tools**      |       |        |
 | Alchemist's supplies     | 50 gp | 8 lb.  |
 | Brewer's supplies        | 20 gp | 9 lb.  |
@@ -559,7 +559,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Table- 39** - Equipment: Mounts and Other Animals
 
 | Item           | Cost   | Speed  | Carrying Capacity |
-| -------------- | ------ | ------ | ----------------- |
+|----------------|--------|--------|-------------------|
 | Camel          | 50 gp  | 50 ft. | 480 lb.           |
 | Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
 | Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
@@ -573,7 +573,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Table- 40** - Equipment: Tack, Harness, and Drawn Vehicles
 
 | Item               | Cost   | Weight  |
-| ------------------ | ------ | ------- |
+|--------------------|--------|---------|
 | Barding            | ×4     | ×2      |
 | Bit and bridle     | 2 gp   | 1 lb.   |
 | Carriage           | 100 gp | 600 lb. |
@@ -594,7 +594,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Table- 41** - Equipment: Waterborne Vehicles
 
 | Item         | Cost      | Speed  |
-| ------------ | --------- | ------ |
+|--------------|-----------|--------|
 | Galley       | 30,000 gp | 4 mph  |
 | Keelboat     | 3,000 gp  | 1 mph  |
 | Longship     | 10,000 gp | 3 mph  |
@@ -612,7 +612,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 **Table- 42** - Equipment: Cost of Trade Goods
 
 | Cost   | Goods                                        |
-| ------ | -------------------------------------------- |
+|--------|----------------------------------------------|
 | 1 cp   | 1 lb. of wheat                               |
 | 2 cp   | 1 lb. of flour or one chicken                |
 | 5 cp   | 1 lb. of salt                                |
@@ -643,7 +643,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 **Table- 43** - Equipment: Lifestyle Expenses
 
 | Lifestyle    | Price/Day     |
-| ------------ | ------------- |
+|--------------|---------------|
 | Wretched     | -             |
 | Squalid      | 1 sp          |
 | Poor         | 2 sp          |
@@ -680,7 +680,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 **Table- 44** - Equipment: Cost of Food, Drink, and Lodging
 
 | Item                   | Cost  |
-| ---------------------- | ----- |
+|------------------------|-------|
 | **Ale**                |       |
 | Gallon                 | 2 sp  |
 | Mug                    | 4 cp  |
@@ -720,7 +720,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 **Table- 45** - Equipment: Cost of Services
 
 | Service Pay       | Pay           |
-| ----------------- | ------------- |
+|-------------------|---------------|
 | **Coach cab**     |               |
 | Between towns     | 3 cp per mile |
 | Within a city     | 1 cp          |

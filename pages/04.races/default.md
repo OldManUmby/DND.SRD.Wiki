@@ -183,7 +183,7 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 **Table- Draconic Ancestry**
 
 | Dragon | Damage Type | Breath Weapon                |
-| ------ | ----------- | ---------------------------- |
+|--------|-------------|------------------------------|
 | Black  | Acid        | 5 by 30 ft. line (Dex. save) |
 | Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
 | Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
