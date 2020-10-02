@@ -1153,7 +1153,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Table- Animated Object**
+**Table- Animate Object Stats**
 
 | Size   | HP | AC | Attack                     | Str | Dex |
 |--------|----|----|----------------------------|-----|-----|
@@ -1842,7 +1842,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-**Table- Confusion**
+**Table- Confusion Behavior**
 
 | d10  | Behavior                                                                                                                                                                                        |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1949,7 +1949,7 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 - One elemental of challenge rating 2 or lower
 - Two elementals of challenge rating 1 or lower
 - Four elementals of challenge rating 1/2 or lower
-- Eight elementals of challenge rating 1/4 or lower.
+- Eight elementals of challenge rating 1/4 or lower
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
@@ -2002,8 +2002,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 **Casting Time:** 1 action
 **Range:** Touch
-
-Component: V, S
+**Component:** V, S
 **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned.
@@ -2197,7 +2196,7 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-**Table- Creation**
+**Table- Creation Duration**
 
 | Material              | Duration   |
 |-----------------------|------------|
@@ -3316,7 +3315,7 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
 
 **Casting Time:** 1 action
 
-**Range: Touch**
+**Range:** Touch
 **Components:** V, S, M (a sprig of mistletoe)
 **Duration:** Instantaneous
 
@@ -4625,7 +4624,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 **Components:** V, S
 **Duration:** Up to 1 hour
 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within **Range:**
+This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within Range:
 
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 - You instantaneously light or snuff out a candle, a torch, or a small campfire.
@@ -4879,7 +4878,7 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-**Table- Reincarnate**
+**Table- Reincarnate Race**
 
 | d100  | Race                |
 |-------|---------------------|
@@ -5056,7 +5055,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-**Table- Scrying**
+**Table- Scrying Save Modifier**
 
 | Knowledge                                         | Save Modifier |
 |---------------------------------------------------|---------------|
@@ -5619,7 +5618,7 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-**Table- Teleport**
+**Table- Teleport Familiarity**
 
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
 |-------------------|--------|--------------|------------|-----------|
@@ -5670,7 +5669,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 **Components:** V
 **Duration:** Up to 1 minute
 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within **Range:**
+You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within Range:
 
 - Your voice booms up to three times as loud as normal for 1 minute.
 - You cause flames to flicker, brighten, dim, or change color for 1 minute.
