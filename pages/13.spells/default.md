@@ -16,9 +16,11 @@ title: Spells
 - Minor Illusion
 - Prestidigitation
 - True Strike
+- Vicious Mockery
 
 #### 1st Level
 
+- Animal Friendship
 - Bane
 - Charm Person
 - Comprehend Languages
@@ -81,6 +83,7 @@ title: Spells
 
 #### 4th Level
 
+- Compulsion
 - Confusion
 - Dimension Door
 - Freedom of Movement
@@ -154,6 +157,7 @@ title: Spells
 - Mending
 - Resistance
 - Sacred Flame
+- Spare the Dying
 - Thaumaturgy
 
 #### 1st Level
@@ -223,6 +227,7 @@ title: Spells
 - Death Ward
 - Divination
 - Freedom of Movement
+- Guardian of Faith
 - Locate Creature
 - Stone Shape
 
@@ -284,14 +289,17 @@ title: Spells
 
 #### Cantrips (0 Level)
 
+- Driudcraft
 - Guidance
 - Mending
+- Poison Spray
 - Produce Flame
 - Resistance
 - Shillelagh
 
 #### 1st Level
 
+- Animal Friendship
 - Charm Person
 - Create or Destroy Water
 - Cure Wounds
@@ -300,6 +308,7 @@ title: Spells
 - Entangle
 - Faerie Fire
 - Fog Cloud
+- Goodberry
 - Healing Word
 - Jump
 - Longstrider
@@ -432,6 +441,7 @@ title: Spells
 #### 2nd Level
 
 - Aid
+- Branding Smite
 - Find Steed
 - Lesser Restoration
 - Locate Object
@@ -465,10 +475,13 @@ title: Spells
 #### 1st Level
 
 - Alarm
+- Animal Friendship
 - Cure Wounds
 - Detect Magic
 - Detect Poison and Disease
 - Fog Cloud
+- Goodberry
+- Hunter's Mark
 - Jump
 - Longstrider
 - Speak with Animals
@@ -518,11 +531,13 @@ title: Spells
 - Acid Splash
 - Chill Touch
 - Dancing Lights
+- Fire Bolt
 - Light
 - Mage Hand
 - Mending
 - Message
 - Minor Illusion
+- Poison Spray
 - Prestidigitation
 - Ray of Frost
 - Shocking Grasp
@@ -576,6 +591,7 @@ title: Spells
 
 - Blink
 - Clairvoyance
+- Counterspell
 - Daylight
 - Dispel Magic
 - Fear
@@ -665,8 +681,10 @@ title: Spells
 #### Cantrips (0 Level)
 
 - Chill Touch
+- Eldritch Blast
 - Mage Hand
 - Minor Illusion
+- Poison Spray
 - Prestidigitation
 - True Strike
 
@@ -675,6 +693,7 @@ title: Spells
 - Charm Person
 - Comprehend Languages
 - Expeditious Retreat
+- Hellish Rebuke
 - Illusory Script
 - Protection from Evil and Good
 - Unseen Servant
@@ -693,7 +712,7 @@ title: Spells
 - Suggestion
 
 #### 3rd Level
-
+- Counterspell
 - Dispel Magic
 - Fear
 - Fly
@@ -759,11 +778,13 @@ title: Spells
 - Acid Splash
 - Chill Touch
 - Dancing Lights
+- Fire Bolt
 - Light
 - Mage Hand
 - Mending
 - Message
 - Minor Illusion
+- Poison Spray
 - Prestidigitation
 - Ray of Frost
 - Shocking Grasp
@@ -781,6 +802,7 @@ title: Spells
 - Expeditious Retreat
 - False Life
 - Feather Fall
+- Find Familiar
 - Floating Disk
 - Fog Cloud
 - Grease
@@ -838,6 +860,7 @@ title: Spells
 - Bestow Curse
 - Blink
 - Clairvoyance
+- Counterspell
 - Dispel Magic
 - Fear
 - Fireball
@@ -1071,6 +1094,22 @@ You assume a different form. When you cast the spell, choose one of the followin
 ***Change Appearance***. You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
 
 ***Natural Weapons***. You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+#### Animal Friendship
+
+*1st-­level enchantment*
+
+**Casting Time:** 1 action
+
+**Range:** 30 feet
+
+**Components:** V, S, M (a morsel of food)
+
+**Duration:** 24 hours
+
+This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.
+
+***At Higher Levels***. When you cast this spell using a  spell slot of 2nd level or higher, you can affect one additional beast t level above 1st.
 
 #### Animal Messenger
 
@@ -1611,6 +1650,22 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
+## Branding Smite
+
+*2nd-­level evocation*
+
+**Casting Time:** 1 bonus action
+
+**Range:** Self
+
+**Components:** V
+
+**Duration:** Concentration, up to 1 minute
+
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-­foot radius and can't become invisible until the spell ends. 
+
+***At Higher Levels***. When you cast this spell using a  spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd. 
+
 #### Burning Hands
 
 *1st-level evocation*
@@ -1902,6 +1957,22 @@ For example, you could determine the location of powerful undead in the area, th
 For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
+
+#### Compulsion
+
+*4th-­level enchantment*
+
+**Casting Time:** 1 action
+
+**Range:** 30 feet
+
+**Components:** V, S
+
+**Duration:** Concentration, up to 1 minute
+
+Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect. 
+
+A target isn't compelled to move into an obviously  deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
 #### Cone of Cold
 
@@ -2264,6 +2335,22 @@ When you change the weather conditions, find a current condition on the followin
 | 4     | Gale          |
 | 5     | Storm         |
 |       |               |
+
+#### Counterspell
+
+*3rd-­level abjuration*
+
+**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
+
+**Range:** 60 feet
+
+**Components:** S
+
+**Duration:** Instantaneous
+
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+
+***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used. 
 
 #### Create Food and Water
 
@@ -2794,6 +2881,25 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
+#### Druidcraft
+
+*Transmutation cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** 30 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+Whispering to the spirits of nature, you create one of the following effects within range:
+
+- You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+- You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+- You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+- You instantly light or snuff out a candle, a torch, or a small campfire.
+
 # Spells (E)
 
 #### Earthquake
@@ -2823,6 +2929,22 @@ This spell can have additional effects depending on the terrain in the area, as 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
 ***Structures***. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
+
+#### Eldritch Blast
+
+*Evocation cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** 120 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
+
+The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam. 
 
 #### Enhance Ability
 
@@ -3082,6 +3204,32 @@ At the end of every 30 days, the creature can repeat its saving throw against th
 
 The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
+#### Find Familiar
+
+*1st-­level conjuration (ritual)*
+
+**Casting Time:** 1 hour
+
+**Range:** 10 feet
+
+**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
+
+**Duration:** Instantaneous
+
+You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. 
+
+While your familiar is within 100 feet of you, you  can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+
+As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
+
+You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll. 
+
 #### Find Steed
 
 *2nd-level conjuration*
@@ -3171,6 +3319,22 @@ A bright streak flashes from your pointing finger to a point you choose within r
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+#### Fire Bolt
+
+*Evocation cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** 120 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried. 
+
+This spell's damage increases by 1d10 when you  reach 5th level (2d10), 11th level (3d10), and 17th level (4d10). 
 
 #### Fire Shield
 
@@ -3584,6 +3748,22 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage of an *explosive runes* glyph increases by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you can store any spell of up to the same level as the slot you use for the *glyph of warding*.
 
+#### Goodberry
+
+*1st-level transmutation*
+
+**Casting Time:** 1 action
+
+**Range: Touch**
+
+**Components:** V, S, M (a sprig of mistletoe)
+
+**Duration:** Instantaneous
+
+Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. 
+
+The berries lose their potency if they have not  been consumed within 24 hours of the casting of this spell. 
+
 #### Grease
 
 *1st-level conjuration*
@@ -3862,6 +4042,22 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
+#### Hellish Rebuke
+
+*1st-­level evocation*
+
+**Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
+
+**Range:** 60 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+
+***At Higher Levels***. When you cast this spell using a  spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st. 
+
 #### Heroes' Feast
 
 *6th-level conjuration*
@@ -3955,6 +4151,22 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 **Duration:** Concentration, up to 1 minute
 
 Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
+
+#### Hunter’s Mark
+
+*1st-­level divination*
+
+**Casting Time:** 1 bonus action
+
+**Range:** 90 feet
+
+**Components:** V
+
+**Duration:** Concentration, up to 1 hour
+
+You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature. 
+
+***At Higher Levels***. When you cast this spell using a  spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
 #### Hypnotic Pattern
 
@@ -5024,6 +5236,22 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
+#### Poison Spray
+
+*Conjuration cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** 10 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage. 
+
+This spell's damage increases by 1d12 when you  reach 5th level (2d12), 11th level (3d12), and 17th level (4d12). 
+
 #### Polymorph
 
 *4th-level transmutation*
@@ -5951,6 +6179,20 @@ If the creature attempts to cast a spell with a casting time of 1 action, roll a
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 
+#### Spare the Dying
+
+*Necromancy cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** Touch
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+
 #### Speak with Animals
 
 *1st-level divination (ritual)*
@@ -6573,6 +6815,22 @@ If you command the servant to perform a task that would move it more than 60 fee
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
 
 ***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+#### Vicious Mockery
+
+*Enchantment cantrip*
+
+**Casting Time:** 1 action
+
+**Range:** 60 feet
+
+**Components:** V
+
+**Duration:** Instantaneous
+
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+
+This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 # Spells (W)
 
