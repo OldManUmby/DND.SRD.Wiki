@@ -4,7 +4,7 @@ title: Equipment
 
 [TOC]
 
-## Coins
+## Coinage
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
 
@@ -18,7 +18,7 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-**Table- 32** - Equipment: Standard Exchange Rates
+**Table- Standard Exchange Rates**
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
 |---------------|-------|------|------|-------|---------|
@@ -95,7 +95,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 ***Plate***. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-**Table- 33** - Equipment: Armor
+**Table- Armor**
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
 |------------------|----------|---------------------------|----------|--------------|--------|
@@ -126,7 +126,7 @@ The time it takes to don or doff armor depends on the armor's category.
 
 ***Doff***. This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-**Table- 34** - Equipment: Armor Donning and Doffing
+**Table- Donning and Doffing Armor**
 
 | Category     | Don        | Doff      |
 |--------------|------------|-----------|
@@ -198,7 +198,7 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-**Table- 35** - Equipment: Weapons
+**Table- Weapons**
 
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
 |----------------------------|-------|-----------------|---------|--------------------------------------------------------|
@@ -327,39 +327,39 @@ This section describes items that have special rules or require further explanat
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 
-**Burglar's Pack (16 gp)**. Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+***Burglar's Pack (16 gp)***. Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Diplomat's Pack (39 gp)**. Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+***Diplomat's Pack (39 gp)***. Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 
-**Dungeoneer's Pack (12 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+***Dungeoneer's Pack (12 gp)***. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Entertainer's Pack (40 gp)**. Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+***Entertainer's Pack (40 gp)***. Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 
-**Explorer's Pack (10 gp)**. Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+***Explorer's Pack (10 gp)***. Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
 
-**Priest's Pack (19 gp)**. Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+***Priest's Pack (19 gp)***. Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
 
-**Scholar's Pack (40 gp)**. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+***Scholar's Pack (40 gp)***. Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 
-**Table- 36** - Equipment: Adventuring Gear
+**Table- Adventuring Gear**
 
 | Item                         | Cost     | Weight       |
 |------------------------------|----------|--------------|
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
 | Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
-| **Ammunition**               |          |              |
-| Arrows (20)                  | 1 gp     | 1 lb.        |
-| Blowgun needles (50)         | 1 gp     | 1 lb.        |
-| Crossbow bolts (20)          | 1 gp     | 1½ lb.       |
-| Sling bullets (20)           | 4 cp     | 1½ lb.       |
+| *Ammunition*                 |          |              |
+| ~ Arrows (20)                | 1 gp     | 1 lb.        |
+| ~ Blowgun needles (50)       | 1 gp     | 1 lb.        |
+| ~ Crossbow bolts (20)        | 1 gp     | 1½ lb.       |
+| ~ Sling bullets (20)         | 4 cp     | 1½ lb.       |
 | Antitoxin (vial)             | 50 gp    | -            |
-| **Arcane focus**             |          |              |
-| Crystal                      | 10 gp    | 1 lb.        |
-| Orb                          | 20 gp    | 3 lb.        |
-| Rod                          | 10 gp    | 2 lb.        |
-| Staff                        | 5 gp     | 4 lb.        |
-| Wand                         | 10 gp    | 1 lb.        |
+| *Arcane focus*               |          |              |
+| ~ Crystal                    | 10 gp    | 1 lb.        |
+| ~ Orb                        | 20 gp    | 3 lb.        |
+| ~ Rod                        | 10 gp    | 2 lb.        |
+| ~ Staff                      | 5 gp     | 4 lb.        |
+| ~ Wand                       | 10 gp    | 1 lb.        |
 | Backpack                     | 2 gp     | 5 lb.        |
 | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
 | Barrel                       | 2 gp     | 70 lb.       |
@@ -385,21 +385,21 @@ The starting equipment you get from your class includes a collection of useful a
 | Clothes, traveler's          | 2 gp     | 4 lb.        |
 | Component pouch              | 25 gp    | 2 lb.        |
 | Crowbar                      | 2 gp     | 5 lb.        |
-| **Druidic focus**            |          |              |
-| Sprig of mistletoe           | 1 gp     | -            |
-| Totem                        | 1 gp     | -            |
-| Wooden staff                 | 5 gp     | 4 lb.        |
-| Yew wand                     | 10 gp    | 1 lb.        |
+| *Druidic focus*              |          |              |
+| ~ Sprig of mistletoe         | 1 gp     | -            |
+| ~ Totem                      | 1 gp     | -            |
+| ~ Wooden staff               | 5 gp     | 4 lb.        |
+| ~ Yew wand                   | 10 gp    | 1 lb.        |
 | Fishing tackle               | 1 gp     | 4 lb.        |
 | Flask or tankard             | 2 cp     | 1 lb.        |
 | Grappling hook               | 2 gp     | 4 lb.        |
 | Hammer                       | 1 gp     | 3 lb.        |
 | Hammer, sledge               | 2 gp     | 10 lb.       |
 | Healer's kit                 | 5 gp     | 3 lb.        |
-| **Holy symbol**              |          |              |
-| Amulet                       | 5 gp     | 1 lb.        |
-| Emblem                       | 5 gp     | -            |
-| Reliquary                    | 5 gp     | 2 lb.        |
+| *Holy symbol*                |          |              |
+| ~ Amulet                     | 5 gp     | 1 lb.        |
+| ~ Emblem                     | 5 gp     | -            |
+| ~ Reliquary                  | 5 gp     | 2 lb.        |
 | Holy water (flask)           | 25 gp    | 1 lb.        |
 | Hourglass                    | 25 gp    | 1 lb.        |
 | Hunting trap                 | 5 gp     | 25 lb.       |
@@ -450,7 +450,7 @@ The starting equipment you get from your class includes a collection of useful a
 | Whetstone                    | 1 cp     | 1 lb.        |
 |                              |          |              |
 
-**Table- 37** - Equipment: Container Capacity
+**Table- Container Capacity**
 
 | Container        | Capacity                               |
 |------------------|----------------------------------------|
@@ -469,58 +469,58 @@ The starting equipment you get from your class includes a collection of useful a
 | Waterskin        | 4 pints liquid                         |
 |                  |                                        |
 
-* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
+\* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
 # Tools
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-**Table- 38** - Equipment: Tools
+**Table- Tools**
 
-| Item                     | Cost  | Weight |
-|--------------------------|-------|--------|
-| **Artisan's tools**      |       |        |
-| Alchemist's supplies     | 50 gp | 8 lb.  |
-| Brewer's supplies        | 20 gp | 9 lb.  |
-| Calligrapher's supplies  | 10 gp | 5 lb.  |
-| Carpenter's tools        | 8 gp  | 6 lb.  |
-| Cartographer's tools     | 15 gp | 6 lb.  |
-| Cobbler's tools          | 5 gp  | 5 lb.  |
-| Cook's utensils          | 1 gp  | 8 lb.  |
-| Glassblower's tools      | 30 gp | 5 lb.  |
-| Jeweler's tools          | 25 gp | 2 lb.  |
-| Leatherworker's tools    | 5 gp  | 5 lb.  |
-| Mason's tools            | 10 gp | 8 lb.  |
-| Painter's supplies       | 10 gp | 5 lb.  |
-| Potter's tools           | 10 gp | 3 lb.  |
-| Smith's tools            | 20 gp | 8 lb.  |
-| Tinker's tools           | 50 gp | 10 lb. |
-| Weaver's tools           | 1 gp  | 5 lb.  |
-| Woodcarver's tools       | 1 gp  | 5 lb.  |
-| Disguise kit             | 25 gp | 3 lb.  |
-| Forgery kit              | 15 gp | 5 lb.  |
-| **Gaming set**           |       |        |
-| Dice set                 | 1 sp  | -      |
-| Playing card set         | 5 sp  | -      |
-| Herbalism kit            | 5 gp  | 3 lb.  |
-| **Musical instrument**   |       |        |
-| Bagpipes                 | 30 gp | 6 lb.  |
-| Drum                     | 6 gp  | 3 lb.  |
-| Dulcimer                 | 25 gp | 10 lb. |
-| Flute                    | 2 gp  | 1 lb.  |
-| Lute                     | 35 gp | 2 lb.  |
-| Lyre                     | 30 gp | 2 lb.  |
-| Horn                     | 3 gp  | 2 lb.  |
-| Pan flute                | 12 gp | 2 lb.  |
-| Shawm                    | 2 gp  | 1 lb.  |
-| Viol                     | 30 gp | 1 lb.  |
-| Navigator's tools        | 25 gp | 2 lb.  |
-| Poisoner's kit           | 50 gp | 2 lb.  |
-| Thieves' tools           | 25 gp | 1 lb.  |
-| Vehicles (land or water) | *     | *      |
-|                          |       |        |
+| Item                      | Cost  | Weight |
+|---------------------------|-------|--------|
+| *Artisan's tools*         |       |        |
+| ~ Alchemist's supplies    | 50 gp | 8 lb.  |
+| ~ Brewer's supplies       | 20 gp | 9 lb.  |
+| ~ Calligrapher's supplies | 10 gp | 5 lb.  |
+| ~ Carpenter's tools       | 8 gp  | 6 lb.  |
+| ~ Cartographer's tools    | 15 gp | 6 lb.  |
+| ~ Cobbler's tools         | 5 gp  | 5 lb.  |
+| ~ Cook's utensils         | 1 gp  | 8 lb.  |
+| ~ Glassblower's tools     | 30 gp | 5 lb.  |
+| ~ Jeweler's tools         | 25 gp | 2 lb.  |
+| ~ Leatherworker's tools   | 5 gp  | 5 lb.  |
+| ~ Mason's tools           | 10 gp | 8 lb.  |
+| ~ Painter's supplies      | 10 gp | 5 lb.  |
+| ~ Potter's tools          | 10 gp | 3 lb.  |
+| ~ Smith's tools           | 20 gp | 8 lb.  |
+| ~ Tinker's tools          | 50 gp | 10 lb. |
+| ~ Weaver's tools          | 1 gp  | 5 lb.  |
+| ~ Woodcarver's tools      | 1 gp  | 5 lb.  |
+| Disguise kit              | 25 gp | 3 lb.  |
+| Forgery kit               | 15 gp | 5 lb.  |
+| *Gaming set*              |       |        |
+| ~ Dice set                | 1 sp  | -      |
+| ~ Playing card set        | 5 sp  | -      |
+| ~ Herbalism kit           | 5 gp  | 3 lb.  |
+| *Musical instrument*      |       |        |
+| ~ Bagpipes                | 30 gp | 6 lb.  |
+| ~ Drum                    | 6 gp  | 3 lb.  |
+| ~ Dulcimer                | 25 gp | 10 lb. |
+| ~ Flute                   | 2 gp  | 1 lb.  |
+| ~ Lute                    | 35 gp | 2 lb.  |
+| ~ Lyre                    | 30 gp | 2 lb.  |
+| ~ Horn                    | 3 gp  | 2 lb.  |
+| ~ Pan flute               | 12 gp | 2 lb.  |
+| ~ Shawm                   | 2 gp  | 1 lb.  |
+| ~ Viol                    | 30 gp | 1 lb.  |
+| Navigator's tools         | 25 gp | 2 lb.  |
+| Poisoner's kit            | 50 gp | 2 lb.  |
+| Thieves' tools            | 25 gp | 1 lb.  |
+| Vehicles (land or water)  | *     | *      |
+|                           |       |        |
 
-* See the "Mounts and Vehicles" section.
+\* See the "Mounts and Vehicles" section.
 
 ***Artisan's Tools***. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
@@ -556,7 +556,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-**Table- 39** - Equipment: Mounts and Other Animals
+**Table- Mounts and Other Animals**
 
 | Item           | Cost   | Speed  | Carrying Capacity |
 |----------------|--------|--------|-------------------|
@@ -570,7 +570,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 |                |        |        |                   |
 
-**Table- 40** - Equipment: Tack, Harness, and Drawn Vehicles
+**Table- Tack, Harness, and Drawn Vehicles**
 
 | Item               | Cost   | Weight  |
 |--------------------|--------|---------|
@@ -580,18 +580,18 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Cart               | 15 gp  | 200 lb. |
 | Chariot            | 250 gp | 100 lb. |
 | Feed (per day)     | 5 cp   | 10 lb.  |
-| **Saddle**         |        |         |
-| Exotic             | 60 gp  | 40 lb.  |
-| Military           | 20 gp  | 30 lb.  |
-| Pack               | 5 gp   | 15 lb.  |
-| Riding             | 10 gp  | 25 lb.  |
+| *Saddle*           |        |         |
+| ~ Exotic           | 60 gp  | 40 lb.  |
+| ~ Military         | 20 gp  | 30 lb.  |
+| ~ Pack             | 5 gp   | 15 lb.  |
+| ~ Riding           | 10 gp  | 25 lb.  |
 | Saddlebags         | 4 gp   | 8 lb.   |
 | Sled               | 20 gp  | 300 lb. |
 | Stabling (per day) | 5 sp   | -       |
 | Wagon              | 35 gp  | 400 lb. |
 |                    |        |         |
 
-**Table- 41** - Equipment: Waterborne Vehicles
+**Table- Waterborne Vehicles**
 
 | Item         | Cost      | Speed  |
 |--------------|-----------|--------|
@@ -609,7 +609,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-**Table- 42** - Equipment: Cost of Trade Goods
+**Table- Cost of Trade Goods**
 
 | Cost   | Goods                                        |
 |--------|----------------------------------------------|
@@ -640,7 +640,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-**Table- 43** - Equipment: Lifestyle Expenses
+**Table- Lifestyle Expenses**
 
 | Lifestyle    | Price/Day     |
 |--------------|---------------|
@@ -667,45 +667,45 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 ***Aristocratic***. You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of politicians, guild leaders, high priests, and nobility. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.
 
-Self-Sufficiency
-
-The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford-paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
-
-Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
-
 ## Food, Drink, and Lodging
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-**Table- 44** - Equipment: Cost of Food, Drink, and Lodging
+**Table- Food, Drink, and Lodging**
 
 | Item                   | Cost  |
 |------------------------|-------|
-| **Ale**                |       |
-| Gallon                 | 2 sp  |
-| Mug                    | 4 cp  |
-| Banquet (per person)   | 10 gp |
-| Bread, loaf            | 2 cp  |
-| Cheese, hunk           | 1 sp  |
-| **Inn stay (per day)** |       |
-| Squalid                | 7 cp  |
-| Poor                   | 1 sp  |
-| Modest                 | 5 sp  |
-| Comfortable            | 8 sp  |
-| Wealthy                | 2 gp  |
-| Aristocratic           | 4 gp  |
-| **Meals (per day)**    |       |
-| Squalid                | 3 cp  |
-| Poor                   | 6 cp  |
-| Modest                 | 3 sp  |
-| Comfortable            | 5 sp  |
-| Wealthy                | 8 sp  |
-| Aristocratic           | 2 gp  |
-| Meat, chunk            | 3 sp  |
-| **Wine**               |       |
-| Common (pitcher)       | 2 sp  |
-| Fine (bottle)          | 10 gp |
+| *Ale*                  |       |
+| ~ Gallon               | 2 sp  |
+| ~ Mug                  | 4 cp  |
+| ~ Banquet (per person) | 10 gp |
+| ~ Bread, loaf          | 2 cp  |
+| ~ Cheese, hunk         | 1 sp  |
+| *Inn stay (per day)*   |       |
+| ~ Squalid              | 7 cp  |
+| ~ Poor                 | 1 sp  |
+| ~ Modest               | 5 sp  |
+| ~ Comfortable          | 8 sp  |
+| ~ Wealthy              | 2 gp  |
+| ~ Aristocratic         | 4 gp  |
+| *Meals (per day)*      |       |
+| ~ Squalid              | 3 cp  |
+| ~ Poor                 | 6 cp  |
+| ~ Modest               | 3 sp  |
+| ~ Comfortable          | 5 sp  |
+| ~ Wealthy              | 8 sp  |
+| ~ Aristocratic         | 2 gp  |
+| ~ Meat, chunk          | 3 sp  |
+| *Wine*                 |       |
+| ~ Common (pitcher)     | 2 sp  |
+| ~ Fine (bottle)        | 10 gp |
 |                        |       |
+
+> **Self-Sufficiency**
+>
+>The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford-paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+>
+>Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
 
 ## Services
 
@@ -717,16 +717,16 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-**Table- 45** - Equipment: Cost of Services
+**Table- Services**
 
 | Service Pay       | Pay           |
 |-------------------|---------------|
-| **Coach cab**     |               |
-| Between towns     | 3 cp per mile |
-| Within a city     | 1 cp          |
-| **Hireling**      |               |
-| Skilled           | 2 gp per day  |
-| Untrained         | 2 sp per day  |
+| *Coach cab*       |               |
+| ~ Between towns   | 3 cp per mile |
+| ~ Within a city   | 1 cp          |
+| *Hireling*        |               |
+| ~ Skilled         | 2 gp per day  |
+| ~ Untrained       | 2 sp per day  |
 | Messenger         | 2 cp per mile |
 | Road or gate toll | 1 cp          |
 | Ship's passage    | 1 sp per mile |
