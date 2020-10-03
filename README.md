@@ -1,6 +1,3 @@
-# WARNING: We Are Currently Updating to REmastered v4.1 (see Formats) Now Thru The Weekend; Please Visit Us Again On Monday!
-
----
 
 ![D&D Logo](RE&.logo.png)
 
