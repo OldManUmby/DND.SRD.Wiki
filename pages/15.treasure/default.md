@@ -54,13 +54,10 @@ This item first appears to be a Large sealed iron barrel weighing 500 pounds. Th
 
 The apparatus of the Crab is a Large object with the following statistics:
 
-**Armor Class:** 20
-
-**Hit Points:** 200
-
-**Speed:** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
-
-**Damage Immunities:** poison, psychic
+**Armor Class** 20
+**Hit Points** 200
+**Speed** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+**Damage Immunities** poison, psychic
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
 
@@ -163,10 +160,10 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 11-20 | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
 | 21-30 | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
 | 31-40 | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
-| 41-50 | 1d6 + 6 shriekers sprout                                                                                                                                                                                                                                                                                                                                              |
-| 51-60 | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                |
-| 61-70 | A hungry bulette burrows up and attacks. 71-80 A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                     |
-| 81-90 | A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.                            |
+| 41-50 | 1d6+6 shriekers sprout.                                                                                                                                                                                                                                                                                                                                               |
+| 51-60 | 1d4+8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                  |
+| 61-70 | A hungry bulette burrows up and attacks. 71-80 A fruit tree grows. It has 1d10+20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                       |
+| 81-90 | A nest of 1d4+3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.                              |
 | 91-99 | A pyramid with a 60-foot square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.                                                                                                                                                       |
 | 100   | A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.                                                                                                                                                                            |
 |       |                                                                                                                                                                                                                                                                                                                                                                       |
@@ -251,7 +248,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 *Wondrous item, rare*
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *beads of force* are found together.
+This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4+4 *beads of force* are found together.
 
 You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
 
@@ -684,7 +681,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 | Joker (without TM) | Jester     |
 |                    |            |
 
-*Found only in a deck with twenty-two cards
+\* Found only in a deck with twenty-two cards
 
 ***Balance***. Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
 
@@ -702,7 +699,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 ***Gem***. Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet.
 
-***Idiot***. Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+***Idiot***. Permanently reduce your Intelligence by 1d4+1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
 ***Jester***. You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
@@ -723,9 +720,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 *Medium undead, neutral evil*
 
 **Armor Class** 20
-
 **Hit Points** half the hit point maximum of its summoner
-
 **Speed** 60 ft., fly 60 ft. (hover)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -733,13 +728,9 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 
 **Damage Immunities** necrotic, poison
-
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, unconscious
-
 **Senses** darkvision 60 ft., truesight 60 ft., passive Perception 13
-
 **Languages** all languages known to its summoner
-
 **Challenge** - (0 XP)
 
 ***Incorporeal Movement***. The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
@@ -748,7 +739,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 ###### Actions
 
-***Reaping Scythe***. The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
+***Reaping Scythe***. The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8+3) slashing damage plus 4 (1d8) necrotic damage.
 
 ***Star***. Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.
 
@@ -830,7 +821,7 @@ Found in a small packet, this powder resembles very fine sand. There is enough o
 
 *Wondrous item, uncommon*
 
-This small packet contains 1d6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible.
+This small packet contains 1d6+4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible.
 
 Someone can use an action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so ends that pellet's magic.
 
@@ -961,7 +952,7 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 
 ***Tree***. You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
-***Whip***. You can use an action to throw the token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 force damage.
+***Whip***. You can use an action to throw the token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6+5 force damage.
 
 As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are incapacitated or die.
 
@@ -984,9 +975,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 *Large beast, unaligned*
 
 **Armor Class** 11
-
-**Hit Points** 19 (3d10 + 3)
-
+**Hit Points** 19 (3d10+3)
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -994,7 +983,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 | 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 10
-
 **Languages** -
 
 ***Golden Lions (Rare)***. These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
@@ -1093,7 +1081,7 @@ While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus ac
 
 *Wondrous item, uncommon (requires attunement)*
 
-These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
+These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10+your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.
 
 ### Gloves of Swimming and Climbing
 
@@ -1117,7 +1105,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 ***Giant's Bane (Requires Attunement)***. You must be wearing a *belt of giant strength* (any variety) and *gauntlets of ogre power* to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
 
-The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.
+The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4+1 expended charges daily at dawn.
 
 ### Handy Haversack
 
@@ -1206,10 +1194,10 @@ Four types of *horn of Valhalla* are known to exist, each made of a different me
 
 | d100  | Horn Type | Berserkers Summoned | Requirement                          |
 |-------|-----------|---------------------|--------------------------------------|
-| 01-40 | Silver    | 2d4 + 2             | None                                 |
-| 41-75 | Brass     | 3d4 + 3             | Proficiency with all simple weapons  |
-| 76-90 | Bronze    | 4d4 + 4             | Proficiency with all medium armor    |
-| 91-00 | Iron      | 5d4 + 5             | Proficiency with all martial weapons |
+| 01-40 | Silver    | 2d4+2               | None                                 |
+| 41-75 | Brass     | 3d4+3               | Proficiency with all simple weapons  |
+| 76-90 | Bronze    | 4d4+4               | Proficiency with all medium armor    |
+| 91-00 | Iron      | 5d4+5               | Proficiency with all martial weapons |
 |       |           |                     |                                      |
 
 If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
@@ -1498,7 +1486,7 @@ While wearing this necklace, you can breathe normally in any environment, and yo
 
 *Wondrous item, rare*
 
-This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level *fireball* spell (save DC 15).
+This necklace has 1d6+3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level *fireball* spell (save DC 15).
 
 You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the *fireball* by 1 for each bead beyond the first.
 
@@ -1506,7 +1494,7 @@ You can hurl multiple beads, or even the whole necklace, as one action. When you
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*
 
-This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
+This necklace has 1d4+2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
 
 Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
@@ -1528,7 +1516,7 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
-The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+The sword has 1d8+1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
 
 # Magic Items (O)
 
@@ -1701,10 +1689,10 @@ You regain hit points when you drink this potion. The number of hit points depen
 
 | Potion of ...    | Rarity    | HP Regained |
 |------------------|-----------|-------------|
-| Healing          | Common    | 2d4 + 2     |
-| Greater healing  | Uncommon  | 4d4 + 4     |
-| Superior healing | Rare      | 8d4 + 8     |
-| Supreme healing  | Very rare | 10d4 + 20   |
+| Healing          | Common    | 2d4+2       |
+| Greater healing  | Uncommon  | 4d4+4       |
+| Superior healing | Rare      | 8d4+8       |
+| Supreme healing  | Very rare | 10d4+20     |
 |                  |           |             |
 
 ### Potion of Heroism
@@ -1775,9 +1763,9 @@ You can breathe underwater for 1 hour after drinking this potion. Its cloudy gre
 
 *Wondrous item, uncommon*
 
-This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
+This glass jar, 3 inches in diameter, contains 1d4+1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
 
-As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.
+As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8+2 hit points, ceases to be poisoned, and is cured of any disease.
 
 ### Ring of Animal Influence
 
@@ -1807,7 +1795,7 @@ This ring is linked to one of the four Elemental Planes. The GM chooses or rando
 
 While wearing this ring, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.
 
-The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+The ring has 5 charges. It regains 1d4+1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
 ***Ring of Air Elemental Command***. You can expend 2 of the ring's charges to cast *dominate monster* on an air elemental. In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
 
@@ -1889,7 +1877,7 @@ You gain a +1 bonus to AC and saving throws while wearing this ring.
 
 *Ring, very rare (requires attunement)*
 
-While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time.
+While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6+1 days if you have at least 1 hit point the whole time.
 
 ### Ring of Resistance
 
@@ -2041,7 +2029,7 @@ This elegant garment is made from exquisite cloth of white, gray, or black and a
 
 You gain these benefits while wearing the robe:
 
-- If you aren't wearing armor, your base Armor Class is 15 + your Dexterity modifier.
+- If you aren't wearing armor, your base Armor Class is 15+your Dexterity modifier.
 - You have advantage on saving throws against spells and other magical effects.
 - Your spell save DC and spell attack bonus each increase by 2.
 
@@ -2209,7 +2197,7 @@ While you wear these light shoes, you can move up, down, and across vertical sur
 
 *Wondrous item, legendary*
 
-This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with *oil of slipperiness*. When found, a container contains 1d6 + 1 ounces.
+This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with *oil of slipperiness*. When found, a container contains 1d6+1 ounces.
 
 One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of *universal solvent* or *oil of etherealness*, or with a *wish* spell.
 
@@ -2219,7 +2207,7 @@ One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute
 
 A *spell scroll* bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
 
-If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect. Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
+If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10+the spell's level. On a failed check, the spell disappears from the scroll with no other effect. Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
 
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
@@ -2239,7 +2227,7 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 | 9th         | Legendary | 19      | +11          |
 |             |           |         |              |
 
-A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
+A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10+the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
 
 ### Spellguard Shield
 
@@ -2278,7 +2266,7 @@ While holding this staff, you can use an action to expend 1 of its 10 charges to
 
 If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
 
-The staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
+The staff regains 1d8+2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
 
 ### Staff of Fire
 
@@ -2288,7 +2276,7 @@ You have resistance to fire damage while you hold this staff.
 
 The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *burning hands* (1 charge), *fireball* (3 charges), or *wall of fire* (4 charges).
 
-The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
+The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
 
 ### Staff of Frost
 
@@ -2298,7 +2286,7 @@ You have resistance to cold damage while you hold this staff.
 
 The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: *cone of cold* (5 charges), *fog cloud* (1 charge), *ice storm* (4 charges), or *wall of ice* (4 charges).
 
-The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
+The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed.
 
 ### Staff of Healing
 
@@ -2306,7 +2294,7 @@ The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last
 
 This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: *cure wounds* (1 charge per spell level, up to 4th), *lesser restoration* (2 charges), or *mass cure wounds* (5 charges).
 
-The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
+The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff vanishes in a flash of light, lost forever.
 
 ### Staff of Power
 
@@ -2314,7 +2302,7 @@ The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
-The staff has 20 charges for the following properties. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.
+The staff has 20 charges for the following properties. The staff regains 2d8+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8+2 charges.
 
 ***Power Strike***. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
 
@@ -2339,13 +2327,13 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 
-The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
+The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
 
 ### Staff of Swarming Insects
 
 *Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*
 
-This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
+This staff has 10 charges and regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
 
 ***Spells***. While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: *giant insect* (4 charges) or *insect plague* (5 charges).
 
@@ -2357,7 +2345,7 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. If
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12 + 1 charges.
+The staff has 50 charges for the following properties. It regains 4d6+2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12+1 charges.
 
 ***Spell Absorption***. While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell's level. However, if doing so brings the staff's total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
 
@@ -2394,7 +2382,7 @@ If the snake is reduced to 0 hit points, it dies and reverts to its staff form. 
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
 
-The staff has 10 charges for the following properties. It regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
+The staff has 10 charges for the following properties. It regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff loses its properties and becomes a nonmagical quarterstaff.
 
 ***Spells***. You can use an action to expend 1 or more of the staff's charges to cast one of the following spells from it, using your spell save DC: *animal friendship* (1 charge), *awaken* (5 charges), *barkskin* (2 charges), *locate animals or plants* (2 charges), *speak with animals* (1 charge), *speak with plants* (3 charges), or *wall of thorns* (6 charges).
 
@@ -2556,7 +2544,7 @@ When you attack a creature that has at least one head with this weapon and roll 
 
 *Wand, rare (requires attunement by a spellcaster)*
 
-This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+This wand has 7 charges for the following properties. It regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ***Spells***. While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): *hold monster* (5 charges) or *hold person* (2 charges).
 
@@ -2568,13 +2556,13 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1 expende
 
 This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 feet, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, invisible, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Fear
 
 *Wand, rare (requires attunement)*
 
-This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+This wand has 7 charges for the following properties. It regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ***Command***. While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the *command* spell (save DC 15).
 
@@ -2586,7 +2574,7 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1 expende
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *fireball* spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Lightning Bolts
 
@@ -2594,7 +2582,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *lightning bolt* spell (save DC 15) from it. For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Magic Detection
 
@@ -2608,7 +2596,7 @@ This wand has 3 charges. While holding it, you can expend 1 charge as an action 
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the *magic missile* spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Paralysis
 
@@ -2616,7 +2604,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. The target must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Polymorph
 
@@ -2624,7 +2612,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *polymorph* spell (save DC 15) from it.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Secrets
 
@@ -2644,7 +2632,7 @@ While holding this wand, you gain a bonus to spell attack rolls determined by th
 
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the *web* spell (save DC 15) from it.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
 ### Wand of Wonder
 
@@ -2656,7 +2644,7 @@ If the effect causes you to cast a spell from the wand, the spell's save DC is 1
 
 If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.
 
-The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
+The wand regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
 **Table- Wand of Wonder**
 
@@ -2818,7 +2806,7 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 - Suppress one or more of its activated properties.
 - Attempt to take control of its wielder.
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12+the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
 
 # Artifacts
 
@@ -2844,7 +2832,7 @@ While you are charmed by the orb, you can't voluntarily end your attunement to i
 - 1 minor detrimental property
 - 1 major detrimental property
 
-***Spells***. The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge), *death ward* (2 charges), or *scrying* (3 charges).
+***Spells***. The orb has 7 charges and regains 1d4+3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge), *death ward* (2 charges), or *scrying* (3 charges).
 
 You can also use an action to cast the *detect magic* spell from the orb without using any charges.
 
