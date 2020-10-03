@@ -1,4 +1,4 @@
-# WARNING: We Are Currently Updating to REmastered Formats V4.1 (see Formats) Now Thru The Weekend; Please Visit Us Again On Monday!
+# WARNING: We Are Currently Updating to REmastered v4.1 (see Formats) Now Thru The Weekend; Please Visit Us Again On Monday!
 
 ---
 
