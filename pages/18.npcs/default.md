@@ -18,7 +18,7 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 ***Magic Items***. The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
 
-## Acolyte
+# Acolyte
 
 *Medium humanoid (any race), any alignment*
 
@@ -51,7 +51,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 **Acolytes** are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
-## Archmage
+# Archmage
 
 *Medium humanoid (any race), any alignment*
 
@@ -101,7 +101,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shoc
 
 An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.
 
-## Assassin
+# Assassin
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -143,7 +143,7 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 Trained in the use of poison, **assassins** are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
-## Bandit
+# Bandit
 
 *Medium humanoid (any race), any non-lawful alignment*
 
@@ -173,7 +173,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 
-## Bandit Captain
+# Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*
 
@@ -215,7 +215,7 @@ In addition to managing a crew of selfish malcontents, the **pirate captain** is
 
 More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation.
 
-## Berserker
+# Berserker
 
 *Medium humanoid (any race), any chaotic alignment*
 
@@ -243,7 +243,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 Hailing from uncivilized lands, unpredictable **berserkers** come together in war parties and seek conflict wherever they can find it.
 
-## Commoner
+# Commoner
 
 *Medium humanoid (any race), any alignment*
 
@@ -269,7 +269,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
-## Cultist
+# Cultist
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -299,7 +299,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 **Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
-## Cult Fanatic
+# Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -337,7 +337,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 **Fanatics** are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
-## Druid
+# Druid
 
 *Medium humanoid (any race), any alignment*
 
@@ -371,7 +371,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
-## Gladiator
+# Gladiator
 
 *Medium humanoid (any race), any alignment*
 
@@ -413,7 +413,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
-## Guard
+# Guard
 
 *Medium humanoid (any race), any alignment*
 
@@ -441,7 +441,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
-## Knight
+# Knight
 
 *Medium humanoid (any race), any alignment*
 
@@ -481,7 +481,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Knights** are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
-## Mage
+# Mage
 
 *Medium humanoid (any race), any alignment*
 
@@ -520,7 +520,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 
 **Mages** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
 
-## Noble
+# Noble
 
 *Medium humanoid (any race), any alignment*
 
@@ -554,7 +554,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 
 The noble's statistics can also be used to represent **courtiers** who aren't of noble birth.
 
-## Priest
+# Priest
 
 *Medium humanoid (any race), any alignment*
 
@@ -593,7 +593,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
-## Scout
+# Scout
 
 *Medium humanoid (any race), any alignment*
 
@@ -627,7 +627,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
-## Spy
+# Spy
 
 *Medium humanoid (any race), any alignment*
 
@@ -663,7 +663,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spies** to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
-## Thug
+# Thug
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -697,7 +697,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
-## Tribal Warrior
+# Tribal Warrior
 
 *Medium humanoid (any race), any alignment*
 
@@ -725,7 +725,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
-## Veteran
+# Veteran
 
 *Medium humanoid (any race), any alignment*
 

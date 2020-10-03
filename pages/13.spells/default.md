@@ -1644,7 +1644,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
-## Branding Smite
+#### Branding Smite
 
 *2nd-­level evocation*
 
