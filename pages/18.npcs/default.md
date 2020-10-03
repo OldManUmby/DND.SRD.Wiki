@@ -1,5 +1,5 @@
 ---
-title: 'Non-Player Characters'
+title: Non-Player Characters
 ---
 
 [TOC]

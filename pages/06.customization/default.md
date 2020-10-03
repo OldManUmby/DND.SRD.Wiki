@@ -1,5 +1,5 @@
 ---
-title: 'Customizations'
+title: Customizations
 ---
 
 [TOC]
