@@ -10,6 +10,7 @@ title: Changelog
 
 ## October 2nd, 2020
 
+- [x] Reinstalled GRAV with theme and various plugins from scratch.
 - [x] Updated all pages fixing numerous markdown issues.
 - [x] Added missing spells.
 - [x] Reorganized pages.
