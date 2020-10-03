@@ -4,6 +4,7 @@ title: Changelog
 
 ## To Do
 
+- [ ] Add icon to the upper-left sidebar.
 - [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
