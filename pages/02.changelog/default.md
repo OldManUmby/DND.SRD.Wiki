@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-[TOC]
-
 ## To Do
 
 - [ ] Reorganize online material into chapters to match newly reorganized SRD.
