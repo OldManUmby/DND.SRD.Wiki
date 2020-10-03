@@ -25,10 +25,11 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 
 #### Downloads
 
-*   View or download the [REmastered files in .PDF | .DOCX | .MD) (full compilation)](https://github.com/Umbyology/OGL-SRD5/tree/master/formats).
-*   Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
-*   Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
-*   Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
+* View or download the [Complete REmastered file in .PDF | .DOCX | .MD](https://github.com/Umbyology/OGL-SRD5/tree/master/formats).
+* View or Download each [REmastered Markdown Page](https://github.com/Umbyology/OGL-SRD5/find/master)
+* Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+* Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
+* Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
 #### Official D&D Core Rule Books
 
