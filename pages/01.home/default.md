@@ -24,7 +24,7 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 2.  **Error reporting**. Report any errors directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** _A free Github account/membership is required_.
 
 #### Downloads
-Corrected
+
 * View or Download each [REmastered Markdown Page](https://github.com/Umbyology/OGL-SRD5/find/master)
 * View or download the [REmastered file in other formats](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
