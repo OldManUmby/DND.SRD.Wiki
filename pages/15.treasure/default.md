@@ -55,8 +55,11 @@ This item first appears to be a Large sealed iron barrel weighing 500 pounds. Th
 The apparatus of the Crab is a Large object with the following statistics:
 
 **Armor Class** 20
+
 **Hit Points** 200
+
 **Speed** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+
 **Damage Immunities** poison, psychic
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
@@ -720,7 +723,9 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 *Medium undead, neutral evil*
 
 **Armor Class** 20
+
 **Hit Points** half the hit point maximum of its summoner
+
 **Speed** 60 ft., fly 60 ft. (hover)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -728,9 +733,13 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 
 **Damage Immunities** necrotic, poison
+
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, unconscious
+
 **Senses** darkvision 60 ft., truesight 60 ft., passive Perception 13
+
 **Languages** all languages known to its summoner
+
 **Challenge** - (0 XP)
 
 ***Incorporeal Movement***. The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
@@ -975,7 +984,9 @@ The creature exists for a duration specific to each figurine. At the end of the 
 *Large beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -983,6 +994,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 | 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 10
+
 **Languages** -
 
 ***Golden Lions (Rare)***. These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.

@@ -13,7 +13,9 @@ This section contains statistics for various animals, vermin, and other critters
 *Medium beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 19 (3d8+6)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -21,8 +23,11 @@ This section contains statistics for various animals, vermin, and other critters
 | 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +5, Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ###### Actions
@@ -38,7 +43,9 @@ This section contains statistics for various animals, vermin, and other critters
 *Small plant, unaligned*
 
 **Armor Class** 9
+
 **Hit Points** 10 (3d6)
+
 **Speed** 20 ft.
 
 | STR    | DEX    | CON     | INT     | WIS     | CHA    |
@@ -46,9 +53,13 @@ This section contains statistics for various animals, vermin, and other critters
 | 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2) |
 
 **Damage Vulnerabilities** fire
+
 **Damage Resistances** piercing
+
 **Senses** passive Perception 10
+
 **Languages** one language known by its creator
+
 **Challenge** 0 (10 XP)
 
 ***False Appearance***. While the shrub remains motionless, it is indistinguishable from a normal shrub.
@@ -64,7 +75,9 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 *Huge plant, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 59 (7d12+14)
+
 **Speed** 20 ft.
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA    |
@@ -72,9 +85,13 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 | 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Vulnerabilities** fire
+
 **Damage Resistances** bludgeoning, piercing
+
 **Senses** passive Perception 10
+
 **Languages** one language known by its creator
+
 **Challenge** 2 (450 XP)
 
 ***False Appearance***. While the tree remains motionless, it is indistinguishable from a normal tree.
@@ -90,7 +107,9 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 *Large beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -98,7 +117,9 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 | 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -112,7 +133,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 3 (1d6)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -120,7 +143,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 8 (-1) | 14 (+2) | 11 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Pack Tactics***. The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -134,7 +159,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 *Tiny beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 3 (1d4+1)
+
 **Speed** 20 ft., burrow 5 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -142,7 +169,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Smell***. The badger has advantage on Wisdom (Perception) checks that rely on smell.
@@ -156,7 +185,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 *Tiny beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 5 ft., fly 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -164,7 +195,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Senses** blindsight 60 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Echolocation***. The bat can't use its blindsight while deafened.
@@ -180,7 +213,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 *Medium beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 19 (3d8+6)
+
 **Speed** 40 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -188,8 +223,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
@@ -207,7 +245,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 *Medium fey, lawful good*
 
 **Armor Class** 13
+
 **Hit Points** 22 (4d8+4)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -215,8 +255,11 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 | 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +5
+
 **Senses** passive Perception 13
+
 **Languages** Blink Dog, understands Sylvan but can't speak it
+
 **Challenge** 1/4 (50 XP)
 
 ***Keen Hearing and Smell***. The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -234,7 +277,9 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 7 (2d6)
+
 **Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -242,8 +287,11 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 | 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
 
 **Skills** Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Keen Sight***. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
@@ -261,7 +309,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Medium beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
@@ -269,7 +319,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 13 (+1) | 11 (+0) | 12 (+1) | 2 (-4) | 9 (-1) | 5 (-3) |
 
 **Senses** passive Perception 9
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Charge***. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
@@ -285,7 +337,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Large beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 34 (4d10+12)
+
 **Speed** 40 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -293,8 +347,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 19 (+4) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
@@ -312,7 +369,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Large beast, unaligned*
 
 **Armor Class** 9
+
 **Hit Points** 15 (2d10+4)
+
 **Speed** 50 ft.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
@@ -320,7 +379,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 16 (+3) | 8 (-1) | 14 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
 **Senses** passive Perception 9
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -332,7 +393,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Tiny beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 2 (1d4)
+
 **Speed** 40 ft., climb 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -340,8 +403,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Smell***. The cat has advantage on Wisdom (Perception) checks that rely on smell.
@@ -355,7 +421,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Large beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 13 (2d10+2)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -363,7 +431,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -377,7 +447,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Tiny beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 2 (1d4)
+
 **Speed** 20 ft., swim 20 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
@@ -385,8 +457,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Skills** Stealth +2
+
 **Senses** blindsight 30 ft., passive Perception 9
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Amphibious***. The crab can breathe air and water.
@@ -400,7 +475,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Large beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 20 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -408,8 +485,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +2
+
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Hold Breath***. The crocodile can hold its breath for 15 minutes.
@@ -425,7 +505,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 *Medium monstrosity, neutral evil*
 
 **Armor Class** 12
+
 **Hit Points** 39 (6d8+12)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -433,8 +515,11 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 | 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4) | 13 (+1) | 6 (-2) |
 
 **Skills** Perception +5, Stealth +4
+
 **Senses** darkvision 120 ft., passive Perception 15
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Two-Headed***. The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
@@ -452,7 +537,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Medium beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 4 (1d8)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -460,7 +547,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4) | 14 (+2) | 5 (-3) |
 
 **Senses** passive Perception 12
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ###### Actions
@@ -472,7 +561,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Large beast, unaligned*
 
 **Armor Class** 14 (natural armor)
+
 **Hit Points** 37 (5d10+10)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -480,8 +571,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Keen Hearing and Smell***. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -497,7 +591,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Large beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -505,7 +601,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 18 (+4) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -517,7 +615,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 3 (1d6)
+
 **Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -525,8 +625,11 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 6 (-2) | 15 (+2) | 10 (+0) | 2 (-4) | 14 (+2) | 7 (-2) |
 
 **Skills** Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
@@ -540,7 +643,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Huge beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 76 (8d12+24)
+
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
@@ -548,7 +653,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 22 (+6) | 9 (-1) | 17 (+3) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 4 (1,100 XP)
 
 ***Trampling Charge***. If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
@@ -564,7 +671,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Large beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 13 (2d10+2)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -572,7 +681,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Charge***. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
@@ -588,7 +699,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 *Tiny beast, unaligned*
 
 **Armor Class** 14
+
 **Hit Points** 5 (2d4)
+
 **Speed** 30 ft., fly 60 ft., swim 30 ft
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -596,7 +709,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 | 4 (-3) | 18 (+4) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** blindsight 10 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Flyby***. The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
@@ -612,7 +727,9 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 *Tiny beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 20 ft., swim 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
@@ -620,8 +737,11 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 | 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Skills** Perception +1, Stealth +3
+
 **Senses** darkvision 30 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 0 (0 XP)
 
 ***Amphibious***. The frog can breathe air and water.
@@ -637,7 +757,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Huge beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 157 (15d12+60)
+
 **Speed** 40 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -645,8 +767,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 23 (+6) | 14 (+2) | 18 (+4) | 7 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +9, Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** -
+
 **Challenge** 7 (2,900 XP)
 
 ###### Actions
@@ -662,7 +787,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Medium beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 13 (2d8+4)
+
 **Speed** 30 ft., burrow 10 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -670,7 +797,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 13 (+1) | 10 (+0) | 15 (+2) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Keen Smell***. The badger has advantage on Wisdom (Perception) checks that rely on smell.
@@ -688,7 +817,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Large beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 22 (4d10)
+
 **Speed** 10 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -696,7 +827,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 15 (+2) | 16 (+3) | 11 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** blindsight 60 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Echolocation***. The bat can't use its blindsight while deafened.
@@ -712,7 +845,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Large beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 42 (5d10+15)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
@@ -720,7 +855,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 17 (+3) | 10 (+0) | 16 (+3) | 2 (-4) | 7 (-2) | 5 (-3) |
 
 **Senses** passive Perception 8
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Charge***. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
@@ -736,7 +873,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Small beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 4 (1d6+1)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
@@ -744,7 +883,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 5 (-3) | 14 (+2) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
 **Senses** blindsight 30 ft., passive Perception 8
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -756,7 +897,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Huge beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 60 (8d12+8)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -764,8 +907,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2
+
 **Senses** blindsight 10 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ###### Actions
@@ -779,7 +925,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Medium beast, unaligned*
 
 **Armor Class** 15 (natural armor)
+
 **Hit Points** 13 (3d8)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
@@ -787,8 +935,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 13 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Skills** Stealth +4
+
 **Senses** blindsight 30 ft., passive Perception 9
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Amphibious***. The crab can breathe air and water.
@@ -802,7 +953,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Huge beast, unaligned*
 
 **Armor Class** 14 (natural armor)
+
 **Hit Points** 85 (9d12+27)
+
 **Speed** 30 ft., swim 50 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
@@ -810,7 +963,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 21 (+5) | 9 (-1) | 17 (+3) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 5 (1,800 XP)
 
 ***Hold Breath***. The crocodile can hold its breath for 30 minutes.
@@ -828,7 +983,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 *Large beast, neutral good*
 
 **Armor Class** 13
+
 **Hit Points** 26 (4d10+4)
+
 **Speed** 10 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
@@ -836,8 +993,11 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 | 16 (+3) | 17 (+3) | 13 (+1) | 8 (-1) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** Giant Eagle, understands Common and Auran but can't speak them
+
 **Challenge** 1 (200 XP)
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
@@ -857,7 +1017,9 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 *Huge beast, unaligned*
 
 **Armor Class** 14 (natural armor)
+
 **Hit Points** 42 (5d12+10)
+
 **Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
@@ -865,8 +1027,11 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 | 19 (+4) | 16 (+3) | 14 (+2) | 7 (-2) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** Giant Elk, understands Common, Elvish, and Sylvan but can't speak them
+
 **Challenge** 2 (450 XP)
 
 ***Charge***. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
@@ -884,7 +1049,9 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 *Small beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 4 (1d6+1)
+
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
@@ -892,7 +1059,9 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 | 8 (-1) | 10 (+0) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
 **Senses** blindsight 30 ft., passive Perception 8
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Illumination***. The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
@@ -908,7 +1077,9 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 *Medium beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 18 (4d8)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -916,8 +1087,11 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 | 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2, Stealth +3
+
 **Senses** darkvision 30 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Amphibious***. The frog can breathe air and water.
@@ -937,7 +1111,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 *Large beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -945,7 +1121,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 | 17 (+3) | 11 (+0) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Charge***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
@@ -961,7 +1139,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 *Large beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 45 (6d10+12)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -969,8 +1149,11 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 | 16 (+3) | 14 (+2) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Rampage***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
@@ -984,7 +1167,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 *Large beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -992,7 +1177,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 | 15 (+2) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -1006,7 +1193,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Large beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 52 (8d10+8)
+
 **Speed** 10 ft., swim 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1014,8 +1203,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 17 (+3) | 13 (+1) | 13 (+1) | 4 (-3) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +4, Stealth +5
+
 **Senses** darkvision 60 ft., passive Perception 14
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Hold Breath***. While out of water, the octopus can hold its breath for 1 hour.
@@ -1035,7 +1227,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Large beast, neutral*
 
 **Armor Class** 12
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 5 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
@@ -1043,8 +1237,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 13 (+1) | 15 (+2) | 12 (+1) | 8 (-1) | 13 (+1) | 10 (+0) |
 
 **Skills** Perception +5, Stealth +4
+
 **Senses** darkvision 120 ft., passive Perception 15
+
 **Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
+
 **Challenge** 1/4 (50 XP)
 
 ***Flyby***. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
@@ -1062,7 +1259,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Medium beast, unaligned*
 
 **Armor Class** 14
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1070,8 +1269,11 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 10 (+0) | 18 (+4) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2
+
 **Senses** blindsight 10 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -1083,7 +1285,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 7 (2d6)
+
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1091,7 +1295,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Senses** darkvision 60 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Keen Smell***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1113,7 +1319,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Large beast, unaligned*
 
 **Armor Class** 15 (natural armor)
+
 **Hit Points** 52 (7d10+14)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
@@ -1121,7 +1329,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 15 (+2) | 13 (+1) | 15 (+2) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Senses** blindsight 60 ft., passive Perception 9
+
 **Languages** -
+
 **Challenge** 3 (700 XP)
 
 ###### Actions
@@ -1137,7 +1347,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 *Large beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 16 (3d10)
+
 **Speed** 0 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1145,7 +1357,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 | 12 (+1) | 15 (+2) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Charge***. If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
@@ -1163,7 +1377,9 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 *Huge beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 126 (11d12+55)
+
 **Speed** 0 ft., swim 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1171,8 +1387,11 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 | 23 (+6) | 11 (+0) | 21 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |
 
 **Skills** Perception +3
+
 **Senses** blindsight 60 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 5 (1,800 XP)
 
 ***Blood Frenzy***. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -1190,7 +1409,9 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 *Large beast, unaligned*
 
 **Armor Class** 14 (natural armor)
+
 **Hit Points** 26 (4d10+4)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1198,8 +1419,11 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 | 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4) | 11 (+0) | 4 (-3) |
 
 **Skills** Stealth +7
+
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Spider Climb***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -1221,7 +1445,9 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 *Large beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 39 (6d10+6)
+
 **Speed** 20 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1229,7 +1455,9 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 | 15 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 30 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Amphibious***. The toad can breathe air and water.
@@ -1249,7 +1477,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 *Large beast, neutral evil*
 
 **Armor Class** 10
+
 **Hit Points** 22 (3d10+6)
+
 **Speed** 10 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1257,8 +1487,11 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 | 15 (+2) | 10 (+0) | 15 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** understands Common but can't speak
+
 **Challenge** 1 (200 XP)
 
 ***Keen Sight and Smell***. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
@@ -1280,7 +1513,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 *Medium beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 13 (3d8)
+
 **Speed** 10 ft., fly 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1288,7 +1523,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 | 10 (+0) | 14 (+2) | 10 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ###### Actions
@@ -1300,7 +1537,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 *Medium beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 9 (2d8)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1308,8 +1547,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 | 11 (+0) | 16 (+3) | 10 (+0) | 4 (-3) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3, Stealth +5
+
 **Senses** darkvision 60 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Keen Hearing and Smell***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -1323,7 +1565,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 *Medium beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 40 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1331,8 +1575,11 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 | 12 (+1) | 16 (+3) | 13 (+1) | 3 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills** Perception +3, Stealth +7
+
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Spider Climb***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -1352,7 +1599,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 *Medium beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 4 (1d8)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1360,7 +1609,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 | 12 (+1) | 10 (+0) | 11 (+0) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Charge***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
@@ -1376,7 +1627,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 *Tiny beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -1384,8 +1637,11 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 | 5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2) |
 
 **Skills** Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Sight***. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
@@ -1399,7 +1655,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 *Large beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 45 (6d10+12)
+
 **Speed** 0 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1407,8 +1665,11 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 | 18 (+4) | 13 (+1) | 15 (+2) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2
+
 **Senses** blindsight 30 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Blood Frenzy***. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -1426,7 +1687,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Medium beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 5 (1d8+1)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1434,8 +1697,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Pack Tactics***. The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -1451,7 +1717,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 3 (1d6)
+
 **Speed** 40 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1459,8 +1727,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 8 (-1) | 15 (+2) | 11 (+0) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Hearing and Smell***. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -1476,7 +1747,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Huge beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 90 (12d12+12)
+
 **Speed** 0 ft., swim 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1484,8 +1757,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 19 (+4) | 10 (+0) | 13 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** blindsight 120 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 3 (700 XP)
 
 ***Echolocation***. The whale can't use its blindsight while deafened.
@@ -1503,7 +1779,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Large beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 26 (4d10+4)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1511,8 +1789,11 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 17 (+3) | 15 (+2) | 13 (+1) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Keen Smell***. The lion has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1534,7 +1815,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Tiny beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 2 (1d4)
+
 **Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
@@ -1542,7 +1825,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Senses** darkvision 30 ft., passive Perception 9
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ###### Actions
@@ -1556,7 +1841,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 *Huge beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 126 (11d12+55)
+
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
@@ -1564,7 +1851,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 | 24 (+7) | 9 (-1) | 21 (+5) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 6 (2,300 XP)
 
 ***Trampling Charge***. If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
@@ -1582,7 +1871,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Medium beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 5 (1d8+1)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1590,8 +1881,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 13 (+1) | 14 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Keen Hearing and Smell***. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -1607,7 +1901,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Medium beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1615,7 +1911,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 14 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ***Beast of Burden***. The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
@@ -1631,7 +1929,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Small beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 3 (1d6)
+
 **Speed** 5 ft., swim 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1639,8 +1939,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2, Stealth +4
+
 **Senses** darkvision 30 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Hold Breath***. While out of water, the octopus can hold its breath for 30 minutes.
@@ -1660,7 +1963,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Tiny beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 5 ft., fly 60 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -1668,8 +1973,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +3
+
 **Senses** darkvision 120 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Flyby***. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
@@ -1687,7 +1995,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Medium beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 13 (3d8)
+
 **Speed** 50 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1695,8 +2005,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 7 (-2) |
 
 **Skills** Perception +4, Stealth +6
+
 **Senses** passive Perception 14
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Keen Smell***. The panther has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1714,7 +2027,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 *Large monstrosity, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 32 (5d10+5)
+
 **Speed** 30 ft., climb 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1722,8 +2037,11 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Skills** Stealth +6
+
 **Senses** darkvision 60 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 3 (700 XP)
 
 ***Ethereal Jaunt***. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
@@ -1743,7 +2061,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 *Tiny beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 2 (1d4)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1751,7 +2071,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 | 2 (-4) | 16 (+3) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -1763,7 +2085,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 *Large beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 42 (5d10+15)
+
 **Speed** 40 ft., swim 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1771,8 +2095,11 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 | 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1790,7 +2117,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 *Medium beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1798,7 +2127,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 | 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -1810,7 +2141,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 *Tiny beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 0 ft., swim 40 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
@@ -1818,7 +2151,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 | 2 (-4) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 8
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Blood Frenzy***. The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -1836,7 +2171,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 *Tiny beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -1844,7 +2181,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 | 2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Smell***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1858,7 +2197,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 *Tiny beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -1866,8 +2207,11 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 | 2 (-4) | 14 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Mimicry***. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
@@ -1881,7 +2225,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 *Medium beast, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 22 (4d8+4)
+
 **Speed** 0 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1889,8 +2235,11 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 | 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2
+
 **Senses** blindsight 30 ft., passive Perception 12
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Pack Tactics***. The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -1908,7 +2257,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 45 (6d10+12)
+
 **Speed** 40 ft.
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
@@ -1916,7 +2267,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 21 (+5) | 8 (-1) | 15 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Charge***. If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
@@ -1930,7 +2283,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 13 (2d10+2)
+
 **Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1938,7 +2293,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ###### Actions
@@ -1952,7 +2309,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 52 (7d10+14)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -1960,8 +2319,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 18 (+4) | 14 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Keen Smell***. The tiger has advantage on Wisdom (Perception) checks that rely on smell.
@@ -1979,7 +2341,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Tiny beast, unaligned*
 
 **Armor Class** 11 (natural armor)
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 10 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
@@ -1987,7 +2351,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 2 (-4) | 11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 9
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ###### Actions
@@ -1999,7 +2365,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Tiny beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 0 ft., swim 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -2007,7 +2375,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 1 (-5) | 12 (+1) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Senses** passive Perception 10
+
 **Languages** -
+
 **Challenge** 0 (0 XP)
 
 ***Water Breathing***. The sea horse can breathe only underwater.
@@ -2017,7 +2387,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Tiny beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -2025,8 +2397,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Skills** Stealth +4
+
 **Senses** darkvision 30 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Spider Climb***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -2044,7 +2419,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 22 (5d8)
+
 **Speed** 0 ft., fly 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2052,9 +2429,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 5 (-3) | 15 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** blindsight 60 ft., passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Echolocation***. The swarm can't use its blindsight while deafened.
@@ -2072,7 +2453,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 12 (natural armor)
+
 **Hit Points** 22 (5d8)
+
 **Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
@@ -2080,9 +2463,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 3 (-4) | 13 (+1) | 10 (+0) | 1 (-5) | 7 (-2) | 1 (-5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** blindsight 10 ft., passive Perception 8
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
@@ -2114,7 +2501,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 14
+
 **Hit Points** 36 (8d8)
+
 **Speed** 30 ft., swim 30 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2122,9 +2511,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 8 (-1) | 18 (+4) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** blindsight 10 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 2 (450 XP)
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
@@ -2138,7 +2531,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 28 (8d8-8)
+
 **Speed** 0 ft., swim 40 ft.
 
 | STR     | DEX     | CON    | INT    | WIS    | CHA    |
@@ -2146,9 +2541,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 13 (+1) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** darkvision 60 ft., passive Perception 8
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Blood Frenzy***. The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -2166,7 +2565,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 24 (7d8-7)
+
 **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -2174,9 +2575,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 9 (-1) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** darkvision 30 ft., passive Perception 10
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Keen Smell***. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
@@ -2192,7 +2597,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium swarm of Tiny beasts, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 24 (7d8-7)
+
 **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -2200,10 +2607,15 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 6 (-2) | 14 (+2) | 8 (-1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +5
+
 **Damage Resistances** bludgeoning, piercing, slashing
+
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+
 **Senses** passive Perception 15
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
@@ -2217,7 +2629,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large beast, unaligned*
 
 **Armor Class** 12
+
 **Hit Points** 37 (5d10+10)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2225,8 +2639,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 17 (+3) | 15 (+2) | 14 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
+
 **Senses** darkvision 60 ft., passive Perception 13
+
 **Languages** -
+
 **Challenge** 1 (200 XP)
 
 ***Keen Smell***. The tiger has advantage on Wisdom (Perception) checks that rely on smell.
@@ -2246,7 +2663,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Medium beast, unaligned*
 
 **Armor Class** 10
+
 **Hit Points** 5 (1d8+1)
+
 **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2254,8 +2673,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 7 (-2) | 10 (+0) | 13 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills** Perception +3
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Sight and Smell***. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
@@ -2271,7 +2693,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large beast, unaligned*
 
 **Armor Class** 11
+
 **Hit Points** 19 (3d10+3)
+
 **Speed** 60 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2279,7 +2703,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 18 (+4) | 12 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Senses** passive Perception 11
+
 **Languages** -
+
 **Challenge** 1/2 (100 XP)
 
 ***Trampling Charge***. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
@@ -2293,7 +2719,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Tiny beast, unaligned*
 
 **Armor Class** 13
+
 **Hit Points** 1 (1d4-1)
+
 **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
@@ -2301,8 +2729,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 | 3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4) |
 
 **Skills** Perception +3, Stealth +5
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 0 (10 XP)
 
 ***Keen Hearing and Smell***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -2316,7 +2747,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 *Large monstrosity, neutral evil*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 75 (10d10+20)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2326,8 +2759,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 **Skills** Perception +5, Stealth +3
 
 **Damage Immunities** cold
+
 **Senses** passive Perception 15
+
 **Languages** Common, Giant, Winter Wolf
+
 **Challenge** 3 (700 XP)
 
 ***Keen Hearing and Smell***. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -2349,7 +2785,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 *Medium beast, unaligned*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 11 (2d8+2)
+
 **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2357,8 +2795,11 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 | 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +3, Stealth +4
+
 **Senses** passive Perception 13
+
 **Languages** -
+
 **Challenge** 1/4 (50 XP)
 
 ***Keen Hearing and Smell***. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -2374,7 +2815,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 *Large monstrosity, neutral evil*
 
 **Armor Class** 13 (natural armor)
+
 **Hit Points** 26 (4d10+4)
+
 **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -2382,8 +2825,11 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 | 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) |
 
 **Skills** Perception +4
+
 **Senses** darkvision 60 ft., passive Perception 14
+
 **Languages** Goblin, Worg
+
 **Challenge** 1/2 (100 XP)
 
 ***Keen Hearing and Smell***. The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.

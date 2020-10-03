@@ -23,7 +23,9 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 10
+
 **Hit Points** 9 (2d8)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -31,8 +33,11 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Religion +2
+
 **Senses** passive Perception 12
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/4 (50 XP)
 
 ***Spellcasting***. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
@@ -51,7 +56,9 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12 (15 with *mage armor*)
+
 **Hit Points** 99 (18d8 + 18)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -59,10 +66,15 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Int +9, Wis +6
+
 **Skills** Arcana +13, History +13
+
 **Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from *stoneskin*)
+
 **Senses** passive Perception 12
+
 **Languages** any six languages
+
 **Challenge** 12 (8,400 XP)
 
 ***Magic Resistance***. The archmage has advantage on saving throws against spells and other magical effects.
@@ -94,7 +106,9 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 15 (studded leather)
+
 **Hit Points** 78 (12d8 + 24)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -102,10 +116,15 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
 **Saving Throws** Dex +6, Int +4
+
 **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
+
 **Damage Resistances** poison
+
 **Senses** passive Perception 13
+
 **Languages** Thieves' cant plus any two languages
+
 **Challenge** 8 (3,900 XP)
 
 ***Assassinate***. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
@@ -129,7 +148,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 12 (leather armor)
+
 **Hit Points** 11 (2d8 + 2)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -137,7 +158,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -155,7 +178,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 15 (studded leather)
+
 **Hit Points** 65 (10d8 + 20)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -163,9 +188,13 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
 **Saving Throws** Str +4, Dex +5, Wis +2
+
 **Skills** Athletics +4, Deception +4
+
 **Senses** passive Perception 10
+
 **Languages** any two languages
+
 **Challenge** 2 (450 XP)
 
 ###### Actions
@@ -191,7 +220,9 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 *Medium humanoid (any race), any chaotic alignment*
 
 **Armor Class** 13 (hide armor)
+
 **Hit Points** 67 (9d8 + 27)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -199,7 +230,9 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 | 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 11 (+0) | 9 (-1) |
 
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 2 (450 XP)
 
 ***Reckless***. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
@@ -215,7 +248,9 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 10
+
 **Hit Points** 4 (1d8)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -223,7 +258,9 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 0 (10 XP)
 
 ###### Actions
@@ -237,7 +274,9 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 12 (leather armor)
+
 **Hit Points** 9 (2d8)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -245,8 +284,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Deception +2, Religion +2
+
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/8 (25 XP)
 
 ***Dark Devotion***. The cultist has advantage on saving throws against being charmed or frightened.
@@ -262,7 +304,9 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 13 (leather armor)
+
 **Hit Points** 33 (6d8 + 6)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -270,8 +314,11 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Skills** Deception +4, Persuasion +4, Religion +2
+
 **Senses** passive Perception 11
+
 **Languages** any one language (usually Common)
+
 **Challenge** 2 (450 XP)
 
 ***Dark Devotion***. The fanatic has advantage on saving throws against being charmed or frightened.
@@ -295,7 +342,9 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 11 (16 with *barkskin*)
+
 **Hit Points** 27 (5d8 + 5)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -303,8 +352,11 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 | 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Nature +3, Perception +4
+
 **Senses** passive Perception 14
+
 **Languages** Druidic plus any two languages
+
 **Challenge** 2 (450 XP)
 
 ***Spellcasting***. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
@@ -324,7 +376,9 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 16 (studded leather, shield)
+
 **Hit Points** 112 (15d8 + 45)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -332,9 +386,13 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Str +7, Dex +5, Con +6
+
 **Skills** Athletics +10, Intimidation +5
+
 **Senses** passive Perception 11
+
 **Languages** any one language (usually Common)
+
 **Challenge** 5 (1,800 XP)
 
 ***Brave***. The gladiator has advantage on saving throws against being frightened.
@@ -360,7 +418,9 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 16 (chain shirt, shield)
+
 **Hit Points** 11 (2d8 + 2)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -368,8 +428,11 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +2
+
 **Senses** passive Perception 12
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -383,7 +446,9 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 18 (plate)
+
 **Hit Points** 52 (8d8 + 16)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -391,8 +456,11 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 | 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Con +4, Wis +2
+
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 3 (700 XP)
 
 ***Brave***. The knight has advantage on saving throws against being frightened.
@@ -418,7 +486,9 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12 (15 with *mage armor*)
+
 **Hit Points** 40 (9d8)
+
 **Speed** 30 ft.
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
@@ -426,9 +496,13 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 | 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4
+
 **Skills** Arcana +6, History +6
+
 **Senses** passive Perception 11
+
 **Languages** any four languages
+
 **Challenge** 6 (2,300 XP)
 
 ***Spellcasting***. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
@@ -451,7 +525,9 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 15 (breastplate)
+
 **Hit Points** 9 (2d8)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -459,8 +535,11 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 | 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Persuasion +5
+
 **Senses** passive Perception 12
+
 **Languages** any two languages
+
 **Challenge** 1/8 (25 XP)
 
 ###### Actions
@@ -480,7 +559,9 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 13 (chain shirt)
+
 **Hit Points** 27 (5d8 + 5)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -488,8 +569,11 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 | 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Skills** Medicine +7, Persuasion +3, Religion +5
+
 **Senses** passive Perception 13
+
 **Languages** any two languages
+
 **Challenge** 2 (450 XP)
 
 ***Divine Eminence***. As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
@@ -514,7 +598,9 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 13 (leather armor)
+
 **Hit Points** 16 (3d8 + 3)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -522,8 +608,11 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 | 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
+
 **Senses** passive Perception 15
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/2 (100 XP)
 
 ***Keen Hearing and Sight***. The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
@@ -543,7 +632,9 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12
+
 **Hit Points** 27 (6d8)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -551,8 +642,11 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+
 **Senses** passive Perception 16
+
 **Languages** any two languages
+
 **Challenge** 1 (200 XP)
 
 ***Cunning Action***. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
@@ -574,7 +668,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 11 (leather armor)
+
 **Hit Points** 32 (5d8 + 10)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -582,8 +678,11 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 | 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 **Skills** Intimidation +2
+
 **Senses** passive Perception 10
+
 **Languages** any one language (usually Common)
+
 **Challenge** 1/2 (100 XP)
 
 ***Pack Tactics***. The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -603,7 +702,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12 (hide armor)
+
 **Hit Points** 11 (2d8 + 2)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
@@ -611,7 +712,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 | 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1) | 11 (+0) | 8 (-1) |
 
 **Senses** passive Perception 10
+
 **Languages** any one language
+
 **Challenge** 1/8 (25 XP)
 
 ***Pack Tactics***. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -627,7 +730,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 17 (splint)
+
 **Hit Points** 58 (9d8 + 18)
+
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -635,8 +740,11 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
+
 **Senses** passive Perception 12
+
 **Languages** any one language (usually Common)
+
 **Challenge** 3 (700 XP)
 
 ###### Actions

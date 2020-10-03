@@ -13,15 +13,21 @@ As a barbarian, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d12 per barbarian level
+
 **Hit Points at 1st Level:** 12 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
+
 **Weapons:** Simple weapons, martial weapons
+
 **Tools:** None
+
 **Saving Throws:** Strength, Constitution
+
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
 #### Equipment
@@ -167,15 +173,21 @@ As a bard, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per bard level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
+
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
 **Tools:** Three musical instruments of your choice
+
 **Saving Throws:** Dexterity, Charisma
+
 **Skills:** Choose any three
 
 #### Equipment
@@ -342,15 +354,21 @@ As a cleric, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per cleric level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
+
 **Weapons:** Simple weapons
+
 **Tools:** None
+
 **Saving Throws:** Wisdom, Charisma
+
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 #### Equipment
@@ -530,15 +548,21 @@ As a druid, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per druid level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+
 **Tools:** Herbalism kit
+
 **Saving Throws:** Intelligence, Wisdom
+
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 #### Equipment
@@ -789,15 +813,21 @@ As a fighter, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d10 per fighter level
+
 **Hit Points at 1st Level:** 10 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 #### Proficiencies
 
 **Armor:** All armor, shields
+
 **Weapons:** Simple weapons, martial weapons
+
 **Tools:** None
+
 **Saving Throws:** Strength, Constitution
+
 **Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 #### Equipment
@@ -932,15 +962,21 @@ As a monk, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per monk level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 
 **Armor:** None
+
 **Weapons:** Simple weapons, shortswords
+
 **Tools:** Choose one type of artisan's tools or one musical instrument
+
 **Saving Throws:** Strength, Dexterity
+
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
 #### Equipment
@@ -1128,15 +1164,21 @@ As a paladin, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d10 per paladin level
+
 **Hit Points at 1st Level:** 10 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
 #### Proficiencies
 
 **Armor:** All armor, shields
+
 **Weapons:** Simple weapons, martial weapons
+
 **Tools:** None
+
 **Saving Throws:** Wisdom, Charisma
+
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
 #### Equipment
@@ -1380,15 +1422,21 @@ As a ranger, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d10 per ranger level
+
 **Hit Points at 1st Level:** 10 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
+
 **Weapons:** Simple weapons, martial weapons
+
 **Tools:** None
+
 **Saving Throws:** Strength, Dexterity
+
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
 #### Equipment
@@ -1596,15 +1644,21 @@ As a rogue, you have the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per rogue level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
+
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+
 **Tools:** Thieves' tools
+
 **Saving Throws:** Dexterity, Intelligence
+
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
@@ -1743,15 +1797,21 @@ As a sorcerer, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d6 per sorcerer level
+
 **Hit Points at 1st Level:** 6 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
 #### Proficiencies
 
 **Armor:** None
+
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+
 **Tools:** None
+
 **Saving Throws:** Constitution, Charisma
+
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 #### Equipment
@@ -1969,15 +2029,21 @@ As a warlock, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per warlock level
+
 **Hit Points at 1st Level:** 8 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
+
 **Weapons:** Simple weapons
+
 **Tools:** None
+
 **Saving Throws:** Wisdom, Charisma
+
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
 #### Equipment
@@ -2345,15 +2411,21 @@ As a wizard, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d6 per wizard level
+
 **Hit Points at 1st Level:** 6 + your Constitution modifier
+
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
 #### Proficiencies
 
 **Armor:** None
+
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+
 **Tools:** None
+
 **Saving Throws:** Intelligence, Wisdom
+
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
 #### Equipment
