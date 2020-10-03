@@ -15,7 +15,7 @@ title: Changelog
 - [x] Reorganized pages.
 - [x] Updated composite files for DOCX.
 - [x] Compiled pages into all new download formats.
-- [x] Add icon to the upper-left sidebar.
+- [x] Add site icon to the upper-left sidebar.
 
 ## April 17th, 2020
 
