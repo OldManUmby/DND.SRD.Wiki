@@ -12,6 +12,14 @@ title: Changelog
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## October 2nd, 2020
+
+- [x] Updated all pages fixing numerous markdown issues.
+- [x] Added missing spells.
+- [x] Reorganized pages.
+- [x] Updated composite files for DOCX.
+- [x] Compiled pages into all new download formats.
+
 ## April 17th, 2020
 
 - [x] Created (from scratch) new Markdown and MS Word versions (v0.4.0) of the D&D SRD 5.1.
