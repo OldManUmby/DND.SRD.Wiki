@@ -1,4 +1,4 @@
-# WARNING: WE ARE CURRENTLY UPDATING ALL PAGES NOW THRU THE WEEKEND! PLEASE VISIT US AGAIN THIS MONDAY!
+# WARNING: We Are Currently Updating to REmastered V4.2 Now Thru The Weekend; Please Visit Us Again On Monday!
 
 ---
 
