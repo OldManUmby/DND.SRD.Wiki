@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous Creatures
+title: 'Miscellaneous Creatures'
 ---
 
 [TOC]

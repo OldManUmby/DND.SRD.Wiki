@@ -11,8 +11,8 @@ metadata:
     'twitter:title': 'Contact | D&amp;D SRD 5.1 REmastered'
     'twitter:site': '@umbyology'
     'twitter:creator': '@umbyology'
-    'article:published_time': '2020-10-06T09:17:37-05:00'
-    'article:modified_time': '2020-10-06T09:17:37-05:00'
+    'article:published_time': '2020-10-06T09:20:26-05:00'
+    'article:modified_time': '2020-10-06T09:20:26-05:00'
     'article:author': 'B.A. Umberger'
 ---
 
