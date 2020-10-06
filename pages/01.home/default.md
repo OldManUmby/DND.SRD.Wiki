@@ -20,8 +20,9 @@ media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKe
 ! The documents contained herein are edited line-by-line into Markdown format for export to other publishing formats or into your own 5E projects. We have painstakingly REmastered the original Wizard's SRD v5.1 PDF to markdown, **plus all errata from the Nov 2018 update**. The original documents can be downloaded from my [Github OGL-SRD Repository](https://github.com/Umbyology/OGL-SRD5). Please report any issues you find through our Github account, or make any corrections through a Github pull request. 
 
 #### Website Features
-1.  **Powerful search engines**. Word search any page in the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the recommended advanced full-text search feature (also upper-left sidebar), or your can perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
-2.  **Error reporting**. Report any errors directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** _A free Github account/membership is required_. We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
+1. **Powerful search engines**. Word search any page in the D&D 5E SRD using our standard highlight search field (upper-left sidebar), or use the recommended advanced full-text search feature (also upper-left sidebar), or your can perform a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) of the SRD.
+2. **Error reporting**. Report any errors directly through Github. Links can be found in the upper right-hand corner of each page. **NOTE:** _A free Github account/membership is required_.
+3. We also have a [Facebook Page and Group](https://www.facebook.com/oglsrd5) for general discussions and questions.
 
 #### Downloads
 
