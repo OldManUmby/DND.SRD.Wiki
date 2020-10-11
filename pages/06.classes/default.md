@@ -931,25 +931,25 @@ Different fighters choose different approaches to perfecting their fighting prow
 
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
-##### Improved Critical
+#### Improved Critical
 
 Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
-##### Remarkable Athlete
+#### Remarkable Athlete
 
 Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
-##### Additional Fighting Style
+#### Additional Fighting Style
 
 At 10th level, you can choose a second option from the Fighting Style class feature.
 
-##### Superior Critical
+#### Superior Critical
 
 Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
 
-##### Survivor
+#### Survivor
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
@@ -1133,7 +1133,7 @@ Three traditions of monastic pursuit are common in the monasteries scattered acr
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
-##### Open Hand Technique
+#### Open Hand Technique
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
@@ -1141,15 +1141,15 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 - It can't take reactions until the end of your next turn.
 
-##### Wholeness of Body
+#### Wholeness of Body
 
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
 
-##### Tranquility
+#### Tranquility
 
 Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
-##### Quivering Palm
+#### Quivering Palm
 
 At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 
@@ -1344,7 +1344,7 @@ Becoming a paladin involves taking vows that commit the paladin to the cause of 
 
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels-the perfect servants of good-as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
-##### Tenets of Devotion
+#### Tenets of Devotion
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
@@ -1358,7 +1358,7 @@ Though the exact words and strictures of the Oath of Devotion vary, paladins of 
 
 ***Duty***. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
-##### Oath Spells
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -1373,7 +1373,7 @@ You gain oath spells at the paladin levels listed.
 | 17th  | commune, flame strike                    |
 |       |                                          |
 
-##### Channel Divinity
+#### Channel Divinity
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
@@ -1385,7 +1385,7 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-##### Aura of Devotion
+#### Aura of Devotion
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
 
@@ -1395,7 +1395,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 Beginning at 15th level, you are always under the effects of a *protection from evil and good* spell.
 
-##### Holy Nimbus
+#### Holy Nimbus
 
 At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
@@ -1597,7 +1597,7 @@ The ideal of the ranger has two classic expressions: the Hunter and the Beast Ma
 
 Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
 
-##### Hunter's Prey
+#### Hunter's Prey
 
 At 3rd level, you gain one of the following features of your choice.
 
@@ -1607,7 +1607,7 @@ At 3rd level, you gain one of the following features of your choice.
 
 ***Horde Breaker***. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
-##### Defensive Tactics
+#### Defensive Tactics
 
 At 7th level, you gain one of the following features of your choice.
 
@@ -1617,7 +1617,7 @@ At 7th level, you gain one of the following features of your choice.
 
 ***Steel Will***. You have advantage on saving throws against being frightened.
 
-##### Multiattack
+#### Multiattack
 
 At 11th level, you gain one of the following features of your choice.
 
@@ -1625,7 +1625,7 @@ At 11th level, you gain one of the following features of your choice.
 
 ***Whirlwind Attack***. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-##### Superior Hunter's Defense
+#### Superior Hunter's Defense
 
 At 15th level, you gain one of the following features of your choice.
 
@@ -1766,25 +1766,25 @@ Rogues have many features in common, including their emphasis on perfecting thei
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
 
-##### Fast Hands
+#### Fast Hands
 
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
 
-##### Second-Story Work
+#### Second-Story Work
 
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
 
 In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
-##### Supreme Sneak
+#### Supreme Sneak
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-##### Use Magic Device
+#### Use Magic Device
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 
-##### Thief's Reflexes
+#### Thief's Reflexes
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
 
@@ -1978,7 +1978,7 @@ Different sorcerers claim different origins for their innate magic. Although man
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
-##### Dragon Ancestor
+#### Dragon Ancestor
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
 
@@ -2000,23 +2000,23 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
-##### Draconic Resilience
+#### Draconic Resilience
 
 As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
 
-##### Elemental Affinity
+#### Elemental Affinity
 
 Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
-##### Dragon Wings
+#### Dragon Wings
 
 At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
 
 You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-##### Draconic Presence
+#### Draconic Presence
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
@@ -2355,7 +2355,7 @@ Some patrons collect warlocks, doling out mystic knowledge relatively freely or 
 
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
-##### Expanded Spell List
+#### Expanded Spell List
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -2370,21 +2370,21 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 | 5th         | flame strike, hallow              |
 |             |                                   |
 
-##### Dark One's Blessing
+#### Dark One's Blessing
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
 
-##### Dark One's Own Luck
+#### Dark One's Own Luck
 
 Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-##### Fiendish Resilience
+#### Fiendish Resilience
 
 Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
 
-##### Hurl Through Hell
+#### Hurl Through Hell
 
 Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 
@@ -2543,23 +2543,23 @@ The most common arcane traditions in the multiverse revolve around the schools o
 
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
-##### Evocation Savant
+#### Evocation Savant
 
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.
 
-##### Sculpt Spells
+#### Sculpt Spells
 
 Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
 
-##### Potent Cantrip
+#### Potent Cantrip
 
 Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
-##### Empowered Evocation
+#### Empowered Evocation
 
 Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.
 
-##### Overchannel
+#### Overchannel
 
 Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.
 
