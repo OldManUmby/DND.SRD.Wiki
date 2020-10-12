@@ -1,5 +1,5 @@
 ---
-title: 'Legal Information'
+title: 'Legal'
 ---
 
 ### Licensing
