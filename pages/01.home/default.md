@@ -3,7 +3,7 @@ title: Introduction
 media_order: 'DnD_PHB.jpg,DnD_DMG.jpg,DnD_MM.jpg,RE&.logo.1000.286.144.png,ToDKeyArt2.jpg'
 ---
 
-[center]**HUGE Update: REmastered Formats v0.4.1 Now Available! | [Content Updated Oct 2nd, 2020](https://ogl-srd5.com/changelog)**[/center]
+[center]**Update: REmastered Formats v0.4.2 Now Available! | [Content Updated Nov 23rd, 2020](https://ogl-srd5.com/changelog)**[/center]
 
 ![REmastered Logo](RE&.logo.1000.286.144.png)
 

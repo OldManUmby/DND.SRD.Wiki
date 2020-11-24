@@ -1,4 +1,4 @@
-# D&D 5E SRD Full Compile-v0.4.1
+# D&D 5E SRD Full Compile-v0.4.2
 
 # Races
 

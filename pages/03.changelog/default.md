@@ -8,6 +8,10 @@ title: Changelog
 
 **[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## November 23rd, 2020
+
+- [x] Removed chapter references.
+
 ## October 2nd, 2020
 
 - [x] Reinstalled GRAV with theme and various plugins from scratch.
