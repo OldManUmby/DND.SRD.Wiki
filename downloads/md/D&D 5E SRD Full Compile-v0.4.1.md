@@ -581,7 +581,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a musical instrument (see chapter ##, "Equipment") as a spellcasting focus for your bard spells.
+You can use a musical instrument as a spellcasting focus for your bard spells.
 
 ### Bardic Inspiration
 
@@ -757,7 +757,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a holy symbol (see chapter ##, "Equipment") as a spellcasting focus for your cleric spells.
+You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 ### Divine Domain
 
@@ -953,7 +953,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus (see chapter ##, "Equipment") as a spellcasting focus for your druid spells.
+You can use a druidic focus as a spellcasting focus for your druid spells.
 
 ### Wild Shape
 
@@ -1841,7 +1841,7 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 ### Spellcasting
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See the general rules of spellcasting and the ranger spell list.
 
 #### Spell Slots
 
@@ -3385,7 +3385,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 ***Range***. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
-***Reach***. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it (see chapter ##).
+***Reach***. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
 ***Special***. A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
 
