@@ -2787,8 +2787,7 @@
       <section xml:id="spellcasting-focus">
         <title>Spellcasting Focus</title>
         <para>
-          You can use a musical instrument (see chapter ##,
-          <quote>Equipment</quote>) as a spellcasting focus for your
+          You can use a musical instrument as a spellcasting focus for your
           bard spells.
         </para>
       </section>
@@ -4073,8 +4072,7 @@
       <section xml:id="spellcasting-focus-1">
         <title>Spellcasting Focus</title>
         <para>
-          You can use a holy symbol (see chapter ##,
-          <quote>Equipment</quote>) as a spellcasting focus for your
+          You can use a holy symbol as a spellcasting focus for your
           cleric spells.
         </para>
       </section>
@@ -5484,8 +5482,7 @@
       <section xml:id="spellcasting-focus-2">
         <title>Spellcasting Focus</title>
         <para>
-          You can use a druidic focus (see chapter ##,
-          <quote>Equipment</quote>) as a spellcasting focus for your
+          You can use a druidic focus as a spellcasting focus for your
           druid spells.
         </para>
       </section>
@@ -18094,7 +18091,7 @@
         <emphasis role="strong"><emphasis>Reach</emphasis></emphasis>.
         This weapon adds 5 feet to your reach when you attack with it,
         as well as when determining your reach for opportunity attacks
-        with it (see chapter ##).
+        with it.
       </para>
       <para>
         <emphasis role="strong"><emphasis>Special</emphasis></emphasis>.
