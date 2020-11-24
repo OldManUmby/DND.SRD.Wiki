@@ -263,7 +263,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a musical instrument (see chapter ##, "Equipment") as a spellcasting focus for your bard spells.
+You can use a musical instrument as a spellcasting focus for your bard spells.
 
 ### Bardic Inspiration
 
@@ -439,7 +439,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a holy symbol (see chapter ##, "Equipment") as a spellcasting focus for your cleric spells.
+You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 ### Divine Domain
 
@@ -635,7 +635,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a druidic focus (see chapter ##, "Equipment") as a spellcasting focus for your druid spells.
+You can use a druidic focus as a spellcasting focus for your druid spells.
 
 ### Wild Shape
 
@@ -1523,7 +1523,7 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 ### Spellcasting
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See the general rules for spellcasting and the ranger spell list.
 
 #### Spell Slots
 
@@ -2503,7 +2503,7 @@ You can use an arcane focus as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
 
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook").
+Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
 
 ### Arcane Recovery
 
