@@ -26,7 +26,7 @@ Characters of most races are Medium, a size category including creatures that ar
 
 ### Speed
 
-Your speed determines how far you can move when traveling ("Adventuring") and fighting ("Combat").
+Your speed determines how far you can move when traveling and fighting.
 
 ### Languages
 
