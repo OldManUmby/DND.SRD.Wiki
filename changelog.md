@@ -12,6 +12,7 @@
 - [x] Redirected domain name to Github Pages.
 - [x] Re-organized repository files.
 - [x] Adjusted README files.
+- [x] Adjusted the page titles and removed TOC header from pages.
 
 ## November 23rd, 2020
 
