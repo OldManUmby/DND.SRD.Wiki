@@ -1,9 +1,11 @@
 
 ![D&D Logo](RE&.logo.png)
 
-#### Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (Wizards SRD v5.1 w/Errata) REmastered in Markdown & Microsoft Word Formats!
+### Welcome to the REmastered Dungeons & Dragons 5E SRD
 
 ---
+
+This is an adaptation of the D&D 5E SRD available in Markdown (.MD), Microsoft Word (.DOCX), Adobe InCopy/InDesign (.ICML) and many other publishing formats.
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
 
@@ -17,7 +19,6 @@ Please report any issues you find through our Github account, or make any correc
 
 ## Downloads
 
-* View or Download each [REmastered Markdown Page](https://github.com/Umbyology/OGL-SRD5/find/master)
 * View or download the [REmastered file in other formats](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
