@@ -1,16 +1,21 @@
----
-title: Changelog
----
-
 ## To Do
 
-- [ ] Customize the [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) page or better integrate it with the site.
+- [ ] Nothing as of yet.
 
-**[Submit an issue or suggestion](https://github.com/Umbyology/OGL-SRD5/issues)**
+**[Submit an issue](https://github.com/Umbyology/OGL-SRD5/issues)**
+
+## December 10th, 2020
+
+- [x] Added Github Discussions to repository.
+- [x] Added Github Pages.
+- [x] Redesigned website utilizing Github Pages with [Jekyll](https://jekyllrb.com/docs/pages/).
+- [x] Redirected domain name to Github Pages.
+- [x] Re-organized repository files.
+- [x] Adjusted README files.
 
 ## November 23rd, 2020
 
-- [x] Removed chapter references.
+- [x] Removed chapter references within the SRD.
 
 ## October 2nd, 2020
 
