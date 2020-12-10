@@ -1,4 +1,5 @@
-# 'Legal'
+# Legal
+
 ---
 
 ### Licensing
