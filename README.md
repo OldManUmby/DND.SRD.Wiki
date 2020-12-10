@@ -11,13 +11,13 @@ This is an adaptation of the D&D 5E SRD available in Markdown (.MD), Microsoft W
 
 The publishing documents contained herein were REmastered line-by-line into Markdown format then exported to the other publishing formats to be utilized in your own 5E projects. I have painstakingly converted the original Wizard's SRD v5.1 PDF to markdown, plus all errata from the _Nov 2018 update_. For more information please visit our official website at [www.ogl-srd5.com](https://www.ogl-srd5.com).
 
-# Issues
+# Discussions & Issues
 
-Please report any issues you find through Github, as an alternative, you can fork this project or make corrections through a Github pull request.
+Feel free to visit our [discussions](https://github.com/Umbyology/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/Umbyology/OGL-SRD5/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/Umbyology/OGL-SRD5/pulls).
 
-# Downloads
+# Get Downloads
 
-* Download the [REmastered files](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
+* Download the [Markdown](https://github.com/Umbyology/OGL-SRD5/archive/master.zip) or select another [publishing format](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
