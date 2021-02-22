@@ -56,13 +56,5 @@ System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Author
 
 END OF LICENSE
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyI1eWMwU0VIRFluVDY0OFlyIjp7In
-RleHQiOiJUaGUgdGV4dCBvZiB0aGUgT3BlbiBHYW1pbmcgTGlj
-ZW5zZSBpdHNlbGYgaXMgbm90IE9wZW4gR2FtZSBDb250ZW50Li
-BJbnN0cnVjdGlv4oCmIiwic3RhcnQiOjM4OCwiZW5kIjo1MzB9
-fSwiY29tbWVudHMiOnsibnRpaGUwNVR3alA5M1QwVSI6eyJkaX
-NjdXNzaW9uSWQiOiI1eWMwU0VIRFluVDY0OFlyIiwic3ViIjoi
-Z2g6MjI1NDc0OTkiLCJ0ZXh0IjoiVGVzdCBOb3RlcyIsImNyZW
-F0ZWQiOjE2MTQwMTY2NTkzMzd9fSwiaGlzdG9yeSI6WzgzODYz
-OTY0NV19
+eyJoaXN0b3J5IjpbLTEyMDI0MjU0ODgsODM4NjM5NjQ1XX0=
 -->
