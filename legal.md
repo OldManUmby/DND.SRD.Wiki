@@ -26,7 +26,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 3.  Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
 
-4.  Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non- exclusive license with the exact terms of this License to Use, the Open Game Content.
+4.  Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
 
 5.  Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
 
@@ -55,3 +55,14 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
 
 END OF LICENSE
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyI1eWMwU0VIRFluVDY0OFlyIjp7In
+RleHQiOiJUaGUgdGV4dCBvZiB0aGUgT3BlbiBHYW1pbmcgTGlj
+ZW5zZSBpdHNlbGYgaXMgbm90IE9wZW4gR2FtZSBDb250ZW50Li
+BJbnN0cnVjdGlv4oCmIiwic3RhcnQiOjM4OCwiZW5kIjo1MzB9
+fSwiY29tbWVudHMiOnsibnRpaGUwNVR3alA5M1QwVSI6eyJkaX
+NjdXNzaW9uSWQiOiI1eWMwU0VIRFluVDY0OFlyIiwic3ViIjoi
+Z2g6MjI1NDc0OTkiLCJ0ZXh0IjoiVGVzdCBOb3RlcyIsImNyZW
+F0ZWQiOjE2MTQwMTY2NTkzMzd9fSwiaGlzdG9yeSI6WzgzODYz
+OTY0NV19
+-->
