@@ -21,15 +21,15 @@ Markdown is a lightweight markup language with plain text formatting syntax crea
 <details>
  <summary>Discussions & Issues</summary>
 
-Feel free to visit our [discussions](https://github.com/Umbyology/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/Umbyology/OGL-SRD5/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/Umbyology/OGL-SRD5/pulls).
+Feel free to visit our [discussions](https://github.com/OldManUmby/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/OldManUmby/OGL-SRD5/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/OldManUmby/OGL-SRD5/pulls).
 
 </details>
 
 <details>
  <summary>Get Downloads</summary>
 
-* Download the latest [Release](https://github.com/Umbyology/OGL-SRD5/releases) which includes the complete repository of all files.
-* Download the [Markdown](https://github.com/Umbyology/OGL-SRD5/archive/master.zip) or select another [publishing format](https://github.com/Umbyology/OGL-SRD5/tree/master/downloads).
+* Download the latest [Release](https://github.com/OldManUmby/OGL-SRD5/releases) which includes the complete repository of all files.
+* Download the [Markdown](https://github.com/OldManUmby/OGL-SRD5/archive/master.zip) or select another [publishing format](https://github.com/OldManUmby/OGL-SRD5/tree/master/downloads).
 * Download the official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
@@ -40,4 +40,4 @@ Feel free to visit our [discussions](https://github.com/Umbyology/OGL-SRD5/discu
 
 © 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).
 
-Website, markdown conversion and extended formats by [B.A. Umberger](http://www.umbyology.com) in cooperation with [Juxtagames, LLC](http://www.juxta.games). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit). Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries.
+Website, markdown conversion and extended formats by [Old Man Umby](http://www.oldmanumby.com). By permission, this website utilizes official material and images from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit). Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries.
