@@ -4,6 +4,11 @@
 
 **[Submit an issue](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## November 1st, 2021
+
+- [x] Fixed minor syntax and formatting issues in Markdown.
+- [x] Updated all exported compiled file formats.
+
 ## December 10th, 2020
 
 - [x] Added Github Discussions to repository.
