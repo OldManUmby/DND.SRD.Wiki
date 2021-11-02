@@ -53,28 +53,3 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
-
-END OF LICENSE
-<!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJ0amtzN1F3Q2NJQ0lTeGtnIjp7In
-RleHQiOiJQZXJtaXNzaW9uIHRvIGNvcHksIG1vZGlmeSBhbmQg
-ZGlzdHJpYnV0ZSB0aGUgZmlsZXMgY29sbGVjdGl2ZWx5IGtub3
-duIGFzIHRoZSBT4oCmIiwic3RhcnQiOjI5LCJlbmQiOjIyMX0s
-IlM1emVDekE3ZmJveDVDdVAiOnsidGV4dCI6IlRoaXMgbWF0ZX
-JpYWwgaXMgYmVpbmcgcmVsZWFzZWQgdXNpbmcgdGhlIE9wZW4g
-R2FtaW5nIExpY2Vuc2UgVmVyc2lvbiAxLjBhIGFuZOKApiIsIn
-N0YXJ0IjoyMjMsImVuZCI6Mzg2fX0sImNvbW1lbnRzIjp7InNH
-RUVqdTNOS1RkZmNwSmMiOnsiZGlzY3Vzc2lvbklkIjoidGprcz
-dRd0NjSUNJU3hrZyIsInN1YiI6ImdoOjIyNTQ3NDk5IiwidGV4
-dCI6IlRlc3QiLCJjcmVhdGVkIjoxNjE0MDE5Nzg4ODY1fSwiS2
-11NEpqQUdMbWNlYWJBQyI6eyJkaXNjdXNzaW9uSWQiOiJTNXpl
-Q3pBN2Zib3g1Q3VQIiwic3ViIjoiZ2g6NjYwOTExODQiLCJ0ZX
-h0IjoiU01QZ2FyeSBoYXMgYXJyaXZlZC4gTGVnYWxlc2Ugd2ls
-bCBuZXZlciBiZSB0aGUgc2FtZSIsImNyZWF0ZWQiOjE2MTQwMT
-k5MTkwMDd9LCJjYkRlT3YxRTZjbW5wMDhpIjp7ImRpc2N1c3Np
-b25JZCI6IlM1emVDekE3ZmJveDVDdVAiLCJzdWIiOiJnaDoyMj
-U0NzQ5OSIsInRleHQiOiJCb29nYSBCb29nYSEiLCJjcmVhdGVk
-IjoxNjE0MDIwMDg4ODMxfX0sImhpc3RvcnkiOlstNDQxODg4Nz
-E3LC0xNjAzMDE4NTA1LC0xNjUyMTM4NzA1LC0xMjAyNDI1NDg4
-LDgzODYzOTY0NV19
--->
