@@ -5,9 +5,7 @@
 
 View the [Changelog](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md)
 
-This is an adaptation of the D&D 5E SRD available in Markdown (.MD), Microsoft Word (.DOCX), Adobe InCopy/InDesign (.ICML) and many other publishing formats.
-
-Please report here any issues or descrepancies with the material; see Discussions & Issues below.
+This is an adaptation of the D&D 5E SRD available in Markdown (.MD), Microsoft Word (.DOCX), Adobe InCopy/InDesign (.ICML) and many other publishing formats. Please report any issues or descrepancies with the formats or within the material itself; see Discussions & Issues below.
 
 **The Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
 
