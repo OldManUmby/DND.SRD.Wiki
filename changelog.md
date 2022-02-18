@@ -4,6 +4,10 @@
 
 **[Submit an issue](https://github.com/Umbyology/OGL-SRD5/issues)**
 
+## February 18th, 2022
+
+- [x] Merge + fixed equipment list issues (items at wrong location).
+
 ## November 1st, 2021
 
 - [x] Fixed minor syntax and formatting issues in Markdown.
