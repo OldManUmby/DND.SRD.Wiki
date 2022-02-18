@@ -7,7 +7,7 @@
 ## February 18th, 2022
 
 - [x] Merge + fixed equipment list issues (items at wrong location).
-- [ ] Added new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/OGL-SRD5/releases).
+- [x] Added new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/OGL-SRD5/releases).
 
 ## November 1st, 2021
 
