@@ -3721,7 +3721,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | *Gaming set*              |       |        |
 | ~ Dice set                | 1 sp  | -      |
 | ~ Playing card set        | 5 sp  | -      |
-| ~ Herbalism kit           | 5 gp  | 3 lb.  |
+| Herbalism kit             | 5 gp  | 3 lb.  |
 | *Musical instrument*      |       |        |
 | ~ Bagpipes                | 30 gp | 6 lb.  |
 | ~ Drum                    | 6 gp  | 3 lb.  |
@@ -3897,9 +3897,9 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 | *Ale*                  |       |
 | ~ Gallon               | 2 sp  |
 | ~ Mug                  | 4 cp  |
-| ~ Banquet (per person) | 10 gp |
-| ~ Bread, loaf          | 2 cp  |
-| ~ Cheese, hunk         | 1 sp  |
+| Banquet (per person)   | 10 gp |
+| Bread, loaf            | 2 cp  |
+| Cheese, hunk           | 1 sp  |
 | *Inn stay (per day)*   |       |
 | ~ Squalid              | 7 cp  |
 | ~ Poor                 | 1 sp  |
@@ -3914,7 +3914,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 | ~ Comfortable          | 5 sp  |
 | ~ Wealthy              | 8 sp  |
 | ~ Aristocratic         | 2 gp  |
-| ~ Meat, chunk          | 3 sp  |
+| Meat, chunk            | 3 sp  |
 | *Wine*                 |       |
 | ~ Common (pitcher)     | 2 sp  |
 | ~ Fine (bottle)        | 10 gp |
