@@ -5,8 +5,10 @@
 
 View the [Changelog](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md)
 
-# OBSIDIAN VERSION UNDER DEVELOPMENT!
-[Obsidian](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple, however Obsidian is much more. Follow the progress in [Changelog.md](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md), and the file-tree is located in the [Downloads > Obsidian](https://github.com/OldManUmby/OGL-SRD5/tree/master/downloads/obsidian) folder.
+# REorganized. REpublished. REmastered!
+
+## NOW OBSIDIAN-FRIENDLY!
+[Obsidian.md](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple, however Obsidian is much, much more. Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/channel/UCoW2sPmrevk9eiJKcQXeHUQ) to learn more about using Obsidian for your roleplaying game campaign management.
 
 ## What is D&D 5E SRD REmastered?
 
@@ -26,7 +28,7 @@ Markdown is a lightweight markup language with plain text formatting syntax crea
 <details>
  <summary>Discussions & Issues</summary>
 
-Feel free to visit our [discussions](https://github.com/OldManUmby/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/OldManUmby/OGL-SRD5/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/OldManUmby/OGL-SRD5/pulls).
+Feel free to visit our [discussions](https://github.com/OldManUmby/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/OGL-SRD5/issues) you find through Github. As an alternative, you can **REfork & REuse** this project through a Github [pull request](https://github.com/OldManUmby/OGL-SRD5/pulls).
 
 </details>
 
