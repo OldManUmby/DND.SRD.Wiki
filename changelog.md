@@ -3,7 +3,7 @@
 - [ ] Obsidian version of the D&D 5E SRD.
   - [x] Races.
   - [x] Classes.
-  - [ ] Customizations.
+  - [ ] Multiclassing.
   - [ ] Personalizations.
   - [ ] Equipment.
   - [ ] Abilities.
