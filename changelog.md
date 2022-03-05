@@ -6,11 +6,11 @@
   - [x] Multiclassing.
   - [x] Personalizations.
   - [x] Equipment.
-  - [ ] Abilities.
-  - [ ] Adventuring.
-  - [ ] Combat.
-  - [ ] Spellcasting.
-  - [ ] Spells.
+  - [x] Abilities.
+  - [x] Adventuring.
+  - [x] Combat.
+  - [x] Spellcasting.
+  - [x] Spells.
   - [ ] Gamemastering.
   - [ ] Treasure.
   - [ ] Monsters.
