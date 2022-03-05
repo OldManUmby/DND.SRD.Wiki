@@ -5,7 +5,7 @@
   - [x] Classes.
   - [x] Multiclassing.
   - [x] Personalizations.
-  - [ ] Equipment.
+  - [x] Equipment.
   - [ ] Abilities.
   - [ ] Adventuring.
   - [ ] Combat.
