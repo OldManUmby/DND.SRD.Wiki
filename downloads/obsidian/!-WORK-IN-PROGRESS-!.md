@@ -6,6 +6,6 @@ The Obsidian version of the D&D 5E SRD is now *UNDER DEVELOPMENT*. When this war
 
 > Essentually, each subject will have its own markdown file (each race, class, spell, magic item, monster, category of rules, etc.)
 
-For more information on the progress, you can view the Changelog.md in the root directory.
+For more information on the progress, you can view the [Changelog.md](https://github.com/Umbyology/OGL-SRD5/blob/master/changelog.md) in the root directory.
 
 Thanks!
