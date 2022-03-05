@@ -4,7 +4,7 @@ When characters need to saw through ropes, shatter a window, or smash a vampire'
 
 For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
 
-### Statistics for Objects
+## Statistics for Objects
 
 When time is a factor, you can assign an Armor Class and hit points to a destructible object. You can also give it immunities, resistances, and vulnerabilities to specific types of damage.
 
