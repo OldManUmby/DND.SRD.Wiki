@@ -1,5 +1,6 @@
 ## To Do & Under Development
 
+- [ ] Capitalize folder and file names for improved styling in Obsidian.
 - [ ] REadjust headers across all documents.
 - [ ] Add HR (horizonal rules) between subjects in lists (spells, monsters, magic items etc.).
 
