@@ -1,6 +1,7 @@
 ## To Do & Under Development
 
-- [ ] Nothing as of yet. Suggestions?
+- [ ] REadjust headers across all documents.
+- [ ] Add HR (horizonal rules) between subjects in lists (spells, monsters, magic items etc.).
 
 **[Submit a suggestion, issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
 
