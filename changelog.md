@@ -1,8 +1,27 @@
-## To Do
+## To Do & Under Development
 
-- [ ] Nothing as of yet.
+- [ ] Obsidian version of the D&D 5E SRD.
+  - [x] Races.
+  - [ ] Classes.
+  - [ ] Customizations.
+  - [ ] Personalizations.
+  - [ ] Equipment.
+  - [ ] Abilities.
+  - [ ] Adventuring.
+  - [ ] Combat.
+  - [ ] Spellcasting.
+  - [ ] Spells.
+  - [ ] Gamemastering.
+  - [ ] Treasure.
+  - [ ] Monsters.
+  - [ ] Creatures.
+  - [ ] NPCs.
 
-**[Submit an issue](https://github.com/Umbyology/OGL-SRD5/issues)**
+> To view the files, go to *Downloads > Obsidian*. Essentually, each subject will have its own markdown file (each race, class, spell, magic item, monster, category of rules, etc.)
+
+**[Submit an issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
+
+---
 
 ## February 18th, 2022
 

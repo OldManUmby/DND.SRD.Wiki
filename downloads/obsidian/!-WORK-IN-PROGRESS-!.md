@@ -2,6 +2,10 @@
 
 ---
 
-The Obsidian version of the D&D 5E SRD is a work-in-progress. When this warning file is gone, the work is done.
+The Obsidian version of the D&D 5E SRD is now *UNDER DEVELOPMENT*. When this warning file is gone, the work is done.
+
+> Essentually, each subject will have its own markdown file (each race, class, spell, magic item, monster, category of rules, etc.)
+
+For more information on the progress, you can view the Changelog.md in the root directory.
 
 Thanks!
