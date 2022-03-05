@@ -3,8 +3,8 @@
 - [ ] Obsidian version of the D&D 5E SRD.
   - [x] Races.
   - [x] Classes.
-  - [ ] Multiclassing.
-  - [ ] Personalizations.
+  - [x] Multiclassing.
+  - [x] Personalizations.
   - [ ] Equipment.
   - [ ] Abilities.
   - [ ] Adventuring.
