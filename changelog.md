@@ -11,8 +11,8 @@
   - [x] Combat.
   - [x] Spellcasting.
   - [x] Spells.
-  - [ ] Gamemastering.
-  - [ ] Treasure.
+  - [x] Gamemastering.
+  - [x] Treasure.
   - [ ] Monsters.
   - [ ] Creatures.
   - [ ] NPCs.
