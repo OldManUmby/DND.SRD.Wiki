@@ -17,7 +17,7 @@
   - [ ] Creatures.
   - [ ] NPCs.
 
-> To view the files, go to *Downloads > Obsidian*. Essentually, each primary topic will have its own markdown file (each race, class, spell, magic item, monster, category of rules, etc.)
+> To view the files, go to *Downloads > Obsidian*. Essentually, each primary topic will have its own markdown file (race, class, spell, magic item, monster, category of rules, etc.)
 
 **[Submit an issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
 
