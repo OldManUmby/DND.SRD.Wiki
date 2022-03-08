@@ -136,7 +136,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 #### Hellish Rebuke
 
-*1st-­level evocation*
+*1st-level evocation*
 
 **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 
@@ -148,7 +148,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a  spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st. 
+***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st. 
 
 #### Heroes' Feast
 
@@ -246,7 +246,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 #### Hunter's Mark
 
-*1st-­level divination*
+*1st-level divination*
 
 **Casting Time:** 1 bonus action
 
@@ -258,7 +258,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 
-***At Higher Levels***. When you cast this spell using a  spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+***At Higher Levels***. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
 #### Hypnotic Pattern
 

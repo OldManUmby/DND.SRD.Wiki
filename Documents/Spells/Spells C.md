@@ -270,7 +270,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 #### Compulsion
 
-*4th-­level enchantment*
+*4th-level enchantment*
 
 **Casting Time:** 1 action
 
@@ -282,7 +282,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect. 
 
-A target isn't compelled to move into an obviously  deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
+A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
 
 #### Cone of Cold
 
@@ -638,7 +638,7 @@ When you change the weather conditions, find a current condition on the followin
 
 #### Counterspell
 
-*3rd-­level abjuration*
+*3rd-level abjuration*
 
 **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 
@@ -650,7 +650,7 @@ When you change the weather conditions, find a current condition on the followin
 
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used. 
+***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used. 
 
 #### Create Food and Water
 
