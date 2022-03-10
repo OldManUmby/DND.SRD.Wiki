@@ -1,8 +1,6 @@
 ## To Do & Under Development
 
-- [ ] Capitalize folder and file names for improved styling in Obsidian.
-- [ ] REadjust capitalizations and placement of headers across all documents.
-- [ ] Add HR (horizonal rules) between subjects in lists (spells, monsters, magic items etc.).
+- [ ] Make a suggestion!
 
 **[Submit a suggestion, issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
 
@@ -12,6 +10,8 @@
 
 - [x] Obsidian-Friendly update; Monsters, Spells, and Magic Items are in separate .md files.
 - [x] Headers adjusted accordingly.
+- [x] Capitalize folder and file names for improved styling in Obsidian.
+- [x] REadjust capitalizations and placement of headers across all documents.
 
 ## March 5th, 2022
 
