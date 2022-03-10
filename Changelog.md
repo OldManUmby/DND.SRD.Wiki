@@ -10,7 +10,8 @@
 
 ## March 9th, 2022
 
-- [x] Obsidian-Friendly update. Seperated Monsters, Spells and Magic Items into their own files..
+- [x] Obsidian-Friendly update; Monsters, Spells, and Magic Items are in separate .md files.
+- [x] Headers adjusted accordingly.
 
 ## March 5th, 2022
 
