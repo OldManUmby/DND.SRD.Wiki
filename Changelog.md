@@ -8,6 +8,10 @@
 
 ---
 
+## March 9th, 2022
+
+- [x] Obsidian-Friendly update. Seperated Monsters, Spells and Magic Items into their own files..
+
 ## March 5th, 2022
 
 - [x] Obsidian version of the D&D 5E SRD.
