@@ -8,6 +8,11 @@
 
 ---
 
+## March 9th, 2022
+
+- [x] Obsidian-Friendly update; Monsters, Spells, and Magic Items are in separate .md files.
+- [x] Headers adjusted accordingly.
+
 ## March 5th, 2022
 
 - [x] Obsidian version of the D&D 5E SRD.
