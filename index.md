@@ -2,7 +2,7 @@
 
 ![Fan Site Kit Image](ToDKeyArt2.jpg)
 
-View the [Changelog](https://github.com/OldManUmby/DND-SRD5/blob/master/changelog.md)
+View the [Changelog](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Changelog.md)
 
 # REorganized. REpublished. REmastered!
 
