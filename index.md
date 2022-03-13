@@ -33,6 +33,8 @@ Feel free to visit our [discussions](https://github.com/OldManUmby/DND.SRD.Wiki/
 * Download the official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download the official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
+---
+
 #### Official D&D Core Rule Books
 
 | [Player's Handbook](https://amzn.to/2Lq2NE4)                                                                             | [Dungeon Master's Guide](https://amzn.to/3ol45ic)                                                                       | [Monster Manual](https://amzn.to/2JQ2t0U)                                                                        |
