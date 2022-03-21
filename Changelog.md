@@ -6,6 +6,10 @@
 
 ---
 
+## March 20th, 2022
+
+- [x] Added alternate Spell List with wikilinks to spells.
+
 ## March 9th, 2022
 
 - [x] Obsidian-Friendly update; Monsters, Spells, and Magic Items are in separate .md files.
