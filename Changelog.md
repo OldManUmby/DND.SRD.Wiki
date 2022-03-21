@@ -8,7 +8,8 @@
 
 ## March 20th, 2022
 
-- [x] Added alternate Spell List with wikilinks to spells.
+- [x] Add alternate Spell List with wikilinks to spells.
+- [x] Merge ASCii character fix.
 
 ## March 9th, 2022
 
@@ -41,54 +42,54 @@
 ## February 18th, 2022
 
 - [x] Merge + fixed equipment list issues (items at wrong location).
-- [x] Added new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/OGL-SRD5/releases).
+- [x] Add new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/OGL-SRD5/releases).
 
 ## November 1st, 2021
 
-- [x] Fixed minor syntax and formatting issues in Markdown.
-- [x] Updated all exported compiled file formats.
+- [x] Fix minor syntax and formatting issues in Markdown.
+- [x] Update all exported compiled file formats.
 
 ## December 10th, 2020
 
-- [x] Added Github Discussions to repository.
-- [x] Added Github Pages.
-- [x] Redesigned website utilizing Github Pages with [Jekyll](https://jekyllrb.com/docs/pages/).
-- [x] Redirected domain name to Github Pages.
-- [x] Re-organized repository files.
-- [x] Adjusted README files.
-- [x] Adjusted the page titles and removed TOC header from pages.
+- [x] Add Github Discussions to repository.
+- [x] Add Github Pages.
+- [x] Redesign website utilizing Github Pages with [Jekyll](https://jekyllrb.com/docs/pages/).
+- [x] Redirect domain name to Github Pages.
+- [x] Re-organize repository files.
+- [x] Adjust README files.
+- [x] Adjust the page titles and removed TOC header from pages.
 
 ## November 23rd, 2020
 
-- [x] Removed chapter references within the SRD.
+- [x] Remove chapter references within the SRD.
 
 ## October 2nd, 2020
 
-- [x] Reinstalled GRAV with theme and various plugins from scratch.
-- [x] Updated all pages fixing numerous markdown issues.
-- [x] Added missing spells.
-- [x] Reorganized pages.
-- [x] Updated composite files for DOCX.
-- [x] Compiled pages into all new download formats.
+- [x] Reinstall GRAV with theme and various plugins from scratch.
+- [x] Update all pages fixing numerous markdown issues.
+- [x] Add missing spells.
+- [x] Reorganize pages.
+- [x] Update composite files for DOCX.
+- [x] Compile pages into all new download formats.
 - [x] Add site icon to the upper-left sidebar.
 
 ## April 17th, 2020
 
-- [x] Created (from scratch) new Markdown and MS Word versions (v0.4.0) of the D&D SRD 5.1.
+- [x] Create (from scratch) new Markdown and MS Word versions (v0.4.0) of the D&D SRD 5.1.
 - [x] Better organize SRD into more usable chapters.
 - [x] All updated content uploaded to the website.
 
 ## February 9th, 2020
 
-- [x] Updated homepage cover art and format descriptions.
+- [x] Update homepage cover art and format descriptions.
 
 ## November 4th, 2019
 
 - [x] Completely remastered ALL Markdown and DOCX documents from scratch!
 - [x] Create BETA documents in Apple Pages and EPUB (needs more editing).
 - [x] Basic styling added to extended formats.
-- [x] Added new RE& logo.
-- [x] Fixed many, many formatting and style errors.
+- [x] Add new RE& logo.
+- [x] Fix many, many formatting and style errors.
 
 ## October 29th, 2019
 
@@ -96,29 +97,29 @@
 
 ## October 10th, 2019
 
-- [x] Adjusted styles in MS Word Compile for readability. Fixed errors in formatting.
+- [x] Adjust styles in MS Word Compile for readability. Fixed errors in formatting.
 
 ## October 8th, 2019
 
 - [x] Technical corrections in the Markdown across nearly every section, chapter and page.
-- [x] Created DOCX versions available for download, [see Introduction page](https://ogl-srd5.com).
+- [x] Create DOCX versions available for download, [see Introduction page](https://ogl-srd5.com).
 
 ## August 22nd, 2019
 
-- [x] Updated compilation view/download links and "created-by" statement. Reverse-ordered the changelog dates so the latest dates are top of page.
+- [x] Update compilation view/download links and "created-by" statement. Reverse-ordered the changelog dates so the latest dates are top of page.
 
 ## June 1st, 2019
 
-- [x] Updated copyright text for readability.
-- [x] Updated Markdown in Changelog removing Font Awesome syntax.
+- [x] Update copyright text for readability.
+- [x] Update Markdown in Changelog removing Font Awesome syntax.
 
 ## May 26th, 2019
 
-- [x] Ajusted page text on Home Defailt.md to reflect new public wiki-like features thru [GitHub](http://github.com).
+- [x] Ajuste page text on Home Defailt.md to reflect new public wiki-like features thru [GitHub](http://github.com).
 
 ## May 25th, 2019
 
-- [x] Merged various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+- [x] Merge various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
 ## May 17th, 2019
 
@@ -126,18 +127,18 @@
 
 ## March 31st, 2019
 
-- [x] Merged various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+- [x] Merge various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
 ## March 8th, 2019
 
 - [x] Add [TNT Search](https://github.com/trilbymedia/grav-plugin-tntsearch), a powerful indexed-based full text search engine.
-- [x] Add a [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option to the SRD.
+- [x] Add [custom Google search](https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq) option to the SRD.
 
 ## April 28th, 2018
 
 - [x] Create Changelog.
 - [x] Create Introduction page using media from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
-- [x] Installed [Table of Contents (TOC) plugin](https://github.com/sommerregen/grav-plugin-toc) for [GRAV](https://getgrav.org).
+- [x] Install [Table of Contents (TOC) plugin](https://github.com/sommerregen/grav-plugin-toc) for [GRAV](https://getgrav.org).
 - [x] Add alphabet headers to [spell lists](http://ogl-srd5.com/spellcasting) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
 - [x] Install SSL certificate (HTTPS) for primary and mail domains.
 - [x] Activate "Force SSL" globally in [GRAV](https://getgrav.org).
