@@ -1,4 +1,4 @@
-## To Do & Under Development
+# To Do
 
 **[Submit a suggestion, issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
 
@@ -8,12 +8,20 @@
 
 ---
 
+# Completed
+
 ## October 23rd, 2022
 
-- [x] Added missing "Beyond 1st Level" section.
-- [x] Renamed some files for better organization.
-
-
+- [x] Added Added missing section for Character Advancement.
+- [x] Added Added missing section for Inspiration.
+- [x] Added missing descriptions for Magic Items.
+- [x] Added missing descriptions for Monsters Statistics.
+- [x] Added alternate files for Monsters.
+- [x] Added alternate files for Spells.
+- [x] Added alternate files for Wikilinked Spell Lists.
+- [x] Added alternate files for Treasure.
+- [x] Renamed section header files.
+- [X] Removed compiled downloads to avoid conflicts with variable content.
 
 ## March 5th, 2022
 
