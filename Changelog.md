@@ -151,9 +151,9 @@
 
 - [x] Create [OGL-SRD5 GitHub repository](https://github.com/OldManUmby/DND.SRD.Wiki). Sync with [GitHub Desktop](https://desktop.github.com) app.
 - [x] Create section folders and upload SRD markdown pages.
-- [x] Purchase [OGL-SRD5.com](https://srd.wiki) domain.
-- [x] Create [OGL-SRD5.com](https://srd.wiki) hosting account with [Old Man Umby](http://oldmanumby.com).
-- [x] Create [OGL-SRD5.com](https://srd.wiki) website using [GRAV open source flat-file CMS](https://getgrav.org).
+- [x] Purchase [srd.wiki](https://srd.wiki) domain.
+- [x] Create [srd.wiki](https://srd.wiki) hosting account with [Old Man Umby](http://oldmanumby.com).
+- [x] Create [srd.wiki](https://srd.wiki) website using [GRAV open source flat-file CMS](https://getgrav.org).
 - [x] Install custom [Learn2 with Git Sync](https://github.com/hibbitts-design/grav-theme-learn2-git-sync) theme for [GRAV](https://getgrav.org).
 - [x] Install various [Plugins for GRAV](https://getgrav.org/downloads/plugins).
 - [x] Sync website with [GitHub repo](https://github.com/OldManUmby/DND.SRD.Wiki) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
