@@ -103,7 +103,7 @@
 ## October 8th, 2019
 
 - [x] Technical corrections in the Markdown across nearly every section, chapter and page.
-- [x] Created DOCX versions available for download, [see Introduction page](https://ogl-srd5.com).
+- [x] Created DOCX versions available for download, [see Introduction page](https://srd.wiki).
 
 ## August 22nd, 2019
 
