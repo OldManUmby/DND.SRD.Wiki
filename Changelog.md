@@ -8,8 +8,8 @@
 
 ## October 23rd, 2022
 
-- [x] Added Added missing section for Character Advancement.
-- [x] Added Added missing section for Inspiration.
+- [x] Added missing section for Character Advancement.
+- [x] Added missing section for Inspiration.
 - [x] Added missing descriptions for Magic Items.
 - [x] Added missing descriptions for Monsters Statistics.
 - [x] Added alternate files for Monsters.
