@@ -2,10 +2,6 @@
 
 **[Submit a suggestion, issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
 
-- [ ] Capitalize folder and file names for improved styling in Obsidian.
-- [ ] REadjust capitalizations and placement of headers across all documents.
-- [ ] Add HR (horizontal rules) between subjects in lists (spells, monsters, magic items, etc.).
-
 ---
 
 # Completed
