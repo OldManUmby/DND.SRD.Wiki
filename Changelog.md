@@ -1,6 +1,6 @@
 # To Do
 
-**[Submit a suggestion, issue or contribute](https://github.com/Umbyology/OGL-SRD5/issues)**
+**[Submit a suggestion, issue or contribute](https://github.com/OldManUmby/DND.SRD.Wiki/issues)**
 
 ---
 
@@ -17,6 +17,7 @@
 - [x] Added alternate files for Treasure.
 - [x] Renamed section header files.
 - [X] Removed compiled downloads to avoid conflicts with variable content.
+- [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/OGL-SRD5/releases)
 
 ## March 5th, 2022
 
@@ -119,7 +120,7 @@
 
 ## May 25th, 2019
 
-- [x] Merged various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+- [x] Merged various Markdown [edits](https://github.com/OldManUmby/DND.SRD.Wiki/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
 ## May 17th, 2019
 
@@ -127,7 +128,7 @@
 
 ## March 31st, 2019
 
-- [x] Merged various Markdown [edits](https://github.com/Umbyology/OGL-SRD5/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
+- [x] Merged various Markdown [edits](https://github.com/OldManUmby/DND.SRD.Wiki/pulls?q=is%3Apr+is%3Aclosed) from GitHub contributors. Thank you!
 
 ## March 8th, 2019
 
@@ -139,23 +140,23 @@
 - [x] Create Changelog.
 - [x] Create Introduction page using media from the [Wizard's Fan Site Kit](http://dnd.wizards.com/articles/features/fan-site-kit).
 - [x] Installed [Table of Contents (TOC) plugin](https://github.com/sommerregen/grav-plugin-toc) for [GRAV](https://getgrav.org).
-- [x] Add alphabet headers to [spell lists](http://ogl-srd5.com/spellcasting) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
+- [x] Add alphabet headers to spell lists for table of contents.
 - [x] Install SSL certificate (HTTPS) for primary and mail domains.
 - [x] Activate "Force SSL" globally in [GRAV](https://getgrav.org).
-- [x] Create a Markdown compilation of all SRD pages at the [SRD GitHub repo](https://github.com/Umbyology/OGL-SRD5/blob/master/D%26D%205E%20SRD%20v5.1%20Compilation.md).
-- [x] Add alphabet headers to [magic items](http://ogl-srd5.com/magic) for [TOC](https://github.com/sommerregen/grav-plugin-toc).
+- [x] Create a Markdown compilation of all SRD pages.
+- [x] Add alphabet headers to magic items for table of contents.
 - [x] Change theme CSS colors.
 
 ## April 27th, 2018
 
-- [x] Create [OGL-SRD5 GitHub repository](https://github.com/Umbyology/OGL-SRD5). Sync with [GitHub Desktop](https://desktop.github.com) app.
+- [x] Create [OGL-SRD5 GitHub repository](https://github.com/OldManUmby/DND.SRD.Wiki). Sync with [GitHub Desktop](https://desktop.github.com) app.
 - [x] Create section folders and upload SRD markdown pages.
-- [x] Purchase [OGL-SRD5.com](http://ogl-srd5.com) domain.
-- [x] Create [OGL-SRD5.com](http://ogl-srd5.com) hosting account with [Juxtagames, LLC](http://juxta.games).
-- [x] Create [OGL-SRD5.com](http://ogl-srd5.com) website using [GRAV open source flat-file CMS](https://getgrav.org).
+- [x] Purchase [OGL-SRD5.com](https://srd.wiki) domain.
+- [x] Create [OGL-SRD5.com](https://srd.wiki) hosting account with [Old Man Umby](http://oldmanumby.com).
+- [x] Create [OGL-SRD5.com](https://srd.wiki) website using [GRAV open source flat-file CMS](https://getgrav.org).
 - [x] Install custom [Learn2 with Git Sync](https://github.com/hibbitts-design/grav-theme-learn2-git-sync) theme for [GRAV](https://getgrav.org).
 - [x] Install various [Plugins for GRAV](https://getgrav.org/downloads/plugins).
-- [x] Sync website with [GitHub repo](https://github.com/Umbyology/OGL-SRD5) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
+- [x] Sync website with [GitHub repo](https://github.com/OldManUmby/DND.SRD.Wiki) with [Git Sync plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for [GRAV](https://getgrav.org).
 
 ## April 24th, 2018
 
