@@ -16,7 +16,8 @@
 - [x] Added alternate files for Wikilinked Spell Lists.
 - [x] Added alternate files for Treasure.
 - [x] Renamed section header files.
-- [X] Removed compiled downloads to avoid conflicts with variable content.
+- [x] Removed compiled downloads to avoid conflicts with variable content.
+- [x] Fixed errors in Changelog.
 - [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/OGL-SRD5/releases)
 
 ## March 5th, 2022
