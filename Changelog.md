@@ -13,7 +13,6 @@
 - [x] Added missing descriptions for Magic Items.
 - [x] Added missing descriptions for Monsters Statistics.
 - [x] Added alternate files for Monsters.
-- [x] Added alternate files for Spells.
 - [x] Added alternate files for Wikilinked Spell Lists.
 - [x] Added alternate files for Treasure.
 - [x] Renamed section header files.
