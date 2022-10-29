@@ -36,3 +36,9 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
