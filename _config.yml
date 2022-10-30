@@ -4,6 +4,12 @@ remote_theme: just-the-docs/just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+  # External navigation links
+nav_external_links:
+  - title: Blades in the Dark SRD
+    url: https://github.com/amazingrando/blades-in-the-dark-srd-content
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
