@@ -18,7 +18,7 @@ The material contained herein was REmastered line-by-line into Markdown format t
 <details>
  <summary>Why Markdown format?</summary>
 
-Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using a plain text or markdown editor.
+Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). By its very nature, being a plain text file, it is designed to add future-proofing to any set of documents while still maintaining basic text and table formatting options. In addition, Markdown may be exported to HTML and many other formats using a number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using plain text in a Markdown editor.
 
 </details>
 
