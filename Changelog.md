@@ -9,6 +9,7 @@
 ## October 30th, 2022
 
 - [x] Renamed Customizations folder to Characterizations; renamed some monsters for better organization.
+- [x] Added new release [DND-SRD5 v0.5.1](https://github.com/OldManUmby/OGL-SRD5/releases).
 
 ## October 29th, 2022
 
@@ -27,7 +28,7 @@
 - [x] Renamed section header files.
 - [x] Removed compiled downloads to avoid conflicts with variable content.
 - [x] Fixed errors in Changelog.
-- [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/OGL-SRD5/releases)
+- [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/OGL-SRD5/releases).
 
 ## March 5th, 2022
 
