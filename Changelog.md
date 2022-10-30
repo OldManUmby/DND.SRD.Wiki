@@ -6,6 +6,10 @@
 
 # Completed
 
+## October 30th, 2022
+
+- [x] Renamed Customizations folder to Characterizations; renamed some monsters for better organization.
+
 ## October 29th, 2022
 
 - [x] Moved GitHuub Pages website to new subdomain: [https://dnd.srd.wiki](https://dnd.srd.wiki).
