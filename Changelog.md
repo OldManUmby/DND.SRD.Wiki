@@ -6,6 +6,11 @@
 
 # Completed
 
+## October 29th, 2022
+
+- [x] Moved GitHuub Pages website to new subdomain: [https://dnd.srd.wiki](https://dnd.srd.wiki).
+- [x] Created new primary domain for the [SRD Wiki](https://srd.wiki).
+
 ## October 23rd, 2022
 
 - [x] Added missing section for Character Advancement.
