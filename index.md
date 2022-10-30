@@ -26,13 +26,6 @@ The publishing documents contained herein were REmastered line-by-line into Mark
 
 Feel free to visit our [discussions](https://github.com/OldManUmby/DND.SRD.Wiki/discussions) forum to examine publishing ideas regarding the D&D SRD. Please report any [issues](https://github.com/OldManUmby/DND.SRD.Wiki/issues) you find through Github. As an alternative, you can fork this project or make corrections through a Github [pull request](https://github.com/OldManUmby/DND.SRD.Wiki/pulls).
 
-# Get Downloads
-
-* Download the latest [Release](https://github.com/OldManUmby/DND.SRD.Wiki/releases) which includes the complete repository of all files.
-* Download Wizard's official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
-* Download Wizard's official [Errata and FREE Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
-* Download Wizard's official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
-
 ---
 
 #### Official D&D Core Rule Books
