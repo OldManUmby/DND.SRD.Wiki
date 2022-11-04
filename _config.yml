@@ -1,5 +1,6 @@
 # Alternate original theme: "theme: jekyll-theme-tactile"
-remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
+remote_theme: pdmosses/just-the-docs@fix-external-links-without-pages
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
