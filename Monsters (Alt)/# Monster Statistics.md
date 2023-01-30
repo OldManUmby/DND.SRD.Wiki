@@ -1,5 +1,25 @@
 # Monster Statistics
 
+A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster. 
+
+## Size 
+A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the *Player’s Handbook* for more information on creature size and space. 
+
+**Table- Size Categories**
+
+| Size       | Space                  | Examples            |
+| ---------- | ---------------------- | ------------------- |
+| Tiny       | 2½ by 2½ ft.           | Imp, sprite         |
+| Small      | 5 by 5 ft.             | Giant rat, goblin   |
+| Medium     | 5 by 5 ft.             | Orc, werewolf       |
+| Large      | 10 by 10 ft.           | Hippogriff, ogre    |
+| Huge       | 15 by 15 ft.           | Fire giant, treant  |
+| Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
+|            |                        |                     |
+
+> **Modifying Creatures**
+> Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating
+
 ## Type
 
 A monster's type speaks to its fundamental nature. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type. For example, an *arrow of dragon slaying* deals extra damage not only to dragons but also other creatures of the dragon type, such as dragon turtles and wyverns.
