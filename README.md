@@ -70,7 +70,7 @@ Feel free to visit our [discussion](https://github.com/OldManUmby/OGL-SRD5/discu
  <summary>Get Downloads</summary>
 
 * Download the latest [Release](https://github.com/OldManUmby/DND.SRD.Wiki/releases).
-* Download Wizard's official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
+* Download Wizard's official [SRD v5.1 in PDF format](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0_License_live%20links.pdf).
 * Download Wizard's official [Errata and Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download Wizard's official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
 
