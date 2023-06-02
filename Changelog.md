@@ -6,6 +6,10 @@
 
 # Completed
 
+## June 1st, 2023
+
+- [x] Updated the license to [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”).
+
 ## October 30th, 2022
 
 - [x] Renamed Customizations folder to Characterizations; renamed some monsters for better organization.
