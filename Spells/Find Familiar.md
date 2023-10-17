@@ -14,7 +14,7 @@ You gain the service of a familiar, a spirit that takes an animal form you choos
 
 Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
 
-When the familiar drops to 0 hit points, it disappears, sleaving behind no physical form. It reappears after you cast this spell again. 
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. 
 
 While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
 
