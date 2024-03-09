@@ -11,5 +11,3 @@
 **Duration:** 1 minute
 
 You touch a creature. The creature's jump distance is tripled until the spell ends.
-
-# Spells (K)

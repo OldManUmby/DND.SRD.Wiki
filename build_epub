@@ -1,0 +1,38 @@
+#!/usr/bin/env ruby
+
+require 'pathname'
+
+chapters = %w(
+  Races
+  Classes
+  Characterizations
+  Gameplay
+  Equipment
+  Gamemastering
+  Spells\ (Alt)
+  Treasure\ (Alt)
+  Monsters\ (Alt)
+)
+
+# chapter = h1
+# file = h2
+
+`rm chapters/*.md`
+
+chapters.each_with_index do |chapter, i|
+  s = "# #{chapter.split.first}\n\n" +
+    Pathname(chapter).children.sort.map do |f|
+      data = f.read
+      data[/^#+ /] = ''  # remove initial heading (it will be re-added as h2)
+      hs = data.scan(/^#+ /).sort.uniq.map {|hdg| hdg.size - 1 }
+      (hs.length - 1).downto(0) do |h|
+        data.gsub! /^\#{#{hs[h]}}/, '#' * (h + 3)
+      end
+      "\n\n## " + data
+    end.join
+  File.write "chapters/#{i+1}_#{chapter.split.first}.md", s
+end
+
+pandoc_cmd = "pandoc -o Dungeons_and_Dragons_SRD_5.1.epub title.txt chapters/*"
+puts pandoc_cmd
+system pandoc_cmd
