@@ -13,7 +13,7 @@
 ## October 30th, 2022
 
 - [x] Renamed Customizations folder to Characterizations; renamed some monsters for better organization.
-- [x] Added new release [DND-SRD5 v0.5.1](https://github.com/OldManUmby/OGL-SRD5/releases).
+- [x] Added new release [DND-SRD5 v0.5.1](https://github.com/OldManUmby/DND.SRD.Wiki/releases/tag/v0.5.1).
 
 ## October 29th, 2022
 
@@ -32,7 +32,7 @@
 - [x] Renamed section header files.
 - [x] Removed compiled downloads to avoid conflicts with variable content.
 - [x] Fixed errors in Changelog.
-- [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/OGL-SRD5/releases).
+- [x] Added new release [DND-SRD5 v0.5](https://github.com/OldManUmby/DND.SRD.Wiki/releases/tag/v0.5).
 
 ## March 5th, 2022
 
@@ -58,7 +58,7 @@
 ## February 18th, 2022
 
 - [x] Merge + fixed equipment list issues (items at wrong location).
-- [x] Added new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/OGL-SRD5/releases).
+- [x] Added new release [DND-SRD5 v0.4.4](https://github.com/OldManUmby/DND.SRD.Wiki/releases/tag/v0.4.4).
 
 ## November 1st, 2021
 

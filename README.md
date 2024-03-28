@@ -62,7 +62,7 @@ This adaption of the D&D 5E SRD contains optional content designed specifically 
 <details>
  <summary>Discussions & Issues</summary>
 
-Feel free to visit our [discussion](https://github.com/OldManUmby/OGL-SRD5/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/OGL-SRD5/issues) you find through Github. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/OGL-SRD5/pulls).
+Feel free to visit our [discussion](https://github.com/OldManUmby/DND.SRD.Wiki/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/DND.SRD.Wiki/issues) you find through Github. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/DND.SRD.Wiki/pulls).
 
 </details>
 
