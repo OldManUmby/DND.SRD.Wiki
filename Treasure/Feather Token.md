@@ -7,14 +7,13 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 **Table- Feather Token**
 
 | d100   | Feather Token |
-|--------|---------------|
+|:------:|:--------------|
 | 01-20  | Anchor        |
 | 21-35  | Bird          |
 | 36-50  | Fan           |
 | 51-65  | Swan boat     |
 | 66-90  | Tree          |
 | 91-100 | Whip          |
-|        |               |
 
 ***Anchor***. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 

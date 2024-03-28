@@ -11,7 +11,7 @@ Additionally, you can focus your senses as an action to magically discern the di
 **Table- Dragon Scale Mail**
 
 | Dragon | Resistance |
-|--------|------------|
+|:-------|:-----------|
 | Black  | Acid       |
 | Blue   | Lightning  |
 | Brass  | Fire       |
@@ -22,4 +22,3 @@ Additionally, you can focus your senses as an action to magically discern the di
 | Red    | Fire       |
 | Silver | Cold       |
 | White  | Cold       |
-|        |            |
