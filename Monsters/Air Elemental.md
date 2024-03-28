@@ -8,9 +8,9 @@
 
 **Speed** 0 ft., fly 90 ft. (hover)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 20 (+5)  | 14 (+2)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
 
 **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 

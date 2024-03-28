@@ -10,9 +10,9 @@
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 24 (+7) | 9 (-1) | 21 (+5) | 3 (-4) | 11 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 24 (+7)  | 9 (-1)   | 21 (+5)  | 3 (-4)   | 11 (+0)  | 6 (-2)   |
 
 **Senses** passive Perception 10
 
@@ -40,9 +40,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 13 (+1) | 14 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 13 (+1)  | 14 (+2)  | 12 (+1)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3
 
@@ -70,9 +70,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
 **Senses** passive Perception 10
 
@@ -98,9 +98,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 5 ft., swim 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 4 (-3)   | 15 (+2)  | 11 (+0)  | 3 (-4)   | 10 (+0)  | 4 (-3)   |
 
 **Skills** Perception +2, Stealth +4
 
@@ -132,9 +132,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 5 ft., fly 60 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
-| 3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 3 (-4)   | 13 (+1)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3, Stealth +3
 

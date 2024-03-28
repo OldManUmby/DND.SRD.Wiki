@@ -12,9 +12,9 @@
 
 **Speed** 0 ft., fly 90 ft. (hover)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 20 (+5)  | 14 (+2)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
 
 **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -50,9 +50,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 30 ft., burrow 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 20 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 8 (-1)   | 20 (+5)  | 5 (-3)   | 10 (+0)  | 5 (-3)   |
 
 **Damage Vulnerabilities** thunder
 
@@ -88,9 +88,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 17 (+3)  | 16 (+3)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -126,9 +126,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 30 ft., swim 90 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 14 (+2) | 18 (+4) | 5 (-3) | 10 (+0) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 14 (+2)  | 18 (+4)  | 5 (-3)   | 10 (+0)  | 8 (-1)   |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -166,9 +166,9 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
 
 **Skills** Perception +2, Stealth +4
 
@@ -204,9 +204,9 @@ At will: *dancing lights*
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 15 (+2) | 13 (+1) | 7 (-2) | 12 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 15 (+2)  | 13 (+1)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
 
 **Skills** Perception +3, Stealth +4, Survival +3
 
@@ -242,9 +242,9 @@ At will: *dancing lights*
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 21 (+5) | 8 (-1) | 17 (+3) | 6 (-2) | 10 (+0) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 8 (-1)   | 17 (+3)  | 6 (-2)   | 10 (+0)  | 8 (-1)   |
 
 **Skills** Perception +4
 

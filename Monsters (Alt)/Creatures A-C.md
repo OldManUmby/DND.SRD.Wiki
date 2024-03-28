@@ -10,9 +10,9 @@
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 14 (+2)  | 14 (+2)  | 6 (-2)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Athletics +5, Perception +3
 
@@ -40,9 +40,9 @@
 
 **Speed** 20 ft.
 
-| STR    | DEX    | CON     | INT     | WIS     | CHA    |
-|--------|--------|---------|---------|---------|--------|
-| 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 3 (-4)   | 8 (-1)   | 11 (+0)  | 10 (+0)  | 10 (+0)  | 6 (-2)   |
 
 **Damage Vulnerabilities** fire
 
@@ -72,9 +72,9 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA    |
-|---------|--------|---------|---------|---------|--------|
-| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 6 (-2)   | 15 (+2)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
 
 **Damage Vulnerabilities** fire
 
@@ -104,9 +104,9 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 12 (+1)  | 12 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
 **Senses** passive Perception 10
 
@@ -130,9 +130,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 8 (-1) | 14 (+2) | 11 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 8 (-1)   | 14 (+2)  | 11 (+0)  | 4 (-3)   | 12 (+1)  | 6 (-2)   |
 
 **Senses** passive Perception 11
 
@@ -156,9 +156,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 20 ft., burrow 5 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 4 (-3)   | 11 (+0)  | 12 (+1)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
 
 **Senses** darkvision 30 ft., passive Perception 11
 
@@ -182,9 +182,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 5 ft., fly 30 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
-| 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 15 (+2)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 4 (-3)   |
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -210,9 +210,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 40 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 10 (+0)  | 14 (+2)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3
 
@@ -242,9 +242,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 12 (+1)  | 17 (+3)  | 12 (+1)  | 10 (+0)  | 13 (+1)  | 11 (+0)  |
 
 **Skills** Perception +3, Stealth +5
 
@@ -274,9 +274,9 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 **Speed** 10 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 6 (-2)   | 14 (+2)  | 10 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
 
 **Skills** Perception +4
 
@@ -306,9 +306,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 13 (+1) | 11 (+0) | 12 (+1) | 2 (-4) | 9 (-1) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 13 (+1)  | 11 (+0)  | 12 (+1)  | 2 (-4)   | 9 (-1)   | 5 (-3)   |
 
 **Senses** passive Perception 9
 
@@ -334,9 +334,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 19 (+4) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 10 (+0)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3
 
@@ -366,9 +366,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 50 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 16 (+3) | 8 (-1) | 14 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 8 (-1)   | 14 (+2)  | 2 (-4)   | 8 (-1)   | 5 (-3)   |
 
 **Senses** passive Perception 9
 
@@ -390,9 +390,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 3 (-4)   | 15 (+2)  | 10 (+0)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3, Stealth +4
 
@@ -418,9 +418,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 12 (+1)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -444,9 +444,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 20 ft., swim 20 ft.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |
-|--------|---------|---------|--------|--------|--------|
-| 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 11 (+0)  | 10 (+0)  | 1 (-5)   | 8 (-1)   | 2 (-4)   |
 
 **Skills** Stealth +2
 
@@ -472,9 +472,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 20 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
 **Skills** Stealth +2
 

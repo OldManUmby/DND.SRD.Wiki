@@ -10,9 +10,9 @@
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4) | 13 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 14 (+2)  | 3 (-4)   | 13 (+1)  | 6 (-2)   |
 
 **Skills** Perception +5, Stealth +4
 
@@ -42,9 +42,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4) | 14 (+2) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 11 (+0)  | 16 (+3)  | 11 (+0)  | 2 (-4)   | 14 (+2)  | 5 (-3)   |
 
 **Senses** passive Perception 12
 
@@ -66,9 +66,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 15 (+2)  | 15 (+2)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3, Stealth +4
 
@@ -96,9 +96,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
 
 **Senses** passive Perception 10
 
@@ -120,9 +120,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 10 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 6 (-2) | 15 (+2) | 10 (+0) | 2 (-4) | 14 (+2) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 6 (-2)   | 15 (+2)  | 10 (+0)  | 2 (-4)   | 14 (+2)  | 7 (-2)   |
 
 **Skills** Perception +4
 
@@ -148,9 +148,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 22 (+6) | 9 (-1) | 17 (+3) | 3 (-4) | 11 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 9 (-1)   | 17 (+3)  | 3 (-4)   | 11 (+0)  | 6 (-2)   |
 
 **Senses** passive Perception 10
 
@@ -176,9 +176,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 10 (+0)  | 6 (-2)   |
 
 **Senses** passive Perception 10
 
@@ -204,9 +204,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 4 (-3) | 18 (+4) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 4 (-3)   | 18 (+4)  | 11 (+0)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
 
 **Senses** blindsight 10 ft., passive Perception 11
 
@@ -232,9 +232,9 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 
 **Speed** 20 ft., swim 20 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |
-|--------|---------|--------|--------|--------|--------|
-| 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 1 (-5)   | 13 (+1)  | 8 (-1)   | 1 (-5)   | 8 (-1)   | 3 (-4)   |
 
 **Skills** Perception +1, Stealth +3
 

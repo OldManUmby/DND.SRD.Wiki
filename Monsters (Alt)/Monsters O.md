@@ -10,9 +10,9 @@
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 8 (-1)   | 16 (+3)  | 5 (-3)   | 7 (-2)   | 7 (-2)   |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -36,9 +36,9 @@
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 11 (+0)  | 16 (+3)  | 14 (+2)  | 12 (+1)  | 15 (+2)  |
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
 
@@ -82,9 +82,9 @@ At will: *darkness*, *invisibility*
 
 **Speed** 20 ft., climb 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 5 (-3)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
 
 **Damage Immunities** acid, cold, lightning, slashing
 
@@ -122,9 +122,9 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 **Speed** 15 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 14 (+2) | 3 (-4) | 20 (+5) | 1 (-5) | 6 (-2) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 3 (-4)   | 20 (+5)  | 1 (-5)   | 6 (-2)   | 1 (-5)   |
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
@@ -166,9 +166,9 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 **Speed** 10 ft., climb 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 12 (+1) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 12 (+1)  | 6 (-2)   | 16 (+3)  | 1 (-5)   | 6 (-2)   | 2 (-4)   |
 
 **Skills** Stealth +2
 
@@ -204,9 +204,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 10 ft., climb 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 15 (+2) | 6 (-2) | 14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 6 (-2)   | 14 (+2)  | 2 (-4)   | 6 (-2)   | 1 (-5)   |
 
 **Damage Resistances** acid
 
@@ -242,9 +242,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 12 (+1)  | 16 (+3)  | 7 (-2)   | 11 (+0)  | 10 (+0)  |
 
 **Skills** Intimidation +2
 
@@ -272,9 +272,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 16 (+3) | 11 (+0) | 19 (+4) | 6 (-2) | 13 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 11 (+0)  | 19 (+4)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
 
 **Saving Throws** Con +7
 
@@ -306,9 +306,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 20 (+5) | 12 (+1) | 17 (+3) | 3 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 12 (+1)  | 17 (+3)  | 3 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3
 

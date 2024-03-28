@@ -10,9 +10,9 @@
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 8 (-1)   | 15 (+2)  | 2 (-4)   | 8 (-1)   | 7 (-2)   |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -40,9 +40,9 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **Speed** 50 ft., climb 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 16 (+3)  | 18 (+4)  | 7 (-2)   | 14 (+2)  | 12 (+1)  |
 
 **Skills** Perception +6, Stealth +7
 
@@ -78,9 +78,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 13 (+1)  | 8 (-1)   | 11 (+0)  | 9 (-1)   |
 
 **Skills** Stealth +6, Survival +2
 
@@ -110,9 +110,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 40 ft., burrow 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 19 (+4) | 11 (+0) | 21 (+5) | 2 (-4) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 11 (+0)  | 21 (+5)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
 **Skills** Perception +6
 

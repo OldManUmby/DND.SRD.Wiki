@@ -10,9 +10,9 @@
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 11 (+0) | 16 (+3) | 6 (-2) | 11 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 11 (+0)  | 7 (-2)   |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -48,9 +48,9 @@
 
 **Speed** 30 ft., fly 90 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 15 (+2)  | 22 (+6)  | 15 (+2)  | 16 (+3)  | 20 (+5)  |
 
 **Saving Throws** Dex +6, Wis +7, Cha +9
 
@@ -92,9 +92,9 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 12 (+1)  | 24 (+7)  | 16 (+3)  | 15 (+2)  | 16 (+3)  |
 
 **Saving Throws** Int +7, Wis +6, Cha +7
 
@@ -134,9 +134,9 @@ At will: *detect magic*
 
 **Speed** 0 ft., fly 40 ft. (hover)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
-| 7 (-2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 7 (-2)   | 13 (+1)  | 10 (+0)  | 10 (+0)  | 12 (+1)  | 17 (+3)  |
 
 **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -178,9 +178,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
-| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 17 (+3)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 8 (-1)   |
 
 **Damage Resistances** necrotic
 
@@ -214,9 +214,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 13 (+1)  | 15 (+2)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 6 (-2)   |
 
 **Damage Immunities** poison
 
@@ -246,9 +246,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 10 (+0)  | 22 (+6)  | 12 (+1)  | 16 (+3)  | 16 (+3)  |
 
 **Saving Throws** Con +10, Wis +7, Cha +7
 
@@ -288,9 +288,9 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Speed** 30 ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
-|---------|--------|---------|---------|---------|---------|
-| 25 (+7) | 9 (-1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 25 (+7)  | 9 (-1)   | 23 (+6)  | 10 (+0)  | 14 (+2)  | 13 (+1)  |
 
 **Saving Throws** Dex +3, Con +10, Cha +5
 
@@ -322,9 +322,9 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA     |
-|---------|--------|---------|--------|---------|---------|
-| 23 (+6) | 9 (-1) | 21 (+5) | 9 (-1) | 10 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 9 (-1)   | 21 (+5)  | 9 (-1)   | 10 (+0)  | 12 (+1)  |
 
 **Saving Throws** Con +8, Wis +3, Cha +4
 
@@ -356,9 +356,9 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 8 (-1)   | 19 (+4)  | 5 (-3)   | 9 (-1)   | 6 (-2)   |
 
 **Skills** Perception +2
 
@@ -386,9 +386,9 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
-| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 15 (+2)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 9 (-1)   |
 
 **Saving Throws** Dex +5, Con +8, Wis +4
 
@@ -424,9 +424,9 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Speed** 50 ft., swim 50 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 29 (+9)  | 14 (+2)  | 20 (+5)  | 16 (+3)  | 18 (+4)  | 18 (+4)  |
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
@@ -470,9 +470,9 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 **Speed** 10 ft., swim 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 10 (+0) | 8 (-1) | 16 (+3) | 3 (-4) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 8 (-1)   | 16 (+3)  | 3 (-4)   | 10 (+0)  | 6 (-2)   |
 
 **Condition Immunities** prone
 
@@ -504,9 +504,9 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 12 (+1)  | 11 (+0)  | 6 (-2)   | 10 (+0)  | 7 (-2)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -534,9 +534,9 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 **Speed** 20 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 14 (+2)  | 12 (+1)  | 10 (+0)  | 9 (-1)   |
 
 **Skills** Investigation +3, Perception +2, Stealth +4
 
@@ -572,9 +572,9 @@ At will: *nondetection* (self only)
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT     | WIS    | CHA    |
-|--------|---------|---------|---------|--------|--------|
-| 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 8 (-1)   | 14 (+2)  | 10 (+0)  | 10 (+0)  | 8 (-1)   | 8 (-1)   |
 
 **Skills** Stealth +6
 
@@ -604,9 +604,9 @@ At will: *nondetection* (self only)
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 20 (+5) | 9 (-1) | 18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 9 (-1)   | 18 (+4)  | 3 (-4)   | 8 (-1)   | 1 (-5)   |
 
 **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -646,9 +646,9 @@ At will: *nondetection* (self only)
 
 **Speed** 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 9 (-1)   | 18 (+4)  | 6 (-2)   | 10 (+0)  | 5 (-3)   |
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -690,9 +690,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 24 (+7) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 24 (+7)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
 
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -732,9 +732,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 9 (-1)   | 20 (+5)  | 3 (-4)   | 11 (+0)  | 1 (-5)   |
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -770,9 +770,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 20 (+5) | 11 (+0) | 18 (+4) | 2 (-4) | 12 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 11 (+0)  | 18 (+4)  | 2 (-4)   | 12 (+1)  | 7 (-2)   |
 
 **Skills** Perception +4
 
@@ -804,9 +804,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 14 (+2) | 11 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 14 (+2)  | 11 (+0)  | 3 (-4)   | 14 (+2)  | 5 (-3)   |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -836,9 +836,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 8 (-1)   |
 
 **Skills** Perception +5
 
@@ -868,9 +868,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 16 (+3) | 12 (+1) | 12 (+1) | 9 (-1) | 8 (-1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 12 (+1)  | 12 (+1)  | 9 (-1)   | 8 (-1)   | 6 (-2)   |
 
 **Skills** Athletics +5, Perception +3, Stealth +3
 

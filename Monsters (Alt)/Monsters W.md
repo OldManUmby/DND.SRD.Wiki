@@ -10,9 +10,9 @@
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 16 (+3)  | 10 (+0)  | 13 (+1)  | 15 (+2)  |
 
 **Skills** Perception +3, Stealth +4
 
@@ -52,9 +52,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
-| 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 1 (-5)   | 28 (+9)  | 10 (+0)  | 13 (+1)  | 14 (+2)  | 11 (+0)  |
 
 **Damage Immunities** lightning, poison
 
@@ -92,9 +92,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 0 ft., fly 60 ft. (hover)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
-| 6 (-2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 6 (-2)   | 16 (+3)  | 16 (+3)  | 12 (+1)  | 14 (+2)  | 15 (+2)  |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
@@ -128,9 +128,9 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 **Speed** 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 12 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 10 (+0)  | 16 (+3)  | 5 (-3)   | 12 (+1)  | 6 (-2)   |
 
 **Skills** Perception +4
 

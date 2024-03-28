@@ -42,9 +42,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
 
 **Skills** Athletics +5, Perception +2
 

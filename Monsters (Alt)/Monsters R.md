@@ -10,9 +10,9 @@
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 17 (+3)  | 18 (+4)  | 13 (+1)  | 16 (+3)  | 20 (+5)  |
 
 **Skills** Deception +10, Insight +8
 
@@ -52,9 +52,9 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 **Speed** 30 ft., burrow 20 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 24 (+7) | 13 (+1) | 21 (+5) | 4 (-3) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 24 (+7)  | 13 (+1)  | 21 (+5)  | 4 (-3)   | 10 (+0)  | 5 (-3)   |
 
 **Damage Immunities** cold, fire
 
@@ -84,9 +84,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 20 ft., fly 120 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 28 (+9)  | 10 (+0)  | 20 (+5)  | 3 (-4)   | 10 (+0)  | 9 (-1)   |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
 
@@ -118,9 +118,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 10 ft., climb 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 18 (+4) | 8 (-1) | 17 (+3) | 7 (-2) | 16 (+3) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 8 (-1)   | 17 (+3)  | 7 (-2)   | 16 (+3)  | 6 (-2)   |
 
 **Skills** Perception +6, Stealth +5
 
@@ -156,9 +156,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 13 (+1) | 12 (+1) | 13 (+1) | 2 (-4) | 13 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 13 (+1)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 13 (+1)  | 6 (-2)   |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
