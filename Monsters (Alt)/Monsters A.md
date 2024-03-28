@@ -10,9 +10,9 @@
 
 **Speed** 10 ft., swim 40 ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA     |
-|---------|--------|---------|---------|---------|---------|
-| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 9 (-1)   | 15 (+2)  | 18 (+4)  | 15 (+2)  | 18 (+4)  |
 
 **Saving Throws** Con +6, Int +8, Wis +6
 
@@ -64,9 +64,9 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 **Speed** 30 ft., fly 90 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 18 (+4)  | 18 (+4)  | 17 (+3)  | 20 (+5)  | 20 (+5)  |
 
 **Saving Throws** Wis +9, Cha +9
 
@@ -114,9 +114,9 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 **Speed** 40 ft., fly 120 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 24 (+7)  | 20 (+5)  | 24 (+7)  | 19 (+4)  | 22 (+6)  | 25 (+7)  |
 
 **Saving Throws** Con +12, Wis +11, Cha +12
 
@@ -164,9 +164,9 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 **Speed** 50 ft., fly 150 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA      |
-|---------|---------|---------|---------|---------|----------|
-| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 26 (+8)  | 22 (+6)  | 26 (+8)  | 25 (+7)  | 25 (+7)  | 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
 
@@ -232,9 +232,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **Speed** 25 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 11 (+0)  | 13 (+1)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
 
 **Damage Immunities** poison, psychic
 
@@ -268,9 +268,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 12 (+1)  | 15 (+2)  | 11 (+0)  | 1 (-5)   | 5 (-3)   | 1 (-5)   |
 
 **Saving Throws** Dex +4
 
@@ -302,9 +302,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 10 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 14 (+2)  | 10 (+0)  | 1 (-5)   | 3 (-4)   | 1 (-5)   |
 
 **Damage Immunities** poison, psychic
 
@@ -336,9 +336,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 30 ft., burrow 10 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 11 (+0) | 13 (+1) | 1 (-5) | 13 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 11 (+0)  | 13 (+1)  | 1 (-5)   | 13 (+1)  | 6 (-2)   |
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 
@@ -362,9 +362,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 12 (+1)  | 15 (+2)  | 12 (+1)  | 13 (+1)  | 10 (+0)  |
 
 **Saving Throws** Con +4
 
