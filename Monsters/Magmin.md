@@ -8,9 +8,9 @@
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 7 (-2)   | 15 (+2)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 10 (+0)  |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 

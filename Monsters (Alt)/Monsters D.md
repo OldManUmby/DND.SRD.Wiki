@@ -10,9 +10,9 @@
 
 **Speed** 10 ft., fly 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 12 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 5 (-3)   |
 
 **Skills** Stealth +3
 
@@ -48,9 +48,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 26 (+8)  | 15 (+2)  | 22 (+6)  | 20 (+5)  | 16 (+3)  | 22 (+6)  |
 
 **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
 
@@ -94,9 +94,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 20 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 11 (+0) | 11 (+0) | 12 (+1) | 5 (-3) | 8 (-1) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 11 (+0)  | 11 (+0)  | 12 (+1)  | 5 (-3)   | 8 (-1)   | 3 (-4)   |
 
 **Damage Resistances** cold, fire, lightning
 
@@ -130,9 +130,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 15 (+2)  | 21 (+5)  | 19 (+4)  | 17 (+3)  | 16 (+3)  |
 
 **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
 
@@ -174,9 +174,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 19 (+4) | 17 (+3) | 20 (+5) | 5 (-3) | 12 (+1) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 17 (+3)  | 20 (+5)  | 5 (-3)   | 12 (+1)  | 13 (+1)  |
 
 **Saving Throws** Str +7, Con +8, Wis +4
 
@@ -214,9 +214,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 20 (+5)  | 20 (+5)  | 18 (+4)  | 16 (+3)  | 20 (+5)  |
 
 **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
 
@@ -262,9 +262,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 20 ft., fly 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 10 (+0)  | 22 (+6)  | 19 (+4)  | 12 (+1)  | 15 (+2)  |
 
 **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
 
@@ -304,9 +304,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 40 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 5 (-3) | 17 (+3) | 10 (+0) | 7 (-2) | 10 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 5 (-3)   | 17 (+3)  | 10 (+0)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
 
 **Skills** Stealth +5
 
@@ -344,9 +344,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 15 (+2) | 18 (+4) | 8 (-1) | 13 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 15 (+2)  | 18 (+4)  | 8 (-1)   | 13 (+1)  | 8 (-1)   |
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
 
@@ -388,9 +388,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 17 (+3)  | 18 (+4)  | 12 (+1)  | 14 (+2)  | 14 (+2)  |
 
 **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
 
@@ -434,9 +434,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1) | 11 (+0) | 11 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 15 (+2)  | 15 (+2)  | 9 (-1)   | 11 (+0)  | 11 (+0)  |
 
 **Saving Throws** Str +5, Con +4, Wis +2
 
@@ -476,9 +476,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 40 ft., fly 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 16 (+3)  | 18 (+4)  | 13 (+1)  | 14 (+2)  | 16 (+3)  |
 
 **Saving Throws** Int +5, Wis +6, Cha +7
 
@@ -518,9 +518,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 15 (+2)  | 18 (+4)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
 
 **Saving Throws** Con +7, Wis +4, Cha +5
 
@@ -564,9 +564,9 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 16 (+3)  | 18 (+4)  | 14 (+2)  | 14 (+2)  | 18 (+4)  |
 
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
@@ -608,9 +608,9 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 20 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 17 (+3)  | 21 (+5)  | 12 (+1)  | 16 (+3)  | 17 (+3)  |
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 
@@ -650,9 +650,9 @@ Each animated chain is an object with AC 20, 20 hit points, resistance to pierci
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 14 (+2)  | 18 (+4)  | 18 (+4)  | 15 (+2)  | 18 (+4)  |
 
 **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 
@@ -698,9 +698,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 20 ft., fly 40 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
-| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 6 (-2)   | 17 (+3)  | 13 (+1)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
 
 **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
 
@@ -738,9 +738,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 15 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 5 (-3)   | 11 (+0)  | 1 (-5)   | 11 (+0)  | 3 (-4)   |
 
 **Damage Resistances** cold
 
@@ -772,9 +772,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 26 (+8)  | 14 (+2)  | 24 (+7)  | 22 (+6)  | 18 (+4)  | 24 (+7)  |
 
 **Saving Throws** Dex +8, Con +13, Wis +10
 
@@ -826,9 +826,9 @@ At will: *detect magic*, *fireball*
 
 **Speed** 20 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 12 (+1) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 15 (+2)  | 16 (+3)  | 2 (-4)   | 12 (+1)  | 5 (-3)   |
 
 **Skills** Perception +3, Stealth +4
 
@@ -854,9 +854,9 @@ At will: *detect magic*, *fireball*
 
 **Speed** 50 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 22 (+6) | 9 (-1) | 17 (+3) | 2 (-4) | 11 (+0) | 5 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 9 (-1)   | 17 (+3)  | 2 (-4)   | 11 (+0)  | 5 (-3)   |
 
 **Senses** passive Perception 10
 
@@ -884,9 +884,9 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 25 (+7) | 10 (+0) | 19 (+4) | 2 (-4) | 12 (+1) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 25 (+7)  | 10 (+0)  | 19 (+4)  | 2 (-4)   | 12 (+1)  | 9 (-1)   |
 
 **Skills** Perception +4
 
@@ -914,9 +914,9 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 11 (+0)  | 18 (+4)  | 14 (+2)  | 11 (+0)  | 12 (+1)  | 14 (+2)  |
 
 **Skills** Deception +6, Insight +3
 
@@ -956,9 +956,9 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 14 (+2)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
 
 **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
 
@@ -1010,9 +1010,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 14 (+2)  | 21 (+5)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
 
 **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
 
@@ -1064,9 +1064,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 14 (+2)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
 
@@ -1102,9 +1102,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 14 (+2)  | 13 (+1)  | 10 (+0)  | 11 (+0)  | 13 (+1)  |
 
 **Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
 
@@ -1138,9 +1138,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 29 (+9)  | 10 (+0)  | 27 (+8)  | 18 (+4)  | 17 (+3)  | 21 (+5)  |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
@@ -1190,9 +1190,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 25 (+7)  | 10 (+0)  | 23 (+6)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
@@ -1242,9 +1242,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 10 (+0)  | 19 (+4)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
 
 **Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
 
@@ -1278,9 +1278,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
@@ -1312,9 +1312,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 12 (+1)  | 25 (+7)  | 20 (+5)  | 17 (+3)  | 19 (+4)  |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
@@ -1367,9 +1367,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 12 (+1)  | 21 (+5)  | 18 (+4)  | 15 (+2)  | 17 (+3)  |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
 
@@ -1423,9 +1423,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 12 (+1)  | 17 (+3)  | 16 (+3)  | 13 (+1)  | 15 (+2)  |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
 
@@ -1463,9 +1463,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 12 (+1)  | 13 (+1)  | 14 (+2)  | 11 (+0)  | 13 (+1)  |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
@@ -1501,9 +1501,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
-| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 30 (+10) | 10 (+0)  | 29 (+9)  | 18 (+4)  | 15 (+2)  | 23 (+6)  |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
@@ -1553,9 +1553,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 13 (+1)  | 21 (+5)  |
 
 **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
 
@@ -1605,9 +1605,9 @@ Large dragon, chaotic evil
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 11 (+0)  | 19 (+4)  |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
@@ -1641,9 +1641,9 @@ Large dragon, chaotic evil
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
 
@@ -1675,9 +1675,9 @@ Large dragon, chaotic evil
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 26 (+8)  | 10 (+0)  | 26 (+8)  | 10 (+0)  | 13 (+1)  | 14 (+2)  |
 
 **Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
 
@@ -1729,9 +1729,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 22 (+6)  | 10 (+0)  | 22 (+6)  | 8 (-1)   | 12 (+1)  | 12 (+1)  |
 
 **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
 
@@ -1783,9 +1783,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 10 (+0)  | 18 (+4)  | 6 (-2)   | 11 (+0)  | 12 (+1)  |
 
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
 
@@ -1821,9 +1821,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 10 (+0)  | 14 (+2)  | 5 (-3)   | 10 (+0)  | 11 (+0)  |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
 
@@ -1857,9 +1857,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
 
 **Saving Throws** Dex +6, Con +13, Wis +8, Cha +10
 
@@ -1917,9 +1917,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
 
 **Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
 
@@ -1973,9 +1973,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
 
@@ -2013,9 +2013,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 10 (+0)  | 13 (+1)  | 10 (+0)  | 11 (+0)  | 13 (+1)  |
 
 **Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
 
@@ -2051,9 +2051,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 29 (+9)  | 10 (+0)  | 27 (+8)  | 18 (+4)  | 17 (+3)  | 21 (+5)  |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
@@ -2113,9 +2113,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 25 (+7)  | 10 (+0)  | 23 (+6)  | 16 (+3)  | 15 (+2)  | 19 (+4)  |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
@@ -2175,9 +2175,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 10 (+0)  | 19 (+4)  | 14 (+2)  | 13 (+1)  | 17 (+3)  |
 
 **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
 
@@ -2217,9 +2217,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 10 (+0)  | 15 (+2)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
@@ -2257,9 +2257,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 12 (+1)  | 25 (+7)  | 20 (+5)  | 17 (+3)  | 19 (+4)  |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
@@ -2317,9 +2317,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 12 (+1)  | 21 (+5)  | 18 (+4)  | 15 (+2)  | 17 (+3)  |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
 
@@ -2373,9 +2373,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 12 (+1)  | 17 (+3)  | 16 (+3)  | 13 (+1)  | 15 (+2)  |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
 
@@ -2413,9 +2413,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 12 (+1)  | 13 (+1)  | 14 (+2)  | 11 (+0)  | 13 (+1)  |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
@@ -2451,9 +2451,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
-| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 30 (+10) | 14 (+2)  | 29 (+9)  | 18 (+4)  | 17 (+3)  | 28 (+9)  |
 
 **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
 
@@ -2513,9 +2513,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 14 (+2)  | 25 (+7)  | 16 (+3)  | 15 (+2)  | 24 (+7)  |
 
 **Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
 
@@ -2575,9 +2575,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 14 (+2)  | 21 (+5)  | 16 (+3)  | 13 (+1)  | 20 (+5)  |
 
 **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
 
@@ -2617,9 +2617,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 14 (+2)  | 17 (+3)  | 14 (+2)  | 11 (+0)  | 16 (+3)  |
 
 **Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
 
@@ -2657,9 +2657,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| STR      | DEX     | CON     | INT     | WIS     | CHA     |
-|----------|---------|---------|---------|---------|---------|
-| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 30 (+10) | 10 (+0)  | 29 (+9)  | 18 (+4)  | 15 (+2)  | 23 (+6)  |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
@@ -2717,9 +2717,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 27 (+8)  | 10 (+0)  | 25 (+7)  | 16 (+3)  | 13 (+1)  | 21 (+5)  |
 
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
@@ -2777,9 +2777,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 23 (+6)  | 10 (+0)  | 21 (+5)  | 14 (+2)  | 11 (+0)  | 19 (+4)  |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
@@ -2817,9 +2817,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 19 (+4)  | 10 (+0)  | 17 (+3)  | 12 (+1)  | 11 (+0)  | 15 (+2)  |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
 
@@ -2853,9 +2853,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 20 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 25 (+7)  | 10 (+0)  | 20 (+5)  | 10 (+0)  | 12 (+1)  | 12 (+1)  |
 
 **Saving Throws** Dex +6, Con +11, Wis +7
 
@@ -2891,9 +2891,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 16 (+3)  | 18 (+4)  | 13 (+1)  | 14 (+2)  | 12 (+1)  |
 
 **Skills** Perception +5, Stealth +9
 
@@ -2937,9 +2937,9 @@ At will: *dancing lights*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 12 (+1)  | 11 (+0)  | 14 (+2)  | 15 (+2)  | 18 (+4)  |
 
 **Skills** Perception +4, Stealth +5
 
@@ -2983,9 +2983,9 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 **Speed** 25 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
-| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 11 (+0)  | 14 (+2)  | 11 (+0)  | 10 (+0)  | 9 (-1)   |
 
 **Damage Resistances** poison
 

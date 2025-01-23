@@ -10,9 +10,9 @@
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 7 (-2)   | 15 (+2)  | 12 (+1)  | 8 (-1)   | 11 (+0)  | 10 (+0)  |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -42,9 +42,9 @@
 
 **Speed** 30 ft., fly 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2) | 12 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 16 (+3)  | 17 (+3)  | 7 (-2)   | 12 (+1)  | 8 (-1)   |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -74,9 +74,9 @@
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 15 (+2)  | 16 (+3)  | 12 (+1)  | 13 (+1)  | 15 (+2)  |
 
 **Skills** Deception +5, Insight +4, Perception +4, Stealth +5
 
@@ -114,9 +114,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 5 (-3) | 14 (+2) | 10 (+0) | 9 (-1) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 5 (-3)   | 14 (+2)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 10 (+0)  |
 
 **Skills** Perception +2, Stealth +4
 
@@ -152,9 +152,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 7 (-2) | 13 (+1) | 10 (+0) | 9 (-1) | 11 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 7 (-2)   | 13 (+1)  | 10 (+0)  | 9 (-1)   | 11 (+0)  | 12 (+1)  |
 
 **Skills** Perception +2, Stealth +3
 
@@ -192,9 +192,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |
-|--------|---------|---------|--------|---------|---------|
-| 8 (-1) | 12 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 8 (-1)   | 12 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 10 (+0)  |
 
 **Skills** Stealth +3
 
@@ -232,9 +232,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |
-|--------|---------|---------|---------|---------|---------|
-| 5 (-3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 5 (-3)   | 11 (+0)  | 10 (+0)  | 11 (+0)  | 10 (+0)  | 12 (+1)  |
 
 **Damage Immunities** fire, poison
 
@@ -266,9 +266,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 10 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 10 (+0)  | 13 (+1)  | 12 (+1)  | 11 (+0)  | 11 (+0)  | 12 (+1)  |
 
 **Skills** Perception +2
 
@@ -294,9 +294,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 10 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1) | 10 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 10 (+0)  | 15 (+2)  | 8 (-1)   | 10 (+0)  | 9 (-1)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -326,9 +326,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 15 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 12 (+1)  | 15 (+2)  | 5 (-3)   | 13 (+1)  | 8 (-1)   |
 
 **Skills** Stealth +5
 
@@ -366,9 +366,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 18 (+4) | 11 (+0) | 16 (+3) | 6 (-2) | 16 (+3) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 11 (+0)  | 16 (+3)  | 6 (-2)   | 16 (+3)  | 9 (-1)   |
 
 **Skills** Perception +7
 
@@ -402,9 +402,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA     |
-|---------|--------|---------|--------|---------|---------|
-| 16 (+3) | 8 (-1) | 15 (+2) | 6 (-2) | 10 (+0) | 12 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 8 (-1)   | 15 (+2)  | 6 (-2)   | 10 (+0)  | 12 (+1)  |
 
 **Saving Throws** Wis +2
 
@@ -440,9 +440,9 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 **Speed** 20 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 10 (+0)  | 17 (+3)  | 11 (+0)  | 18 (+4)  | 16 (+3)  |
 
 **Saving Throws** Con +8, Int +5, Wis +9, Cha +8
 

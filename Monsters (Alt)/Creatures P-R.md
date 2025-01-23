@@ -10,9 +10,9 @@
 
 **Speed** 50 ft., climb 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 15 (+2)  | 10 (+0)  | 3 (-4)   | 14 (+2)  | 7 (-2)   |
 
 **Skills** Perception +4, Stealth +6
 
@@ -42,9 +42,9 @@
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 15 (+2)  | 12 (+1)  | 6 (-2)   | 10 (+0)  | 6 (-2)   |
 
 **Skills** Stealth +6
 
@@ -76,9 +76,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |
-|--------|---------|---------|--------|---------|--------|
-| 2 (-4) | 16 (+3) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 16 (+3)  | 11 (+0)  | 1 (-5)   | 10 (+0)  | 3 (-4)   |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -100,9 +100,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 40 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 10 (+0)  | 16 (+3)  | 2 (-4)   | 13 (+1)  | 7 (-2)   |
 
 **Skills** Perception +3
 
@@ -132,9 +132,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 15 (+2)  | 10 (+0)  | 13 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
 
 **Senses** passive Perception 10
 
@@ -156,9 +156,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 0 ft., swim 40 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |
-|--------|---------|--------|--------|--------|--------|
-| 2 (-4) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 16 (+3)  | 9 (-1)   | 1 (-5)   | 7 (-2)   | 2 (-4)   |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -186,9 +186,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 20 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
-| 2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 11 (+0)  | 9 (-1)   | 2 (-4)   | 10 (+0)  | 4 (-3)   |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -212,9 +212,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 10 ft., fly 50 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |
-|--------|---------|--------|--------|---------|--------|
-| 2 (-4) | 14 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 2 (-4)   | 14 (+2)  | 8 (-1)   | 2 (-4)   | 12 (+1)  | 6 (-2)   |
 
 **Skills** Perception +3
 
@@ -240,9 +240,9 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Speed** 0 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5) | 10 (+0) | 4 (-3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 13 (+1)  | 13 (+1)  | 1 (-5)   | 10 (+0)  | 4 (-3)   |
 
 **Skills** Perception +2
 
@@ -272,9 +272,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |
-|---------|--------|---------|--------|---------|--------|
-| 21 (+5) | 8 (-1) | 15 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 21 (+5)  | 8 (-1)   | 15 (+2)  | 2 (-4)   | 12 (+1)  | 6 (-2)   |
 
 **Senses** passive Perception 11
 
@@ -298,9 +298,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 10 (+0)  | 12 (+1)  | 2 (-4)   | 11 (+0)  | 7 (-2)   |
 
 **Senses** passive Perception 10
 

@@ -22,9 +22,9 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
 

@@ -13,7 +13,7 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 **Table- Deck of Illusions**
 
 | Playing Card      | Illusion                         |
-|-------------------|----------------------------------|
+|:------------------|:---------------------------------|
 | Ace of hearts     | Red dragon                       |
 | King of hearts    | Knight and four guards           |
 | Queen of hearts   | Succubus or incubus              |
@@ -47,4 +47,3 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | Eight of clubs    | Orc                              |
 | Two of clubs      | Kobold                           |
 | Jokers (2)        | You (the deck's owner)           |
-|                   |                                  |

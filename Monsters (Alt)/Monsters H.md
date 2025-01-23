@@ -12,9 +12,9 @@
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 12 (+1)  | 16 (+3)  | 13 (+1)  | 14 (+2)  | 14 (+2)  |
 
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 
@@ -52,9 +52,9 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 18 (+4)  | 15 (+2)  | 16 (+3)  | 16 (+3)  | 14 (+2)  | 16 (+3)  |
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
 
@@ -96,9 +96,9 @@ At will: *detect magic*, *magic missile*
 
 **Speed** 30 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 13 (+1)  | 16 (+3)  | 12 (+1)  | 12 (+1)  | 13 (+1)  |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -166,9 +166,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 13 (+1)  | 14 (+2)  | 10 (+0)  | 11 (+0)  | 10 (+0)  |
 
 **Skills** Athletics +5, Perception +2
 
@@ -202,9 +202,9 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Speed** 20 ft., fly 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |
-|---------|---------|---------|--------|---------|---------|
-| 12 (+1) | 13 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 13 (+1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 12 (+1)  | 13 (+1)  | 12 (+1)  | 7 (-2)   | 10 (+0)  | 13 (+1)  |
 
 **Senses** passive Perception 10
 
@@ -236,9 +236,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 12 (+1) | 14 (+2) | 6 (-2) | 13 (+1) | 6 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 12 (+1)  | 14 (+2)  | 6 (-2)   | 13 (+1)  | 6 (-2)   |
 
 **Skills** Perception +5
 
@@ -270,9 +270,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 17 (+3) | 13 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 8 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 17 (+3)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 12 (+1)  | 8 (-1)   |
 
 **Skills** Perception +5
 
@@ -302,9 +302,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |
-|---------|---------|---------|---------|---------|--------|
-| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 13 (+1)  | 12 (+1)  | 12 (+1)  | 10 (+0)  | 10 (+0)  | 9 (-1)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -330,9 +330,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 20 ft., fly 40 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA    |
-|--------|---------|---------|---------|---------|--------|
-| 4 (-3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 4 (-3)   | 15 (+2)  | 11 (+0)  | 10 (+0)  | 10 (+0)  | 7 (-2)   |
 
 **Damage Immunities** poison
 
@@ -360,9 +360,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4) | 10 (+0) | 7 (-2) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 20 (+5)  | 12 (+1)  | 20 (+5)  | 2 (-4)   | 10 (+0)  | 7 (-2)   |
 
 **Skills** Perception +6
 

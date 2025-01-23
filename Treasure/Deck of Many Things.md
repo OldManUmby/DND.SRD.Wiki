@@ -10,33 +10,32 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 **Table- Deck of Many Things**
 
-| Playing Card       | Card       |
-|--------------------|------------|
-| Ace of diamonds    | Vizier*    |
-| King of diamonds   | Sun        |
-| Queen of diamonds  | Moon       |
-| Jack of diamonds   | Star       |
-| Two of diamonds    | Comet*     |
-| Ace of hearts      | The Fates* |
-| King of hearts     | Throne     |
-| Queen of hearts    | Key        |
-| Jack of hearts     | Knight     |
-| Two of hearts      | Gem*       |
-| Ace of clubs       | Talons*    |
-| King of clubs      | The Void   |
-| Queen of clubs     | Flames     |
-| Jack of clubs      | Skull      |
-| Two of clubs       | Idiot*     |
-| Ace of spades      | Donjon*    |
-| King of spades     | Ruin       |
-| Queen of spades    | Euryale    |
-| Jack of spades     | Rogue      |
-| Two of spades      | Balance*   |
-| Joker (with TM)    | Fool*      |
-| Joker (without TM) | Jester     |
-|                    |            |
+| Playing Card       | Card          |
+|:-------------------|:--------------|
+| Ace of diamonds    | Vizier[^1]    |
+| King of diamonds   | Sun           |
+| Queen of diamonds  | Moon          |
+| Jack of diamonds   | Star          |
+| Two of diamonds    | Comet[^1]     |
+| Ace of hearts      | The Fates[^1] |
+| King of hearts     | Throne        |
+| Queen of hearts    | Key           |
+| Jack of hearts     | Knight        |
+| Two of hearts      | Gem[^1]       |
+| Ace of clubs       | Talons[^1]    |
+| King of clubs      | The Void      |
+| Queen of clubs     | Flames        |
+| Jack of clubs      | Skull         |
+| Two of clubs       | Idiot[^1]     |
+| Ace of spades      | Donjon[^1]    |
+| King of spades     | Ruin          |
+| Queen of spades    | Euryale       |
+| Jack of spades     | Rogue         |
+| Two of spades      | Balance[^1]   |
+| Joker (with TM)    | Fool[^1]      |
+| Joker (without TM) | Jester        |
 
-\* Found only in a deck with twenty-two cards
+[^1]: Found only in a deck with twenty-two cards
 
 ***Balance***. Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
 
@@ -80,9 +79,9 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 **Speed** 60 ft., fly 60 ft. (hover)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  | 16 (+3)  |
 
 **Damage Immunities** necrotic, poison
 

@@ -9,14 +9,13 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 **Table- Feather Token**
 
 | d100   | Feather Token |
-|--------|---------------|
+|:------:|:--------------|
 | 01-20  | Anchor        |
 | 21-35  | Bird          |
 | 36-50  | Fan           |
 | 51-65  | Swan boat     |
 | 66-90  | Tree          |
 | 91-100 | Whip          |
-|        |               |
 
 ***Anchor***. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
@@ -56,9 +55,9 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
+| STR      | DEX      | CON      | INT      | WIS      | CHA      |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| 14 (+2)  | 13 (+1)  | 13 (+1)  | 2 (-4)   | 10 (+0)  | 3 (-4)   |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
