@@ -1,6 +1,0 @@
----
-title: Dungeons and Dragons SRD 5.1
-author: Wizards of the Coast
-rights: CC-BY-4.0
-language: en-US
----
